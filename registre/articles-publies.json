@@ -76,5 +76,27 @@
       "auteur": "AhmadArdity",
       "url": "https://pixabay.com/photos/sample-lab-laboratory-scientist-4944424/"
     }
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-1",
+    "slug": "fal-leve-1-3-milliard-valorisation-16-milliards-inference-ia",
+    "title": "Fal lève 1,3 milliard de dollars : l'inférence IA vaut 16 milliards",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Fal – série F – 1,3 Md$ à 16 Md$ de valorisation",
+    "sources": [
+      "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "https://siliconangle.com/2026/11/03/generative-media-inference-startup-fal-raises-1-3b-at-a-16b-valuation/",
+      "https://tech.eu/2026/11/04/fal-doubles-valuation-to-16b-after-13b-series-f/",
+      "https://fal.ai/blog/series-e-f"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4922449",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-engineering-broadcast-4922449/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/fal-leve-1-3-milliard-valorisation-16-milliards-inference-ia.webp"
   }
 ]
