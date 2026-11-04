@@ -48,5 +48,33 @@
       "auteur": "paulbr75",
       "url": "https://pixabay.com/photos/driveway-suburb-house-garage-3088488/"
     }
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "function-health-startup-americaine-bilans-sanguins",
+    "title": "Function Health : le bilan de santé par abonnement venu d'Austin",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Function Health",
+    "startups": [
+      {
+        "nom": "Function Health",
+        "site": "functionhealth.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://hlth.com/insights/news/function-health-raises-298m-series-b-at-2-5b-valuation-2025-11-25",
+      "https://techfundingnews.com/function-health-nets-450m-from-general-catalyst-to-prove-preventive-care-is-cheaper-than-waiting-to-get-sick/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/function-health-startup-americaine-bilans-sanguins.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4944424",
+      "auteur": "AhmadArdity",
+      "url": "https://pixabay.com/photos/sample-lab-laboratory-scientist-4944424/"
+    }
   }
 ]
