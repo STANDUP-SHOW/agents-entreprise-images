@@ -726,5 +726,26 @@
       "url": "https://pixabay.com/photos/coding-programming-css-1853305/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/anthropic-flashprove-prouver-modele-ia-agents.webp"
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-1",
+    "slug": "uber-agents-ia-quatre-courses-commerce-agentique",
+    "title": "Uber : les agents IA n'ont réservé que quatre courses en un trimestre",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Uber – T3 2026 – 4 courses réservées par des agents IA",
+    "sources": [
+      "https://www.investing.com/news/transcripts/earnings-call-transcript-uber-tops-q3-2026-estimates-as-growth-stays-strong-93CH-4999599",
+      "https://www.sec.gov/Archives/edgar/data/0001543151/000154315126000039/uberq326earningspressrelea.htm",
+      "https://siecledigital.fr/2026/11/03/les-internautes-venant-de-chatgpt-et-des-autres-ia-depensent-davantage-sur-les-sites-marchands/"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6818066",
+      "auteur": "Vladvictoria",
+      "url": "https://pixabay.com/photos/city-night-street-destination-6818066/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/uber-agents-ia-quatre-courses-commerce-agentique.webp"
   }
 ]
