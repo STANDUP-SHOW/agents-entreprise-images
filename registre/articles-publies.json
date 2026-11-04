@@ -499,5 +499,25 @@
       "url": "https://pixabay.com/photos/people-business-meeting-1979261/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/aides-publiques-financer-projet-agent-ia-pme.webp"
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-1",
+    "slug": "station-f-future-40-2026-agents-ia-start-up",
+    "title": "Station F Future 40 : les agents IA dominent la promotion 2026",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Station F – Future 40 2026",
+    "sources": [
+      "https://www.maddyness.com/2026/11/04/future-40-station-f-devoile-sa-nouvelle-selection-de-ses-meilleures-pepites/",
+      "https://tech.eu/2026/11/04/station-f-startups-raise-record-2b-as-campus-unveils-2026-future-40/"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1837058",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/architecture-business-furniture-1837058/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/station-f-future-40-2026-agents-ia-start-up.webp"
   }
 ]
