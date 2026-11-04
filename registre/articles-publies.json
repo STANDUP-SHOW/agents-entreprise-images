@@ -706,5 +706,25 @@
       "url": "https://pixabay.com/photos/woman-work-office-face-eyes-4941164/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/shadow-ia-salaries-chatgpt-sans-autorisation-pme.webp"
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-1",
+    "slug": "anthropic-flashprove-prouver-modele-ia-agents",
+    "title": "FlashProve : Anthropic veut prouver quel modèle d'IA a répondu",
+    "category_slug": "agents-ia",
+    "mode": "original",
+    "evenement": "Anthropic – FlashProve (inférence prouvable)",
+    "sources": [
+      "https://www.anthropic.com/research/provable-inference",
+      "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1853305",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/coding-programming-css-1853305/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/anthropic-flashprove-prouver-modele-ia-agents.webp"
   }
 ]
