@@ -646,5 +646,26 @@
       "auteur": "Deeezy",
       "url": "https://pixabay.com/photos/buildings-skyscapers-new-york-urban-4898536/"
     }
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-1",
+    "slug": "gallium-defense-leve-7-millions-radar-anti-drones",
+    "title": "Gallium Defense lève 7,1 millions d'euros pour un radar anti-drones",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Gallium Defense – amorçage – 7,1 M€",
+    "sources": [
+      "https://www.maddyness.com/2026/11/03/des-anciens-de-bcg-lancent-une-startup-dans-la-defense/",
+      "https://tech.eu/2026/11/02/gallium-defense-raises-eur71m-to-make-drone-detection-cheaper-and-scalable/",
+      "https://www.frenchweb.fr/gallium-defense-leve-7-1-millions-d-euros-pour-reduire-le-cout-de-la-detection-des-drones/900000012"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8499903",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/drone-tech-camera-recording-8499903/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/gallium-defense-leve-7-millions-radar-anti-drones.webp"
   }
 ]
