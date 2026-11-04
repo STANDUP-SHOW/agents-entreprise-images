@@ -379,5 +379,26 @@
       "url": "https://pixabay.com/photos/right-advocacy-lex-attorney-jura-4703926/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ai-act-obligations-pme-agents-ia.webp"
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-1",
+    "slug": "canva-restructuration-1271-postes-ralentissement-ia",
+    "title": "Canva supprime ou réaffecte 1 271 postes face au ralentissement",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Canva – restructuration – 1 271 salariés (22 %)",
+    "sources": [
+      "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+      "https://www.theregister.com/saas/2026/11/04/aussie-adobe-assailant-canva-announces-layoffs-in-re-org-affecting-22-of-staff/5307422",
+      "https://www.startupdaily.net/topic/business/mel-perkins-looks-to-refound-canva-with-22-of-its-workforce-affected/"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8541315",
+      "auteur": "alexjimmy",
+      "url": "https://pixabay.com/photos/designers-discussion-teamwork-8541315/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/canva-restructuration-1271-postes-ralentissement-ia.webp"
   }
 ]
