@@ -341,5 +341,43 @@
       "auteur": "Firmbee",
       "url": "https://pixabay.com/photos/office-business-accountant-620822/"
     }
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "ai-act-obligations-pme-agents-ia",
+    "title": "AI Act : quelles obligations pour une PME qui utilise des agents IA ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : obligations de l'AI Act pour une PME déployeuse après l'omnibus de juillet 2026",
+    "question": "Quelles obligations l'AI Act impose-t-il à une PME qui se contente d'utiliser des assistants ou agents IA ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://hayot-expertise.fr/blog/ai-act-eu-2026-obligations-entreprises-pme ; https://tensoria.fr/blog/ai-act-conformite-pme-guide-2026 (consultés le 04/11/2026)",
+    "solutions_comparees": [
+      "Claude Enterprise",
+      "Gemini (Google Workspace)",
+      "Le Chat (Mistral AI)",
+      "Dust",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.cnil.fr/fr/entree-en-vigueur-du-reglement-europeen-sur-lia-les-premieres-questions-reponses-de-la-cnil",
+      "https://ai-act-service-desk.ec.europa.eu/fr/ai-act/article-4",
+      "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+      "https://claude.com/pricing",
+      "https://workspace.google.com/intl/fr/pricing",
+      "https://mistral.ai/pricing",
+      "https://dust.tt/home/pricing",
+      "https://iagent.agency/security"
+    ],
+    "mots": 2490,
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4703926",
+      "auteur": "advogadoaguilar",
+      "url": "https://pixabay.com/photos/right-advocacy-lex-attorney-jura-4703926/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ai-act-obligations-pme-agents-ia.webp"
   }
 ]
