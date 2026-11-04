@@ -667,5 +667,44 @@
       "url": "https://pixabay.com/photos/drone-tech-camera-recording-8499903/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/gallium-defense-leve-7-millions-radar-anti-drones.webp"
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "shadow-ia-salaries-chatgpt-sans-autorisation-pme",
+    "title": "Shadow IA : que faire quand vos salariés utilisent ChatGPT sans autorisation ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : shadow IA, salariés utilisant des assistants d'IA sans autorisation",
+    "question": "Que faire quand des salariés utilisent ChatGPT ou d'autres assistants d'IA sans autorisation de l'entreprise ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://www.blogdumoderateur.com/ia-entreprise-regle-formation-tard-usage-installe-seul/ (27/10/2026) ; https://www.lemondeinformatique.fr/actualites/lire-le-shadow-ia-gagne-du-terrain-dans-les-entreprises-99214.html (02/02/2026)",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot Business",
+      "Gemini (Google Workspace)",
+      "Le Chat (Mistral AI)",
+      "Dust",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.blogdumoderateur.com/ia-entreprise-regle-formation-tard-usage-installe-seul/",
+      "https://www.lemondeinformatique.fr/actualites/lire-le-shadow-ia-gagne-du-terrain-dans-les-entreprises-99214.html",
+      "https://www.actuia.com/actualite/40-des-tpe-pme-utilisent-lia-mais-19-seulement-la-paient/",
+      "https://ai-act-service-desk.ec.europa.eu/fr/ai-act/article-4",
+      "https://learn.microsoft.com/fr-fr/privacy/eudb/eu-data-boundary-learn",
+      "https://workspace.google.com/intl/fr/pricing",
+      "https://mistral.ai/pricing",
+      "https://dust.tt/home/pricing",
+      "https://iagent.agency/security"
+    ],
+    "mots": 2395,
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4941164",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/woman-work-office-face-eyes-4941164/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/shadow-ia-salaries-chatgpt-sans-autorisation-pme.webp"
   }
 ]
