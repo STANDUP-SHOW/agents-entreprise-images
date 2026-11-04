@@ -430,5 +430,35 @@
       "auteur": "Maximilianovich",
       "url": "https://pixabay.com/photos/doctor-patient-consultation-5710160/"
     }
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "modal-startup-americaine-cloud-ia",
+    "title": "Modal : la start-up new-yorkaise qui loue le calcul IA à la seconde",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Modal",
+    "startups": [
+      {
+        "nom": "Modal",
+        "site": "modal.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+      "https://runtimewire.com/article/modal-750m-series-d-1b-run-rate",
+      "https://siliconangle.com/2026/05/21/serverless-ai-infrastructure-startup-modal-labs-seals-355m-funding-round/",
+      "https://modal.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/modal-startup-americaine-cloud-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4922449",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-engineering-broadcast-4922449/"
+    }
   }
 ]
