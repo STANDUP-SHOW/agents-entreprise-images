@@ -551,5 +551,44 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/woman-work-office-whiteboard-4702060/"
     }
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "facture-electronique-agent-ia-factures-fournisseurs-pme",
+    "title": "Facture électronique : un agent IA peut-il traiter les factures fournisseurs d’une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : facture électronique obligatoire en réception (sept. 2026) et traitement des factures fournisseurs par un agent IA",
+    "question": "Un agent IA peut-il traiter les factures fournisseurs d'une PME depuis l'obligation de réception électronique du 1er septembre 2026 ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://lepetitjournal.com/expat-pratique/facturation-electronique-comment-les-pme-sorganisent-456328 ; https://hayot-expertise.fr/blog/digitalisation-intelligence-artificielle-et-solutions-partenaires (consultés le 04/11/2026)",
+    "solutions_comparees": [
+      "Tipalti",
+      "Rossum (groupe Coupa)",
+      "Pennylane",
+      "Esker",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.impots.gouv.fr/professionnel/je-passe-la-facturation-electronique",
+      "https://www.impots.gouv.fr/sites/default/files/media/1_metier/2_professionnel/EV/2_gestion/290_facturation_electronique/faq_tout_savoir_facturation-electronique.pdf",
+      "https://www.impots.gouv.fr/je-consulte-la-liste-des-plateformes-agreees",
+      "https://entreprendre.service-public.gouv.fr/vosdroits/F31808",
+      "https://www.tipalti.com/accounts-payable-software/",
+      "https://rossum.ai/",
+      "https://www.pennylane.com/fr/tarifs",
+      "https://www.esker.com/fr/",
+      "https://iagent.agency/security"
+    ],
+    "mots": 2232,
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1205044",
+      "auteur": "jackmac34",
+      "url": "https://pixabay.com/photos/filing-cabinet-invoices-accounting-1205044/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/facture-electronique-agent-ia-factures-fournisseurs-pme.webp"
   }
 ]
