@@ -310,5 +310,36 @@
       "auteur": "RonaldCandonga",
       "url": "https://pixabay.com/photos/job-office-team-business-internet-5382501/"
     }
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "profound-startup-americaine-visibilite-recherche-ia",
+    "title": "Profound : la start-up qui mesure la visibilité des marques dans l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Profound",
+    "startups": [
+      {
+        "nom": "Profound",
+        "site": "tryprofound.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fortune.com/2025/08/12/ai-search-startup-profound-raises-35-million-series-b-sequoia/",
+      "https://fortune.com/2026/02/24/exclusive-as-ai-threatens-search-profound-raises-96-million-to-help-brands-stay-visible/",
+      "https://www.bloomberg.com/news/articles/2026-09-15/profound-hits-1-8-billion-value-to-boost-brands-in-ai-search",
+      "https://aiweekly.co/alerts/ai-search-marketing-startup-profound-raises-180m-series-d-at-18b-led-by-sequoia",
+      "https://www.tryprofound.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/profound-startup-americaine-visibilite-recherche-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "620822",
+      "auteur": "Firmbee",
+      "url": "https://pixabay.com/photos/office-business-accountant-620822/"
+    }
   }
 ]
