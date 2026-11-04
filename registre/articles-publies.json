@@ -18,5 +18,35 @@
       "url": "https://pixabay.com/photos/job-office-team-business-internet-5382501/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/levees-de-fonds-french-tech-octobre-2026-barometres.webp"
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "base-power-startup-americaine-batteries-domestiques",
+    "title": "Base Power : la start-up texane des batteries domestiques en réseau",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Base Power",
+    "startups": [
+      {
+        "nom": "Base Power",
+        "site": "basepowercompany.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://electrek.co/2025/10/08/base-power-raises-1b-to-reinvent-texas-grid-with-home-batteries/",
+      "https://www.businesswire.com/news/home/20251008106005/en/Base-Power-Raises-$1-Billion-Series-C-to-Build-the-Future-of-American-Power",
+      "https://energycapitalhtx.com/amp/base-power-1b-series-d-2677650696",
+      "https://runtimewire.com/es/article/base-power-raises-1b-series-d-launches-base-core-battery"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/base-power-startup-americaine-batteries-domestiques.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3088488",
+      "auteur": "paulbr75",
+      "url": "https://pixabay.com/photos/driveway-suburb-house-garage-3088488/"
+    }
   }
 ]
