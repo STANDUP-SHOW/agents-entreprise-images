@@ -400,5 +400,35 @@
       "url": "https://pixabay.com/photos/designers-discussion-teamwork-8541315/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/canva-restructuration-1271-postes-ralentissement-ia.webp"
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "tennr-startup-americaine-orientation-patients",
+    "title": "Tennr : l'IA new-yorkaise qui accélère l'orientation des patients",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Tennr",
+    "startups": [
+      {
+        "nom": "Tennr",
+        "site": "tennr.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fortune.com/2025/06/18/tennr-health-tech-ai-patient-referral-ivp-a16z-lightspeed-iconiq-series-c/",
+      "https://hitconsultant.net/2025/06/18/tennr-raises-101m-to-solve-healthcares-patient-referral-black-hole/",
+      "https://www.fiercehealthcare.com/health-tech/tennr-clinches-101m-build-out-ai-automates-patient-referral-workflows",
+      "https://mobihealthnews.com/news/tennr-raises-101m-automate-referrals-hits-605m-valuation"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/tennr-startup-americaine-orientation-patients.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5710160",
+      "auteur": "Maximilianovich",
+      "url": "https://pixabay.com/photos/doctor-patient-consultation-5710160/"
+    }
   }
 ]
