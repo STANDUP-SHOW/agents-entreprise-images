@@ -747,5 +747,26 @@
       "url": "https://pixabay.com/photos/city-night-street-destination-6818066/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/uber-agents-ia-quatre-courses-commerce-agentique.webp"
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-1",
+    "slug": "salesforce-rachete-cresta-agents-ia-vocaux-service-client",
+    "title": "Salesforce rachète Cresta : les agents IA prennent le téléphone",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Salesforce – rachat de Cresta – 2 novembre 2026",
+    "sources": [
+      "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/",
+      "https://siliconangle.com/2026/11/03/salesforce-to-buy-customer-service-automation-startup-cresta-for-reported-2-7b/",
+      "https://itsocial.fr/logiciel-agilite/logiciel-agilite-actualites/rachat-de-cresta-salesforce-fait-entrer-la-voix-dans-sa-plateforme-dagents/"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8754751",
+      "auteur": "Telesolutionscallcentr",
+      "url": "https://pixabay.com/photos/call-center-call-center-services-8754751/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/salesforce-rachete-cresta-agents-ia-vocaux-service-client.webp"
   }
 ]
