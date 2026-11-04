@@ -519,5 +519,37 @@
       "url": "https://pixabay.com/photos/architecture-business-furniture-1837058/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/station-f-future-40-2026-agents-ia-start-up.webp"
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-gamma-presentations-ia-rentable",
+    "title": "Business model de Gamma : des présentations par IA rentables à 100 M$",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model Gamma",
+    "startups": [
+      {
+        "nom": "Gamma",
+        "site": "gamma.app"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/?p=3066533",
+      "https://www.upstartsmedia.com/i/162392717",
+      "https://www.jpmorgan.com/insights/technology/artificial-intelligence/gammas-startup-journey-the-future-of-presentations-with-ai",
+      "https://a16z.com/podcast/grant-lee-building-gammas-ai-presentation-company-to-100-million-users/",
+      "https://dupple.com/pricing/gamma",
+      "https://help.gamma.app/en/articles/7834324-what-are-the-different-gamma-plans"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-gamma-presentations-ia-rentable.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4702060",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/woman-work-office-whiteboard-4702060/"
+    }
   }
 ]
