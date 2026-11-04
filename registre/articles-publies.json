@@ -127,5 +127,35 @@
       "auteur": "RobbieWi",
       "url": "https://pixabay.com/photos/cnc-drill-milling-tool-5770326/"
     }
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "varda-startup-americaine-medicaments-espace",
+    "title": "Varda : la start-up qui veut fabriquer des médicaments en orbite",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Varda Space Industries",
+    "startups": [
+      {
+        "nom": "Varda Space Industries",
+        "site": "varda.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://builtin.com/articles/varda-raises-187m-series-c-20250711",
+      "https://digital-release.kxan.com/business/press-releases/cision/20260330LA22203/varda-launches-w-6-expanding-hypersonic-reentry-and-autonomous-navigation-capabilities",
+      "https://aviationweek.com/space/operations-safety/varda-completes-fourth-landing-reentry-capsule",
+      "https://en.wikipedia.org/wiki/Varda_Space_Industries"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/varda-startup-americaine-medicaments-espace.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2141259",
+      "auteur": "luvqs",
+      "url": "https://pixabay.com/photos/scientist-drugstore-microscope-2141259/"
+    }
   }
 ]
