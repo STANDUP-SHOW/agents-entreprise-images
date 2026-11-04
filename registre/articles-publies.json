@@ -188,5 +188,46 @@
       "auteur": "Telesolutionscallcentr",
       "url": "https://pixabay.com/photos/call-center-call-center-services-8754751/"
     }
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "cloud-act-pme-donnees-ia-americaine",
+    "title": "Cloud Act : une PME expose-t-elle ses données en utilisant une IA américaine ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : Cloud Act, souveraineté et choix cloud, hybride ou local",
+    "question": "Une PME expose-t-elle ses données au Cloud Act en utilisant un assistant d'IA américain, et comment choisir entre cloud, hybride et local ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://www.actuia.com/actualite/donnees-sensibles-et-cloud-act-microsoft-france-admet-ne-pas-pouvoir-sopposer-a-une-injonction-americaine/ (25/07/2025, mis à jour 07/07/2026) ; https://mybusinessfuture.com/fr/sortir-des-nuages-americains-ce-que-les-pme-doivent-verifier/",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot",
+      "Claude Team",
+      "Le Chat (Mistral AI)",
+      "OVHcloud AI Endpoints",
+      "Dust",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+      "https://www.actuia.com/actualite/donnees-sensibles-et-cloud-act-microsoft-france-admet-ne-pas-pouvoir-sopposer-a-une-injonction-americaine/",
+      "https://cyber.gouv.fr/enjeux-technologiques/cloud/",
+      "https://learn.microsoft.com/fr-fr/privacy/eudb/eu-data-boundary-learn",
+      "https://www.lemondeinformatique.fr/actualites/lire-microsoft-baisse-le-prix-de-m365%C2%A0copilot%C2%A0pour-les-pme-98552.html",
+      "https://claude.com/pricing",
+      "https://mistral.ai/pricing",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://dust.tt/home/pricing",
+      "https://iagent.agency/local-ai"
+    ],
+    "mots": 2687,
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8118380",
+      "auteur": "cookieone",
+      "url": "https://pixabay.com/photos/technology-network-storage-industry-8118380/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/cloud-act-pme-donnees-ia-americaine.webp"
   }
 ]
