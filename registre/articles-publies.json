@@ -460,5 +460,44 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-engineering-broadcast-4922449/"
     }
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "aides-publiques-financer-projet-agent-ia-pme",
+    "title": "Quelles aides publiques pour financer un projet d’agent IA dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : aides publiques 2026 (Diagnostic Data IA, Accélérateurs IA, Prêt Boost IA) pour financer l'IA",
+    "question": "Quelles aides publiques une PME peut-elle mobiliser en 2026 pour financer un projet d'agent IA ?",
+    "theme": "couts-roi",
+    "preuve_question": "https://www.optionfinance.fr/actualites/bercy-deploie-des-aides-pour-developper-lutilisation-de-lia-dans-les-entreprises.html ; https://mesaidespubliques.infogreffe.fr/aides/accelerateur-ia (consultés le 04/11/2026)",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot Business",
+      "Claude Team",
+      "Le Chat (Mistral AI)",
+      "OVHcloud AI Endpoints",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.entreprises.gouv.fr/priorites-et-actions/transition-numerique/accompagner-les-entreprises-dans-leur-transition/le-plan",
+      "https://les-aides.fr/aide/dHQ_3w/bpifrance/pret-boost-ia.html",
+      "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+      "https://www.lemondeinformatique.fr/actualites/lire-microsoft-baisse-le-prix-de-m365%C2%A0copilot%C2%A0pour-les-pme-98552.html",
+      "https://claude.com/pricing",
+      "https://mistral.ai/pricing",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://iagent.agency/pricing",
+      "https://iagent.agency/entreprises-pilotes"
+    ],
+    "mots": 2320,
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1979261",
+      "auteur": "089photoshootings",
+      "url": "https://pixabay.com/photos/people-business-meeting-1979261/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/aides-publiques-financer-projet-agent-ia-pme.webp"
   }
 ]
