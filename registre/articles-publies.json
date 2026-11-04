@@ -229,5 +229,26 @@
       "url": "https://pixabay.com/photos/technology-network-storage-industry-8118380/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/cloud-act-pme-donnees-ia-americaine.webp"
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-1",
+    "slug": "revolut-valorisation-115-milliards-cession-secondaire",
+    "title": "Revolut valorisée 115 milliards de dollars sans lever un seul euro",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Revolut – cession secondaire – valorisation 115 Md$",
+    "sources": [
+      "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+      "https://tech.eu/2026/11/04/revolut-confirms-115bn-valuation-after-completing-secondary-sale/",
+      "https://www.frenchweb.fr/revolut-doctolib-vinted-a-qui-va-l-argent-des-operations-secondaires/900000018"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8853091",
+      "auteur": "ELG21",
+      "url": "https://pixabay.com/photos/london-buildings-architecture-8853091/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/revolut-valorisation-115-milliards-cession-secondaire.webp"
   }
 ]
