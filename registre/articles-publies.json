@@ -280,5 +280,35 @@
       "auteur": "Flyfin",
       "url": "https://pixabay.com/photos/finance-accounting-tax-7529921/"
     }
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "jump-startup-americaine-ia-conseillers-financiers",
+    "title": "Jump : l'IA qui prépare les rendez-vous des conseillers financiers",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Jump",
+    "startups": [
+      {
+        "nom": "Jump",
+        "site": "jump.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://jump.ai/press/series-b-announcement",
+      "https://www.businesswire.com/news/home/20260219487440/en/Jump-Raises-80-Million-Series-B-Led-by-Insight-Partners-to-Expand-AI-Operating-System-for-Financial-Advisors",
+      "https://wealthmanagement.com/artificial-intelligence/jump_secures_series_b",
+      "https://jump.ai/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/jump-startup-americaine-ia-conseillers-financiers.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5382501",
+      "auteur": "RonaldCandonga",
+      "url": "https://pixabay.com/photos/job-office-team-business-internet-5382501/"
+    }
   }
 ]
