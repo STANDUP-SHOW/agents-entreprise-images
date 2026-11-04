@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-1",
+    "slug": "levees-de-fonds-french-tech-octobre-2026-barometres",
+    "title": "Levées de fonds French Tech : 615 ou 700 millions d'euros en octobre",
+    "category_slug": "levees-de-fonds",
+    "mode": "original",
+    "evenement": "Baromètres French Tech octobre 2026 (Maddyness, JDN)",
+    "sources": [
+      "https://www.maddyness.com/2026/11/03/portee-par-pigment-la-french-tech-leve-6147-millions-deuros-en-octobre/",
+      "https://www.journaldunet.com/start-up/1557505-les-start-up-francaises-ont-leve-700-millions-d-euros-en-octobre/"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5382501",
+      "auteur": "RonaldCandonga",
+      "url": "https://pixabay.com/photos/job-office-team-business-internet-5382501/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/levees-de-fonds-french-tech-octobre-2026-barometres.webp"
+  }
+]
