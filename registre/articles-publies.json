@@ -250,5 +250,35 @@
       "url": "https://pixabay.com/photos/london-buildings-architecture-8853091/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/revolut-valorisation-115-milliards-cession-secondaire.webp"
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "rillet-startup-americaine-comptabilite-ia",
+    "title": "Rillet : le logiciel comptable à base d'agents IA qui défie NetSuite",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Rillet",
+    "startups": [
+      {
+        "nom": "Rillet",
+        "site": "rillet.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai",
+      "https://www.thestar.com.my/tech/tech-news/2025/08/06/ai-accounting-startup-rillet-raises-70-million-in-andreessen-horowitz-iconiq-led-round",
+      "https://fintechfutures.com/venture-capital-funding/rillet-raises-70m-series-b",
+      "https://fortune.com/2026/08/18/rillet-unicorn-1-billion-valuation-series-c-nicolas-kopp-accounting-ai/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/rillet-startup-americaine-comptabilite-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7529921",
+      "auteur": "Flyfin",
+      "url": "https://pixabay.com/photos/finance-accounting-tax-7529921/"
+    }
   }
 ]
