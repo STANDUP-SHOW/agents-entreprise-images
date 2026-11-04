@@ -590,5 +590,61 @@
       "url": "https://pixabay.com/photos/filing-cabinet-invoices-accounting-1205044/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/facture-electronique-agent-ia-factures-fournisseurs-pme.webp"
+  },
+  {
+    "date": "2026-11-04",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-ia-verticale-metiers-bureau-2026-11-04",
+    "title": "5 startups américaines d'IA verticale qui automatisent le bureau",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : 5 startups d'IA verticale (métiers de bureau)",
+    "startups": [
+      {
+        "nom": "Rillet",
+        "site": "rillet.com"
+      },
+      {
+        "nom": "Decagon",
+        "site": "decagon.ai"
+      },
+      {
+        "nom": "Jump",
+        "site": "jump.ai"
+      },
+      {
+        "nom": "Tennr",
+        "site": "tennr.com"
+      },
+      {
+        "nom": "Profound",
+        "site": "tryprofound.com"
+      }
+    ],
+    "theme": "IA verticale appliquée aux métiers de bureau (comptabilité, service client, gestion de patrimoine, secrétariat médical, marketing)",
+    "sources": [
+      "https://fortune.com/2026/08/18/rillet-unicorn-1-billion-valuation-series-c-nicolas-kopp-accounting-ai/",
+      "https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-general-ledger-systems-using-ai",
+      "https://www.bloomberg.com/news/articles/2026-01-28/ai-customer-support-startup-decagon-valued-at-4-5-billion",
+      "https://builtin.com/articles/decagon-raises-250m-series-d-4b-valuation-20260130",
+      "https://siliconangle.com/2025/06/23/chatbot-startup-decagon-gets-131m-build-personalized-ai-agents-every-consumer",
+      "https://decagon.ai/resources/pricing-ai-agents",
+      "https://jump.ai/press/series-b-announcement",
+      "https://wealthmanagement.com/artificial-intelligence/jump_secures_series_b",
+      "https://jump.ai/pricing",
+      "https://fortune.com/2025/06/18/tennr-health-tech-ai-patient-referral-ivp-a16z-lightspeed-iconiq-series-c/",
+      "https://hitconsultant.net/2025/06/18/tennr-raises-101m-to-solve-healthcares-patient-referral-black-hole/",
+      "https://fortune.com/2025/08/12/ai-search-startup-profound-raises-35-million-series-b-sequoia/",
+      "https://fortune.com/2026/02/24/exclusive-as-ai-threatens-search-profound-raises-96-million-to-help-brands-stay-visible/",
+      "https://www.bloomberg.com/news/articles/2026-09-15/profound-hits-1-8-billion-value-to-boost-brands-in-ai-search"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-ia-verticale-metiers-bureau-2026-11-04.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4898536",
+      "auteur": "Deeezy",
+      "url": "https://pixabay.com/photos/buildings-skyscapers-new-york-urban-4898536/"
+    }
   }
 ]
