@@ -1108,5 +1108,35 @@
       "auteur": "IqbalStock",
       "url": "https://pixabay.com/photos/worker-repair-home-house-6869868/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "warp-startup-americaine-paie-rh-automatisee",
+    "title": "Warp : la startup qui confie la paie et les RH à des agents d'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Warp",
+    "startups": [
+      {
+        "nom": "Warp",
+        "site": "warp.co"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.siliconangle.com/2026/06/25/warp-lands-60m-automate-payroll-compliance-hr-ai/",
+      "https://www.homebrew.co/blog-posts/warp-raises-usd60m-series-b-for-ai-agents-that-handle-startup-payroll-compliance-and-benefits",
+      "https://fintech.global/2026/06/26/warp-raises-60m-series-b-to-rebuild-hr-software-with-ai/",
+      "https://www.warp.co/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/warp-startup-americaine-paie-rh-automatisee.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "593304",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/startup-start-up-notebooks-creative-593304/"
+    }
   }
 ]
