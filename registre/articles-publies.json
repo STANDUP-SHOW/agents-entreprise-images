@@ -875,5 +875,26 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/startup-start-up-people-593341/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-1",
+    "slug": "titan-os-leve-46-millions-systeme-tv-connectee-europeen",
+    "title": "Titan OS lève 46 millions de dollars pour défier Google sur la TV",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Titan OS – 46 M$ (fonds propres + dette BlackRock) – 4 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+      "https://www.analyticsinsight.net/news/barcelona-based-titan-os-raises-usd-46-million-for-global-expansion",
+      "https://startuprise.co.uk/titan-os-raises-e40mn"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/titan-os-leve-46-millions-systeme-tv-connectee-europeen.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4891936",
+      "auteur": "renateko",
+      "url": "https://pixabay.com/photos/remote-control-tv-watch-tv-watch-4891936/"
+    }
   }
 ]
