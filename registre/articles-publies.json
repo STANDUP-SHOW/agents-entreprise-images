@@ -1343,5 +1343,48 @@
       "auteur": "Tumisu",
       "url": "https://pixabay.com/photos/woman-entrepreneur-owner-business-5467838/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "materiel-ia-locale-pme-serveur-station-quel-budget",
+    "title": "Quel matériel faut-il pour faire tourner une IA en local dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : matériel nécessaire pour une IA locale",
+    "question": "Quel matériel faut-il pour faire tourner une IA en local dans une PME ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://www.insee.fr/fr/statistiques/9025878 (38 % des entreprises sans IA citent l'incompatibilité avec leurs équipements, juillet 2026) ; https://www.cybertek.fr/pc-ia",
+    "solutions_comparees": [
+      "NVIDIA DGX Spark",
+      "Ollama",
+      "LM Studio",
+      "Mistral AI Enterprise",
+      "OVHcloud AI Endpoints",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.cybertek.fr/pc-ia",
+      "https://www.nvidia.com/fr-fr/products/workstations/dgx-spark/",
+      "https://www.cowcotland.com/news/99865/faire-de-l-ia-a-la-maison-avec-un-nvidia-dgx-spark-coutera-700-dollars-de-plus.html",
+      "https://ollama.com/pricing",
+      "https://lmstudio.ai/work",
+      "https://mistral.ai/pricing",
+      "https://mistral.ai/news/le-chat-enterprise",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://iagent.agency/local-ai",
+      "https://iagent.agency/box",
+      "https://iagent.agency/pricing",
+      "https://iagent.agency/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/materiel-ia-locale-pme-serveur-station-quel-budget.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5737958",
+      "auteur": "JESHOOTS-com",
+      "url": "https://pixabay.com/photos/pc-hardware-man-personal-computer-5737958/"
+    }
   }
 ]
