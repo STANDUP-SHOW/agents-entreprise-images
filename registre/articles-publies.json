@@ -1049,5 +1049,35 @@
       "auteur": "rupixen",
       "url": "https://pixabay.com/photos/payment-online-payment-card-payment-4334491/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "owner-startup-americaine-logiciel-restaurants",
+    "title": "Owner : la startup qui libère les restaurants des plateformes",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Owner",
+    "startups": [
+      {
+        "nom": "Owner",
+        "site": "owner.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://am.gs.com/en-ae/advisors/news/press-release/2026/owner-raises-240m-gs-alts",
+      "https://www.bloomberg.com/news/articles/2025-05-13/restaurant-tech-startup-owner-com-hits-1-billion-valuation",
+      "https://en.wikipedia.org/wiki/Owner.com",
+      "https://www.owner.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/owner-startup-americaine-logiciel-restaurants.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2623071",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/restaurant-kitchen-chefs-cooks-2623071/"
+    }
   }
 ]
