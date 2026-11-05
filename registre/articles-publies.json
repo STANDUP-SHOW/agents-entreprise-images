@@ -1138,5 +1138,35 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/startup-start-up-notebooks-creative-593304/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "grow-therapy-startup-americaine-sante-mentale",
+    "title": "Grow Therapy : la thérapie remboursée devenue une affaire à 1 Md$",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Grow Therapy",
+    "startups": [
+      {
+        "nom": "Grow Therapy",
+        "site": "growtherapy.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://hitconsultant.net/2026/03/06/grow-therapy-mental-health-platform-funding/",
+      "https://www.bloomberg.com/news/articles/2026-03-03/mental-health-startup-grow-therapy-hits-3-billion-valuation",
+      "https://techcrunch.com/?p=2207290",
+      "https://www.preqin.com/data/profile/asset/grow-therapy/445335"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/grow-therapy-startup-americaine-sante-mentale.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6008046",
+      "auteur": "olegsturm",
+      "url": "https://pixabay.com/photos/psychologist-psychoanalyst-girl-6008046/"
+    }
   }
 ]
