@@ -896,5 +896,26 @@
       "auteur": "renateko",
       "url": "https://pixabay.com/photos/remote-control-tv-watch-tv-watch-4891936/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-1",
+    "slug": "revolut-agents-code-modeles-ouverts-cout-divise-dix",
+    "title": "Revolut divise par dix le coût de ses agents de code en open source",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Revolut – agents de code sur modèle GLM auto-hébergé, coûts -90 % (témoignage D. Abitbol, rapporté le 3 novembre 2026)",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+      "https://www.resultsense.com/news/2026-11-04-revolut-self-hosted-glm-ai-coding-costs/",
+      "https://startupfortune.com/revolut-says-self-hosted-open-ai-models-cut-its-coding-costs-90/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/revolut-agents-code-modeles-ouverts-cout-divise-dix.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "924920",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/coding-programming-working-macbook-924920/"
+    }
   }
 ]
