@@ -1429,5 +1429,50 @@
       "auteur": "AymaneJed",
       "url": "https://pixabay.com/photos/laptop-office-hand-writing-3196481/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "former-salaries-ia-pme-financement-obligations",
+    "title": "Faut-il former ses salariés à l’IA, et comment financer ces formations dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : formation des salariés à l'IA et financement",
+    "question": "Faut-il former ses salariés à l'IA, et comment financer ces formations dans une PME ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://www.banquedesterritoires.fr/le-ministre-du-travail-lance-son-plan-impulsion-ia (plan Impulsion IA 2027, 22/09/2026) ; https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers (FAQ de la Commission, question des PME)",
+    "solutions_comparees": [
+      "Google AI Essentials",
+      "Claude Academy (Anthropic)",
+      "Pix / Pix Pro",
+      "DataScientest",
+      "iAgent"
+    ],
+    "sources": [
+      "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers",
+      "https://www.banquedesterritoires.fr/le-ministre-du-travail-lance-son-plan-impulsion-ia",
+      "https://www.editions-tissot.fr/actualite/representants-du-personnel-ce/ia-en-entreprise-le-dialogue-social-au-coeur-du-plan-presente-par-le-ministere-du-travail",
+      "https://www.entreprises.gouv.fr/priorites-et-actions/transition-numerique/accompagner-les-entreprises-dans-leur-transition/le-plan",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://grow.google/ai-essentials/",
+      "https://www.anthropic.com/learn",
+      "https://pix.fr",
+      "https://pro.pix.fr/entreprises",
+      "https://datascientest.com/formation-intelligence-artificielle",
+      "https://iagent.agency/faq",
+      "https://iagent.agency/workforce",
+      "https://iagent.agency/local-ai",
+      "https://iagent.agency/security",
+      "https://iagent.agency/entreprises-pilotes",
+      "https://iagent.agency/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/former-salaries-ia-pme-financement-obligations.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4784909",
+      "auteur": "14995841",
+      "url": "https://pixabay.com/photos/meeting-adults-business-people-4784909/"
+    }
   }
 ]
