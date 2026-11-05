@@ -833,5 +833,26 @@
       "auteur": "TheDigitalWay",
       "url": "https://pixabay.com/photos/computer-security-padlock-hacker-1591018/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-1",
+    "slug": "traversal-leve-120-millions-licorne-agents-ia-incidents",
+    "title": "Traversal lève 120 millions de dollars pour ses agents IA anti-pannes",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Traversal – série B – 120 M$ à 1 Md$ de valorisation – 3 novembre 2026",
+    "sources": [
+      "https://www.traversal.com/blog/traversal-series-b-120-million-ai-sre",
+      "https://siliconangle.com/2026/11/03/autonomous-site-reliability-engineering-startup-traversal-bags-120m-in-funding-at-a-1b-valuation/",
+      "https://pulse2.com/traversal-raises-120-million-at-1-billion-valuation-to-expand-ai-site-reliability-engineering-platform/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/traversal-leve-120-millions-licorne-agents-ia-incidents.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3540378",
+      "auteur": "guvo59",
+      "url": "https://pixabay.com/photos/pc-computer-stethoscope-technology-3540378/"
+    }
   }
 ]
