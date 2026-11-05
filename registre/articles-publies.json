@@ -1286,5 +1286,62 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/office-startup-business-home-office-594132/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-startups-pme-2026-11-05",
+    "title": "5 startups américaines à suivre qui ont fait des PME leur marché",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : 5 startups qui vendent aux PME",
+    "startups": [
+      {
+        "nom": "Owner",
+        "site": "owner.com"
+      },
+      {
+        "nom": "Avoca",
+        "site": "avoca.ai"
+      },
+      {
+        "nom": "Slash",
+        "site": "slash.com"
+      },
+      {
+        "nom": "Warp",
+        "site": "warp.co"
+      },
+      {
+        "nom": "Juicebox",
+        "site": "juicebox.ai"
+      }
+    ],
+    "theme": "Startups américaines qui ont fait des PME leur marché (restauration, artisans, banque, paie, recrutement)",
+    "sources": [
+      "https://am.gs.com/en-ae/advisors/news/press-release/2026/owner-raises-240m-gs-alts",
+      "https://www.owner.com/pricing",
+      "https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/",
+      "https://pulse2.com/avoca-125-million-raised-at-1-billion-valuation-to-power-services-economy-with-ai/",
+      "https://fintech.global/2026/04/17/slash-financial-hits-unicorn-status-with-100m-series-c/",
+      "https://thenextweb.com/news/slash-100m-series-c-14b-valuation",
+      "https://www.slash.com/pricing",
+      "https://www.siliconangle.com/2026/06/25/warp-lands-60m-automate-payroll-compliance-hr-ai/",
+      "https://www.homebrew.co/blog-posts/warp-raises-usd60m-series-b-for-ai-agents-that-handle-startup-payroll-compliance-and-benefits",
+      "https://www.warp.co/pricing",
+      "https://www.axios.com/pro/all-deals/2026/03/10/juicebox-ai-hiring-80-million-850-million",
+      "https://pulse2.com/juicebox-80-million-at-850-million-valuation-raised-for-ai-recruiting-platform",
+      "https://www.ycombinator.com/companies/juicebox",
+      "https://juicebox.ai/pricing",
+      "https://advocacy.sba.gov/tag/state-small-business-profiles/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-startups-pme-2026-11-05.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5467838",
+      "auteur": "Tumisu",
+      "url": "https://pixabay.com/photos/woman-entrepreneur-owner-business-5467838/"
+    }
   }
 ]
