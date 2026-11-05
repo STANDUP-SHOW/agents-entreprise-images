@@ -1255,5 +1255,36 @@
       "auteur": "Bergadder",
       "url": "https://pixabay.com/photos/power-plant-conducting-electronic-344231/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-whop-place-de-marche-entrepreneurs",
+    "title": "Business model de Whop : 6 % prélevés sur l'économie des créateurs",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model Whop",
+    "startups": [
+      {
+        "nom": "Whop",
+        "site": "whop.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://docs.whop.com/fees",
+      "https://thenextweb.com/news/whop-200m-series-d-5-1b-valuation-sequoia",
+      "https://en.wikipedia.org/wiki/Whop.com",
+      "https://techfundingnews.com/whop-raises-205m-at-5-1b-valuation-as-sequoia-reverses-its-earlier-pass/",
+      "https://systeme.io"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-whop-place-de-marche-entrepreneurs.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "594132",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/office-startup-business-home-office-594132/"
+    }
   }
 ]
