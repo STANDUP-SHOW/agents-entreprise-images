@@ -1474,5 +1474,46 @@
       "auteur": "14995841",
       "url": "https://pixabay.com/photos/meeting-adults-business-people-4784909/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-relancer-factures-impayees-clients-pme",
+    "title": "Un agent IA peut-il relancer les factures impayées des clients d’une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : confier la relance des factures impayées à un agent IA",
+    "question": "Un agent IA peut-il relancer les factures impayées des clients d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.coface.com/fr/actualites-economie-conseils-d-experts/retards-de-paiement-en-france-89-des-entreprises-francaises-touchees-un-nouveau-record (enquête Coface, 29/09/2026)",
+    "solutions_comparees": [
+      "HighRadius",
+      "Tesorio",
+      "Upflow",
+      "Chaser",
+      "Sidetrade",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.coface.com/fr/actualites-economie-conseils-d-experts/retards-de-paiement-en-france-89-des-entreprises-francaises-touchees-un-nouveau-record",
+      "https://entreprendre.service-public.fr/vosdroits/F23211",
+      "https://www.highradius.com/product/collections-management-software/",
+      "https://www.tesorio.com",
+      "https://upflow.io/fr/pricing",
+      "https://upflow.io/fr",
+      "https://www.chaserhq.com/pricing",
+      "https://www.sidetrade.com/fr/agents-aimie",
+      "https://iagent.agency/agents/agent-de-recouvrement",
+      "https://iagent.agency/security",
+      "https://iagent.agency/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-relancer-factures-impayees-clients-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "544180",
+      "auteur": "Patrice_Audet",
+      "url": "https://pixabay.com/photos/secretary-desk-sales-544180/"
+    }
   }
 ]
