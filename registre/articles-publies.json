@@ -854,5 +854,26 @@
       "auteur": "guvo59",
       "url": "https://pixabay.com/photos/pc-computer-stethoscope-technology-3540378/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-1",
+    "slug": "applied-compute-leve-350-millions-ia-sur-mesure",
+    "title": "Applied Compute lève 350 millions de dollars pour des IA sur mesure",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Applied Compute – 350 M$ à 3,25 Md$ de valorisation – 2 novembre 2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/03/ai-cloud-startup-applied-compute-raises-350m-after-reaching-key-revenue-milestone/",
+      "https://www.appliedcompute.com/company/100m-run-rate-fundraise",
+      "https://valiantceo.com/applied-compute-raises-350m/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/applied-compute-leve-350-millions-ia-sur-mesure.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "593341",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/startup-start-up-people-593341/"
+    }
   }
 ]
