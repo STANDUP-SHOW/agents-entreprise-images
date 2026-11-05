@@ -789,5 +789,27 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-engineering-computer-4904884/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-1",
+    "slug": "waymo-fin-exclusivite-uber-robotaxis-application",
+    "title": "Waymo met fin à son exclusivité avec Uber : la bataille des robotaxis",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Waymo – fin de l'exclusivité Uber à Austin et Atlanta (janvier 2028) – 4 novembre 2026",
+    "sources": [
+      "https://finance.yahoo.com/technology/ai/articles/waymo-co-ceo-says-uber-134208271.html",
+      "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+      "https://www.theregister.com/personal-tech/2026/11/05/uber-says-it-alone-can-make-robotaxis-pay-hours-after-waymo-quit-its-app/5307718",
+      "https://www.cnbc.com/2026/07/24/uber-and-waymo-to-end-exclusivity-arrangement-in-atlanta-and-austin.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/waymo-fin-exclusivite-uber-robotaxis-application.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7856666",
+      "auteur": "wal_172619",
+      "url": "https://pixabay.com/photos/taxi-city-transport-urban-road-7856666/"
+    }
   }
 ]
