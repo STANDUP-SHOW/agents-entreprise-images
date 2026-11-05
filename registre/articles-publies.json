@@ -917,5 +917,26 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/coding-programming-working-macbook-924920/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-1",
+    "slug": "cjue-avocat-general-chatbots-ia-droits-voisins-presse",
+    "title": "Chatbots et presse : la justice européenne pose des limites à l'IA",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "CJUE – conclusions de l'avocat général Szpunar, affaire C-250/25 Like Company c. Google (Gemini) – 3 novembre 2026",
+    "sources": [
+      "https://siecledigital.fr/2026/11/04/les-ia-qui-resument-des-articles-de-presse-pourraient-enfreindre-les-droits-dauteur-selon-la-justice-europeenne/",
+      "https://ipkitten.blogspot.com/2026/11/ag-szpunars-opinion-in-like-company-is.html",
+      "https://ppc.land/googles-gemini-can-infringe-press-rights-in-2-ways-eu-court-adviser-says/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/cjue-avocat-general-chatbots-ia-droits-voisins-presse.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2586311",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/newspaper-paper-material-2586311/"
+    }
   }
 ]
