@@ -1079,5 +1079,34 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/restaurant-kitchen-chefs-cooks-2623071/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "avoca-startup-americaine-agents-ia-artisans",
+    "title": "Avoca : les agents d'IA qui décrochent le téléphone des artisans",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Avoca",
+    "startups": [
+      {
+        "nom": "Avoca",
+        "site": "avoca.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/",
+      "https://pulse2.com/avoca-125-million-raised-at-1-billion-valuation-to-power-services-economy-with-ai/",
+      "https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-27-2026/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/avoca-startup-americaine-agents-ia-artisans.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6869868",
+      "auteur": "IqbalStock",
+      "url": "https://pixabay.com/photos/worker-repair-home-house-6869868/"
+    }
   }
 ]
