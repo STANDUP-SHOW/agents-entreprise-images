@@ -938,5 +938,26 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/newspaper-paper-material-2586311/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-1",
+    "slug": "agents-ia-contexte-metier-google-agentic-data-cloud",
+    "title": "Agents IA : le contexte métier, clé de leur fiabilité selon Google",
+    "category_slug": "agents-ia",
+    "mode": "original",
+    "evenement": "Google Cloud – nouveautés Agentic Data Cloud (Knowledge Catalog, lakehouse sans frontières) – 4 novembre 2026",
+    "sources": [
+      "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud",
+      "https://siliconangle.com/2026/11/04/google-fine-tunes-its-agentic-data-cloud-to-support-highly-scalable-autonomous-ai-workers/",
+      "https://www.traversal.com/blog/traversal-series-b-120-million-ai-sre"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agents-ia-contexte-metier-google-agentic-data-cloud.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1433427",
+      "auteur": "AS_Photography",
+      "url": "https://pixabay.com/photos/digital-marketing-technology-1433427/"
+    }
   }
 ]
