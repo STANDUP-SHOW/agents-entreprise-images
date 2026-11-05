@@ -1018,5 +1018,36 @@
       "auteur": "u_i8zn1ip7n1",
       "url": "https://pixabay.com/photos/business-deal-job-interview-7954355/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "slash-startup-americaine-banque-entreprises",
+    "title": "Slash : la banque américaine qui se spécialise par métier",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Slash",
+    "startups": [
+      {
+        "nom": "Slash",
+        "site": "slash.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.slash.com/blog/series-c",
+      "https://fintech.global/2026/04/17/slash-financial-hits-unicorn-status-with-100m-series-c/",
+      "https://thenextweb.com/news/slash-100m-series-c-14b-valuation",
+      "https://www.fintechfutures.com/venture-capital-funding/business-banking-start-up-slash-secures-41m-series-b",
+      "https://www.slash.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/slash-startup-americaine-banque-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4334491",
+      "auteur": "rupixen",
+      "url": "https://pixabay.com/photos/payment-online-payment-card-payment-4334491/"
+    }
   }
 ]
