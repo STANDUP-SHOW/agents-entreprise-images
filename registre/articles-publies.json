@@ -1197,5 +1197,34 @@
       "auteur": "dbreen",
       "url": "https://pixabay.com/photos/vegetables-fruits-food-ingredients-1085063/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "openevidence-startup-americaine-ia-medecins",
+    "title": "OpenEvidence : l'IA gratuite de 40 % des médecins américains",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup OpenEvidence",
+    "startups": [
+      {
+        "nom": "OpenEvidence",
+        "site": "openevidence.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://siliconangle.com/?p=728519",
+      "https://www.axios.com/pro/health-tech-deals/2026/01/21/openevidence-250m-round-12b",
+      "https://en.wikipedia.org/wiki/OpenEvidence"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/openevidence-startup-americaine-ia-medecins.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4402808",
+      "auteur": "ckstockphoto",
+      "url": "https://pixabay.com/photos/adult-ambulance-background-care-4402808/"
+    }
   }
 ]
