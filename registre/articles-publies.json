@@ -811,5 +811,27 @@
       "auteur": "wal_172619",
       "url": "https://pixabay.com/photos/taxi-city-transport-urban-road-7856666/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-1",
+    "slug": "crowdstrike-rachete-fiddler-dreadnode-securite-agents-ia",
+    "title": "CrowdStrike rachète Fiddler et Dreadnode pour sécuriser les agents IA",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "CrowdStrike – rachat de Fiddler AI et Dreadnode (495 M$ selon WSJ) – 3 novembre 2026 ; mention Sentra série C 150 M$",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-fiddler-to-deliver-agent-observability/",
+      "https://siliconangle.com/2026/11/03/crowdstrike-to-acquire-cybersecurity-startups-fiddler-ai-dreadnode-for-reported-495m/",
+      "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
+      "https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/crowdstrike-rachete-fiddler-dreadnode-securite-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1591018",
+      "auteur": "TheDigitalWay",
+      "url": "https://pixabay.com/photos/computer-security-padlock-hacker-1591018/"
+    }
   }
 ]
