@@ -1168,5 +1168,34 @@
       "auteur": "olegsturm",
       "url": "https://pixabay.com/photos/psychologist-psychoanalyst-girl-6008046/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "nourish-startup-americaine-dieteticiens-en-ligne",
+    "title": "Nourish : la diététique en ligne remboursée qui séduit les assureurs",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Nourish",
+    "startups": [
+      {
+        "nom": "Nourish",
+        "site": "usenourish.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://hlth.com/insights/news/nourish-raises-100m-to-expand-virtual-nutrition-care-platform",
+      "https://www.indexventures.com/perspectives/nourish-raises-70m-series-b-to-scale-access-to-nutrition-care/",
+      "https://www.businessinsider.nl/nutrition-startup-nourish-lands-over-1-billion-valuation-after-series-b-funding-from-jp-morgan-growth-equity/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/nourish-startup-americaine-dieteticiens-en-ligne.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1085063",
+      "auteur": "dbreen",
+      "url": "https://pixabay.com/photos/vegetables-fruits-food-ingredients-1085063/"
+    }
   }
 ]
