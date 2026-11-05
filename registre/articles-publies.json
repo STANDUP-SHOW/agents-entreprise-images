@@ -959,5 +959,34 @@
       "auteur": "AS_Photography",
       "url": "https://pixabay.com/photos/digital-marketing-technology-1433427/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "harvey-startup-americaine-ia-juridique",
+    "title": "Harvey : l'IA juridique adoptée par les grands cabinets américains",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Harvey",
+    "startups": [
+      {
+        "nom": "Harvey",
+        "site": "harvey.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence",
+      "https://news.bgov.com/business-and-practice/legal-ai-startup-harvey-raises-funds-at-11-billion-valuation",
+      "https://en.wikipedia.org/wiki/Harvey_(software"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/harvey-startup-americaine-ia-juridique.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4944550",
+      "auteur": "advogadoaguilar",
+      "url": "https://pixabay.com/photos/right-advocacy-lex-attorney-jura-4944550/"
+    }
   }
 ]
