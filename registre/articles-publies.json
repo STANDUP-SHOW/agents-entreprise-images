@@ -1226,5 +1226,34 @@
       "auteur": "ckstockphoto",
       "url": "https://pixabay.com/photos/adult-ambulance-background-care-4402808/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "aalo-atomics-startup-americaine-microreacteurs-nucleaires",
+    "title": "Aalo Atomics : le microréacteur texan qui vise les centres de données",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Aalo Atomics",
+    "startups": [
+      {
+        "nom": "Aalo Atomics",
+        "site": "aalo.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://world-nuclear-news.org/articles/criticality-for-fourth-us-microreactor-meets-deadline",
+      "https://techcrunch.com/2025/08/19/aalo-atomics-raises-100m-to-build-a-microreactor-and-data-center-together",
+      "https://www.streetinsider.com/Business+Wire/Aalo+Atomics+Achieves+Criticality+Milestone%3B+Meets+Executive+Order+Goal/26733546.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/aalo-atomics-startup-americaine-microreacteurs-nucleaires.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "344231",
+      "auteur": "Bergadder",
+      "url": "https://pixabay.com/photos/power-plant-conducting-electronic-344231/"
+    }
   }
 ]
