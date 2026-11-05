@@ -988,5 +988,35 @@
       "auteur": "advogadoaguilar",
       "url": "https://pixabay.com/photos/right-advocacy-lex-attorney-jura-4944550/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "juicebox-startup-americaine-recrutement-ia",
+    "title": "Juicebox : la startup qui confie le sourcing des candidats à l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Juicebox",
+    "startups": [
+      {
+        "nom": "Juicebox",
+        "site": "juicebox.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.axios.com/pro/all-deals/2026/03/10/juicebox-ai-hiring-80-million-850-million",
+      "https://pulse2.com/juicebox-80-million-at-850-million-valuation-raised-for-ai-recruiting-platform",
+      "https://www.ycombinator.com/companies/juicebox",
+      "https://juicebox.ai/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/juicebox-startup-americaine-recrutement-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7954355",
+      "auteur": "u_i8zn1ip7n1",
+      "url": "https://pixabay.com/photos/business-deal-job-interview-7954355/"
+    }
   }
 ]
