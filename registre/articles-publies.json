@@ -768,5 +768,26 @@
       "url": "https://pixabay.com/photos/call-center-call-center-services-8754751/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/salesforce-rachete-cresta-agents-ia-vocaux-service-client.webp"
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-1",
+    "slug": "meta-rachete-conductor-agents-code-paralleles",
+    "title": "Meta rachète Conductor : la bataille des agents de code s'intensifie",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Meta – rachat de Conductor (agents de code) – 4 novembre 2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/",
+      "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "https://www.theregister.com/ai-and-ml/2026/11/05/meta-brings-conductor-on-board-its-model-train/5307711"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/meta-rachete-conductor-agents-code-paralleles.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4904884",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-engineering-computer-4904884/"
+    }
   }
 ]
