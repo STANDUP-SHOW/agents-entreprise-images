@@ -1386,5 +1386,48 @@
       "auteur": "JESHOOTS-com",
       "url": "https://pixabay.com/photos/pc-hardware-man-personal-computer-5737958/"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "aipd-analyse-impact-avant-deployer-agent-ia-pme",
+    "title": "Faut-il une analyse d’impact (AIPD) avant de déployer un agent IA dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : AIPD obligatoire avant un agent IA",
+    "question": "Faut-il une analyse d'impact sur la protection des données (AIPD) avant de déployer un agent IA dans une PME ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://www.cnil.fr/fr/realiser-une-analyse-dimpact-si-necessaire (fiche pratique IA de la CNIL consacrée à la question) ; https://www.cnil.fr/fr/les-fiches-pratiques-ia",
+    "solutions_comparees": [
+      "Claude Team (Anthropic)",
+      "OneTrust",
+      "Dust",
+      "Dastra",
+      "Outil PIA de la CNIL",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.cnil.fr/fr/ce-quil-faut-savoir-sur-lanalyse-dimpact-relative-la-protection-des-donnees-aipd",
+      "https://www.cnil.fr/sites/default/files/atoms/files/liste-traitements-aipd-requise.pdf",
+      "https://www.cnil.fr/fr/realiser-une-analyse-dimpact-si-necessaire",
+      "https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://claude.com/pricing",
+      "https://www.onetrust.com/products/assessment-automation/",
+      "https://www.dust.tt/home/security",
+      "https://www.dust.tt/home/pricing",
+      "https://www.dastra.eu/fr",
+      "https://iagent.agency/security",
+      "https://iagent.agency/local-ai",
+      "https://iagent.agency/faq"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/aipd-analyse-impact-avant-deployer-agent-ia-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3196481",
+      "auteur": "AymaneJed",
+      "url": "https://pixabay.com/photos/laptop-office-hand-writing-3196481/"
+    }
   }
 ]
