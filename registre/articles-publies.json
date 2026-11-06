@@ -1643,5 +1643,25 @@
       "auteur": "kimhyeri",
       "url": "https://pixabay.com/photos/drone-sky-leisure-box-1134764/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-1",
+    "slug": "granit-leve-5-millions-agents-ia-administratif-sante",
+    "title": "GRANIT lève 5 millions d'euros pour ses agents IA de facturation santé",
+    "category_slug": "levees-de-fonds",
+    "mode": "original",
+    "evenement": "GRANIT – premier tour 5 M€ (Seedcamp, Bpifrance) – 5 novembre 2026",
+    "sources": [
+      "https://www.frenchweb.fr/breaking-news/granit-mobilise-5-millions-d-euros-pour-automatiser-l-administratif-des-professionnels-de-sante/aab2b79d-8f97-4915-b5c4-8d3344e2d15e",
+      "https://www.cfnews.net/L-actualite/Capital-innovation/Operations/Amorcage/Granit-AI-ne-laisse-pas-de-marbre-des-VCs-758929"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/granit-leve-5-millions-agents-ia-administratif-sante.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1149148",
+      "auteur": "Free-Photos",
+      "url": "https://pixabay.com/photos/computer-business-typing-keyboard-1149148/"
+    }
   }
 ]
