@@ -1558,5 +1558,26 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/meeting-brainstorming-business-594091/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-1",
+    "slug": "five9-rachete-level-ai-325-millions-agents-ia-centres-contact",
+    "title": "Five9 rachète Level AI 325 millions de dollars pour ses agents IA",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Five9 – rachat de Level AI (≈325 M$ en numéraire) – 5 novembre 2026",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/0001288847/000128884726000141/projectlanderpressreleas.htm",
+      "https://www.sec.gov/Archives/edgar/data/0001288847/000128884726000143/a093026ex991earningsrelease.htm",
+      "https://siliconangle.com/2026/11/05/five9-buys-contact-center-intelligence-startup-level-ai-after-posting-narrow-earnings-beat/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/five9-rachete-level-ai-325-millions-agents-ia-centres-contact.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4356933",
+      "auteur": "Mylene2401",
+      "url": "https://pixabay.com/photos/headset-make-a-phone-call-4356933/"
+    }
   }
 ]
