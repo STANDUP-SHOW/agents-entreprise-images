@@ -2164,5 +2164,42 @@
       "auteur": "helpsg",
       "url": "https://pixabay.com/photos/working-business-women-female-work-1219889/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "abonnement-ou-paiement-usage-ia-pme-quel-modele-prix",
+    "title": "Abonnement par utilisateur ou paiement à l’usage : comment payer l’IA dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : modèle de prix de l'IA (licence par utilisateur, paiement à l'usage, hybride)",
+    "question": "Abonnement par utilisateur ou paiement à l'usage : quel modèle de prix choisir pour l'IA d'une PME ?",
+    "theme": "couts-roi",
+    "preuve_question": "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+    "solutions_comparees": [
+      "Claude (Anthropic)",
+      "API Gemini (Google)",
+      "Mistral AI",
+      "Dust",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+      "https://claude.com/pricing",
+      "https://docs.anthropic.com/en/docs/about-claude/pricing",
+      "https://ai.google.dev/gemini-api/docs/pricing",
+      "https://mistral.ai/pricing",
+      "https://dust.tt/home/pricing",
+      "https://iagent.agency/pricing",
+      "https://iagent.agency/local-ai"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/abonnement-ou-paiement-usage-ia-pme-quel-modele-prix.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5395615",
+      "auteur": "WebTechExperts",
+      "url": "https://pixabay.com/photos/meeting-workplace-team-office-5395615/"
+    }
   }
 ]
