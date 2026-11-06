@@ -2240,5 +2240,44 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/engineer-fiber-fieldengineer-2558705/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-acces-messagerie-entreprise-risques-securite",
+    "title": "Peut-on donner à un agent IA l’accès à la messagerie de l’entreprise sans risque ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : sécurité d'un agent IA connecté à la messagerie (injection indirecte, validation humaine)",
+    "question": "Peut-on donner à un agent IA l'accès à la messagerie de l'entreprise sans risque ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://cyber.gouv.fr/en/publications/security-recommendations-generative-ai-system",
+    "solutions_comparees": [
+      "Claude (connecteur Gmail)",
+      "Lindy",
+      "Mistral AI (Le Chat / Vibe)",
+      "Mailbutler",
+      "iAgent"
+    ],
+    "sources": [
+      "https://cyber.gouv.fr/en/publications/security-recommendations-generative-ai-system",
+      "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+      "https://support.claude.com/en/articles/10166901-using-the-gmail-and-google-calendar-integrations",
+      "https://www.lindy.ai/pricing",
+      "https://workspace.google.com/products/gmail/",
+      "https://mistral.ai/news/le-chat-mcp-connectors-memories",
+      "https://www.mailbutler.io/smart-assistant/",
+      "https://www.mailbutler.io/pricing/",
+      "https://iagent.agency/security",
+      "https://iagent.agency/faq"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-acces-messagerie-entreprise-risques-securite.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "849828",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/student-typing-keyboard-text-woman-849828/"
+    }
   }
 ]
