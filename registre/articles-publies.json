@@ -1705,5 +1705,26 @@
       "auteur": "Innovalabs",
       "url": "https://pixabay.com/photos/software-developer-web-developer-6521720/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-1",
+    "slug": "airbnb-agent-ia-voyage-2027-agents-specialises",
+    "title": "Airbnb lancera son agent IA de voyage au premier semestre 2027",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Airbnb – annonce d'un agent IA de voyage pour le 1er semestre 2027 (lettre T3 2026) – 5 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "https://skift.com/2026/11/05/airbnb-ceo-our-specialized-ai-agents-will-handle-every-vertical-in-travel/",
+      "https://www.sec.gov/Archives/edgar/data/0001559720/000119312526337928/d70413dex991.htm"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/airbnb-agent-ia-voyage-2027-agents-specialises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4532484",
+      "auteur": "Edeltravel_",
+      "url": "https://pixabay.com/photos/travel-map-map-plan-to-travel-4532484/"
+    }
   }
 ]
