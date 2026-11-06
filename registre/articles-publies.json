@@ -2007,5 +2007,35 @@
       "auteur": "HalcyonMarine",
       "url": "https://pixabay.com/photos/medical-procedures-medical-office-3579029/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "fireworks-ai-startup-americaine-inference-ia",
+    "title": "Fireworks AI : le moteur qui fait tourner les modèles ouverts",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Fireworks AI",
+    "startups": [
+      {
+        "nom": "Fireworks AI",
+        "site": "fireworks.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://finance.yahoo.com/technology/ai/articles/fireworks-raises-1-5-billion-130000636.html",
+      "https://techfundingnews.com/pytorch-engineers-brainchild-fireworks-ai-closes-250m-at-4b-valuation-to-redefine-enterprise-ai-infrastructure/",
+      "https://eu.36kr.com/en/p/3532934159129479",
+      "https://fireworks.ai/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/fireworks-ai-startup-americaine-inference-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8118382",
+      "auteur": "cookieone",
+      "url": "https://pixabay.com/photos/technology-network-storage-industry-8118382/"
+    }
   }
 ]
