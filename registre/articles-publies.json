@@ -2037,5 +2037,42 @@
       "auteur": "cookieone",
       "url": "https://pixabay.com/photos/technology-network-storage-industry-8118382/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-sierra-paiement-au-resultat",
+    "title": "Business model de Sierra : faire payer les agents d'IA au résultat",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model Sierra (tarification au résultat)",
+    "startups": [
+      {
+        "nom": "Sierra",
+        "site": "sierra.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/2024/02/19/sierra-ai-agents-customer-service/",
+      "https://sierra.ai/blog/100m-arr",
+      "https://sierra.ai/blog/year-two-in-review",
+      "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "https://siliconangle.com/?p=746652",
+      "https://sierra.ai/blog/horizon",
+      "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
+      "https://sierra.ai/blog/sierra-is-on-google-cloud-marketplace",
+      "https://sierra.ai/blog/building-in-france",
+      "https://dust.tt/home/pricing",
+      "https://sierra.ai/blog/introducing-compliance-console"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-sierra-paiement-au-resultat.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "81677",
+      "auteur": "seografika",
+      "url": "https://pixabay.com/photos/phone-talking-about-work-81677/"
+    }
   }
 ]
