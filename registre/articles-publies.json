@@ -1726,5 +1726,26 @@
       "auteur": "Edeltravel_",
       "url": "https://pixabay.com/photos/travel-map-map-plan-to-travel-4532484/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-1",
+    "slug": "copilot-chat-limites-usage-entreprises-sans-licence",
+    "title": "Copilot Chat : Microsoft limite l'usage des salariés sans licence",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Microsoft – limites d'usage de Copilot Chat pour les utilisateurs sans licence Microsoft 365 Copilot (MC1536158) – déploiement à partir du 2 novembre 2026",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814",
+      "https://mc.merill.net/message/MC1536158",
+      "https://windowsforum.com/news/microsoft-expands-copilot-chat-limits-for-unlicensed-business-users-in-november-2026.451065/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/copilot-chat-limites-usage-entreprises-sans-licence.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2326419",
+      "auteur": "Alyibel",
+      "url": "https://pixabay.com/photos/entrepreneur-computer-men-office-2326419/"
+    }
   }
 ]
