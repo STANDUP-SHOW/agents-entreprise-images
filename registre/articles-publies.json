@@ -1777,5 +1777,34 @@
       "auteur": "marcinjozwiak",
       "url": "https://pixabay.com/photos/trucks-depot-warehouse-4405895/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "tabs-startup-americaine-facturation-ia",
+    "title": "Tabs : la fintech new-yorkaise qui confie la facturation à l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Tabs",
+    "startups": [
+      {
+        "nom": "Tabs",
+        "site": "tabs.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fintech.global/2025/09/17/ai-finance-platform-tabs-raises-55m-series-b/",
+      "https://www.thesaasnews.com/news/tabs-raises-55-million-in-series-b",
+      "https://www.tabs.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/tabs-startup-americaine-facturation-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2700757",
+      "auteur": "iModDesign",
+      "url": "https://pixabay.com/photos/business-accounting-finance-2700757/"
+    }
   }
 ]
