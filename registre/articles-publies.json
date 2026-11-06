@@ -1863,5 +1863,34 @@
       "auteur": "u_fv5gbod0th",
       "url": "https://pixabay.com/photos/woman-ecommerce-working-laptop-8444805/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "railway-startup-americaine-cloud-developpeurs",
+    "title": "Railway : le cloud simplifié qui séduit deux millions de développeurs",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Railway",
+    "startups": [
+      {
+        "nom": "Railway",
+        "site": "railway.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://siliconangle.com/2026/01/22/intelligent-cloud-infrastructure-startup-railway-gets-100m-simplify-application-deployment/",
+      "https://finance.yahoo.com/news/railway-raises-100-million-series-140100124.html",
+      "https://railway.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/railway-startup-americaine-cloud-developpeurs.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5653501",
+      "auteur": "googlerankfaster",
+      "url": "https://pixabay.com/photos/woman-computers-office-working-5653501/"
+    }
   }
 ]
