@@ -2126,5 +2126,43 @@
       "auteur": "jennycepeda",
       "url": "https://pixabay.com/photos/doctor-team-medicine-2568481/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-classer-documents-courrier-pme",
+    "title": "Un agent IA peut-il trier le courrier et classer les documents d’une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : classement automatique des documents et du courrier par un agent IA",
+    "question": "Un agent IA peut-il trier le courrier et classer les documents d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+    "solutions_comparees": [
+      "Google Document AI",
+      "Nanonets",
+      "Mindee",
+      "DocuWare",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+      "https://entreprendre.service-public.fr/vosdroits/F10029",
+      "https://cloud.google.com/document-ai/pricing",
+      "https://nanonets.com/pricing",
+      "https://www.mindee.com/pricing",
+      "https://start.docuware.com/intelligent-document-processing",
+      "https://start.docuware.com/fr/a-propos-de-docuware",
+      "https://iagent.agency/agents/agent-de-classement",
+      "https://iagent.agency/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-classer-documents-courrier-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1219889",
+      "auteur": "helpsg",
+      "url": "https://pixabay.com/photos/working-business-women-female-work-1219889/"
+    }
   }
 ]
