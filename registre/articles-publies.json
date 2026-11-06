@@ -2279,5 +2279,43 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/student-typing-keyboard-text-woman-849828/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "par-ou-commencer-ia-tpe-pme-sans-projet-premier-cas-usage",
+    "title": "Par où commencer avec l’IA quand on dirige une TPE ou une PME sans projet précis ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : premier cas d'usage de l'IA quand on n'a pas de projet (choix de la tâche, essai, accompagnements)",
+    "question": "Par où commencer avec l'IA quand on dirige une TPE ou une PME sans projet précis ?",
+    "theme": "deploiement-integration",
+    "preuve_question": "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+    "solutions_comparees": [
+      "Zapier",
+      "Claude (Anthropic)",
+      "Dust",
+      "n8n",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+      "https://www.entreprises.gouv.fr/espace-presse/un-du-plan-osez-lia-un-premier-bilan-positif-et-une-nouvelle-etape-pour-accelerer",
+      "https://zapier.com/pricing",
+      "https://claude.com/pricing",
+      "https://dust.tt/home/pricing",
+      "https://n8n.io/pricing/",
+      "https://iagent.agency/workforce",
+      "https://iagent.agency/pricing",
+      "https://iagent.agency/entreprises-pilotes"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/par-ou-commencer-ia-tpe-pme-sans-projet-premier-cas-usage.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2284501",
+      "auteur": "mwitt1337",
+      "url": "https://pixabay.com/photos/meeting-business-architect-office-2284501/"
+    }
   }
 ]
