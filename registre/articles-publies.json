@@ -1950,5 +1950,34 @@
       "auteur": "orzalaga",
       "url": "https://pixabay.com/photos/doctor-nurse-review-hospital-5224334/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "ambience-healthcare-startup-americaine-documentation-medicale",
+    "title": "Ambience Healthcare : l'IA qui tient le dossier médical des hôpitaux",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Ambience Healthcare",
+    "startups": [
+      {
+        "nom": "Ambience Healthcare",
+        "site": "ambiencehealthcare.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://siliconangle.com/?p=705432",
+      "https://ambiencehealthcare.com/blog/ambience-healthcare-announces-243-million-series-c-to-scale-its-ai-platform-for-health-systems",
+      "https://builtin.com/articles/ambience-healthcare-raises-243m-20250730"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ambience-healthcare-startup-americaine-documentation-medicale.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5710152",
+      "auteur": "Maximilianovich",
+      "url": "https://pixabay.com/photos/doctor-patient-consultation-5710152/"
+    }
   }
 ]
