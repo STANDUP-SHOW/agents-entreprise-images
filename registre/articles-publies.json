@@ -1684,5 +1684,26 @@
       "auteur": "Firmbee",
       "url": "https://pixabay.com/photos/bookkeeping-accounting-taxes-615384/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-1",
+    "slug": "openai-gpt-6-cyber-agents-ia-recherche-vulnerabilites",
+    "title": "OpenAI lance GPT-6 Cyber, un agent IA pour traquer les failles",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "OpenAI – lancement de GPT-6 Cyber (Daybreak Red) – 5 novembre 2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/05/openai-launches-gpt-6-cyber-a-gpt-6-astra-model-built-to-keep-vulnerability-research-in-scope/",
+      "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+      "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/openai-gpt-6-cyber-agents-ia-recherche-vulnerabilites.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6521720",
+      "auteur": "Innovalabs",
+      "url": "https://pixabay.com/photos/software-developer-web-developer-6521720/"
+    }
   }
 ]
