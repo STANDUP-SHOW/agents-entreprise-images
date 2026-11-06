@@ -2074,5 +2074,57 @@
       "auteur": "seografika",
       "url": "https://pixabay.com/photos/phone-talking-about-work-81677/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-sante-2026-11-06",
+    "title": "5 startups américaines de la santé qui séduisent les investisseurs",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : 5 startups de la santé qui séduisent les investisseurs",
+    "startups": [
+      {
+        "nom": "OpenEvidence",
+        "site": "openevidence.com"
+      },
+      {
+        "nom": "Grow Therapy",
+        "site": "growtherapy.com"
+      },
+      {
+        "nom": "Function Health",
+        "site": "functionhealth.com"
+      },
+      {
+        "nom": "Pomelo Care",
+        "site": "pomelocare.com"
+      },
+      {
+        "nom": "Ambience Healthcare",
+        "site": "ambiencehealthcare.com"
+      }
+    ],
+    "theme": "Startups américaines de la santé qui séduisent les investisseurs (information médicale, santé mentale, prévention, maternité, documentation clinique)",
+    "sources": [
+      "https://hitconsultant.net/2026/10/12/rock-health-q3-2026-market-update-fifteen-years-digital-health-venture-funding-deployable-value/",
+      "https://www.cnbc.com/2026/01/21/openevidence-chatgpt-for-doctors-doubles-valuation-to-12-billion.html",
+      "https://siliconangle.com/?p=728519",
+      "https://hitconsultant.net/2026/03/06/grow-therapy-mental-health-platform-funding/",
+      "https://hlth.com/insights/news/function-health-raises-298m-series-b-at-2-5b-valuation-2025-11-25",
+      "https://techfundingnews.com/function-health-nets-450m-from-general-catalyst-to-prove-preventive-care-is-cheaper-than-waiting-to-get-sick/",
+      "https://femtechinsider.com/pomelo-care-raises-92-million-series-c-at-1-7-billion-valuation-expands-beyond-maternity-care/",
+      "https://hitconsultant.net/2026/01/08/pomelo-care-secures-92m-to-scale-the-nations-most-accountable-womens-health-model",
+      "https://siliconangle.com/?p=705432",
+      "https://ambiencehealthcare.com/blog/ambience-healthcare-announces-243-million-series-c-to-scale-its-ai-platform-for-health-systems"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-sante-2026-11-06.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2568481",
+      "auteur": "jennycepeda",
+      "url": "https://pixabay.com/photos/doctor-team-medicine-2568481/"
+    }
   }
 ]
