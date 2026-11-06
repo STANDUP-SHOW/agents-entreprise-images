@@ -1622,5 +1622,26 @@
       "auteur": "Waid1995",
       "url": "https://pixabay.com/photos/skyline-london-financial-district-4587051/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-1",
+    "slug": "zipline-leve-1-5-milliard-valorisation-21-5-milliards-drones",
+    "title": "Zipline lève 1,5 milliard de dollars et vaut 21,5 milliards",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Zipline – 1,5 Md$ à 21,5 Md$ de valorisation + accord Walmart 300 sites – 5 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+      "https://dronexl.co/2026/11/05/zipline-1-5-billion-raise-walmart-300-sites/",
+      "https://techstartups.com/2026/11/05/zipline-raises-1-5-billion-at-21-5-billion-valuation-to-expand-drone-delivery-across-the-u-s/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/zipline-leve-1-5-milliard-valorisation-21-5-milliards-drones.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1134764",
+      "auteur": "kimhyeri",
+      "url": "https://pixabay.com/photos/drone-sky-leisure-box-1134764/"
+    }
   }
 ]
