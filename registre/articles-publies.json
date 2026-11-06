@@ -1663,5 +1663,26 @@
       "auteur": "Free-Photos",
       "url": "https://pixabay.com/photos/computer-business-typing-keyboard-1149148/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-1",
+    "slug": "kabilio-leve-10-millions-agent-ia-comptable-cabinets",
+    "title": "Kabilio lève 10 millions d'euros pour son agent IA comptable",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Kabilio – 10 M€ (Picus Capital, Visionaries Club, CDTI) – 5 novembre 2026",
+    "sources": [
+      "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
+      "https://startups-espanolas.es/kabilio-levanta-10-millones-para-su-ia-para-asesorias-con-picus-capital-y-visionaries/",
+      "https://theofficer.es/kabilio-la-plataforma-ia-levanta-10-millones-y-llegara-a-500-despachos-en-2026/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/kabilio-leve-10-millions-agent-ia-comptable-cabinets.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "615384",
+      "auteur": "Firmbee",
+      "url": "https://pixabay.com/photos/bookkeeping-accounting-taxes-615384/"
+    }
   }
 ]
