@@ -1979,5 +1979,33 @@
       "auteur": "Maximilianovich",
       "url": "https://pixabay.com/photos/doctor-patient-consultation-5710152/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "lila-sciences-startup-americaine-laboratoires-ia",
+    "title": "Lila Sciences : les laboratoires automatisés pilotés par l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Lila Sciences",
+    "startups": [
+      {
+        "nom": "Lila Sciences",
+        "site": "lila.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://finance.yahoo.com/news/exclusive-ai-lab-lila-sciences-101645837.html",
+      "https://startupfortune.com/lila-sciences-is-testing-how-much-investors-will-pay-for-automated-labs/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/lila-sciences-startup-americaine-laboratoires-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3579029",
+      "auteur": "HalcyonMarine",
+      "url": "https://pixabay.com/photos/medical-procedures-medical-office-3579029/"
+    }
   }
 ]
