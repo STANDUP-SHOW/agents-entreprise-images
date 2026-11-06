@@ -1921,5 +1921,34 @@
       "auteur": "jarmoluk",
       "url": "https://pixabay.com/photos/robot-arm-technology-robot-arm-2791671/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "pomelo-care-startup-americaine-sante-maternelle",
+    "title": "Pomelo Care : la maternité virtuelle payée par les assureurs",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Pomelo Care",
+    "startups": [
+      {
+        "nom": "Pomelo Care",
+        "site": "pomelocare.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://femtechinsider.com/pomelo-care-raises-92-million-series-c-at-1-7-billion-valuation-expands-beyond-maternity-care/",
+      "https://hitconsultant.net/2026/01/08/pomelo-care-secures-92m-to-scale-the-nations-most-accountable-womens-health-model",
+      "https://www.prnewswire.com/news-releases/pomelo-care-raises-46-million-covers-over-3-million-lives-and-publishes-data-proving-its-virtual-care-model-improves-outcomes-302177519.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/pomelo-care-startup-americaine-sante-maternelle.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5224334",
+      "auteur": "orzalaga",
+      "url": "https://pixabay.com/photos/doctor-nurse-review-hospital-5224334/"
+    }
   }
 ]
