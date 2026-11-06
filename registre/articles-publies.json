@@ -1834,5 +1834,34 @@
       "auteur": "19811900",
       "url": "https://pixabay.com/photos/woman-shopping-bags-happy-shopping-5899644/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "whop-startup-americaine-place-de-marche-createurs",
+    "title": "Whop : la place de marché de Brooklyn qui équipe 25 000 entrepreneurs",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Whop",
+    "startups": [
+      {
+        "nom": "Whop",
+        "site": "whop.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://thenextweb.com/news/whop-200m-series-d-5-1b-valuation-sequoia",
+      "https://en.wikipedia.org/wiki/Whop.com",
+      "https://techfundingnews.com/whop-raises-205m-at-5-1b-valuation-as-sequoia-reverses-its-earlier-pass/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/whop-startup-americaine-place-de-marche-createurs.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8444805",
+      "auteur": "u_fv5gbod0th",
+      "url": "https://pixabay.com/photos/woman-ecommerce-working-laptop-8444805/"
+    }
   }
 ]
