@@ -2201,5 +2201,44 @@
       "auteur": "WebTechExperts",
       "url": "https://pixabay.com/photos/meeting-workplace-team-office-5395615/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "panne-service-ia-pme-plan-b-local-continuite",
+    "title": "Que faire si le service d’IA de votre PME tombe en panne : faut-il un plan B local ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : continuité en cas de panne d'un service d'IA en ligne (plan B, second fournisseur, IA locale)",
+    "question": "Que se passe-t-il si le service d'IA en ligne d'une PME tombe en panne, et faut-il un plan B local ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://selectra.info/telecom/actualites/marche/panne-chatgpt-claude-3-septembre-2026-tableaux-de-bord",
+    "solutions_comparees": [
+      "Ollama",
+      "LM Studio",
+      "Mistral AI",
+      "OVHcloud AI Endpoints",
+      "iAgent"
+    ],
+    "sources": [
+      "https://selectra.info/telecom/actualites/marche/panne-chatgpt-claude-3-septembre-2026-tableaux-de-bord",
+      "https://www.mobigeeks.fr/panne-mondiale-du-20-avril-2026-chatgpt-et-claude-hors-service-cloudflare-au-coeur-des-soupcons/",
+      "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+      "https://cloud.google.com/vertex-ai/sla",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://mistral.ai/pricing",
+      "https://ollama.com/pricing",
+      "https://lmstudio.ai/",
+      "https://iagent.agency/local-ai",
+      "https://iagent.agency/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/panne-service-ia-pme-plan-b-local-continuite.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2558705",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/engineer-fiber-fieldengineer-2558705/"
+    }
   }
 ]
