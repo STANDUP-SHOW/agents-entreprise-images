@@ -1806,5 +1806,33 @@
       "auteur": "iModDesign",
       "url": "https://pixabay.com/photos/business-accounting-finance-2700757/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "imprint-startup-americaine-cartes-cobrandees",
+    "title": "Imprint : la fintech de New York qui réinvente la carte de fidélité",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Imprint",
+    "startups": [
+      {
+        "nom": "Imprint",
+        "site": "imprint.co"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.siliconrepublic.com/start-ups/imprint-becomes-latest-irish-founded-unicorn-with-150m-series-d-raise",
+      "https://www.techcompanynews.com/imprint-raises-150-million-in-series-d-funding-round/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/imprint-startup-americaine-cartes-cobrandees.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5899644",
+      "auteur": "19811900",
+      "url": "https://pixabay.com/photos/woman-shopping-bags-happy-shopping-5899644/"
+    }
   }
 ]
