@@ -1579,5 +1579,27 @@
       "auteur": "Mylene2401",
       "url": "https://pixabay.com/photos/headset-make-a-phone-call-4356933/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-1",
+    "slug": "dropbox-rachete-tigris-data-350-millions-stockage-agents-ia",
+    "title": "Dropbox rachète Tigris Data 350 millions pour stocker les données IA",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Dropbox – rachat de Tigris Data (≈350 M$) et lancement de DBX Agent Cloud – 5 novembre 2026",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/0001467623/000146762326000056/november2026exhibit991.htm",
+      "https://finance.yahoo.com/technology/articles/dropbox-announces-third-quarter-2026-210400533.html",
+      "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "https://siliconangle.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-releases-new-ai-productivity-features/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/dropbox-rachete-tigris-data-350-millions-stockage-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2476790",
+      "auteur": "Akela999",
+      "url": "https://pixabay.com/photos/data-center-engine-room-2476790/"
+    }
   }
 ]
