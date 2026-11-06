@@ -1747,5 +1747,35 @@
       "auteur": "Alyibel",
       "url": "https://pixabay.com/photos/entrepreneur-computer-men-office-2326419/"
     }
+  },
+  {
+    "date": "2026-11-06",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "happyrobot-startup-americaine-agents-ia-logistique",
+    "title": "HappyRobot : les agents d'IA qui décrochent le téléphone du fret",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup HappyRobot",
+    "startups": [
+      {
+        "nom": "HappyRobot",
+        "site": "happyrobot.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://theaiinsider.tech/2026/08/04/happyrobot-raises-150m-in-series-c-funding-to-expand-ai-agent-platform-for-logistics-supply-chains/",
+      "https://www.happyrobot.ai/blog/series-b-announcement",
+      "https://tech.eu/2025/09/03/happyrobot-raises-44m-series-b-to-scale-ai-agents-for-the-supply-chain/",
+      "https://www.ycombinator.com/companies/happyrobot"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/happyrobot-startup-americaine-agents-ia-logistique.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4405895",
+      "auteur": "marcinjozwiak",
+      "url": "https://pixabay.com/photos/trucks-depot-warehouse-4405895/"
+    }
   }
 ]
