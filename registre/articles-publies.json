@@ -2422,5 +2422,26 @@
       "auteur": "MinoltaMichi",
       "url": "https://pixabay.com/photos/radar-radar-screen-primary-radar-7087312/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-1",
+    "slug": "vaeridion-leve-30-millions-avion-electrique-regional-microliner",
+    "title": "VÆRIDION lève 30 millions d'euros pour son avion régional électrique",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "VÆRIDION – série A2 de 30 M€ (SHIFT Invest, Invest-NL) + subvention UE CAROLUS 94,5 M€ – 5 novembre 2026",
+    "sources": [
+      "https://tech.eu/2026/11/05/german-aerospace-startup-v-ridion-raises-30m-for-zero-emission-regional-fights/",
+      "https://aviationweek.com/aerospace/emerging-technologies/vaeridion-secures-eu30m-equity-round-selected-eu945m-eu-grant",
+      "https://ioplus.nl/en/posts/vridion-raises-30-million-for-nine-seat-electric-aircraft"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/vaeridion-leve-30-millions-avion-electrique-regional-microliner.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5283610",
+      "auteur": "WFranz",
+      "url": "https://pixabay.com/photos/airfield-light-aircraft-5283610/"
+    }
   }
 ]
