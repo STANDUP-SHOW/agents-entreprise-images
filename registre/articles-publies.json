@@ -3013,5 +3013,43 @@
       "auteur": "advogadoaguilar",
       "url": "https://pixabay.com/photos/man-lawyer-office-desk-computer-5806012/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "calculer-retour-sur-investissement-agent-ia-pme-methode",
+    "title": "Comment calculer le retour sur investissement d'un agent IA dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : méthode de calcul du ROI d'un agent IA (coûts, gains, test)",
+    "question": "Comment calculer le retour sur investissement d'un agent IA dans une PME ?",
+    "theme": "couts-roi",
+    "preuve_question": "https://www.lemondeinformatique.fr/actualites/lire-les-entreprises-peinent-a-mesurer-le-roi-des-projets-ia-99897.html",
+    "solutions_comparees": [
+      "Zapier",
+      "Lindy",
+      "Dust",
+      "Mistral AI Team",
+      "iAgent"
+    ],
+    "sources": [
+      "https://fr.newsroom.ibm.com/Etude-IBM-pr-s-de-deux-tiers-des-entreprises-interrog-es-en-France-font-tat-de-gains-de-productivit-significatifs-gr-ce-lIA",
+      "https://www.lemondeinformatique.fr/actualites/lire-les-entreprises-peinent-a-mesurer-le-roi-des-projets-ia-99897.html",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://zapier.com/pricing",
+      "https://www.lindy.ai/pricing",
+      "https://dust.tt/home/pricing",
+      "https://mistral.ai/pricing",
+      "https://iagent.agency/pricing",
+      "https://iagent.agency/why-rent"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/calculer-retour-sur-investissement-agent-ia-pme-methode.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3213924",
+      "auteur": "Mohamed_hassan",
+      "url": "https://pixabay.com/photos/teamwork-cooperation-brainstorming-3213924/"
+    }
   }
 ]
