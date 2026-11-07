@@ -2629,5 +2629,35 @@
       "auteur": "Michael_Pointner",
       "url": "https://pixabay.com/photos/boat-sea-water-vessel-ship-ocean-7344972/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "impulse-space-startup-americaine-transport-orbital",
+    "title": "Impulse Space : le transporteur orbital fondé par un ancien de SpaceX",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Impulse Space",
+    "startups": [
+      {
+        "nom": "Impulse Space",
+        "site": "impulsespace.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://siliconangle.com/2026/06/02/space-propulsion-startup-impulse-space-closes-500m-investment/",
+      "https://www.satellitetoday.com/finance/2026/06/02/impulse-space-raises-another-massive-funding-round-in-500m-series-d/",
+      "https://en.wikipedia.org/wiki/Impulse_Space",
+      "https://www.ventureatlas.org/company/impulse-space"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/impulse-space-startup-americaine-transport-orbital.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "693215",
+      "auteur": "SpaceX-Imagery",
+      "url": "https://pixabay.com/photos/rocket-launch-night-trajectory-693215/"
+    }
   }
 ]
