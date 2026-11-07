@@ -2338,5 +2338,26 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/code-coding-computer-data-1839406/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-1",
+    "slug": "mistral-ai-rachete-skiplabs-fiabiliser-code-genere-ia",
+    "title": "Mistral AI rachète SkipLabs pour fiabiliser le code généré par l'IA",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Mistral AI – rachat de SkipLabs (5e acquisition 2026, montant non communiqué) – 5 novembre 2026",
+    "sources": [
+      "https://www.maddyness.com/2026/11/05/mistral-ai-soffre-une-cinquieme-acquisition-depuis-le-debut-de-lannee/",
+      "https://www.lemondeinformatique.fr/actualites/lire-mistral-rachete-skiplabs-et-cree-une-equipe-dediee-aux-langages-100926.html",
+      "https://www.mediavenir.fr/mistral-ne-sarrete-plus-la-pepite-francaise-de-lia-annonce-sa-cinquieme-acquisition-de-lannee/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mistral-ai-rachete-skiplabs-fiabiliser-code-genere-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2569234",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/people-group-friends-concept-2569234/"
+    }
   }
 ]
