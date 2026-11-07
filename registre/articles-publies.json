@@ -2486,5 +2486,26 @@
       "auteur": "reallywellmadedesks",
       "url": "https://pixabay.com/photos/coworkers-workplace-colleagues-6952916/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-1",
+    "slug": "depenses-ia-entreprises-plafonnent-donnees-ramp-agents",
+    "title": "Dépenses en IA : les entreprises consomment plus mais paient moins",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Ramp – données de dépenses IA des entreprises (stagnation août-septembre 2026, guerre des prix) rapportées par TechCrunch – 6 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "https://econlab.substack.com/p/top-saas-vendors-on-ramp-nov-2026",
+      "https://fred.stlouisfed.org/series/RAMPAIALL"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/depenses-ia-entreprises-plafonnent-donnees-ramp-agents.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1680905",
+      "auteur": "stevepb",
+      "url": "https://pixabay.com/photos/new-year-calculator-calculation-1680905/"
+    }
   }
 ]
