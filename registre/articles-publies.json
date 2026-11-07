@@ -2841,5 +2841,60 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/code-coding-programming-html-2558220/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-hard-tech-reindustrialisation-2026-11-07",
+    "title": "5 startups américaines de la hard tech qui relancent l'industrie",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : 5 startups de la hard tech",
+    "startups": [
+      {
+        "nom": "Saronic",
+        "site": "saronic.com"
+      },
+      {
+        "nom": "Impulse Space",
+        "site": "impulsespace.com"
+      },
+      {
+        "nom": "Exowatt",
+        "site": "exowatt.com"
+      },
+      {
+        "nom": "Overland AI",
+        "site": "overland.ai"
+      },
+      {
+        "nom": "Hadrian",
+        "site": "hadrian.co"
+      }
+    ],
+    "theme": "hard tech et réindustrialisation",
+    "sources": [
+      "https://www.marinelink.com/news/saronic-closes-b-series-d-funding-537520",
+      "https://www.tectonicdefense.com/saronic-scores-392m-navy-contract-for-corsair-asvs/",
+      "https://www.rivieramm.com/news-content-hub/us-navy-turns-to-non-traditional-defence-start-up-for-fleet-of-asvs-87195",
+      "https://siliconangle.com/2026/06/02/space-propulsion-startup-impulse-space-closes-500m-investment/",
+      "https://www.satellitetoday.com/finance/2026/06/02/impulse-space-raises-another-massive-funding-round-in-500m-series-d/",
+      "https://www.ventureatlas.org/company/impulse-space",
+      "https://onestopesg.com/esg-news/exowatt-secures-50-million-to-scale-24-7-solar-energy-systems-for-ai-data-centers-1763483024913",
+      "https://convergedigest.com/exowatt-raises-70m-for-modular-solar-thermal-systems/",
+      "https://www.teardown.ai/companies/exowatt",
+      "https://www.therobotreport.com/overland-ai-raises-100m-scale-autonomy-u-s-armed-forces/",
+      "https://thedefensepost.com/2026/10/08/overland-ai-us-army-rangers/",
+      "https://techcrunch.com/2025/07/17/hadrian-raises-260m-to-build-out-automated-factories-for-space-and-defense-parts",
+      "https://www.gpec.org/news/press-releases/hadrian-ribbon-cutting-mesa/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-hard-tech-reindustrialisation-2026-11-07.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "9694120",
+      "auteur": "Sergey2025",
+      "url": "https://pixabay.com/photos/man-architect-engineer-people-9694120/"
+    }
   }
 ]
