@@ -2380,5 +2380,26 @@
       "auteur": "iKumpunen",
       "url": "https://pixabay.com/photos/logistics-hall-shelf-truck-carry-748152/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-1",
+    "slug": "openai-leve-11-milliards-valorisation-1250-milliards-dollars",
+    "title": "OpenAI lèverait 11 milliards de dollars, valorisé 1 250 milliards",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "OpenAI – première tranche de 11 Md$ à 1 250 Md$ de valorisation (Bloomberg) – 6 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
+      "https://www.investing.com/news/stock-market-news/openai-closes-11-billion-funding-at-125-trillion-valuation--report-5009147"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/openai-leve-11-milliards-valorisation-1250-milliards-dollars.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1863880",
+      "auteur": "3844328",
+      "url": "https://pixabay.com/photos/stock-trading-monitor-business-1863880/"
+    }
   }
 ]
