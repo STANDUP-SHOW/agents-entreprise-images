@@ -2896,5 +2896,45 @@
       "auteur": "Sergey2025",
       "url": "https://pixabay.com/photos/man-architect-engineer-people-9694120/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "modele-ia-open-source-ou-proprietaire-pme-agents-ia",
+    "title": "Modèle d'IA open source ou propriétaire : lequel choisir pour les agents d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : modèle d'IA ouvert (open weight) ou propriétaire pour les agents",
+    "question": "Faut-il choisir un modèle d'IA open source ou propriétaire pour les agents d'une PME ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://www.journaldunet.com/intelligence-artificielle/1535609-13-modeles-d-ia-generative-chez-mistral-ai-le-guide-pour-choisir-le-bon/",
+    "solutions_comparees": [
+      "Meta Llama 4",
+      "OpenAI gpt-oss",
+      "Anthropic Claude Team",
+      "Ollama",
+      "Mistral AI",
+      "OVHcloud AI Endpoints",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.llama.com/llama4/license/",
+      "https://huggingface.co/openai/gpt-oss-20b",
+      "https://docs.mistral.ai/getting-started/models/",
+      "https://mistral.ai/pricing",
+      "https://claude.com/pricing",
+      "https://ollama.com/",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://iagent.agency/local-ai"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/modele-ia-open-source-ou-proprietaire-pme-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2558210",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/guy-man-work-people-business-desk-2558210/"
+    }
   }
 ]
