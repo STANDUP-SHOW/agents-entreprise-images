@@ -2659,5 +2659,35 @@
       "auteur": "SpaceX-Imagery",
       "url": "https://pixabay.com/photos/rocket-launch-night-trajectory-693215/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "exowatt-startup-americaine-energie-solaire-thermique",
+    "title": "Exowatt : l'énergie solaire stockée en chaleur pour les data centers",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Exowatt",
+    "startups": [
+      {
+        "nom": "Exowatt",
+        "site": "exowatt.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://onestopesg.com/esg-news/exowatt-secures-50-million-to-scale-24-7-solar-energy-systems-for-ai-data-centers-1763483024913",
+      "https://convergedigest.com/exowatt-raises-70m-for-modular-solar-thermal-systems/",
+      "https://en.wikipedia.org/wiki/Exowatt",
+      "https://www.teardown.ai/companies/exowatt"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/exowatt-startup-americaine-energie-solaire-thermique.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4535891",
+      "auteur": "Michael_Kastelic",
+      "url": "https://pixabay.com/photos/sun-electricity-production-renewable-4535891/"
+    }
   }
 ]
