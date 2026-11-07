@@ -2780,5 +2780,34 @@
       "auteur": "RodDIYguy",
       "url": "https://pixabay.com/photos/network-cabling-installation-7483084/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "overland-ai-startup-americaine-vehicules-terrestres-autonomes",
+    "title": "Overland AI : les véhicules tout-terrain autonomes de l'US Army",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Overland AI",
+    "startups": [
+      {
+        "nom": "Overland AI",
+        "site": "overland.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.therobotreport.com/overland-ai-raises-100m-scale-autonomy-u-s-armed-forces/",
+      "https://thedefensepost.com/2026/10/08/overland-ai-us-army-rangers/",
+      "https://www.globenewswire.com/news-release/2025/01/13/3008705/0/en/Overland-AI-Raises-32-Million-in-Series-A-Funding-to-Advance-Ground-Autonomy-for-U-S-Defense-Forces.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/overland-ai-startup-americaine-vehicules-terrestres-autonomes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2530700",
+      "auteur": "Military_Material",
+      "url": "https://pixabay.com/photos/humvee-us-army-united-states-army-2530700/"
+    }
   }
 ]
