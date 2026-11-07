@@ -2401,5 +2401,26 @@
       "auteur": "3844328",
       "url": "https://pixabay.com/photos/stock-trading-monitor-business-1863880/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-1",
+    "slug": "shield-ai-leve-2-5-milliards-rachete-echodyne-radars-anti-drones",
+    "title": "Shield AI lève 2,5 milliards et rachète Echodyne pour 5,3 milliards",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Shield AI – levée de 2,5 Md$ (série H 1 Md$ à 28,8 Md$) et rachat d'Echodyne (5,3 Md$) – 5 novembre 2026",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation-302930012.html",
+      "https://siliconangle.com/2026/11/05/autonomous-combat-drone-maker-shield-ai-buys-radar-startup-echodyne-for-5-3b/",
+      "https://thenextweb.com/news/shield-ai-echodyne-5-3b-acquisition-28-8b-valuation"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/shield-ai-leve-2-5-milliards-rachete-echodyne-radars-anti-drones.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7087312",
+      "auteur": "MinoltaMichi",
+      "url": "https://pixabay.com/photos/radar-radar-screen-primary-radar-7087312/"
+    }
   }
 ]
