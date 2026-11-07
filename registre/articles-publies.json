@@ -2568,5 +2568,35 @@
       "auteur": "Campaign_Creators",
       "url": "https://pixabay.com/photos/client-business-marketing-website-3691440/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "netic-startup-americaine-ia-artisans-depannage",
+    "title": "Netic : les agents IA qui décrochent pour les plombiers et couvreurs",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Netic",
+    "startups": [
+      {
+        "nom": "Netic",
+        "site": "netic.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.insurancejournal.com/news/national/2025/11/13/847406.htm",
+      "https://www.pmmag.com/articles/106572-netic-launches-with-20m-to-fix-the-500b-industries-that-keep-america-running",
+      "https://greylock.com/blog/introducing-netic-the-ai-revenue-engine-for-americas-essential-services/",
+      "https://sacra.com/c/netic/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/netic-startup-americaine-ia-artisans-depannage.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "228010",
+      "auteur": "fran1",
+      "url": "https://pixabay.com/photos/plumber-handyman-repair-worker-228010/"
+    }
   }
 ]
