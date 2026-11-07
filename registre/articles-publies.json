@@ -2809,5 +2809,37 @@
       "auteur": "Military_Material",
       "url": "https://pixabay.com/photos/humvee-us-army-united-states-army-2530700/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-cognition-agents-code-ia",
+    "title": "Business model de Cognition : vendre le travail d'un ingénieur IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model Cognition",
+    "startups": [
+      {
+        "nom": "Cognition",
+        "site": "cognition.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "https://thenextweb.com/news/cognition-series-e-48bn-flat-multiple",
+      "https://www.maginative.com/article/cognition-ai-raises-400-million-at-a-10-2-billion-valuation/",
+      "https://www.verdict.co.uk/cognition-ai-acquire-windsurf/",
+      "https://venturebeat.com/business/devin-2-0-is-here-cognition-slashes-price-of-ai-software-engineer-to-20-per-month-from-500",
+      "https://devin.ai/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-cognition-agents-code-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2558220",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/code-coding-programming-html-2558220/"
+    }
   }
 ]
