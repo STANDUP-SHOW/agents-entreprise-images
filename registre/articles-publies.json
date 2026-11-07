@@ -2537,5 +2537,36 @@
       "auteur": "snehaltechnotery",
       "url": "https://pixabay.com/photos/woman-telemarketing-communication-6573021/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "gamma-startup-americaine-presentations-ia",
+    "title": "Gamma : la start-up rentable qui veut remplacer PowerPoint par l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Gamma",
+    "startups": [
+      {
+        "nom": "Gamma",
+        "site": "gamma.app"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/",
+      "https://community.gamma.app/x/gamma-announcements/msg_2uDjNPJsawCK/gamma-secures-series-b-funding-at-21b-valuation-wi",
+      "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+      "https://thenextweb.com/news/gamma-grant-lee-profitable-ai-startup",
+      "https://www.southparkcommons.com/companies/gamma"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/gamma-startup-americaine-presentations-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3691440",
+      "auteur": "Campaign_Creators",
+      "url": "https://pixabay.com/photos/client-business-marketing-website-3691440/"
+    }
   }
 ]
