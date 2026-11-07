@@ -2974,5 +2974,44 @@
       "auteur": "guvo59",
       "url": "https://pixabay.com/photos/make-a-phone-call-phone-woman-young-5300447/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "ia-gratuite-ou-payante-donnees-entreprise-entrainement-pme",
+    "title": "IA gratuite ou payante : que deviennent les données qu'une PME confie à l'assistant ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : réutilisation pour l'entraînement et conservation des données selon offre gratuite ou payante",
+    "question": "Que deviennent les données qu'une PME saisit dans une IA gratuite, et qu'est-ce que change une offre payante ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://cnil.fr/fr/les-questions-reponses-de-la-cnil-sur-lutilisation-dun-systeme-dia-generative",
+    "solutions_comparees": [
+      "Google API Gemini (payant)",
+      "Anthropic Claude Team",
+      "Mistral AI Team / Enterprise",
+      "Dust",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://cnil.fr/fr/les-questions-reponses-de-la-cnil-sur-lutilisation-dun-systeme-dia-generative",
+      "https://ai.google.dev/gemini-api/terms",
+      "https://www.anthropic.com/news/updates-to-our-consumer-terms",
+      "https://help.mistral.ai/en/articles/347617-do-you-use-my-user-data-to-train-your-artificial-intelligence-models",
+      "https://mistral.ai/pricing",
+      "https://dust.tt/home/security",
+      "https://dust.tt/home/pricing",
+      "https://iagent.agency/faq",
+      "https://iagent.agency/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ia-gratuite-ou-payante-donnees-entreprise-entrainement-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5806012",
+      "auteur": "advogadoaguilar",
+      "url": "https://pixabay.com/photos/man-lawyer-office-desk-computer-5806012/"
+    }
   }
 ]
