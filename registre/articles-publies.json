@@ -2750,5 +2750,35 @@
       "auteur": "PredragKezic",
       "url": "https://pixabay.com/photos/wall-street-financial-new-york-wall-582918/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "chainguard-startup-americaine-securite-logicielle",
+    "title": "Chainguard : la start-up qui sécurise les logiciels open source",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Chainguard",
+    "startups": [
+      {
+        "nom": "Chainguard",
+        "site": "chainguard.dev"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.securityweek.com/chainguard-raises-280-million-in-growth-funding/",
+      "https://siliconangle.com/?p=717894",
+      "https://fintech.global/2025/04/24/chainguard-lands-356m-series-d-to-boost-global-software-supply-chain-security/",
+      "https://www.prnewswire.com/news-releases/introducing-chainguard-catalog-starter-your-choice-of-free-trusted-images-for-modern-application-development-302715321.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/chainguard-startup-americaine-securite-logicielle.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7483084",
+      "auteur": "RodDIYguy",
+      "url": "https://pixabay.com/photos/network-cabling-installation-7483084/"
+    }
   }
 ]
