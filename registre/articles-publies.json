@@ -2507,5 +2507,35 @@
       "auteur": "stevepb",
       "url": "https://pixabay.com/photos/new-year-calculator-calculation-1680905/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "sierra-startup-americaine-agents-ia-service-client",
+    "title": "Sierra : les agents IA de service client de Bret Taylor",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Sierra",
+    "startups": [
+      {
+        "nom": "Sierra",
+        "site": "sierra.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "https://sierra.ai/blog/100m-arr",
+      "https://www.saasrise.com/news/sierra-hits-400m-arr-as-servicenow-shares-crash-27-cd04ea18-6f3f-4faa-bac2-1ddeb4f62525",
+      "https://www.nbcsandiego.com/news/business/money-report/bret-taylors-ai-startup-sierra-raises-funding-at-4-5-billion-valuation/3660401/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sierra-startup-americaine-agents-ia-service-client.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6573021",
+      "auteur": "snehaltechnotery",
+      "url": "https://pixabay.com/photos/woman-telemarketing-communication-6573021/"
+    }
   }
 ]
