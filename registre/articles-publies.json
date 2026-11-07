@@ -2317,5 +2317,26 @@
       "auteur": "mwitt1337",
       "url": "https://pixabay.com/photos/meeting-business-architect-office-2284501/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-1",
+    "slug": "palo-alto-networks-rachat-clutch-500-millions-securite-agents-ia",
+    "title": "Palo Alto Networks veut racheter Clutch pour sécuriser les agents IA",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Palo Alto Networks – négociation pour racheter Clutch Security (500 M$ + compléments) et Beacon Security – 5 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "https://securityboulevard.com/2026/11/palo-alto-networks-in-advanced-talks-to-buy-ai-agent-startup-clutch-security-for-500m-report/",
+      "https://runtimewire.com/article/palo-alto-networks-talks-buy-clutch-beacon-ai-agent-security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/palo-alto-networks-rachat-clutch-500-millions-securite-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1839406",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/code-coding-computer-data-1839406/"
+    }
   }
 ]
