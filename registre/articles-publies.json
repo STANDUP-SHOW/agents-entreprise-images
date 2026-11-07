@@ -2359,5 +2359,26 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/people-group-friends-concept-2569234/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-1",
+    "slug": "agility-robotics-entre-en-bourse-nasdaq-robot-humanoide-digit",
+    "title": "Agility Robotics entre en Bourse : le robot humanoïde Digit au Nasdaq",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Agility Robotics – cotation au Nasdaq (AGLT) via la SPAC Churchill Capital Corp XI, ≈465 M$ bruts, ≈2,5 Md$ – 5 novembre 2026",
+    "sources": [
+      "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
+      "https://siliconangle.com/2026/11/05/humanoid-robot-maker-agility-robotics-debuts-on-the-nasdaq-after-spac-merger/",
+      "https://startupfortune.com/agility-robotics-begins-trading-on-nasdaq-as-aglt-after-spac-vote/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agility-robotics-entre-en-bourse-nasdaq-robot-humanoide-digit.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "748152",
+      "auteur": "iKumpunen",
+      "url": "https://pixabay.com/photos/logistics-hall-shelf-truck-carry-748152/"
+    }
   }
 ]
