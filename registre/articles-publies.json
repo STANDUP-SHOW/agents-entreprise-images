@@ -2443,5 +2443,27 @@
       "auteur": "WFranz",
       "url": "https://pixabay.com/photos/airfield-light-aircraft-5283610/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-1",
+    "slug": "cloudflare-trafic-agents-ia-cout-sites-web-entreprises",
+    "title": "Agents IA : Cloudflare alerte sur leur coût pour les sites web",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Cloudflare – propos de Matthew Prince sur le coût des agents IA (résultats T3, 5 nov. 2026) + coalition Trusted Agent Delegation ; Amazon / Muse / Alexa par SMS",
+    "sources": [
+      "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
+      "https://blog.cloudflare.com/trusted-agent-delegation",
+      "https://siliconangle.com/2026/11/05/cloudflare-shares-surge-as-revenue-growth-accelerates-to-39-and-outlook-rises/",
+      "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/cloudflare-trafic-agents-ia-cout-sites-web-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3100049",
+      "auteur": "dlohner",
+      "url": "https://pixabay.com/photos/sever-digitization-mainframe-3100049/"
+    }
   }
 ]
