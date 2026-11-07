@@ -2689,5 +2689,35 @@
       "auteur": "Michael_Kastelic",
       "url": "https://pixabay.com/photos/sun-electricity-production-renewable-4535891/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "basis-startup-americaine-agents-ia-comptabilite",
+    "title": "Basis : les agents IA new-yorkais qui épaulent les experts-comptables",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Basis",
+    "startups": [
+      {
+        "nom": "Basis",
+        "site": "getbasis.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.cpapracticeadvisor.com/2026/02/24/basis-raises-100-million-to-deploy-ai-agents-for-accounting-firms/178759/",
+      "https://www.internationalaccountingbulletin.com/news/ai-accounting-platform-basis/",
+      "https://fintechnews.ch/fintechusa/basis-us100m-series-b-1-15bn-ai-accounting-agents/82229/",
+      "https://accountingtoday.com/news/major-ai-players-back-basis-with-34-million-series-a"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/basis-startup-americaine-agents-ia-comptabilite.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "9894137",
+      "auteur": "constructionestimate",
+      "url": "https://pixabay.com/photos/construction-estimate-9894137/"
+    }
   }
 ]
