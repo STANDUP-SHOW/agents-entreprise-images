@@ -2465,5 +2465,26 @@
       "auteur": "dlohner",
       "url": "https://pixabay.com/photos/sever-digitization-mainframe-3100049/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-1",
+    "slug": "atomicwork-place-de-marche-agents-ia-certifies-support-informatique",
+    "title": "Atomicwork lance une place de marché d'agents IA certifiés pour l'IT",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Atomicwork – lancement de l'AI Coworker Marketplace (6 agents certifiés IT et sécurité) – 6 novembre 2026",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/atomicwork-launches-ai-coworker-marketplace-for-enterprise-it-and-security-302932044.html",
+      "https://siliconangle.com/2026/11/06/atomicwork-launches-certified-ai-coworker-marketplace-for-enterprise-it-and-security/",
+      "https://www.unite.ai/atomicwork-adds-six-certified-ai-coworkers-to-its-it-marketplace/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/atomicwork-place-de-marche-agents-ia-certifies-support-informatique.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6952916",
+      "auteur": "reallywellmadedesks",
+      "url": "https://pixabay.com/photos/coworkers-workplace-colleagues-6952916/"
+    }
   }
 ]
