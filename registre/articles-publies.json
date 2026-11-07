@@ -2936,5 +2936,43 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/guy-man-work-people-business-desk-2558210/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-repondre-telephone-pme-standard-accueil-appels",
+    "title": "Un agent IA peut-il répondre au téléphone à la place de l'accueil d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : agent vocal IA pour l'accueil téléphonique, règles AI Act art. 50 et démarchage 2026",
+    "question": "Un agent IA peut-il répondre au téléphone à la place de l'accueil d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.leptidigital.fr/entreprises/agents-vocaux-ia-5-cas-usage-rentables-pme-95060/",
+    "solutions_comparees": [
+      "RingCentral AI Receptionist",
+      "Dialpad AI Agents",
+      "Aircall AI Voice Agents",
+      "Ringover Airo",
+      "iAgent Reception"
+    ],
+    "sources": [
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://artificialintelligenceact.eu/article/50/",
+      "https://www.blogdumoderateur.com/demarchage-telephonique-fin-bloctel-11-aout/",
+      "https://www.ringcentral.com/pricing/ai-receptionist",
+      "https://www.dialpad.com/pricing/",
+      "https://aircall.io/en-gb/pricing",
+      "https://www.ringover.fr/tarifs",
+      "https://iagent.agency/voice",
+      "https://iagent.agency/standard-telephonique"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-repondre-telephone-pme-standard-accueil-appels.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5300447",
+      "auteur": "guvo59",
+      "url": "https://pixabay.com/photos/make-a-phone-call-phone-woman-young-5300447/"
+    }
   }
 ]
