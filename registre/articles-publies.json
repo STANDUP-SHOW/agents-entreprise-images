@@ -2598,5 +2598,36 @@
       "auteur": "fran1",
       "url": "https://pixabay.com/photos/plumber-handyman-repair-worker-228010/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "saronic-startup-americaine-navires-autonomes",
+    "title": "Saronic : la start-up texane des navires sans équipage de l'US Navy",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Saronic",
+    "startups": [
+      {
+        "nom": "Saronic",
+        "site": "saronic.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.marinelink.com/news/saronic-closes-b-series-d-funding-537520",
+      "https://www.tectonicdefense.com/saronic-scores-392m-navy-contract-for-corsair-asvs/",
+      "https://www.rivieramm.com/news-content-hub/us-navy-turns-to-non-traditional-defence-start-up-for-fleet-of-asvs-87195",
+      "https://www.saronic.com",
+      "https://sacra.com/c/saronic/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/saronic-startup-americaine-navires-autonomes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7344972",
+      "auteur": "Michael_Pointner",
+      "url": "https://pixabay.com/photos/boat-sea-water-vessel-ship-ocean-7344972/"
+    }
   }
 ]
