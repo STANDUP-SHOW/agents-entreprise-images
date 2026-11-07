@@ -2719,5 +2719,36 @@
       "auteur": "constructionestimate",
       "url": "https://pixabay.com/photos/construction-estimate-9894137/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "rogo-startup-americaine-ia-banque-affaires",
+    "title": "Rogo : l'IA new-yorkaise qui travaille pour les banques d'affaires",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Rogo",
+    "startups": [
+      {
+        "nom": "Rogo",
+        "site": "rogo.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html",
+      "https://fintech.global/2026/04/29/rogo-raises-160m-series-d-to-scale-finance-ai-platform/",
+      "https://fintech.global/2026/01/28/rogo-raises-75m-series-c-to-scale-ai-finance-platform/",
+      "https://prnewswire.com/news-releases/rogo-announces-18m-series-a-funding-round-led-by-khosla-ventures-to-build-wall-streets-first-ai-analyst-302264427.html",
+      "https://rogo.com/company"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/rogo-startup-americaine-ia-banque-affaires.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "582918",
+      "auteur": "PredragKezic",
+      "url": "https://pixabay.com/photos/wall-street-financial-new-york-wall-582918/"
+    }
   }
 ]
