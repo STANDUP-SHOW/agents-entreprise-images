@@ -3051,5 +3051,44 @@
       "auteur": "Mohamed_hassan",
       "url": "https://pixabay.com/photos/teamwork-cooperation-brainstorming-3213924/"
     }
+  },
+  {
+    "date": "2026-11-07",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "consulter-cse-avant-deployer-agent-ia-pme",
+    "title": "Faut-il consulter le CSE avant de déployer un agent IA dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : consultation du CSE (L. 2312-8) avant déploiement d'un agent IA, jurisprudence 2025-2026",
+    "question": "Faut-il consulter le CSE avant de déployer un agent IA dans une PME ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://www.editions-tissot.fr/guide/ia-entreprise-consultation-cse",
+    "solutions_comparees": [
+      "Anthropic Claude Enterprise",
+      "Lindy Enterprise",
+      "Mistral AI Enterprise",
+      "Dust",
+      "iAgent"
+    ],
+    "sources": [
+      "https://entreprendre.service-public.fr/vosdroits/F34474",
+      "https://www.editions-tissot.fr/guide/ia-entreprise-consultation-cse",
+      "https://cms.law/fr/fra/legal-updates/l-ia-suspendue-le-juge-exige-la-consultation-du-cse-avant-tout-deploiement",
+      "https://cms.law/fr/fra/legal-updates/deploiement-de-l-ia-quand-les-effets-comptent-plus-que-la-technologie",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://claude.com/pricing",
+      "https://www.lindy.ai/pricing",
+      "https://mistral.ai/pricing",
+      "https://dust.tt/home/security",
+      "https://iagent.agency/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/consulter-cse-avant-deployer-agent-ia-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2270641",
+      "auteur": "StarFlames",
+      "url": "https://pixabay.com/photos/people-three-people-office-business-2270641/"
+    }
   }
 ]
