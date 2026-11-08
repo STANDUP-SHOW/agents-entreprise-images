@@ -3090,5 +3090,28 @@
       "auteur": "StarFlames",
       "url": "https://pixabay.com/photos/people-three-people-office-business-2270641/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-1",
+    "slug": "crusoe-cede-google-projet-data-center-wyoming-17-milliards",
+    "title": "Crusoe cède à Google son projet de data center géant du Wyoming",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Crusoe – vente à Google du site de data center du Wyoming (prix non communiqué), Google y investit 17 Md$ – 6 novembre 2026",
+    "sources": [
+      "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "https://thenextweb.com/news/google-buys-crusoe-wyoming-data-centre-site",
+      "https://www.unite.ai/crusoe-hands-google-a-pre-developed-wyoming-ai-data-center-site/",
+      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/crusoe-cede-google-projet-data-center-wyoming-17-milliards.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "90389",
+      "auteur": "kewl",
+      "url": "https://pixabay.com/photos/server-room-datacenter-network-90389/"
+    }
   }
 ]
