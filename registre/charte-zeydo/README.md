@@ -1,10 +1,11 @@
-# Charte ZeyDo (fournie par max le 8 novembre 2026)
+# Charte ZeyDo (fournie par max le 8 novembre 2026, version haute définition)
 
-- `charte-zeydo.png` : planche d'origine (symbole Z/D dégradé rose-vert-bleu-jaune, logo bleu nuit, icônes d'application sur fond noir).
-- `zeydo-icone-degrade.png` : icône fond noir, symbole dégradé (216 px), utilisée en **pastille** sur les couvertures.
-- `zeydo-icone-blanc.png` : icône fond noir, symbole blanc (216 px).
-- `zeydo-logo-horizontal.png` : symbole + « ZeyDo » bleu nuit (226 × 61 px), utilisé en **cartouche** sur les couvertures.
-- `zeydo-logo-vertical.png` : symbole au-dessus de « ZeyDo » (157 × 124 px).
-- `zeydo-symbole-degrade.png` : symbole seul, dégradé (115 × 121 px).
+- `charte-zeydo-hd.png` : planche d'origine, 5 969 × 8 000 px (symbole Z/D dégradé rose-vert-bleu-jaune, logo bleu nuit, versions blanches, icônes d'application sur fond noir).
+- `zeydo-icone-degrade.png` : icône fond noir, symbole dégradé, utilisée en **pastille** sur les couvertures (réduite à 150 px de large).
+- `zeydo-icone-blanc.png` : icône fond noir, symbole blanc.
+- `zeydo-logo-horizontal.png` : symbole + « ZeyDo » bleu nuit, utilisé en **cartouche** sur les couvertures (réduit à 340 px de large, sur fond blanc).
+- `zeydo-logo-horizontal-blanc-degrade.png` : symbole dégradé + « ZeyDo » blanc, pour fond sombre uniquement.
+- `zeydo-logo-vertical.png` : symbole au-dessus de « ZeyDo », bleu nuit.
+- `zeydo-symbole-degrade.png` / `zeydo-symbole-blanc.png` : symbole seul.
 
-Fichiers en basse définition : ne jamais les agrandir au-delà de leur taille d'origine, ne pas les déformer, ne pas changer leurs couleurs.
+Fonds transparents. Toujours réduire en gardant les proportions ; ne jamais déformer, recolorer ni recouvrir un logo.
