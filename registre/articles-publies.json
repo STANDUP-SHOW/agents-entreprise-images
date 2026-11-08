@@ -3434,5 +3434,35 @@
       "auteur": "Goumbik",
       "url": "https://pixabay.com/photos/chart-graph-finance-financial-data-2779102/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "7ai-startup-americaine-agents-ia-cybersecurite",
+    "title": "7AI : les agents IA de Boston qui enquêtent sur les cyberattaques",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup 7AI",
+    "startups": [
+      {
+        "nom": "7AI",
+        "site": "7ai.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.securityweek.com/agentic-security-firm-7ai-raises-130-million/",
+      "https://www.securityweek.com/7ai-raises-36-million-in-seed-funding-for-agentic-security-platform/",
+      "https://7ai.com/press/7ai-widens-gap-in-agentic-security-with-plaid-elite",
+      "https://7ai.com/news"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/7ai-startup-americaine-agents-ia-cybersecurite.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1853330",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/controls-indoors-room-computer-1853330/"
+    }
   }
 ]
