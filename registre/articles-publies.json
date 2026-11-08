@@ -3263,5 +3263,26 @@
       "auteur": "tookapic",
       "url": "https://pixabay.com/photos/office-work-desk-computer-932926/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-1",
+    "slug": "ocde-ia-grandes-entreprises-retard-petites-entreprises-france",
+    "title": "IA en entreprise : l'OCDE alerte sur le retard des petites entreprises",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "OCDE – Perspectives de l'économie et de la société numériques 2026 (adoption IA 20 % vs 52 % grandes entreprises ; France 18,2 %) – 5 novembre 2026",
+    "sources": [
+      "https://www.cdomagazine.tech/aiml/oecd-report-finds-large-businesses-outpacing-smaller-firms-in-ai-adoption",
+      "https://www.electronicsmedia.info/2026/11/05/ai-adoption-trends-2026/",
+      "https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-articles/locde-prevoit-que-lia-restera-laffaire-des-grandes-entreprises-contrairement-au-cloud/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ocde-ia-grandes-entreprises-retard-petites-entreprises-france.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "594090",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/startup-meeting-brainstorming-594090/"
+    }
   }
 ]
