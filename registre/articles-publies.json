@@ -3522,5 +3522,34 @@
       "auteur": "bones64",
       "url": "https://pixabay.com/photos/skyscrapers-manhattan-nyc-new-city-2258442/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "island-startup-americaine-navigateur-entreprise",
+    "title": "Island : le navigateur texan qui sécurise le travail des entreprises",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Island",
+    "startups": [
+      {
+        "nom": "Island",
+        "site": "island.io"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.island.io/press/island-announces-400-million-series-f-bringing-valuation-to-6-4-billion",
+      "https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html",
+      "https://dallasinnovates.com/dallas-based-island-emerges-from-stealth-with-nearly-100m-in-funding-100-employees/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/island-startup-americaine-navigateur-entreprise.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5481023",
+      "auteur": "dianeowen18",
+      "url": "https://pixabay.com/photos/dallas-skyline-night-lights-5481023/"
+    }
   }
 ]
