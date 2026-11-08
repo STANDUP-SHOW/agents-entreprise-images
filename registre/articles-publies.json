@@ -3644,5 +3644,58 @@
       "auteur": "Couleur",
       "url": "https://pixabay.com/photos/compost-garbage-biological-waste-3663514/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-ia-100-millions-revenus-recurrents-2026-11-08",
+    "title": "Inspiration américaine : 5 start-up IA à plus de 100 M$ de revenus",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : IA à plus de 100 M$ de revenus récurrents",
+    "startups": [
+      {
+        "nom": "Harvey",
+        "site": "harvey.ai"
+      },
+      {
+        "nom": "Sierra",
+        "site": "sierra.ai"
+      },
+      {
+        "nom": "Cognition",
+        "site": "cognition.com"
+      },
+      {
+        "nom": "Gamma",
+        "site": "gamma.app"
+      },
+      {
+        "nom": "Suno",
+        "site": "suno.com"
+      }
+    ],
+    "theme": "Start-up américaines de l'IA qui ont dépassé 100 M$ de revenus récurrents (droit, service client, code, présentations, musique)",
+    "sources": [
+      "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence",
+      "https://www.lawnext.com/2026/09/harvey-raises-another-550m-at-a-15-5b-valuation.html",
+      "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
+      "https://cognition.com/blog/series-e",
+      "https://www.unite.ai/cognition-raises-over-2b-series-e-at-48b-valuation-to-scale-devin-agents/",
+      "https://devin.ai/pricing",
+      "https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/",
+      "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
+      "https://musictech.com/news/industry/suno-series-d-funding-round/",
+      "https://en.wikipedia.org/wiki/Suno_AI"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-ia-100-millions-revenus-recurrents-2026-11-08.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8499960",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/team-team-work-group-speaking-8499960/"
+    }
   }
 ]
