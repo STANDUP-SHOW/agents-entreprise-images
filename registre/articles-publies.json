@@ -3404,5 +3404,35 @@
       "auteur": "ElasticComputeFarm",
       "url": "https://pixabay.com/photos/supermarket-stalls-coolers-market-949913/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "dualentry-startup-americaine-erp-ia",
+    "title": "DualEntry : l'ERP new-yorkais conçu autour des agents IA comptables",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup DualEntry",
+    "startups": [
+      {
+        "nom": "DualEntry",
+        "site": "dualentry.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.dualentry.com/funding-announcement",
+      "https://www.accountingtoday.com/news/dualentry-celebrates-90-million-series-a-for-ai-native-erp",
+      "https://dualentry.com/blog/6m-rescue-fund-launch",
+      "https://www.dualentry.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/dualentry-startup-americaine-erp-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2779102",
+      "auteur": "Goumbik",
+      "url": "https://pixabay.com/photos/chart-graph-finance-financial-data-2779102/"
+    }
   }
 ]
