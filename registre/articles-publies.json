@@ -3609,5 +3609,40 @@
       "auteur": "DariuszSankowski",
       "url": "https://pixabay.com/photos/notepad-glasses-travel-planning-1130743/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-mill-recyclage-dechets-alimentaires",
+    "title": "Business model de Mill : vendre l'appareil, la collecte et la filière",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model Mill",
+    "startups": [
+      {
+        "nom": "Mill",
+        "site": "mill.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.mill.com",
+      "https://www.mill.com/news/ten-million-pounds-recycled",
+      "https://www.mill.com/news/tacoma-pilot-results",
+      "https://www.mill.com/news/mill-aafco-announcement",
+      "https://www.mill.com/news/mill-for-workplace",
+      "https://techcrunch.com/2025/12/16/whole-foods-to-install-smart-food-waste-bins-from-mill-starting-in-2027/",
+      "https://www.mill.com/news/mill-compass-group-strategic-partnership",
+      "https://www.phoenix.gov/newsroom/public-works-news/case-study--food-waste-collection-pilot-program-a-success-for-ph.html",
+      "https://www.kcur.org/news/2025-07-17/kansas-city-will-start-turning-food-waste-into-compost-to-avoid-the-landfill"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-mill-recyclage-dechets-alimentaires.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3663514",
+      "auteur": "Couleur",
+      "url": "https://pixabay.com/photos/compost-garbage-biological-waste-3663514/"
+    }
   }
 ]
