@@ -3284,5 +3284,35 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/startup-meeting-brainstorming-594090/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "cognition-startup-americaine-devin-agent-logiciel",
+    "title": "Cognition : l'agent Devin qui code à la place des développeurs",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Cognition",
+    "startups": [
+      {
+        "nom": "Cognition",
+        "site": "cognition.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://cognition.com/blog/series-e",
+      "https://www.unite.ai/cognition-raises-over-2b-series-e-at-48b-valuation-to-scale-devin-agents/",
+      "https://en.wikipedia.org/wiki/Cognition_AI",
+      "https://devin.ai/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/cognition-startup-americaine-devin-agent-logiciel.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6523979",
+      "auteur": "Innovalabs",
+      "url": "https://pixabay.com/photos/software-development-developer-6523979/"
+    }
   }
 ]
