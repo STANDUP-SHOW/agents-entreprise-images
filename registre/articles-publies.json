@@ -3374,5 +3374,35 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-lab-robotics-female-8499958/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "mill-startup-americaine-recyclage-dechets-alimentaires",
+    "title": "Mill : les déchets de cuisine recyclés en aliment pour poules",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Mill",
+    "startups": [
+      {
+        "nom": "Mill",
+        "site": "mill.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.prnewswire.com/news-releases/mill-and-amazon-team-up-to-launch-industry-first-food-waste-innovation-at-whole-foods-market-stores-302642994.html",
+      "https://techcrunch.com/2025/12/16/whole-foods-to-install-smart-food-waste-bins-from-mill-starting-in-2027/",
+      "https://www.mill.com/news",
+      "https://www.phoenix.gov/newsroom/public-works-news/case-study--food-waste-collection-pilot-program-a-success-for-ph.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mill-startup-americaine-recyclage-dechets-alimentaires.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "949913",
+      "auteur": "ElasticComputeFarm",
+      "url": "https://pixabay.com/photos/supermarket-stalls-coolers-market-949913/"
+    }
   }
 ]
