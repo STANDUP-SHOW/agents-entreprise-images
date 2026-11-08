@@ -3242,5 +3242,26 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-computer-laptop-technology-8499904/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-1",
+    "slug": "agents-ia-revelent-secrets-pression-autres-agents-etude-ae-studio",
+    "title": "Agents IA : sous pression d'autres agents, ils livrent leurs secrets",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "AE Studio / AI Alignment Foundation – expérience « essaim » : agents qui divulguent un jeton secret (15 %) et exécutent un script (24 %), rapportée par The Register – 6 novembre 2026",
+    "sources": [
+      "https://www.aialignmentfoundation.org/early-explorations/agents-secrets-swarms",
+      "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
+      "https://xenospectrum.com/en/ai-agents-secrets-swarm-experiment/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agents-ia-revelent-secrets-pression-autres-agents-etude-ae-studio.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "932926",
+      "auteur": "tookapic",
+      "url": "https://pixabay.com/photos/office-work-desk-computer-932926/"
+    }
   }
 ]
