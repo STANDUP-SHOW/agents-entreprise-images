@@ -3551,5 +3551,34 @@
       "auteur": "dianeowen18",
       "url": "https://pixabay.com/photos/dallas-skyline-night-lights-5481023/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "true-anomaly-startup-americaine-defense-spatiale",
+    "title": "True Anomaly : les engins spatiaux autonomes de la défense américaine",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup True Anomaly",
+    "startups": [
+      {
+        "nom": "True Anomaly",
+        "site": "trueanomaly.space"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.satellitetoday.com/finance/2026/04/28/true-anomaly-raises-650-million-in-new-round-to-continue-scaling/",
+      "https://finance.yahoo.com/sectors/technology/articles/true-anomaly-raises-650-million-100000661.html",
+      "https://labusinessjournal.com/manufacturing/firms-650-million-raise-will-trickle-to-long-beach/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/true-anomaly-startup-americaine-defense-spatiale.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4504374",
+      "auteur": "stefan_winter",
+      "url": "https://pixabay.com/photos/starry-sky-astronomy-universe-4504374/"
+    }
   }
 ]
