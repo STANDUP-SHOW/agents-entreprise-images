@@ -1,9 +1,13 @@
-# Fiche offre iAgent
+# Fiche offre ZeyDo (ex-iAgent)
+
+> **Décision de max du 8 novembre 2026, à appliquer par la routine redacteur-quotidien-3 :** l'offre s'appelle désormais **ZeyDo partout**. Le nom « iAgent » disparaît des nouveaux articles (titre, texte, tags, tableau, mention de transparence, intertitres) ; seuls « iAgent Tech » (raison sociale de l'éditeur) et les URL iagent.agency restent cités. Tag à employer : `ZeyDo` (et non `iAgent`). Mention de transparence : « Agents-entreprise.fr présente ZeyDo comme solution recommandée pour les PME. Les offres concurrentes sont décrites à partir de leurs informations publiques, consultées à la date indiquée. » Les articles déjà publiés ne sont pas modifiés, et l'article épinglé en tête de l'accueil n'est pas touché.
+>
+> **Article à faire une seule fois** (à la première exécution où aucune entrée du registre n'a le `theme` « changement-de-nom-zeydo ») : l'un des 5 articles du jour porte sur le changement de nom, sous forme de question (ex. « iAgent devient ZeyDo : qu'est-ce qui change pour les PME qui s'y intéressent ? »), dans `questions-pme-ia`, avec `theme` = « changement-de-nom-zeydo ». Il s'appuie uniquement sur ce que publie iagent.agency le jour même, explique ce qui change et ce qui ne change pas pour une PME, compare ZeyDo à au moins 2 offres américaines et 2 offres françaises ou européennes, et n'invente ni raison ni date au changement de nom.
 
 Consultée le **8 novembre 2026** (Europe/Paris) sur https://iagent.agency. Source unique des affirmations sur iAgent dans la rubrique `questions-pme-ia`. Tous les prix sont des **tarifs pilotes, hors taxes**, tels qu'affichés.
 
 ## Éditeur et marque
-- **Depuis le 08/11/2026, l'offre est présentée sous la marque « ZeyDo »** (ZeyDo Workforce, ZeyDo Box, ZeyDo Station, ZeyDo Desktop, ZeyDo Voice, ZeyDo Enterprise, Zed Commander), toujours sur iagent.agency et éditée par iAgent Tech (© 2026 iAgent Tech). Contact affiché : contact@zeydo.fr. Dans les articles : « iAgent (offre ZeyDo) ». [accueil](https://iagent.agency/), [mentions légales](https://iagent.agency/mentions-legales), 08/11/2026
+- **Depuis le 08/11/2026, l'offre est présentée sous la marque « ZeyDo »** (ZeyDo Workforce, ZeyDo Box, ZeyDo Station, ZeyDo Desktop, ZeyDo Voice, ZeyDo Enterprise, Zed Commander), toujours sur iagent.agency et éditée par iAgent Tech (© 2026 iAgent Tech). Contact affiché : contact@zeydo.fr. Dans les articles : **« ZeyDo » uniquement** (décision de max du 08/11/2026, voir en tête). [accueil](https://iagent.agency/), [mentions légales](https://iagent.agency/mentions-legales), 08/11/2026
 - iAgent Tech, SASU au capital de 10 000 €, siège 2 rue Julien Imbert, 34500 Béziers, France ; SIRET « immatriculation en cours » ; site hébergé par Vercel Inc. (États-Unis). [mentions légales](https://iagent.agency/mentions-legales), 04/11/2026, revu les 05, 06 et 07/11/2026
 - Signature : « Human ambition. Agentic execution. » (pied de page, toutes pages)
 
