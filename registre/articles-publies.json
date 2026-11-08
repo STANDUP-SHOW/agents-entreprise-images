@@ -3810,5 +3810,41 @@
       "auteur": "rafabordes",
       "url": "https://pixabay.com/photos/legal-attorney-jurist-firm-1302034/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "ia-hybride-pme-quelles-taches-local-cloud-repartir",
+    "title": "IA hybride : quelles tâches garder en local et lesquelles confier au cloud dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : répartir les tâches des agents IA entre local et cloud (mode hybride)",
+    "question": "IA hybride : quelles tâches garder en local et lesquelles confier au cloud dans une PME ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://www.cnil.fr/fr/les-questions-reponses-de-la-cnil-sur-lutilisation-dun-systeme-dia-generative",
+    "solutions_comparees": [
+      "Ollama",
+      "NVIDIA DGX Spark",
+      "Mistral AI",
+      "OVHcloud AI Endpoints",
+      "iAgent"
+    ],
+    "sources": [
+      "https://messervices.cyber.gouv.fr/documents-guides/security_recommandations_for_a_generative_ai_system.pdf",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://ollama.com/pricing",
+      "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+      "https://mistral.ai/pricing",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://iagent.agency/local-ai"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ia-hybride-pme-quelles-taches-local-cloud-repartir.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "597178",
+      "auteur": "SnapwireSnaps",
+      "url": "https://pixabay.com/photos/man-work-desk-business-person-597178/"
+    }
   }
 ]
