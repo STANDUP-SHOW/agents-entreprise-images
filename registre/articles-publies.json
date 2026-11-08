@@ -3697,5 +3697,43 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/team-team-work-group-speaking-8499960/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-informer-clients-transparence-ai-act-article-50",
+    "title": "Faut-il dire à ses clients qu'un agent IA leur répond par chat, e-mail ou téléphone ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : informer les clients qu'un agent IA leur répond (AI Act, article 50)",
+    "question": "Faut-il dire à ses clients qu'un agent IA leur répond par chat, e-mail ou téléphone ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://culture-rh.com/ai-act-02-aout-2026/",
+    "solutions_comparees": [
+      "Intercom Fin",
+      "Zendesk AI agents",
+      "Crisp",
+      "Ringover",
+      "iAgent"
+    ],
+    "sources": [
+      "https://artificialintelligenceact.eu/article/50/",
+      "https://www.actuia.com/en/news/ai-act-obligations-in-force-and-delays-under-omnibus-2026-1744/",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.cnil.fr/fr/les-questions-reponses-de-la-cnil-sur-lutilisation-dun-systeme-dia-generative",
+      "https://www.intercom.com/pricing",
+      "https://www.zendesk.com/pricing/",
+      "https://crisp.chat/fr/pricing/",
+      "https://www.ringover.fr/tarifs",
+      "https://iagent.agency/voice"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-informer-clients-transparence-ai-act-article-50.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "10171674",
+      "auteur": "VipulMali",
+      "url": "https://pixabay.com/photos/asian-vietnamese-woman-female-10171674/"
+    }
   }
 ]
