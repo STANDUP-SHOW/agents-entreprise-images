@@ -3199,5 +3199,27 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/woman-engineer-tech-electronics-8499936/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-1",
+    "slug": "physicl-leve-10-millions-simulation-entrainement-robots",
+    "title": "Physicl lève 10 millions de dollars pour entraîner les robots en 3D",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Physicl – amorçage de 10 M$ (Inovia Capital, US Venture Partners) – 6 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "https://www.siliconreport.com/physicl-raises-10-million-seed-round-led-by-inovia-capital",
+      "https://runtimewire.com/article/physicl-raises-10m-ecommerce-3d-robot-training-data",
+      "https://www.techbuzz.ai/articles/physicl-raises-10m-to-bridge-sim-to-real-gap-for-robots"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/physicl-leve-10-millions-simulation-entrainement-robots.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4904915",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-engineering-robotics-4904915/"
+    }
   }
 ]
