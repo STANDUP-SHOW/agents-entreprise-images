@@ -3580,5 +3580,34 @@
       "auteur": "stefan_winter",
       "url": "https://pixabay.com/photos/starry-sky-astronomy-universe-4504374/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "fora-startup-americaine-conseillers-voyage",
+    "title": "Fora : la start-up qui transforme des débutants en agents de voyages",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Fora",
+    "startups": [
+      {
+        "nom": "Fora",
+        "site": "foratravel.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
+      "https://www.martechnext.com/fora-raises-60m-at-a-1-billion-valuation-betting-that-ai-makes-travel-advisors-more-valuable-not-obsolete/",
+      "https://skift.com/2025/04/24/fora-travel-raises-40-million-to-expand-offering-for-newbie-advisors/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/fora-startup-americaine-conseillers-voyage.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1130743",
+      "auteur": "DariuszSankowski",
+      "url": "https://pixabay.com/photos/notepad-glasses-travel-planning-1130743/"
+    }
   }
 ]
