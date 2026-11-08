@@ -3464,5 +3464,33 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/controls-indoors-room-computer-1853330/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "shopmy-startup-americaine-commerce-createurs",
+    "title": "ShopMy : la plateforme new-yorkaise qui fait vendre les créateurs",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup ShopMy",
+    "startups": [
+      {
+        "nom": "ShopMy",
+        "site": "shopmy.us"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/shopmy-70-million-at-1-5-billion-valuation-raised-for-expanding-curated-commerce-infrastructure-for-premium-brands/",
+      "https://www.morningstar.com/news/pr-newswire/20251022ne03935/shopmy-raises-70m-at-15-billion-valuation-to-scale-the-curated-commerce-infrastructure-for-premium-brands-tastemakers-and-shoppers"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/shopmy-startup-americaine-commerce-createurs.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2581913",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/girl-shopping-bags-standing-talking-2581913/"
+    }
   }
 ]
