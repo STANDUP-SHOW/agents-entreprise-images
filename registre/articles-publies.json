@@ -3314,5 +3314,35 @@
       "auteur": "Innovalabs",
       "url": "https://pixabay.com/photos/software-development-developer-6523979/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "hippocratic-ai-startup-americaine-agents-vocaux-sante",
+    "title": "Hippocratic AI : les agents vocaux qui appellent les patients",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Hippocratic AI",
+    "startups": [
+      {
+        "nom": "Hippocratic AI",
+        "site": "hippocraticai.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://siliconangle.com/2025/11/03/hippocratic-ais-valuation-soars-3-5b-raising-126m-new-funding/",
+      "https://hitconsultant.net/2023/05/16/hippocratic-ai-launches-llm-funding",
+      "https://www.prnewswire.com/news-releases/hippocratic-ai-announces-next-generation-of-healthcare-ai-orchestrators-focused-on-outcomes-not-tasks-302850620.html",
+      "https://www.prnewswire.com/news-releases/hippocratic-ai-unveils-polaris-6-ultra-the-first-healthcare-model-with-bedside-intuition-built-on-real-life-experience-with-lower-pricing-302926986.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/hippocratic-ai-startup-americaine-agents-vocaux-sante.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2607295",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/doctors-hospital-people-health-2607295/"
+    }
   }
 ]
