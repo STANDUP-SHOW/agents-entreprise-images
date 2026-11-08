@@ -3113,5 +3113,26 @@
       "auteur": "kewl",
       "url": "https://pixabay.com/photos/server-room-datacenter-network-90389/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-1",
+    "slug": "fourthline-veridas-fusion-verification-identite-fraude-ia",
+    "title": "Fourthline et Veridas fusionnent face à la fraude à l'identité par IA",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Fourthline / Veridas – fusion finalisée le 3 novembre 2026, financement jusqu'à 65 M€ (Finch, Seaya Andromeda, AshGrove)",
+    "sources": [
+      "https://tech.eu/2026/11/06/fourthline-and-veridas-combine-forces-to-take-on-global-digital-identity-market/",
+      "https://thenextweb.com/news/fourthline-veridas-merger-complete-65m-digital-identity",
+      "https://www.biometricupdate.com/202611/fourthline-veridas-close-merger-backed-by-up-to-e65m-in-funding"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/fourthline-veridas-fusion-verification-identite-fraude-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5537230",
+      "auteur": "tranmautritam",
+      "url": "https://pixabay.com/photos/iphone-hand-phone-mobile-phone-5537230/"
+    }
   }
 ]
