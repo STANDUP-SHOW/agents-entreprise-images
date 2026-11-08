@@ -3156,5 +3156,27 @@
       "auteur": "Khamkhor",
       "url": "https://pixabay.com/photos/remote-photography-controlled-hobby-3041390/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-1",
+    "slug": "anthropic-introduction-bourse-valorisation-revue-baisse",
+    "title": "Anthropic : l'IPO pourrait se faire sous 1 500 milliards de dollars",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Anthropic – introduction en Bourse (Nasdaq, ANT) : attentes de valorisation revues à 1 000-1 250 Md$ (CNBC) – 6-7 novembre 2026",
+    "sources": [
+      "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+      "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "https://www.unite.ai/anthropic-ipo-valuation-expectations-fall-after-technology-selloff/",
+      "https://www.journaldunet.com/business/1557673-anthropic-pourrait-abaisser-sa-valorisation-pour-son-entree-en-bourse/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/anthropic-introduction-bourse-valorisation-revue-baisse.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1905225",
+      "auteur": "PIX1861",
+      "url": "https://pixabay.com/photos/chart-trading-courses-forex-1905225/"
+    }
   }
 ]
