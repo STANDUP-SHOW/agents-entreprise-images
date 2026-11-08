@@ -3492,5 +3492,35 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/girl-shopping-bags-standing-talking-2581913/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "cyera-startup-americaine-securite-donnees",
+    "title": "Cyera : la start-up new-yorkaise qui traque les données sensibles",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Cyera",
+    "startups": [
+      {
+        "nom": "Cyera",
+        "site": "cyera.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://finance.yahoo.com/markets/stocks/articles/data-security-firm-cyera-raises-121814549.html",
+      "https://techcrunch.com/2026/01/08/data-security-startup-cyera-hits-9b-valuation-six-months-after-being-valued-at-6b",
+      "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+      "https://www.cyera.com/company"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/cyera-startup-americaine-securite-donnees.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2258442",
+      "auteur": "bones64",
+      "url": "https://pixabay.com/photos/skyscrapers-manhattan-nyc-new-city-2258442/"
+    }
   }
 ]
