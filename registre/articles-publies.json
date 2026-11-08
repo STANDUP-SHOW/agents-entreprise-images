@@ -3178,5 +3178,26 @@
       "auteur": "PIX1861",
       "url": "https://pixabay.com/photos/chart-trading-courses-forex-1905225/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-1",
+    "slug": "vensum-power-leve-9-millions-pertes-electriques-data-centers-ia",
+    "title": "Vensum Power lève 9 millions d'euros contre les pertes électriques",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Vensum Power – série A de 9 M€ (Lifeline Ventures, Larsen & Toubro, Eviny Ventures) – 6 novembre 2026",
+    "sources": [
+      "https://tech.eu/2026/11/06/vensum-power-raises-eur9m-to-cut-power-losses-in-ai-data-centres-ev-charging-and-energy-storage/",
+      "https://www.eu-startups.com/2026/11/helsinkis-vensum-power-secures-e9-million-to-scale-its-software-defined-power-conversion-platform/",
+      "https://techstartups.com/2026/11/06/finnish-startup-vensum-power-raises-e9m-to-cut-energy-losses-targets-ai-data-centers/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/vensum-power-leve-9-millions-pertes-electriques-data-centers-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8499936",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/woman-engineer-tech-electronics-8499936/"
+    }
   }
 ]
