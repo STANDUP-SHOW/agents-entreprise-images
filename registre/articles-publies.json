@@ -3134,5 +3134,27 @@
       "auteur": "tranmautritam",
       "url": "https://pixabay.com/photos/iphone-hand-phone-mobile-phone-5537230/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-1",
+    "slug": "alta-ares-remporte-contrat-otan-lutte-anti-drones",
+    "title": "Alta Ares décroche six lots d'un contrat anti-drones de l'OTAN",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Alta Ares – 6 lots sur 16 du contrat-cadre anti-drones de la NCIA (OTAN) – 5 novembre 2026",
+    "sources": [
+      "https://www.maddyness.com/2026/11/06/alta-ares-remporte-son-premier-contrat-avec-lotan/",
+      "https://srnnews.com/french-counter-drone-startup-alta-ares-wins-third-of-nato-framework-contract/",
+      "https://defencematters.eu/alta-ares-secures-nato-counter-drone-contract/",
+      "https://en.interfax.com.ua/news/general/1232344.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/alta-ares-remporte-contrat-otan-lutte-anti-drones.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3041390",
+      "auteur": "Khamkhor",
+      "url": "https://pixabay.com/photos/remote-photography-controlled-hobby-3041390/"
+    }
   }
 ]
