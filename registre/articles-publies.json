@@ -3221,5 +3221,26 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-engineering-robotics-4904915/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-1",
+    "slug": "botpress-intrusion-identifiants-agents-ia-cles-api-exposees",
+    "title": "Botpress piraté : les clés d'API des agents IA de 16 clients exposées",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Botpress – divulgation d'une intrusion (configurations de 16 espaces clients lues, 13-21 octobre 2026) – 6 novembre 2026",
+    "sources": [
+      "https://botpress.com/blog/security-incident-disclosure-november-2026",
+      "https://www.unite.ai/botpress-discloses-internal-breach-and-customer-credential-risk/",
+      "https://dev.to/gabrielanhaia/a-botpress-staff-key-read-bot-configs-in-16-workspaces-the-target-was-ai-credits-cde"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/botpress-intrusion-identifiants-agents-ia-cles-api-exposees.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8499904",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-computer-laptop-technology-8499904/"
+    }
   }
 ]
