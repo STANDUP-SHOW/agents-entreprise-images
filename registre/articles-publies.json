@@ -3735,5 +3735,43 @@
       "auteur": "VipulMali",
       "url": "https://pixabay.com/photos/asian-vietnamese-woman-female-10171674/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-prospection-b2b-email-telephone-regles-pme",
+    "title": "Un agent IA peut-il prospecter des clients professionnels par e-mail ou par téléphone ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : prospection B2B par un agent IA (e-mail, téléphone, adresses reconstituées)",
+    "question": "Un agent IA peut-il prospecter des clients professionnels par e-mail ou par téléphone ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
+    "solutions_comparees": [
+      "HubSpot prospecting agent",
+      "Lindy",
+      "lemlist",
+      "La Growth Machine",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique",
+      "https://www.cnil.fr/fr/prospection-commerciale-par-telephone-hors-automate-dappel-quelles-sont-les-regles",
+      "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.hubspot.com/products/sales/ai-prospecting-agent",
+      "https://www.lindy.ai/pricing",
+      "https://www.lemlist.com/pricing",
+      "https://lagrowthmachine.com/pricing/",
+      "https://iagent.agency/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-prospection-b2b-email-telephone-regles-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2820890",
+      "auteur": "espartgraphic",
+      "url": "https://pixabay.com/photos/office-attorney-reading-read-laws-2820890/"
+    }
   }
 ]
