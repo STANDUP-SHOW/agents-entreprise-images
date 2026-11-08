@@ -3846,5 +3846,42 @@
       "auteur": "SnapwireSnaps",
       "url": "https://pixabay.com/photos/man-work-desk-business-person-597178/"
     }
+  },
+  {
+    "date": "2026-11-08",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "recruter-specialiste-ia-tpe-pme-competences-accompagnement",
+    "title": "Faut-il recruter un spécialiste de l'IA quand on dirige une TPE ou une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : recruter un spécialiste de l'IA ou s'appuyer sur un référent, un diagnostic et des outils simples",
+    "question": "Faut-il recruter un spécialiste de l'IA quand on dirige une TPE ou une PME ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://www.insee.fr/fr/statistiques/9025878",
+    "solutions_comparees": [
+      "Zapier Agents",
+      "Claude Team",
+      "Dust",
+      "Mistral Le Chat",
+      "iAgent"
+    ],
+    "sources": [
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.entreprises.gouv.fr/osez-lia",
+      "https://www.techniques-ingenieur.fr/actualite/articles/plan-osez-lia-quel-bilan-pour-sa-premiere-annee-dexistence-164338/",
+      "https://zapier.com/pricing",
+      "https://claude.com/pricing",
+      "https://dust.tt/home/pricing",
+      "https://mistral.ai/pricing",
+      "https://iagent.agency/faq"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/recruter-specialiste-ia-tpe-pme-competences-accompagnement.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5842784",
+      "auteur": "fahribaabdullah14",
+      "url": "https://pixabay.com/photos/team-colleagues-coworkers-office-5842784/"
+    }
   }
 ]
