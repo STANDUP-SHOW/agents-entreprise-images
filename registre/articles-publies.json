@@ -4549,5 +4549,42 @@
       "auteur": "daha3131053",
       "url": "https://pixabay.com/photos/man-adult-young-break-corporate-7116367/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "combien-temps-deployer-premier-agent-ia-pme",
+    "title": "Combien de temps faut-il pour déployer un premier agent IA dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : délai de déploiement d'un premier agent IA",
+    "question": "Combien de temps faut-il pour déployer un premier agent IA dans une PME ?",
+    "theme": "deploiement-integration",
+    "preuve_question": "https://les-aides.fr/aide/aVkf3w/bpifrance/diagnostic-data-intelligence-artificielle.html",
+    "solutions_comparees": [
+      "Lindy",
+      "Zapier Agents",
+      "Dust",
+      "Mistral Vibe Team",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://les-aides.fr/aide/aVkf3w/bpifrance/diagnostic-data-intelligence-artificielle.html",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.entreprises.gouv.fr/osez-lia",
+      "https://lindy.ai/pricing",
+      "https://zapier.com/pricing",
+      "https://dust.tt/home/pricing",
+      "https://mistral.ai/pricing",
+      "https://zeydo.fr/how-it-works"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/combien-temps-deployer-premier-agent-ia-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2562325",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/man-writing-laptop-computer-write-2562325/"
+    }
   }
 ]
