@@ -4288,5 +4288,36 @@
       "auteur": "pixel2013",
       "url": "https://pixabay.com/photos/drone-flying-drone-heaven-clouds-1765145/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "starcloud-startup-americaine-data-centers-spatiaux",
+    "title": "Starcloud : la startup qui veut installer des data centers en orbite",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Starcloud",
+    "startups": [
+      {
+        "nom": "Starcloud",
+        "site": "starcloud.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.satellitetoday.com/finance/2026/03/30/starcloud-raises-170m-to-fund-orbital-data-center-plans/",
+      "https://finance.yahoo.com/technology/ai/articles/starcloud-raises-250-million-2-140000211.html",
+      "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space",
+      "https://www.techno-science.net/actualite/data-centers-bientot-espace-projet-viable-apres-thales-N25264.html",
+      "https://en.wikipedia.org/wiki/Starcloud"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/starcloud-startup-americaine-data-centers-spatiaux.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "67647",
+      "auteur": "WikiImages",
+      "url": "https://pixabay.com/photos/international-space-station-eat-67647/"
+    }
   }
 ]
