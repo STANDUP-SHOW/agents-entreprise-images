@@ -4350,5 +4350,37 @@
       "auteur": "Akela999",
       "url": "https://pixabay.com/photos/electrical-data-center-2476782/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-railway-cloud-facture-a-la-seconde",
+    "title": "Business model de Railway : le cloud facturé à la seconde",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model Railway",
+    "startups": [
+      {
+        "nom": "Railway",
+        "site": "railway.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://blog.railway.com/p/series-b",
+      "https://finance.yahoo.com/news/railway-raises-100-million-series-140100124.html",
+      "https://siliconangle.com/2026/01/22/intelligent-cloud-infrastructure-startup-railway-gets-100m-simplify-application-deployment/",
+      "https://www.axios.com/pro/enterprise-software-deals/2026/01/22/software-deployment-railway-100-million",
+      "https://railway.com/pricing",
+      "https://www.clever-cloud.com"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-railway-cloud-facture-a-la-seconde.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "849805",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/startup-business-people-students-849805/"
+    }
   }
 ]
