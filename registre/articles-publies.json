@@ -4054,5 +4054,26 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/startup-business-people-students-849804/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-1",
+    "slug": "artex-agents-ia-piratage-800-consoles-exposees-censys",
+    "title": "Artex : plus de 800 outils de piratage à agents IA exposés en ligne",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Artex – Censys recense plus de 800 consoles (1 465 hôtes) de l'outil de piratage à agents IA exposées sans mot de passe, rapporté par TechCrunch – 6 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "https://startupfortune.com/researchers-find-1465-exposed-artex-ai-hacking-consoles-open-on-the-web/",
+      "https://aiweekly.co/alerts/censys-finds-800-exposed-artex-ai-hacking-tools-online"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/artex-agents-ia-piratage-800-consoles-exposees-censys.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2903156",
+      "auteur": "iAmMrRob",
+      "url": "https://pixabay.com/photos/hacking-cyber-blackandwhite-crime-2903156/"
+    }
   }
 ]
