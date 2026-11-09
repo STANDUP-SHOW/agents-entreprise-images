@@ -4075,5 +4075,35 @@
       "auteur": "iAmMrRob",
       "url": "https://pixabay.com/photos/hacking-cyber-blackandwhite-crime-2903156/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "eve-startup-americaine-ia-avocats-dommages-corporels",
+    "title": "Eve : l'IA californienne qui équipe les avocats des victimes",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Eve",
+    "startups": [
+      {
+        "nom": "Eve",
+        "site": "eve.legal"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.lawnext.com/2026/06/eve-builds-on-ai-workforce-launch-with-eveos-an-ai-native-operational-platform-for-plaintiff-firms.html",
+      "https://www.lawnext.com/2026/01/eve-launches-ai-workforce-to-reshape-the-pi-firm-org-chart-not-replacing-lawyers-but-freeing-them-for-higher-level-work.html",
+      "https://lsvp.com/stories/eves-series-b-another-milestone-as-eve-rapidly-transforms-legal-firms-with-ai/",
+      "https://www.eve.legal/blogs/the-next-chapter-in-ai-transformation-for-law-firms"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/eve-startup-americaine-ia-avocats-dommages-corporels.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5806013",
+      "auteur": "advogadoaguilar",
+      "url": "https://pixabay.com/photos/man-lawyer-office-desk-computer-5806013/"
+    }
   }
 ]
