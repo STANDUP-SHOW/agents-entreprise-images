@@ -4258,5 +4258,35 @@
       "auteur": "ovariancancer1",
       "url": "https://pixabay.com/photos/doctor-patient-gynecologist-women-9628974/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "neros-startup-americaine-drones-defense",
+    "title": "Neros : la startup californienne qui produit des drones en masse",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Neros",
+    "startups": [
+      {
+        "nom": "Neros",
+        "site": "neros.tech"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.therobotreport.com/neros-technologies-raises-250m-to-deploy-its-defense-drones-by-the-end-of-2026/",
+      "https://www.bloomberg.com/news/articles/2026-08-11/defense-startup-neros-triples-valuation-to-2-5-billion",
+      "https://www.armyrecognition.com/news/army-news/2026/u-s-backs-450m-financing-plan-to-expand-neros-combat-drone-production-and-cut-reliance-on-foreign-components",
+      "https://en.wikipedia.org/wiki/Neros"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/neros-startup-americaine-drones-defense.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1765145",
+      "auteur": "pixel2013",
+      "url": "https://pixabay.com/photos/drone-flying-drone-heaven-clouds-1765145/"
+    }
   }
 ]
