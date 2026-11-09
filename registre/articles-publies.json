@@ -3905,5 +3905,27 @@
       "auteur": "tianya1223",
       "url": "https://pixabay.com/photos/store-stacks-shelves-stock-5619201/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-1",
+    "slug": "thinking-machines-inkling-2-small-modele-agents-entreprise",
+    "title": "Thinking Machines lance Inkling 2 Small, un modèle ouvert pour agents",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Thinking Machines Lab – lancement d'Inkling 2 Small (594 Md de paramètres, poids Apache 2.0 promis) + levée de 5 Md$ à 40 Md$ rapportée par Business Insider – 5-6 novembre 2026",
+    "sources": [
+      "https://thinkingmachines.ai/news/inkling-2-small/",
+      "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
+      "https://www.unite.ai/thinking-machines-lab-launches-inkling-2-small-with-open-weights-pending/",
+      "https://aiworldtoday.com/news/thinking_machines_inkling_2_small_enterprise_ai_benchmarks"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/thinking-machines-inkling-2-small-modele-agents-entreprise.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "820275",
+      "auteur": "fancycrave1",
+      "url": "https://pixabay.com/photos/code-programming-hacking-html-web-820275/"
+    }
   }
 ]
