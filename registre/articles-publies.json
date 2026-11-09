@@ -4434,5 +4434,43 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/programming-developing-startup-593312/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "iagent-devient-zeydo-ce-qui-change-pme",
+    "title": "iAgent devient ZeyDo : qu'est-ce qui change pour les PME qui s'y intéressent ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : changement de nom iAgent devient ZeyDo",
+    "question": "iAgent devient ZeyDo : qu'est-ce qui change pour les PME qui s'y intéressent ?",
+    "theme": "changement-de-nom-zeydo",
+    "preuve_question": "https://zeydo.fr/mentions-legales",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot Business",
+      "Claude Team",
+      "Mistral Vibe Team",
+      "Dust",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://zeydo.fr/",
+      "https://zeydo.fr/mentions-legales",
+      "https://zeydo.fr/pricing",
+      "https://zeydo.fr/local-ai",
+      "https://blog.google/products/gemini/bard-gemini-advanced-app/",
+      "https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/",
+      "https://www.lemondeinformatique.fr/actualites/lire-microsoft-baisse-le-prix-de-m365%C2%A0copilot%C2%A0pour-les-pme-98552.html",
+      "https://claude.com/pricing",
+      "https://dust.tt/home/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/iagent-devient-zeydo-ce-qui-change-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6208470",
+      "auteur": "StanislavKondrashov",
+      "url": "https://pixabay.com/photos/man-laptop-work-smile-pose-office-6208470/"
+    }
   }
 ]
