@@ -4105,5 +4105,36 @@
       "auteur": "advogadoaguilar",
       "url": "https://pixabay.com/photos/man-lawyer-office-desk-computer-5806013/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "campfire-startup-americaine-erp-comptabilite-ia",
+    "title": "Campfire : l'ERP natif IA qui défie les logiciels comptables",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Campfire",
+    "startups": [
+      {
+        "nom": "Campfire",
+        "site": "campfire.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://campfire.ai/blog/campfire-65-million-series-b-co-led-by-accel-and-ribbit",
+      "https://campfire.ai/blog/campfire-raises-35m-series-a-from-accel",
+      "https://fintech.global/2025/10/16/campfire-secures-65m-series-b-to-transform-finance-ai/",
+      "https://www.fintechfutures.com/venture-capital-funding/erp-platform-campfire-fuels-up-with-65m-series-b",
+      "https://pulse2.com/campfire-65-million-series-b-raised-to-advance-ai-based-finance-transformation"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/campfire-startup-americaine-erp-comptabilite-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8703580",
+      "auteur": "egemenmustafasener",
+      "url": "https://pixabay.com/photos/money-accounting-finance-business-8703580/"
+    }
   }
 ]
