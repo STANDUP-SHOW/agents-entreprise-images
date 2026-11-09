@@ -4033,5 +4033,26 @@
       "auteur": "edwardbrownca",
       "url": "https://pixabay.com/photos/jobsite-security-camera-2427499/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-1",
+    "slug": "banque-angleterre-ia-productivite-gains-modestes-emploi",
+    "title": "IA : la Banque d'Angleterre ne voit qu'un gain de productivité modeste",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Banque d'Angleterre – rapport de politique monétaire de novembre 2026 : effet modeste de l'IA sur la productivité (0,1-0,2 pt/an), attentes 0,9 pt – 5 novembre 2026",
+    "sources": [
+      "https://www.bankofengland.co.uk/monetary-policy-report/2026/november-2026",
+      "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059",
+      "https://www.bfmtv.com/economie/je-n-aurais-jamais-imagine-qu-elle-soit-aussi-elevee-contrairement-a-l-europe-la-productivite-redecolle-aux-etats-unis-mais-pas-encore-grace-a-l-ia_AV-202611090085.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/banque-angleterre-ia-productivite-gains-modestes-emploi.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "849804",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/startup-business-people-students-849804/"
+    }
   }
 ]
