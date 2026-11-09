@@ -4319,5 +4319,36 @@
       "auteur": "WikiImages",
       "url": "https://pixabay.com/photos/international-space-station-eat-67647/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "hiddenlayer-startup-americaine-securite-agents-ia",
+    "title": "HiddenLayer : la startup texane qui protège les agents IA des attaques",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup HiddenLayer",
+    "startups": [
+      {
+        "nom": "HiddenLayer",
+        "site": "hiddenlayer.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.unite.ai/hiddenlayer-raises-100m-series-b-to-expand-ai-agent-security-platform/",
+      "https://theaiinsider.tech/2026/09/07/hiddenlayer-announces-100m-series-b-as-ai-security-market-surges/",
+      "https://siliconangle.com/2023/09/19/ai-cybersecurity-startup-hiddenlayer-raises-50m",
+      "https://messervices.cyber.gouv.fr/documents-guides/security_recommandations_for_a_generative_ai_system.pdf",
+      "https://www.theinvestorsociety.com/hiddenlayer-raises-us-100-million-to-secure-the-ai-agents-enterprises-are-now-putting-into-production/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/hiddenlayer-startup-americaine-securite-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2476782",
+      "auteur": "Akela999",
+      "url": "https://pixabay.com/photos/electrical-data-center-2476782/"
+    }
   }
 ]
