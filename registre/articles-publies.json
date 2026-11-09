@@ -4472,5 +4472,42 @@
       "auteur": "StanislavKondrashov",
       "url": "https://pixabay.com/photos/man-laptop-work-smile-pose-office-6208470/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "secnumcloud-obligatoire-agents-ia-pme-hebergement",
+    "title": "Faut-il un hébergement SecNumCloud pour les agents IA d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : hébergement SecNumCloud pour les agents IA",
+    "question": "Une PME doit-elle héberger ses agents IA sur un cloud qualifié SecNumCloud ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://messervices.cyber.gouv.fr/documents-guides/security_recommandations_for_a_generative_ai_system.pdf",
+    "solutions_comparees": [
+      "AWS European Sovereign Cloud",
+      "S3NS PREMI3NS (Google Cloud)",
+      "OVHcloud",
+      "Mistral AI Enterprise",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://messervices.cyber.gouv.fr/documents-guides/security_recommandations_for_a_generative_ai_system.pdf",
+      "https://www.banquedesterritoires.fr/secnumcloud-6-gip-assujettis-les-donnees-sensibles-enfin-definies",
+      "https://www.boursorama.com/bourse/actualites/ovhcloud-obtient-une-troisieme-qualification-secnumcloud-3c2b0a27be022aa89dae81b4f05be759",
+      "https://www.lemondeinformatique.fr/actualites/lire-apres-le-label-secnumcloud-s3ns-met-le-cap-sur-l-ia-et-l-europe-99384.html",
+      "https://press.aboutamazon.com/aws/2026/1/aws-launches-aws-european-sovereign-cloud-and-announces-expansion-across-europe",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://mistral.ai/pricing",
+      "https://zeydo.fr/local-ai"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/secnumcloud-obligatoire-agents-ia-pme-hebergement.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1235959",
+      "auteur": "ColossusCloud",
+      "url": "https://pixabay.com/photos/server-cloud-development-business-1235959/"
+    }
   }
 ]
