@@ -4227,5 +4227,36 @@
       "auteur": "Gadini",
       "url": "https://pixabay.com/photos/office-accounting-economy-accounts-515984/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "midi-health-startup-americaine-sante-des-femmes",
+    "title": "Midi Health : la téléconsultation ménopause devenue licorne",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Midi Health",
+    "startups": [
+      {
+        "nom": "Midi Health",
+        "site": "joinmidi.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://femtechinsider.com/midi-health-raises-100-million-series-d-surpasses-1-billion-valuation/",
+      "https://www.fortune.com/2026/02/05/midi-just-hit-a-1-billion-valuation-with-plans-to-become-the-biggest-consumer-brand-in-womens-health",
+      "https://www.cbinsights.com/company/midi-health",
+      "https://www.forbes.com/sites/geristengel/2026/04/06/midi-health-menopause-is-the-starting-gun-not-the-finish-line/",
+      "https://www.pour-les-personnes-agees.gouv.fr/preserver-son-autonomie/preserver-son-autonomie-et-sa-sante/telemedecine-qu-est-ce-que-la-teleconsultation-et-la-tele-expertise"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/midi-health-startup-americaine-sante-des-femmes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "9628974",
+      "auteur": "ovariancancer1",
+      "url": "https://pixabay.com/photos/doctor-patient-gynecologist-women-9628974/"
+    }
   }
 ]
