@@ -4509,5 +4509,45 @@
       "auteur": "ColossusCloud",
       "url": "https://pixabay.com/photos/server-cloud-development-business-1235959/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-surveiller-evaluer-travail-salaries-pme",
+    "title": "Un agent IA peut-il surveiller ou évaluer le travail des salariés d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : surveillance et évaluation des salariés par un agent IA",
+    "question": "Un agent IA peut-il surveiller ou évaluer le travail des salariés ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://www.lemondeinformatique.fr/actualites/lire-la-cnil-inflige-32-meteuro-d-amende-a-amazon-france-logistique-maj-92747.html",
+    "solutions_comparees": [
+      "Lattice",
+      "15Five",
+      "Lucca",
+      "Leapsome",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.cnil.fr/fr/la-videosurveillance-videoprotection-au-travail",
+      "https://www.lemondeinformatique.fr/actualites/lire-la-cnil-inflige-32-meteuro-d-amende-a-amazon-france-logistique-maj-92747.html",
+      "https://artificialintelligenceact.eu/article/5/",
+      "https://artificialintelligenceact.eu/article/26/",
+      "https://artificialintelligenceact.eu/annex/3/",
+      "https://www.quantic-avocats.com/2026/07/22/ai-act-digital-omnibus-report-obligations-haut-risque/",
+      "https://lattice.com/pricing",
+      "https://www.15five.com/pricing",
+      "https://www.lucca.fr/",
+      "https://www.leapsome.com/pricing",
+      "https://zeydo.fr/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-surveiller-evaluer-travail-salaries-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7116367",
+      "auteur": "daha3131053",
+      "url": "https://pixabay.com/photos/man-adult-young-break-corporate-7116367/"
+    }
   }
 ]
