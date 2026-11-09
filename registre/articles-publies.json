@@ -3990,5 +3990,26 @@
       "auteur": "u_ys074yedl6",
       "url": "https://pixabay.com/photos/test-tubes-laboratory-medical-7582098/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-1",
+    "slug": "firmly-leve-15-millions-commerce-agentique-marchands-agents-ia",
+    "title": "firmly lève 15 millions de dollars pour relier marchands et agents IA",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "firmly – série A de 15 M$ menée par Squarepoint Capital (J.P. Morgan Payments, Mastercard, Samsung NEXT) + lancement d'Ask Agent – 5 novembre 2026",
+    "sources": [
+      "https://pulse2.com/firmly-raises-15-million-in-series-a-funding-led-by-squarepoint-capital-to-expand-agentic-commerce-infrastructure/",
+      "https://retailtechinnovationhub.com/home/2026/11/6/agentic-commerce-startup-firmly-announces-15-million-series-a-led-by-squarepoint-capital",
+      "https://www.globenewswire.com/news-release/2026/11/05/3396499/0/en/firmly-raises-15-million-series-a-and-launches-ask-agent-to-help-merchants-more-easily-adopt-agentic-commerce.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/firmly-leve-15-millions-commerce-agentique-marchands-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5463567",
+      "auteur": "JoshuaWoroniecki",
+      "url": "https://pixabay.com/photos/cyber-monday-purchase-online-5463567/"
+    }
   }
 ]
