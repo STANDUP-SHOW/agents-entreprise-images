@@ -3883,5 +3883,27 @@
       "auteur": "fahribaabdullah14",
       "url": "https://pixabay.com/photos/team-colleagues-coworkers-office-5842784/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-1",
+    "slug": "autostore-rachete-logiqs-robots-palettes-30-millions",
+    "title": "AutoStore rachète Logiqs pour 30 millions d'euros et vise la palette",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "AutoStore – rachat de Logiqs (jusqu'à 30 M€, numéraire, clôture T4 2026) – 5 novembre 2026",
+    "sources": [
+      "https://www.autostoresystem.com/news/autostore-to-acquire-roaming-pallet-as/rs-provider-logiqs",
+      "https://www.logiqs.nl/en/logiqs-announces-agreement-to-be-acquired-by-autostore/",
+      "https://www.eu-startups.com/2026/11/autostore-to-acquire-dutch-warehouse-and-horticulture-automation-firm-logiqs-for-up-to-e30-million/",
+      "https://logimerce.nl/news/7387/auto-store-neemt-nederlands-roboticabedrijf-logiqs-over"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/autostore-rachete-logiqs-robots-palettes-30-millions.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5619201",
+      "auteur": "tianya1223",
+      "url": "https://pixabay.com/photos/store-stacks-shelves-stock-5619201/"
+    }
   }
 ]
