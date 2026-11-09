@@ -4197,5 +4197,35 @@
       "auteur": "KaweewatT",
       "url": "https://pixabay.com/photos/hand-product-finished-goods-5983142/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "stuut-startup-americaine-recouvrement-factures-ia",
+    "title": "Stuut : les agents IA new-yorkais qui font payer les factures",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Stuut",
+    "startups": [
+      {
+        "nom": "Stuut",
+        "site": "stuut.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/stuut-raises-52-5-million-series-b-led-by-insight-partners-to-expand-ai-powered-order-to-cash-platform/",
+      "https://hackernoon.com/stuut-raises-$525m-from-insight-partners-and-a16z-to-unlock-$16-trillion-in-unpaid-invoices",
+      "https://pulse2.com/stuut-technologies-29-5-million-series-a/",
+      "https://www.alleywatch.com/2026/11/nyc-startup-funding-top-largest-october-2026-vc/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/stuut-startup-americaine-recouvrement-factures-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "515984",
+      "auteur": "Gadini",
+      "url": "https://pixabay.com/photos/office-accounting-economy-accounts-515984/"
+    }
   }
 ]
