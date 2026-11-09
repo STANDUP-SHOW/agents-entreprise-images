@@ -3927,5 +3927,26 @@
       "auteur": "fancycrave1",
       "url": "https://pixabay.com/photos/code-programming-hacking-html-web-820275/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-1",
+    "slug": "fintech-100-cb-insights-2026-spiko-seule-start-up-francaise",
+    "title": "Fintech 100 de CB Insights : Spiko, seule start-up française en 2026",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "CB Insights – Fintech 100 2026 (28 octobre 2026), une seule française (Spiko), relevé par le JDN le 6 novembre 2026",
+    "sources": [
+      "https://www.cbinsights.com/research/report/top-fintech-startups-2026/",
+      "https://www.journaldunet.com/fintech/1557685-une-seule-start-up-francaise-parmi-les-100-fintech-les-plus-prometteuses-au-monde/",
+      "https://cryptoast.fr/spiko-leve-90-millions-dollars-serie-b-nea/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/fintech-100-cb-insights-2026-spiko-seule-start-up-francaise.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "9822557",
+      "auteur": "danieldantas",
+      "url": "https://pixabay.com/photos/daniel-dantas-finance-business-9822557/"
+    }
   }
 ]
