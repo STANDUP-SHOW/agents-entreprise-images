@@ -4136,5 +4136,36 @@
       "auteur": "egemenmustafasener",
       "url": "https://pixabay.com/photos/money-accounting-finance-business-8703580/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "norm-ai-startup-americaine-agents-ia-conformite",
+    "title": "Norm Ai : les agents IA new-yorkais qui automatisent la conformité",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Norm Ai",
+    "startups": [
+      {
+        "nom": "Norm Ai",
+        "site": "norm.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.prnewswire.com/news-releases/norm-ai-raises-120-million-at-a-1-2-billion-valuation-led-by-khosla-ventures-to-deliver-the-full-stack-model-for-legal-ai-302819152.html",
+      "https://www.lawnext.com/2026/07/norm-ai-hits-unicorn-status-with-120m-series-c-at-1-2-billion-valuation.html",
+      "https://justainews.com/?p=10536",
+      "https://enterprisedna.co/resources/news/norm-ai-120m-series-c-compliance-agents-enterprise-2026/",
+      "https://coverager.com/norm-ai-raises-120-million-at-1-2-billion-valuation/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/norm-ai-startup-americaine-agents-ia-conformite.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2181916",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/chairs-empty-office-room-table-2181916/"
+    }
   }
 ]
