@@ -4586,5 +4586,45 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/man-writing-laptop-computer-write-2562325/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-repondre-clients-whatsapp-pme",
+    "title": "Un agent IA peut-il répondre aux clients sur WhatsApp au nom d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : agent IA pour le service client WhatsApp",
+    "question": "Un agent IA peut-il répondre aux clients sur WhatsApp au nom d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://techcrunch.com/2026/03/05/meta-will-allow-rival-ai-chatbots-on-whatsapp-in-europe-but-for-a-fee/",
+    "solutions_comparees": [
+      "Intercom (Fin)",
+      "Meta Business Agent",
+      "Crisp",
+      "Trengo",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.sipotra.it/wp-content/uploads/2026/06/Commission-imposes-interim-measures-on-Meta-to-preserve-free-access-to-WhatsApp-for-rival-AI-assistants-%E2%80%93-press-release.pdf",
+      "https://techcrunch.com/2026/03/05/meta-will-allow-rival-ai-chatbots-on-whatsapp-in-europe-but-for-a-fee/",
+      "https://developers.facebook.com/docs/whatsapp/pricing/",
+      "https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique",
+      "https://artificialintelligenceact.eu/article/50/",
+      "https://en.wikipedia.org/wiki/Fin_(company)",
+      "https://www.intercom.com/pricing",
+      "https://crisp.chat/fr/pricing/",
+      "https://trengo.com/pricing",
+      "https://zeydo.fr/voice",
+      "https://zeydo.fr/faq"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-repondre-clients-whatsapp-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1851218",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/hands-phone-smartphone-electronics-1851218/"
+    }
   }
 ]
