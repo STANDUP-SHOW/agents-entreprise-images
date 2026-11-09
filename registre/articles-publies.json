@@ -4382,5 +4382,57 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/startup-business-people-students-849805/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-cloud-agents-ia-developpeurs-2026-11-09",
+    "title": "5 startups américaines qui bâtissent le cloud des agents IA",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : 5 startups de l'infrastructure des agents IA",
+    "startups": [
+      {
+        "nom": "Railway",
+        "site": "railway.com"
+      },
+      {
+        "nom": "Modal",
+        "site": "modal.com"
+      },
+      {
+        "nom": "Fireworks AI",
+        "site": "fireworks.ai"
+      },
+      {
+        "nom": "Browserbase",
+        "site": "browserbase.com"
+      },
+      {
+        "nom": "Daytona",
+        "site": "daytona.io"
+      }
+    ],
+    "theme": "Startups américaines qui construisent l'infrastructure des développeurs et des agents IA (déploiement, inférence, navigateurs, sandboxes)",
+    "sources": [
+      "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+      "https://finance.yahoo.com/technology/ai/articles/fireworks-raises-1-5-billion-130000636.html",
+      "https://finance.yahoo.com/news/railway-raises-100-million-series-140100124.html",
+      "https://siliconangle.com/2026/01/22/intelligent-cloud-infrastructure-startup-railway-gets-100m-simplify-application-deployment/",
+      "https://railway.com/pricing",
+      "https://www.browserbase.com/blog/series-b-and-beyond",
+      "https://www.upstartsmedia.com/p/browserbase-raises-40m-and-launches-director",
+      "https://www.taskade.com/blog/history-of-browserbase",
+      "https://finance.yahoo.com/technology/ai/articles/exclusive-daytona-startup-building-agentic-120000625.html",
+      "https://www.alleywatch.com/2026/11/nyc-startup-funding-top-largest-october-2026-vc/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-cloud-agents-ia-developpeurs-2026-11-09.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "593312",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/programming-developing-startup-593312/"
+    }
   }
 ]
