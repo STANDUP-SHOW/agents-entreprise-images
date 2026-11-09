@@ -3969,5 +3969,26 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/dawn-drone-dusk-mountains-outdoors-1868870/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-1",
+    "slug": "alethio-therapeutics-leve-90-millions-cancers-sang-sofinnova",
+    "title": "Alethio Therapeutics lève 90 M$ pour traiter un cancer du sang rare",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Alethio Therapeutics – série A de 90 M$ (67 M£) codirigée par Sofinnova Partners et RA Capital – 5 novembre 2026",
+    "sources": [
+      "https://www.cancerresearchhorizons.com/news-and-events/our-news/alethio-therapeutics-raises-90m-series-a",
+      "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
+      "https://www.eu-startups.com/2026/11/oxford-spin-out-alethio-therapeutics-raises-e80-46-million-series-a-to-advance-targeted-blood-cancer-therapies/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/alethio-therapeutics-leve-90-millions-cancers-sang-sofinnova.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7582098",
+      "auteur": "u_ys074yedl6",
+      "url": "https://pixabay.com/photos/test-tubes-laboratory-medical-7582098/"
+    }
   }
 ]
