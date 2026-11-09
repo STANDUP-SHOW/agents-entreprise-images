@@ -4167,5 +4167,35 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/chairs-empty-office-room-table-2181916/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "ultra-startup-americaine-robots-entrepot",
+    "title": "Ultra : les robots d'entrepôt de Brooklyn loués au mois",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Ultra (robots d'entrepôt)",
+    "startups": [
+      {
+        "nom": "Ultra",
+        "site": "ycombinator.com/companies/ultra"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.humanoidsdaily.com/news/ultra-50-million-series-a-warehouse-robots-physical-intelligence",
+      "https://runtimewire.com/article/ultra-raises-62m-warehouse-robotics",
+      "https://www.gunder.com/en/news-insights/client-news/ultra-robotics-raises-dollar50-million-series-a",
+      "https://www.alleywatch.com/2026/11/nyc-startup-funding-top-largest-october-2026-vc/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ultra-startup-americaine-robots-entrepot.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5983142",
+      "auteur": "KaweewatT",
+      "url": "https://pixabay.com/photos/hand-product-finished-goods-5983142/"
+    }
   }
 ]
