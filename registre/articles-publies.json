@@ -4011,5 +4011,27 @@
       "auteur": "JoshuaWoroniecki",
       "url": "https://pixabay.com/photos/cyber-monday-purchase-online-5463567/"
     }
+  },
+  {
+    "date": "2026-11-09",
+    "routine": "redacteur-quotidien-1",
+    "slug": "royaume-uni-pouvoirs-enquete-perte-controle-agents-ia",
+    "title": "Agents IA : le Royaume-Uni veut enquêter sur les pertes de contrôle",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Royaume-Uni – amendement au Cyber Security and Resilience Bill : pouvoirs sur les incidents de perte de contrôle d'agents IA (fiche GOV.UK du 3 novembre 2026, rapporté par The Register le 6 novembre 2026)",
+    "sources": [
+      "https://www.gov.uk/government/publications/cyber-security-and-resilience-network-and-information-systems-bill-factsheets/agentic-ai-resilience-measures",
+      "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
+      "https://mallory.ai/stories/01a1b0c4-4897-776c-a895-dedc3770a3ed",
+      "https://aifront-page.com/uk-40-million-rogue-ai-agents-security-unit/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/royaume-uni-pouvoirs-enquete-perte-controle-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2427499",
+      "auteur": "edwardbrownca",
+      "url": "https://pixabay.com/photos/jobsite-security-camera-2427499/"
+    }
   }
 ]
