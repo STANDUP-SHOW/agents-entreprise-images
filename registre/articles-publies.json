@@ -5219,5 +5219,44 @@
       "auteur": "OleksandrPidvalnyi",
       "url": "https://pixabay.com/photos/business-meeting-partnership-6839039/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "responsabilite-erreur-agent-ia-client-pme",
+    "title": "Qui est responsable quand l'agent IA d'une PME se trompe auprès d'un client ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : responsabilité en cas d'erreur d'un agent IA face à un client",
+    "question": "Qui est responsable quand l'agent IA d'une PME se trompe auprès d'un client ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://www.entreprises.cci-paris-idf.fr/actualites/qui-est-juridiquement-responsable-dune-erreur-commise-par-lintelligence-artificielle",
+    "solutions_comparees": [
+      "Salesforce Agentforce",
+      "Anthropic Claude Team/Enterprise",
+      "Mistral AI",
+      "Dust",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.entreprises.cci-paris-idf.fr/actualites/qui-est-juridiquement-responsable-dune-erreur-commise-par-lintelligence-artificielle",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.donneespersonnelles.fr/responsabilite-produits-defectueux-logiciel",
+      "https://www.stibbe.com/fr/publications-and-insights/nouvelles-regles-de-lue-sur-la-responsabilite-du-fait-des-produits",
+      "https://barrysookman.com/2024/02/16/moffatt-v-air-canada-a-misrepresentation-by-an-ai-chatbot/",
+      "https://www.salesforce.com/agentforce/pricing/",
+      "https://claude.com/pricing",
+      "https://mistral.ai/pricing",
+      "https://dust.tt/home/pricing",
+      "https://zeydo.fr/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/responsabilite-erreur-agent-ia-client-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "170645",
+      "auteur": "DT",
+      "url": "https://pixabay.com/photos/business-office-boss-170645/"
+    }
   }
 ]
