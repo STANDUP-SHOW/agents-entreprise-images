@@ -5000,5 +5000,36 @@
       "url": "https://pixabay.com/photos/telework-technology-laptop-6795505/"
     },
     "mots": 755
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "assort-health-startup-americaine-ia-vocale-patients",
+    "title": "Assort Health : l'agent vocal IA qui répond au téléphone des cabinets",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Assort Health",
+    "startups": [
+      {
+        "nom": "Assort Health",
+        "site": "assorthealth.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/assort-health-raises-120-million-series-c-to-scale-ai-agents-for-patient-journey/",
+      "https://www.digitalhealthnews.com/assort-health-raises-120-mn-series-c-at-1-2-bn-valuation-to-expand-patient-access-ai-platform",
+      "https://fortune.com/2025/04/16/exclusive-assort-health-raises-22-million-series-a-led-by-first-round-and-chemistry",
+      "https://www.felicis.com/portfolio/assort-health"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/assort-health-startup-americaine-ia-vocale-patients.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5190643",
+      "auteur": "VinzentWeinbeer",
+      "url": "https://pixabay.com/photos/make-a-phone-call-mobile-phone-5190643/"
+    },
+    "mots": 796
   }
 ]
