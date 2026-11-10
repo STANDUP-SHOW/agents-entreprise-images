@@ -4941,5 +4941,34 @@
       "url": "https://pixabay.com/photos/rescue-vehicle-srv-submarine-water-2777738/"
     },
     "mots": 710
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "avante-startup-americaine-ia-avantages-salaries",
+    "title": "Avante : l'IA de Seattle qui pilote les avantages sociaux des salariés",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Avante",
+    "startups": [
+      {
+        "nom": "Avante",
+        "site": "avante.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.unite.ai/de/avante-raises-30m-series-a-ai-benefits-teams/",
+      "https://avante.ai/blog/introducing-avante"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/avante-startup-americaine-ia-avantages-salaries.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "593333",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/man-write-plan-desk-notes-pen-593333/"
+    },
+    "mots": 754
   }
 ]
