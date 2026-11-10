@@ -5061,5 +5061,36 @@
       "url": "https://pixabay.com/photos/laptop-macbook-codes-coding-2620118/"
     },
     "mots": 798
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-warp-paie-facturee-par-salarie",
+    "title": "Business model de Warp : la paie confiée à l'IA, facturée par salarié",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse du business model de Warp",
+    "startups": [
+      {
+        "nom": "Warp",
+        "site": "warp.co"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.siliconangle.com/2026/06/25/warp-lands-60m-automate-payroll-compliance-hr-ai/",
+      "https://fintech.global/2026/06/26/warp-raises-60m-series-b-to-rebuild-hr-software-with-ai/",
+      "https://www.homebrew.co/blog-posts/warp-raises-usd60m-series-b-for-ai-agents-that-handle-startup-payroll-compliance-and-benefits",
+      "https://www.warp.co/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-warp-paie-facturee-par-salarie.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1044173",
+      "auteur": "stevepb",
+      "url": "https://pixabay.com/photos/calculator-calculation-insurance-1044173/"
+    },
+    "mots": 1844
   }
 ]
