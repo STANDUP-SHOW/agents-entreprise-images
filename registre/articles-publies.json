@@ -4970,5 +4970,35 @@
       "url": "https://pixabay.com/photos/man-write-plan-desk-notes-pen-593333/"
     },
     "mots": 754
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "buywander-startup-americaine-encheres-retours",
+    "title": "Buywander : les enchères à 1 dollar qui recyclent les retours de colis",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Buywander",
+    "startups": [
+      {
+        "nom": "Buywander",
+        "site": "buywander.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://retailtechinnovationhub.com/home/2026/9/15/returned-and-overstocked-inventory-specialist-buywander-raises-21-million-in-series-a-funding",
+      "https://mynorthwest.com/local/spokane-startup-hq-to-seattle/4268180",
+      "https://buywander.com"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/buywander-startup-americaine-encheres-retours.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6795505",
+      "auteur": "OleksandrPidvalnyi",
+      "url": "https://pixabay.com/photos/telework-technology-laptop-6795505/"
+    },
+    "mots": 755
   }
 ]
