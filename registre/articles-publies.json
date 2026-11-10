@@ -5031,5 +5031,35 @@
       "url": "https://pixabay.com/photos/make-a-phone-call-mobile-phone-5190643/"
     },
     "mots": 796
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "factory-startup-americaine-agents-ia-developpement",
+    "title": "Factory : les agents IA de développement valorisés 5 milliards",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Factory",
+    "startups": [
+      {
+        "nom": "Factory",
+        "site": "factory.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://thenextweb.com/news/factory-200m-5bn-valuation-ai-coding-agents",
+      "https://runtimewire.com/article/factory-raises-200m-5b-valuation-enterprise-ai-coding",
+      "https://factory.ai/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/factory-startup-americaine-agents-ia-developpement.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2620118",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/laptop-macbook-codes-coding-2620118/"
+    },
+    "mots": 798
   }
 ]
