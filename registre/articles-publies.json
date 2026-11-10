@@ -4819,5 +4819,36 @@
       "auteur": "cookieone",
       "url": "https://pixabay.com/photos/data-center-cable-information-8118377/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "harbinger-startup-americaine-camions-electriques",
+    "title": "Harbinger : la startup californienne des camions électriques de FedEx",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Harbinger",
+    "startups": [
+      {
+        "nom": "Harbinger",
+        "site": "harbingermotors.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.ttnews.com/articles/harbinger-raises-240m-power-defense",
+      "https://runtimewire.com/article/harbinger-240m-series-d-tiger-global",
+      "https://www.ocbj.com/automobiles/harbinger-moves-to-garden-grove/",
+      "https://en.wikipedia.org/wiki/Harbinger_(company"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/harbinger-startup-americaine-camions-electriques.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4408573",
+      "auteur": "marcinjozwiak",
+      "url": "https://pixabay.com/photos/production-facility-logistic-4408573/"
+    },
+    "mots": 773
   }
 ]
