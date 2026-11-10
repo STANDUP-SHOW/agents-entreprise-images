@@ -4648,5 +4648,26 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-noise-and-vibration-engineer-4927728/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-1",
+    "slug": "onodrim-industries-leve-300-millions-rachat-industriels-defense-europe",
+    "title": "Onodrim Industries lève 300 millions pour la défense européenne",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Onodrim Industries – série A 300 M$ à 1,3 Md$ (Lux Capital) – 9 novembre 2026",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/onodrim-industries-secures-300-million-series-a-at-1-3-billion-valuation-to-strengthen-europes-defence-and-industrial-foundations-302932791.html",
+      "https://tech.eu/2026/11/09/onodrim-industries-hits-13b-valuation-with-300m-series-a-to-strengthen-european-defence/",
+      "https://techfundingnews.com/onodrim-300m-series-a-european-defence-acquisitions/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/onodrim-industries-leve-300-millions-rachat-industriels-defense-europe.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5736096",
+      "auteur": "jannonivergall",
+      "url": "https://pixabay.com/photos/worker-grinder-factory-workplace-5736096/"
+    }
   }
 ]
