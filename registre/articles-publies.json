@@ -5258,5 +5258,45 @@
       "auteur": "DT",
       "url": "https://pixabay.com/photos/business-office-boss-170645/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "trier-cv-ia-pme-ai-act-haut-risque",
+    "title": "Une PME peut-elle trier les CV avec l'IA sans enfreindre l'AI Act ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : tri des CV par l'IA, AI Act haut risque et droit du travail",
+    "question": "Une PME peut-elle trier les CV avec l'IA sans enfreindre l'AI Act ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.cnil.fr/fr/controles-prioritaires-2026",
+    "solutions_comparees": [
+      "LinkedIn Hiring Assistant",
+      "Greenhouse",
+      "Teamtailor",
+      "Taleez",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.cnil.fr/fr/controles-prioritaires-2026",
+      "https://www.cnil.fr/fr/le-guide-du-recrutement",
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900847",
+      "https://artificialintelligenceact.eu/annex/3/",
+      "https://artificialintelligenceact.eu/article/26/",
+      "https://www.hunton.com/privacy-and-cybersecurity-law-blog/eu-digital-omnibus-on-ai-enters-into-force",
+      "https://business.linkedin.com/talent-solutions/hiring-assistant",
+      "https://www.greenhouse.com/pricing",
+      "https://support.teamtailor.com/en/articles/8403177-co-pilot-generate-resume-summary",
+      "https://taleez.com/tarifs",
+      "https://zeydo.fr/agents/analyste-cv"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/trier-cv-ia-pme-ai-act-haut-risque.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3410427",
+      "auteur": "styles66",
+      "url": "https://pixabay.com/photos/job-interview-interview-job-3410427/"
+    }
   }
 ]
