@@ -5181,5 +5181,43 @@
       "auteur": "Sammy-Sander",
       "url": "https://pixabay.com/photos/man-desk-computer-adult-blond-pc-9216455/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "changer-fournisseur-ia-pme-reversibilite-data-act",
+    "title": "Peut-on changer de fournisseur d'IA sans tout perdre quand on est une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : réversibilité et changement de fournisseur d'IA (Data Act)",
+    "question": "Peut-on changer de fournisseur d'IA sans tout perdre quand on est une PME ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://consultation.avocat.fr/blog/seyed-siavash-shahrjerdi/article-2982868-data-act-et-amp-cloud-le-12-janvier-2027-ne-doit-pas-etre-la-date-de-decouverte-de-votre-clause-de-reversibilite.html",
+    "solutions_comparees": [
+      "Amazon Bedrock",
+      "Microsoft Foundry Models",
+      "Mistral AI",
+      "Dust",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://digital-strategy.ec.europa.eu/fr/policies/data-act",
+      "https://www.springlex.eu/fr/packages/data-act/data-act-regulation/article-25/",
+      "https://www.springlex.eu/fr/packages/data-act/data-act-regulation/article-29/",
+      "https://www.solutions-numeriques.com/?p=251439",
+      "https://aws.amazon.com/bedrock/",
+      "https://azure.microsoft.com/en-us/products/ai-foundry/models/",
+      "https://mistral.ai/pricing",
+      "https://dust.tt/home/pricing",
+      "https://zeydo.fr/faq"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/changer-fournisseur-ia-pme-reversibilite-data-act.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6839039",
+      "auteur": "OleksandrPidvalnyi",
+      "url": "https://pixabay.com/photos/business-meeting-partnership-6839039/"
+    }
   }
 ]
