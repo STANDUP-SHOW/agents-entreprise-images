@@ -4756,5 +4756,26 @@
       "auteur": "9sdworld",
       "url": "https://pixabay.com/photos/code-coder-programming-coding-4333398/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-1",
+    "slug": "srtd-biotech-leve-31-millions-arn-messager-cible-merieux",
+    "title": "SRTD Biotech lève 31,5 millions d'euros pour un ARN messager ciblé",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "SRTD Biotech – seed 31,5 M€ (Mérieux Equity Partners, NRW.BANK, Boehringer Ingelheim VF) – 9 novembre 2026",
+    "sources": [
+      "https://www.htgf.de/en/srtd-biotech-raises-a-e31-5-million-seed-round/",
+      "https://www.eu-startups.com/2026/11/julich-based-srtd-biotech-secures-e31-5-million-to-develop-precision-mrna-therapies-targeting-diseased-cells/",
+      "https://techfundingnews.com/srtd-biotech-31-5m-seed-selectively-expressed-rna-therapies/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/srtd-biotech-leve-31-millions-arn-messager-cible-merieux.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3827738",
+      "auteur": "Belova59",
+      "url": "https://pixabay.com/photos/laboratory-medical-medicine-hand-3827738/"
+    }
   }
 ]
