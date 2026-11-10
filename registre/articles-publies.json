@@ -5143,5 +5143,43 @@
       "url": "https://pixabay.com/photos/vietnam-port-tcit-zpmc-sts-cranes-4736279/"
     },
     "mots": 2287
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-connecter-erp-sans-developpement-pme",
+    "title": "Un agent IA peut-il se connecter à l'ERP d'une PME sans développement ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : brancher un agent IA sur l'ERP sans développement",
+    "question": "Un agent IA peut-il se connecter à l'ERP d'une PME sans développement ?",
+    "theme": "deploiement-integration",
+    "preuve_question": "https://www.insee.fr/fr/statistiques/9025878",
+    "solutions_comparees": [
+      "Microsoft Copilot Studio",
+      "Zapier Agents",
+      "n8n",
+      "Dust",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.lemondeinformatique.fr/actualites/lire-pousses-par-l-ia-les-erp-evoluent-doucement-97743.html",
+      "https://www.anthropic.com/news/model-context-protocol",
+      "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/copilot-studio",
+      "https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-connectors",
+      "https://zapier.com/pricing",
+      "https://n8n.io/pricing/",
+      "https://dust.tt/home/pricing",
+      "https://zeydo.fr/logiciels"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-connecter-erp-sans-developpement-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "9216455",
+      "auteur": "Sammy-Sander",
+      "url": "https://pixabay.com/photos/man-desk-computer-adult-blond-pc-9216455/"
+    }
   }
 ]
