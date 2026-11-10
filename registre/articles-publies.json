@@ -4626,5 +4626,27 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/hands-phone-smartphone-electronics-1851218/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-1",
+    "slug": "nominal-leve-240-millions-dollars-ia-essais-materiel-defense",
+    "title": "Nominal lève 240 millions de dollars pour l'IA des essais de matériel",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Nominal – série C 240 M$ à 3 Md$ (Lightspeed, Insight) – 9 novembre 2026",
+    "sources": [
+      "https://nominal.io/blog/series-c-news",
+      "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "https://siliconangle.com/2026/11/09/ai-powered-hardware-testing-and-engineering-startup-nominal-raises-240m-at-3b-valuation/",
+      "https://runtimewire.com/article/nominal-raises-240m-3b-valuation-hardware-testing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/nominal-leve-240-millions-dollars-ia-essais-materiel-defense.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4927728",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-noise-and-vibration-engineer-4927728/"
+    }
   }
 ]
