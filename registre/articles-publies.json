@@ -4777,5 +4777,26 @@
       "auteur": "Belova59",
       "url": "https://pixabay.com/photos/laboratory-medical-medicine-hand-3827738/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-1",
+    "slug": "fervo-energy-12-milliards-contrats-geothermie-google-data-centers",
+    "title": "Fervo Energy atteint 11,9 milliards de contrats avec la géothermie",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Fervo Energy – résultats T3 2026, 11,9 Md$ de revenus contractés, contrat Google 396 MW – 9 novembre 2026",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/0001853868/000162828026071911/exhibit991earningsrelease1.htm",
+      "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "https://www.investing.com/news/transcripts/earnings-call-transcript-fervo-energy-shares-in-q3-2026-after-first-geoblock-starts-93CH-5012837"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/fervo-energy-12-milliards-contrats-geothermie-google-data-centers.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "67538",
+      "auteur": "WikiImages",
+      "url": "https://pixabay.com/photos/power-plant-geothermal-67538/"
+    }
   }
 ]
