@@ -5092,5 +5092,56 @@
       "url": "https://pixabay.com/photos/calculator-calculation-insurance-1044173/"
     },
     "mots": 1844
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-transport-marchandises-2026-11-10",
+    "title": "5 startups américaines qui réinventent le transport de marchandises",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration : 5 startups du transport de marchandises",
+    "startups": [
+      {
+        "nom": "Harbinger",
+        "site": "harbingermotors.com"
+      },
+      {
+        "nom": "Humble Robotics",
+        "site": "humblerobotics.ai"
+      },
+      {
+        "nom": "Corridian",
+        "site": "corridian.com"
+      },
+      {
+        "nom": "Ultra",
+        "site": "ycombinator.com/companies/ultra"
+      },
+      {
+        "nom": "HappyRobot",
+        "site": "happyrobot.ai"
+      }
+    ],
+    "theme": "Startups américaines qui réinventent le transport de marchandises (camions électriques, camions autonomes, logistique sous-marine, robots d'entrepôt, agents IA du fret)",
+    "sources": [
+      "https://www.ttnews.com/articles/harbinger-raises-240m-power-defense",
+      "https://thenextweb.com/news/humble-robotics-51m-series-a-cabless-electric-autonomous-trucks",
+      "https://thenextweb.com/news/corridian-38m-seed-point72-underwater-drones-stealth-logistics",
+      "https://runtimewire.com/article/ultra-raises-62m-warehouse-robotics",
+      "https://www.humanoidsdaily.com/news/ultra-50-million-series-a-warehouse-robots-physical-intelligence",
+      "https://www.ycombinator.com/companies/ultra",
+      "https://theaiinsider.tech/2026/08/04/happyrobot-raises-150m-in-series-c-funding-to-expand-ai-agent-platform-for-logistics-supply-chains/",
+      "https://www.ycombinator.com/companies/happyrobot"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-transport-marchandises-2026-11-10.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4736279",
+      "auteur": "SONVU9491",
+      "url": "https://pixabay.com/photos/vietnam-port-tcit-zpmc-sts-cranes-4736279/"
+    },
+    "mots": 2287
   }
 ]
