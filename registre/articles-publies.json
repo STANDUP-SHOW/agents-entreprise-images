@@ -4911,5 +4911,35 @@
       "url": "https://pixabay.com/photos/sea-ocean-blue-water-nature-2563947/"
     },
     "mots": 816
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "corridian-startup-americaine-drones-sous-marins",
+    "title": "Corridian : les drones sous-marins géants qui ont convaincu Point72",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Corridian",
+    "startups": [
+      {
+        "nom": "Corridian",
+        "site": "corridian.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://thenextweb.com/news/corridian-38m-seed-point72-underwater-drones-stealth-logistics",
+      "https://www.dcvelocity.com/material-handling/robotics/boston-startup-raises-38-million-for-its-ultra-large-autonomous-underwater-vehicles",
+      "https://www.lw.com/en/news/2026/11/latham-watkins-advises-on-corridian-seed-round"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/corridian-startup-americaine-drones-sous-marins.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2777738",
+      "auteur": "Military_Material",
+      "url": "https://pixabay.com/photos/rescue-vehicle-srv-submarine-water-2777738/"
+    },
+    "mots": 710
   }
 ]
