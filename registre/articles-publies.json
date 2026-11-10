@@ -4798,5 +4798,26 @@
       "auteur": "WikiImages",
       "url": "https://pixabay.com/photos/power-plant-geothermal-67538/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-1",
+    "slug": "red-hat-openshift-5-agents-ia-exploitation-informatique",
+    "title": "Red Hat OpenShift 5 : un agent IA pour dépanner, sous contrôle humain",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Red Hat – OpenShift 5 (agent Lightspeed de dépannage, MCP) – KubeCon NA, 9 novembre 2026",
+    "sources": [
+      "https://www.redhat.com/en/about/press-releases/red-hat-openshift-5-transforms-hybrid-cloud-operations-real-time-intelligence-and-zero-trust-security",
+      "https://siliconangle.com/2026/11/09/red-hat-adds-agentic-ai-operations-stronger-security-in-openshift-5-and-rhel-updates/",
+      "https://virtualizationreview.com/articles/2026/11/09/red-hat-openshift-5-brings-ai-agents-to-cluster-troubleshooting-and-upgrades.aspx"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/red-hat-openshift-5-agents-ia-exploitation-informatique.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8118377",
+      "auteur": "cookieone",
+      "url": "https://pixabay.com/photos/data-center-cable-information-8118377/"
+    }
   }
 ]
