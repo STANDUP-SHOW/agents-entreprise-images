@@ -4850,5 +4850,36 @@
       "url": "https://pixabay.com/photos/production-facility-logistic-4408573/"
     },
     "mots": 773
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "north-cloud-startup-americaine-couts-cloud-ia",
+    "title": "North.cloud : la startup new-yorkaise qui réduit la facture du cloud",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup North.cloud",
+    "startups": [
+      {
+        "nom": "North.cloud",
+        "site": "north.cloud"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/north-cloud-raises-60-million-series-b-led-by-peakspan-capital-to-automate-cloud-ai-and-data-spend/",
+      "https://www.alleywatch.com/2026/11/nyc-startup-funding-top-largest-october-2026-vc/",
+      "https://www.north.cloud/pricing",
+      "https://www.unite.ai/north-cloud-raises-5m-to-launch-ai-powered-operating-system-for-smarter-greener-cloud-finops"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/north-cloud-startup-americaine-couts-cloud-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1572617",
+      "auteur": "Martinelle",
+      "url": "https://pixabay.com/photos/network-cable-ethernet-1572617/"
+    },
+    "mots": 863
   }
 ]
