@@ -4713,5 +4713,26 @@
       "auteur": "andreas160578",
       "url": "https://pixabay.com/photos/hands-massage-treatment-fingers-1327811/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-1",
+    "slug": "mistral-ai-loi-darcos-droit-auteur-ia-investissements-france",
+    "title": "Droit d'auteur et IA : Mistral AI menace d'investir hors de France",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Mistral AI – Arthur Mensch contre la PPL Darcos (présomption d'utilisation des œuvres), examen AN le 19/11 – 8-9 novembre 2026",
+    "sources": [
+      "https://siecledigital.fr/2026/11/09/mistral-ai-menace-dinvestir-hors-de-france-a-cause-dune-nouvelle-loi-sur-le-droit-dauteur/",
+      "https://ecran-total.fr/2026/11/09/arthur-mensch-critique-les-effets-de-la-ppl-darcos-la-senatrice-lui-repond/",
+      "https://next.ink/266327/ia-et-droit-dauteur-mistral-et-les-industriels-du-numerique-accentuent-le-lobbying/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mistral-ai-loi-darcos-droit-auteur-ia-investissements-france.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6912123",
+      "auteur": "serendypita",
+      "url": "https://pixabay.com/photos/archive-old-documents-6912123/"
+    }
   }
 ]
