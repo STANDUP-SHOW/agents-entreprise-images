@@ -4881,5 +4881,35 @@
       "url": "https://pixabay.com/photos/network-cable-ethernet-1572617/"
     },
     "mots": 863
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "humble-robotics-startup-americaine-camions-autonomes",
+    "title": "Humble Robotics : le camion électrique sans cabine qui séduit Obvious",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Humble Robotics",
+    "startups": [
+      {
+        "nom": "Humble Robotics",
+        "site": "humblerobotics.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://thenextweb.com/news/humble-robotics-51m-series-a-cabless-electric-autonomous-trucks",
+      "https://runtimewire.com/article/humble-robotics-51m-cabless-trucks-eyal-cohen",
+      "https://roboticsandautomationnews.com/2026/04/23/humble-robotics-emerges-from-stealth-to-bring-autonomous-electric-haulers-to-real-world-freight/100918/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/humble-robotics-startup-americaine-camions-autonomes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2563947",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/sea-ocean-blue-water-nature-2563947/"
+    },
+    "mots": 816
   }
 ]
