@@ -4734,5 +4734,27 @@
       "auteur": "serendypita",
       "url": "https://pixabay.com/photos/archive-old-documents-6912123/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-1",
+    "slug": "anthropic-claude-fable-5-2-mythos-agents-ia-entreprises",
+    "title": "Claude Fable 5.2 : Anthropic muscle ses modèles pour les agents IA",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Anthropic – lancement de Claude Fable 5.2 et Mythos 5.2 – 9 novembre 2026",
+    "sources": [
+      "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+      "https://siliconangle.com/2026/11/09/anthropic-launches-fable-5-2-and-mythos-5-2-with-science-coding-upgrades/",
+      "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/anthropic-claude-fable-5-2-mythos-agents-ia-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4333398",
+      "auteur": "9sdworld",
+      "url": "https://pixabay.com/photos/code-coder-programming-coding-4333398/"
+    }
   }
 ]
