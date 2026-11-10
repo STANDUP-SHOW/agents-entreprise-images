@@ -4669,5 +4669,27 @@
       "auteur": "jannonivergall",
       "url": "https://pixabay.com/photos/worker-grinder-factory-workplace-5736096/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-1",
+    "slug": "meta-muse-ember-modele-leger-agents-ia-prix-entreprises",
+    "title": "Meta lance Muse Ember, un modèle léger pour exécuter les agents IA",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Meta – lancement de Muse Ember (modèle léger pour agents, 0,10 $/M jetons) – 9 novembre 2026",
+    "sources": [
+      "https://research.meta.ai/blog/muse-ember",
+      "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "https://siliconangle.com/2026/11/09/meta-introduces-muse-ember-to-power-cost-efficient-ai-agents/",
+      "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/meta-muse-ember-modele-leger-agents-ia-prix-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "849825",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/student-typing-keyboard-text-849825/"
+    }
   }
 ]
