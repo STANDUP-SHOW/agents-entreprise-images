@@ -4691,5 +4691,27 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/student-typing-keyboard-text-849825/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-1",
+    "slug": "withings-famille-carreel-90-pourcent-capital-rentabilite",
+    "title": "Withings : la famille Carreel reprend 90 % du capital de la start-up",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Withings – la famille Carreel porte sa participation à 90 % du capital (sortie de fonds) – 9-10 novembre 2026",
+    "sources": [
+      "https://www.frenchweb.fr/avec-90-du-capital-de-withings-la-famille-carreel-reprend-la-maitrise-du-temps-long/900000032",
+      "https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/Managers-et-entrepreneurs/Withings-allege-sa-masse-actionnariale-759326",
+      "https://techcrunch.com/2018/05/31/nokia-closes-digital-health-business-sale-to-withings-founder-eric-carreel-who-plans-relaunch-by-eoy/",
+      "https://en.wikipedia.org/wiki/Withings"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/withings-famille-carreel-90-pourcent-capital-rentabilite.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1327811",
+      "auteur": "andreas160578",
+      "url": "https://pixabay.com/photos/hands-massage-treatment-fingers-1327811/"
+    }
   }
 ]
