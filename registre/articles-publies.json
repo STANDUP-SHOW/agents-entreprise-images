@@ -5298,5 +5298,41 @@
       "auteur": "styles66",
       "url": "https://pixabay.com/photos/job-interview-interview-job-3410427/"
     }
+  },
+  {
+    "date": "2026-11-10",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-generaliste-ou-agent-metier-pme-choisir",
+    "title": "Agent IA généraliste ou agent métier : lequel choisir pour une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : assistant IA généraliste ou agent métier spécialisé",
+    "question": "Agent IA généraliste ou agent métier : lequel choisir pour une PME ?",
+    "theme": "choisir-solution",
+    "preuve_question": "https://paperjam.lu/article/chatgpt-ou-ia-specialisee-loutil-qui-change-vraiment-tout",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot",
+      "Intercom Fin",
+      "Mistral AI Team",
+      "Crisp (Hugo)",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://paperjam.lu/article/chatgpt-ou-ia-specialisee-loutil-qui-change-vraiment-tout",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/copilot-studio",
+      "https://www.intercom.com/pricing",
+      "https://mistral.ai/pricing",
+      "https://crisp.chat/fr/pricing/",
+      "https://zeydo.fr/catalogue"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-generaliste-ou-agent-metier-pme-choisir.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1866533",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/adult-artisan-tools-workshop-1866533/"
+    }
   }
 ]
