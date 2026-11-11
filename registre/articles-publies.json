@@ -5524,5 +5524,36 @@
       "auteur": "mpewny",
       "url": "https://pixabay.com/photos/buildings-river-city-cityscape-668616/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "confido-startup-americaine-logiciel-marques-grande-consommation",
+    "title": "Confido : le logiciel new-yorkais qui protège la marge des marques",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Confido",
+    "startups": [
+      {
+        "nom": "Confido",
+        "site": "confidotech.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.confidotech.com/blogs/confido-raises-55m-series-b-to-scale-the-ai-operating-system-for-cpg-brands",
+      "https://theaiinsider.tech/2026/09/23/confido-secures-55m-series-b-to-take-ai-powered-automation-across-the-entire-consumer-brand-back-office/",
+      "https://www.alleywatch.com/2026/10/nyc-startup-funding-top-largest-september-2026-vc/",
+      "https://www.ycombinator.com/companies/confido",
+      "https://www.confidotech.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/confido-startup-americaine-logiciel-marques-grande-consommation.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1275480",
+      "auteur": "652234",
+      "url": "https://pixabay.com/photos/shopping-carts-grocery-shopping-1275480/"
+    }
   }
 ]
