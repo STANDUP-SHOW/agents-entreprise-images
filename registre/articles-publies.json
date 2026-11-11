@@ -5648,5 +5648,36 @@
       "auteur": "axevaper",
       "url": "https://pixabay.com/photos/industry-craft-work-technology-5044036/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "upsmith-startup-americaine-ia-artisans-chauffage-plomberie",
+    "title": "UpSmith : l'IA texane qui relance les devis des artisans",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup UpSmith",
+    "startups": [
+      {
+        "nom": "UpSmith",
+        "site": "upsmith.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.newswire.com/news/upsmith-raises-10-million-series-a-to-power-the-people-who-power-22870667",
+      "https://pulse2.com/upsmith-raises-10-million-series-a/",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-12-26/",
+      "https://www.upsmith.com",
+      "https://www.upsmith.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/upsmith-startup-americaine-ia-artisans-chauffage-plomberie.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1080554",
+      "auteur": "jarmoluk",
+      "url": "https://pixabay.com/photos/electrician-repair-electricity-1080554/"
+    }
   }
 ]
