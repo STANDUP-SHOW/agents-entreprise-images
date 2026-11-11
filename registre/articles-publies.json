@@ -5859,5 +5859,56 @@
       "auteur": "falco",
       "url": "https://pixabay.com/photos/logistics-warehouse-transport-852939/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-cybersecurite-2026-11-11",
+    "title": "5 startups américaines de la cybersécurité à l'ère de l'IA à suivre",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Article Inspiration américaine : cybersécurité à l'ère de l'IA",
+    "startups": [
+      {
+        "nom": "Adaptive Security",
+        "site": "adaptivesecurity.com"
+      },
+      {
+        "nom": "Dropzone AI",
+        "site": "dropzone.ai"
+      },
+      {
+        "nom": "Cyera",
+        "site": "cyera.com"
+      },
+      {
+        "nom": "Chainguard",
+        "site": "chainguard.dev"
+      },
+      {
+        "nom": "7AI",
+        "site": "7ai.com"
+      }
+    ],
+    "theme": "Startups américaines de la cybersécurité à l'ère de l'IA (hypertrucages, analyse des alertes, protection des données, open source sécurisé, agents de sécurité)",
+    "sources": [
+      "https://www.adaptivesecurity.com/about",
+      "https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/",
+      "https://www.dropzone.ai/blog/dropzone-ai-37m-series-b-funding",
+      "https://www.bankinfosecurity.com/dropzone-ai-gets-37m-to-build-out-cyber-ai-agent-ecosystem-a-29061",
+      "https://pulse2.com/cyera-raises-400-million-from-goldman-sachs-at-over-12-billion-valuation/",
+      "https://www.securityweek.com/chainguard-raises-280-million-in-growth-funding/",
+      "https://www.prnewswire.com/news-releases/introducing-chainguard-catalog-starter-your-choice-of-free-trusted-images-for-modern-application-development-302715321.html",
+      "https://www.securityweek.com/agentic-security-firm-7ai-raises-130-million/",
+      "https://7ai.com/press/7ai-widens-gap-in-agentic-security-with-plaid-elite"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-cybersecurite-2026-11-11.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4690505",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-code-coding-software-4690505/"
+    }
   }
 ]
