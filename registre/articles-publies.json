@@ -5617,5 +5617,36 @@
       "auteur": "Mimzy",
       "url": "https://pixabay.com/photos/man-talking-on-the-phone-smartphone-1582238/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "formic-startup-americaine-robots-location-usines",
+    "title": "Formic : la start-up de Chicago qui loue des robots aux usines",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Formic",
+    "startups": [
+      {
+        "nom": "Formic",
+        "site": "formic.co"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://thenextweb.com/news/formic-50m-series-b-general-purpose-factory-robots",
+      "https://www.manufacturingtomorrow.com/news/2026/10/23/formic-raises-50-million-to-scale-physical-ai-across-american-manufacturing/28471/",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-26-26/",
+      "https://businesswire.com/news/home/20240625420772/en/Formic-Raises-27.4-Million-to-Bring-Automation-to-More-Manufacturers/",
+      "https://formic.co"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/formic-startup-americaine-robots-location-usines.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5044036",
+      "auteur": "axevaper",
+      "url": "https://pixabay.com/photos/industry-craft-work-technology-5044036/"
+    }
   }
 ]
