@@ -5829,5 +5829,35 @@
       "auteur": "WikiImages",
       "url": "https://pixabay.com/photos/astronaut-international-space-station-67639/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-tutor-intelligence-robots-loues-a-l-heure",
+    "title": "Business model de Tutor Intelligence : des robots payés à l'heure",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Série B de 75 M$ menée par Andreessen Horowitz, 02/11/2026 ; tarifs publics à l'heure",
+    "startups": [
+      {
+        "nom": "Tutor Intelligence",
+        "site": "tutorintelligence.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://thenextweb.com/news/tutor-intelligence-75m-series-b-a16z-robot-workers",
+      "https://roboticsandautomationnews.com/2026/11/03/tutor-intelligence-raises-75-million-to-scale-robot-workforce/106645/",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/",
+      "https://www.tutorintelligence.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-tutor-intelligence-robots-loues-a-l-heure.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "852939",
+      "auteur": "falco",
+      "url": "https://pixabay.com/photos/logistics-warehouse-transport-852939/"
+    }
   }
 ]
