@@ -5799,5 +5799,35 @@
       "auteur": "1815691",
       "url": "https://pixabay.com/photos/biogas-container-lazy-natural-gas-2919235/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "rendezvous-robotics-startup-americaine-satellites-auto-assembles",
+    "title": "Rendezvous Robotics, la start-up américaine des satellites en kit",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Amorçage de 20 M$ mené par MaC Venture Capital et Toyota Ventures, 28/10/2026",
+    "startups": [
+      {
+        "nom": "Rendezvous Robotics",
+        "site": "rendezvousrobotics.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://payloadspace.com/exclusive-rendezvous-robotics-raises-20m-to-develop-self-assembling-spacecraft/",
+      "https://coloradobiz.com/golden-rendezvous-robotics-raises-20-million-modular-spacecraft/",
+      "https://pulse2.com/rendezvous-robotics-raises-20-million-seed-round-led-by-mac-venture-capital-and-toyota-ventures/",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-2-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/rendezvous-robotics-startup-americaine-satellites-auto-assembles.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "67639",
+      "auteur": "WikiImages",
+      "url": "https://pixabay.com/photos/astronaut-international-space-station-67639/"
+    }
   }
 ]
