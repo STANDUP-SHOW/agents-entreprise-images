@@ -5988,5 +5988,40 @@
       "auteur": "Jerzy Górecki",
       "url": "https://pixabay.com/photos/papers-projects-documents-3819540/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "choisir-prestataire-integrateur-ia-pme-criteres",
+    "title": "Comment choisir un prestataire pour intégrer l’IA dans sa PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : choisir une agence, un intégrateur ou une solution clé en main pour l'IA (catalogue DGE Osez l'IA)",
+    "question": "Comment choisir un prestataire (agence, intégrateur, solution clé en main) pour intégrer l'IA dans une PME ?",
+    "theme": "deploiement-integration",
+    "preuve_question": "https://tensoria.fr/blog/choisir-prestataire-ia-pme-criteres",
+    "solutions_comparees": [
+      "Microsoft Copilot Studio",
+      "Zapier Agents",
+      "Dust",
+      "LightOn",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.entreprises.gouv.fr/files/files/Espace-entreprises/Aide-financement/2026/2026-07-30-catalogue-solutions-ia-pme-eti.pdf",
+      "https://tensoria.fr/blog/choisir-prestataire-ia-pme-criteres",
+      "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/copilot-studio",
+      "https://zapier.com/pricing",
+      "https://dust.tt/home/pricing",
+      "https://www.lighton.ai/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/choisir-prestataire-integrateur-ia-pme-criteres.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2568603",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/people-man-woman-corporate-2568603/"
+    }
   }
 ]
