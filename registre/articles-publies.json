@@ -5355,5 +5355,26 @@
       "auteur": "Maximilianovich",
       "url": "https://pixabay.com/photos/doctor-patient-consultation-5710150/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-1",
+    "slug": "mirakl-nomme-steve-tzikakis-co-ceo-ex-patron-sitecore",
+    "title": "Mirakl : Steve Tzikakis, ex-patron de Sitecore, nommé co-CEO",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Mirakl – nomination de Steve Stathis Tzikakis co-CEO, Adrien Nussenbaum président du conseil – 10 novembre 2026",
+    "sources": [
+      "https://www.einpresswire.com/article/955612072/steve-stathis-tzikakis-joins-philippe-corrot-as-mirakl-co-ceo-adrien-nussenbaum-becomes-chairman-of-the-board",
+      "https://www.maddyness.com/2026/11/10/mirakl-accueille-un-nouveau-pdg-aux-cotes-de-philippe-corrot/",
+      "https://www.frenchweb.fr/breaking-news/mirakl-nomme-l-ancien-patron-de-sitecore-co-ceo-adrien-nussenbaum-prend-la-presidence-du-conseil/daabe5df-bd7e-467c-a120-91febc1d1d40"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mirakl-nomme-steve-tzikakis-co-ceo-ex-patron-sitecore.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2673316",
+      "auteur": "websubs",
+      "url": "https://pixabay.com/photos/iocenters-meeting-room-kuwait-city-2673316/"
+    }
   }
 ]
