@@ -5739,5 +5739,35 @@
       "auteur": "Akela999",
       "url": "https://pixabay.com/photos/electrical-data-center-2476783/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "sunbound-startup-americaine-finance-residences-seniors",
+    "title": "Sunbound, la start-up américaine de la finance des résidences seniors",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Série A de 24 M$ menée par TTV Capital et rachat de Richter Healthcare Consultants, 15/10/2026",
+    "startups": [
+      {
+        "nom": "Sunbound",
+        "site": "sunbound.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.prnewswire.com/news-releases/sunbound-acquires-richter-healthcare-consultants-bringing-decades-of-financial-trust-and-expertise-in-senior-living-revenue-management-to-sunbounds-technology-platform-302909212.html",
+      "https://www.thesaasnews.com/news/sunbound-raises-24m-series-a",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-19-26/",
+      "https://sunbound.ai/about-us"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sunbound-startup-americaine-finance-residences-seniors.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4344711",
+      "auteur": "sabinevanerp",
+      "url": "https://pixabay.com/photos/hands-old-old-age-senior-citizens-4344711/"
+    }
   }
 ]
