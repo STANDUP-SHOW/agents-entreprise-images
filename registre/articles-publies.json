@@ -5481,5 +5481,26 @@
       "auteur": "Campaign_Creators",
       "url": "https://pixabay.com/photos/marketing-digital-marketing-office-3724797/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-1",
+    "slug": "adobe-ouvre-creative-cloud-agents-ia-tiers-mcp-photoshop",
+    "title": "Adobe ouvre Photoshop et Premiere aux agents IA tiers grâce à MCP",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Adobe MAX 2026 – MCP pour Photoshop, Illustrator, Premiere, After Effects et agents Firefly – 10 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "https://www.creativeboom.com/news/adobe-max-2026-all-the-big-announcements/",
+      "https://variety.com/2026/digital/news/adobe-ai-agentic-features-max-2026-1236943958/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/adobe-ouvre-creative-cloud-agents-ia-tiers-mcp-photoshop.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2838921",
+      "auteur": "lukasbieri",
+      "url": "https://pixabay.com/photos/laptop-mockup-graphics-tablet-2838921/"
+    }
   }
 ]
