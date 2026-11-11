@@ -6059,5 +6059,41 @@
       "auteur": "advogadoaguilar",
       "url": "https://pixabay.com/photos/right-advocacy-lex-attorney-jura-4703922/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "salaries-peur-remplaces-ia-pme-rassurer-equipes",
+    "title": "Comment rassurer des salariés qui craignent d’être remplacés par l’IA ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : peur des salariés d'être remplacés par l'IA, communication et conduite du changement",
+    "question": "Comment rassurer et embarquer des salariés qui craignent d'être remplacés par l'IA dans une PME ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://www.fr.adp.com/a-propos-adp/communiques-de-presse/seul-1-salarie-francais-sur-10-craint-d-etre-remplace-par-l-ia.aspx",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot",
+      "Google Workspace avec Gemini",
+      "Mistral AI Vibe",
+      "Didask",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.fr.adp.com/a-propos-adp/communiques-de-presse/seul-1-salarie-francais-sur-10-craint-d-etre-remplace-par-l-ia.aspx",
+      "https://www.ipsos.com/fr-fr/ia-au-travail-six-actifs-sur-10-se-sentent-livres-eux-memes",
+      "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/copilot-studio",
+      "https://workspace.google.com/pricing",
+      "https://mistral.ai/pricing",
+      "https://www.didask.com/",
+      "https://www.entreprises.gouv.fr/files/files/Espace-entreprises/Aide-financement/2026/2026-07-30-catalogue-solutions-ia-pme-eti.pdf"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/salaries-peur-remplaces-ia-pme-rassurer-equipes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4507899",
+      "auteur": "knowledgetrain",
+      "url": "https://pixabay.com/photos/knowledge-train-4507899/"
+    }
   }
 ]
