@@ -5709,5 +5709,35 @@
       "auteur": "Dyanap",
       "url": "https://pixabay.com/photos/copper-fittings-plumbing-metal-1039483/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "dropzone-ai-startup-americaine-analyste-soc-ia",
+    "title": "Dropzone AI : l'analyste de cybersécurité autonome venu de Seattle",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Dropzone AI",
+    "startups": [
+      {
+        "nom": "Dropzone AI",
+        "site": "dropzone.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.dropzone.ai/blog/dropzone-ai-37m-series-b-funding",
+      "https://www.bankinfosecurity.com/dropzone-ai-gets-37m-to-build-out-cyber-ai-agent-ecosystem-a-29061",
+      "https://www.geekwire.com/2025/seattle-startup-dropzone-raises-37m-to-supercharge-its-ai-soc-analyst-security-software/",
+      "https://www.dropzone.ai/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/dropzone-ai-startup-americaine-analyste-soc-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2476783",
+      "auteur": "Akela999",
+      "url": "https://pixabay.com/photos/electrical-data-center-2476783/"
+    }
   }
 ]
