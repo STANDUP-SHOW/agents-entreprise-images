@@ -5334,5 +5334,26 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/adult-artisan-tools-workshop-1866533/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-1",
+    "slug": "oura-rachete-counsel-health-625-millions-medecin-ia-bague",
+    "title": "Oura rachète Counsel Health 625 millions de dollars : la bague soigne",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Oura – rachat de Counsel Health – 625 M$ – 10 novembre 2026",
+    "sources": [
+      "https://www.counselhealth.com/newsroom/oura-to-acquire-counsel-health-advancing-vision-for-more-connected-personalized-healthcare",
+      "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "https://hitconsultant.net/2026/11/10/oura-acquires-counsel-health-625-million-ai-primary-care-biometric-intelligence/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/oura-rachete-counsel-health-625-millions-medecin-ia-bague.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5710150",
+      "auteur": "Maximilianovich",
+      "url": "https://pixabay.com/photos/doctor-patient-consultation-5710150/"
+    }
   }
 ]
