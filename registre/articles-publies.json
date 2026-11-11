@@ -5586,5 +5586,36 @@
       "auteur": "Tumisu",
       "url": "https://pixabay.com/photos/wall-street-stock-exchange-finance-4758079/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "adaptive-security-startup-americaine-deepfakes-cybersecurite",
+    "title": "Adaptive Security : la start-up new-yorkaise qui combat les deepfakes",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Adaptive Security",
+    "startups": [
+      {
+        "nom": "Adaptive Security",
+        "site": "adaptivesecurity.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/",
+      "https://www.adaptivesecurity.com/blog/adaptive-raises-series-b",
+      "https://www.adaptivesecurity.com/blog/43-million-funding-announcement",
+      "https://www.adaptivesecurity.com/about",
+      "https://www.adaptivesecurity.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/adaptive-security-startup-americaine-deepfakes-cybersecurite.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1582238",
+      "auteur": "Mimzy",
+      "url": "https://pixabay.com/photos/man-talking-on-the-phone-smartphone-1582238/"
+    }
   }
 ]
