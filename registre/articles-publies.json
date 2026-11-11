@@ -5376,5 +5376,26 @@
       "auteur": "websubs",
       "url": "https://pixabay.com/photos/iocenters-meeting-room-kuwait-city-2673316/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-1",
+    "slug": "x-energy-permis-construire-petits-reacteurs-nucleaires-dow-texas",
+    "title": "X-energy obtient le permis de construire ses petits réacteurs au Texas",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "X-energy / Dow – permis de construire NRC pour 4 réacteurs Xe-100 à Long Mott (Seadrift, Texas) – 9-10 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "https://www.world-nuclear-news.org/articles/us-issues-landmark-construction-permit-for-texas-smr-plant",
+      "https://www.ans.org/news/article-8573/nrc-issues-construction-permit-for-dowxenergy-long-mott-project/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/x-energy-permis-construire-petits-reacteurs-nucleaires-dow-texas.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4535760",
+      "auteur": "distelAPPArath",
+      "url": "https://pixabay.com/photos/nuclear-power-plant-rhine-flow-4535760/"
+    }
   }
 ]
