@@ -5910,5 +5910,45 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-code-coding-software-4690505/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "donnees-sante-cabinet-agent-ia-cloud-hds",
+    "title": "Données de santé : un cabinet peut-il utiliser une IA dans le cloud ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : données de santé, certification HDS et agents IA dans le cloud",
+    "question": "Un cabinet ou une structure de santé peut-il confier des données patients à un agent IA hébergé dans le cloud ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://www.dpo-consulting.com/fr-fr/blog/comptes-rendus-medicaux-generes-par-lia-quels-enjeux-rgpd-pour-les-donnees-de-sante",
+    "solutions_comparees": [
+      "Microsoft Dragon Copilot",
+      "Abridge",
+      "Nabla",
+      "Tandem Health",
+      "OVHcloud HDS",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.donneespersonnelles.fr/hebergement-donnees-sante-hds",
+      "https://www.cnil.fr/fr/ia-et-sante-developper-et-evaluer-des-systemes-ia-conformes",
+      "https://www.dpo-consulting.com/fr-fr/blog/comptes-rendus-medicaux-generes-par-lia-quels-enjeux-rgpd-pour-les-donnees-de-sante",
+      "https://news.microsoft.com/source/emea/2025/10/microsoft-dragon-copilot-disponible-en-france/?lang=fr",
+      "https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-copilot",
+      "https://www.abridge.com/",
+      "https://www.nabla.com/",
+      "https://www.tandemhealth.ai/fr",
+      "https://www.ovhcloud.com/fr/enterprise/certification-conformity/hds/",
+      "https://www.journaldunet.com/intelligence-artificielle/1535811-les-dessous-de-l-assistant-ia-de-consultation-de-doctolib/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/donnees-sante-cabinet-agent-ia-cloud-hds.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "563427",
+      "auteur": "DarkoStojanovic",
+      "url": "https://pixabay.com/photos/medical-appointment-doctor-563427/"
+    }
   }
 ]
