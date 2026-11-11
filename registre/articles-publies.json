@@ -5460,5 +5460,26 @@
       "auteur": "ClickerHappy",
       "url": "https://pixabay.com/photos/courier-night-panning-warsaw-1214227/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-1",
+    "slug": "anthropic-claude-meetings-agent-ia-reunions-taches-equipes",
+    "title": "Claude Meetings : Anthropic fait entrer son agent IA dans les réunions",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Anthropic – lancement de Claude Meetings, Whiteboards, Sheets et Claude Data – 10 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "https://tbreak.com/claude-sheets-whiteboards-meetings-launch/",
+      "https://sqmagazine.co.uk/anthropic-launches-claude-meetings-sheets-whiteboards/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/anthropic-claude-meetings-agent-ia-reunions-taches-equipes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3724797",
+      "auteur": "Campaign_Creators",
+      "url": "https://pixabay.com/photos/marketing-digital-marketing-office-3724797/"
+    }
   }
 ]
