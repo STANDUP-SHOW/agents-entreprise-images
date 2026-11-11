@@ -5950,5 +5950,43 @@
       "auteur": "DarkoStojanovic",
       "url": "https://pixabay.com/photos/medical-appointment-doctor-563427/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-tenir-comptabilite-courante-tpe",
+    "title": "Un agent IA peut-il tenir la comptabilité courante d’une TPE ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : confier la comptabilité courante (saisie, rapprochement, relances) à un agent IA",
+    "question": "Un agent IA peut-il tenir la comptabilité courante d'une TPE à la place du dirigeant ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://les-experts-comptables.fr/ressources/automatiser-comptabilite-ia",
+    "solutions_comparees": [
+      "QuickBooks Online",
+      "Digits",
+      "Pennylane",
+      "Tiime",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.impots.gouv.fr/professionnel/je-passe-la-facturation-electronique",
+      "https://donneespersonnelles.fr/calendrier-facturation-electronique",
+      "https://les-experts-comptables.fr/ressources/automatiser-comptabilite-ia",
+      "https://hayot-expertise.fr/blog/intelligence-artificielle-et-comptabilite",
+      "https://www.pennylane.com/fr/tarifs",
+      "https://www.pennylane.com/fr/blog/produit/mcp-pennylane",
+      "https://www.tiime.fr/tarifs",
+      "https://quickbooks.intuit.com/pricing/",
+      "https://digits.com/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-tenir-comptabilite-courante-tpe.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3819540",
+      "auteur": "Jerzy Górecki",
+      "url": "https://pixabay.com/photos/papers-projects-documents-3819540/"
+    }
   }
 ]
