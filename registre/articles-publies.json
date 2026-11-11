@@ -5397,5 +5397,26 @@
       "auteur": "distelAPPArath",
       "url": "https://pixabay.com/photos/nuclear-power-plant-rhine-flow-4535760/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-1",
+    "slug": "sumary-leve-25-millions-dollars-ia-cabinets-comptables-europe",
+    "title": "Sumary lève 25 millions de dollars pour l'IA des cabinets comptables",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Sumary – seed – 25 M$ – Singular – 10 novembre 2026",
+    "sources": [
+      "https://tech.eu/2026/11/10/sumary-secures-25m-to-expand-its-accounting-software-across-europe/",
+      "https://fintech.global/2026/11/10/sumary-raises-25m-to-challenge-europes-accounting-sector/",
+      "https://www.internationalaccountingbulletin.com/news/accounting-tech-firm-sumary-raises-25m-in-funding/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sumary-leve-25-millions-dollars-ia-cabinets-comptables-europe.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "761599",
+      "auteur": "777546",
+      "url": "https://pixabay.com/photos/accounting-report-credit-card-761599/"
+    }
   }
 ]
