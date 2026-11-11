@@ -5439,5 +5439,26 @@
       "auteur": "jillrose999",
       "url": "https://pixabay.com/photos/electric-meter-electricity-meter-5229750/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-1",
+    "slug": "port-leve-14-millions-euros-livraison-autonome-robots-londres",
+    "title": "PORT lève 14,5 millions d'euros pour ses robots de livraison urbaine",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "PORT – 14,5 M€ – BERD et Balnord – 10 novembre 2026",
+    "sources": [
+      "https://tech.eu/2026/11/10/port-raises-eur145m-to-take-urban-logistics-from-e-bikes-to-autonomous-robots/",
+      "https://ecommercenews.uk/story/port-raises-14-5m-to-expand-autonomous-delivery-network",
+      "https://zagdaily.com/connected/port-bags-e14-5m-for-autonomous-delivery-robots/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/port-leve-14-millions-euros-livraison-autonome-robots-londres.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1214227",
+      "auteur": "ClickerHappy",
+      "url": "https://pixabay.com/photos/courier-night-panning-warsaw-1214227/"
+    }
   }
 ]
