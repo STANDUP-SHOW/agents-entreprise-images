@@ -5418,5 +5418,26 @@
       "auteur": "777546",
       "url": "https://pixabay.com/photos/accounting-report-credit-card-761599/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-1",
+    "slug": "tripica-leve-12-millions-euros-facturation-fournisseurs-energie",
+    "title": "triPica lève 12,4 millions d'euros pour la facturation de l'énergie",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "triPica – 12,4 M€ – TiLT Capital Partners (Siparex) – 10 novembre 2026",
+    "sources": [
+      "https://tech.eu/2026/11/10/tripica-bags-eur124m-to-break-billing-barriers-in-europes-energy-transition/",
+      "https://techfundingnews.com/tripica-12-4m-tilt-energy-billing-software/",
+      "https://runtimewire.com/article/tripica-raises-124m-tilt-energy-telecom-billing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/tripica-leve-12-millions-euros-facturation-fournisseurs-energie.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5229750",
+      "auteur": "jillrose999",
+      "url": "https://pixabay.com/photos/electric-meter-electricity-meter-5229750/"
+    }
   }
 ]
