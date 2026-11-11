@@ -5769,5 +5769,35 @@
       "auteur": "sabinevanerp",
       "url": "https://pixabay.com/photos/hands-old-old-age-senior-citizens-4344711/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "emvolon-startup-americaine-methanol-dechets",
+    "title": "Emvolon, la start-up américaine qui change le méthane en carburant",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Série A de 22 M$ (MassVentures, VX Ventures, Wagner Carbon), fin octobre 2026",
+    "startups": [
+      {
+        "nom": "Emvolon",
+        "site": "emvolon.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.wastedive.com/news/biogas-to-methanol-refiner-emvolon-raises-22m-series-a-funding/872863/",
+      "https://hydrocarbonprocessing.com/news/2026/10/emvolon-raises-22-mm-funding-round-to-launch-its-modular-waste-to-fuel-chemical-plants/",
+      "https://www.wastedive.com/news/emvolon-freepoint-offtake-agreement-landfill-gas-methanol/828940/",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-2-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/emvolon-startup-americaine-methanol-dechets.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2919235",
+      "auteur": "1815691",
+      "url": "https://pixabay.com/photos/biogas-container-lazy-natural-gas-2919235/"
+    }
   }
 ]
