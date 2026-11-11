@@ -6023,5 +6023,41 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/people-man-woman-corporate-2568603/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "assurance-rc-pro-erreurs-agent-ia-pme-exclusions",
+    "title": "Votre assurance couvre-t-elle les erreurs de l’IA dans votre PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : assurance RC pro et cyber face aux erreurs des agents IA (exclusions IA des assureurs)",
+    "question": "L'assurance responsabilité civile ou cyber d'une PME couvre-t-elle les erreurs commises par ses agents IA ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://www.lemondeinformatique.fr/actualites/lire-des-assureurs-refusent-de-couvrir-les-activites-ia-des-entreprises-99979.html",
+    "solutions_comparees": [
+      "HSB AI Liability",
+      "Armilla AI",
+      "Munich Re aiSure",
+      "Dattak",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.lemondeinformatique.fr/actualites/lire-des-assureurs-refusent-de-couvrir-les-activites-ia-des-entreprises-99979.html",
+      "https://www.solutions-numeriques.com/?p=247235",
+      "https://www.moneyvox.fr/assurance/actualites/107984/souscrire-une-assurance-contre-les-erreurs-de-ia-c-est-deja-possible",
+      "https://www.munichre.com/hsb/en/press-and-publications/press-releases/2026/2026-03-18-introducing-ai-liability-insurance-for-small-businesses.html",
+      "https://www.armilla.ai/",
+      "https://www.munichre.com/en/solutions/for-industry-clients/insure-ai.html",
+      "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-07-21-dattak-evolution-des-conditions-generales-dassurance-cyber.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/assurance-rc-pro-erreurs-agent-ia-pme-exclusions.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4703922",
+      "auteur": "advogadoaguilar",
+      "url": "https://pixabay.com/photos/right-advocacy-lex-attorney-jura-4703922/"
+    }
   }
 ]
