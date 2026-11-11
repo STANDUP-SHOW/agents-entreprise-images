@@ -5555,5 +5555,36 @@
       "auteur": "652234",
       "url": "https://pixabay.com/photos/shopping-carts-grocery-shopping-1275480/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "savvy-wealth-startup-americaine-conseillers-patrimoine",
+    "title": "Savvy Wealth : la maison new-yorkaise des conseillers en patrimoine",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Savvy Wealth",
+    "startups": [
+      {
+        "nom": "Savvy Wealth",
+        "site": "savvywealth.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.thesaasnews.com/news/savvy-wealth-raises-100m-series-c",
+      "https://valueaddvc.com/blog/savvy-wealth-valuation-2026-600m-series-c-ai-ria",
+      "https://cryptobriefing.com/savvy-wealth-raises-100m-series-c/",
+      "https://www.alleywatch.com/2026/10/nyc-startup-funding-top-largest-september-2026-vc/",
+      "https://www.savvywealth.com/about"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/savvy-wealth-startup-americaine-conseillers-patrimoine.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4758079",
+      "auteur": "Tumisu",
+      "url": "https://pixabay.com/photos/wall-street-stock-exchange-finance-4758079/"
+    }
   }
 ]
