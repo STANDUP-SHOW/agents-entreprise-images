@@ -5679,5 +5679,35 @@
       "auteur": "jarmoluk",
       "url": "https://pixabay.com/photos/electrician-repair-electricity-1080554/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "broccoli-startup-americaine-ia-services-a-domicile",
+    "title": "Broccoli AI : les agents d'IA qui décrochent pour les plombiers",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Broccoli AI",
+    "startups": [
+      {
+        "nom": "Broccoli AI",
+        "site": "broccoli.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://en.wowtale.net/2026/10/31/235799/",
+      "https://superpowerdaily.com/posts/broccoli-ai-raises-30-million-to-automate-calls-and-office-work-for-contractors",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-2-26/",
+      "https://www.ycombinator.com/companies/broccoli-ai"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/broccoli-startup-americaine-ia-services-a-domicile.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1039483",
+      "auteur": "Dyanap",
+      "url": "https://pixabay.com/photos/copper-fittings-plumbing-metal-1039483/"
+    }
   }
 ]
