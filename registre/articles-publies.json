@@ -5502,5 +5502,27 @@
       "auteur": "lukasbieri",
       "url": "https://pixabay.com/photos/laptop-mockup-graphics-tablet-2838921/"
     }
+  },
+  {
+    "date": "2026-11-11",
+    "routine": "redacteur-quotidien-1",
+    "slug": "new-york-raise-act-registre-developpeurs-ia-frontiere-obligations",
+    "title": "RAISE Act : New York oblige OpenAI et Anthropic à s'enregistrer",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "New York – ouverture du registre RAISE Act (DIGIT) et centre NYCAIRR – 10 novembre 2026",
+    "sources": [
+      "https://www.governor.ny.gov/news/governor-hochul-declares-ny-will-lead-nation-ai-science-and-safety-launches-new-research",
+      "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "https://en.wikipedia.org/wiki/Responsible_AI_Safety_and_Education_Act",
+      "https://artificialintelligenceact.eu/article/51/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/new-york-raise-act-registre-developpeurs-ia-frontiere-obligations.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "668616",
+      "auteur": "mpewny",
+      "url": "https://pixabay.com/photos/buildings-river-city-cityscape-668616/"
+    }
   }
 ]
