@@ -6526,5 +6526,34 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/office-desk-business-working-925806/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "rebuild-startup-americaine-reindustrialisation-usines",
+    "title": "Re:Build : la startup qui veut réindustrialiser les États-Unis",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Re:Build",
+    "startups": [
+      {
+        "nom": "Re:Build",
+        "site": "rebuildmanufacturing.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "https://rebuildmanufacturing.com/newsroom/news/rebuild-2-1-billion-reindustrialize-america/",
+      "https://rebuildmanufacturing.com/category/newsroom/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/rebuild-startup-americaine-reindustrialisation-usines.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4384343",
+      "auteur": "InWay",
+      "url": "https://pixabay.com/photos/worker-cuts-metal-bulgarian-4384343/"
+    }
   }
 ]
