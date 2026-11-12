@@ -6682,5 +6682,44 @@
       "auteur": "sarahblocks",
       "url": "https://pixabay.com/photos/team-meeting-business-writing-6339361/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-saisir-commandes-clients-b2b-grossiste-pme",
+    "title": "Un agent IA peut-il saisir les commandes de mes clients professionnels dans l'ERP ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : saisie automatique des commandes clients B2B (ADV, grossistes) par un agent IA",
+    "question": "Un agent IA peut-il saisir les commandes de mes clients professionnels dans l'ERP ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.capterra.fr/software/1078908/OrderScan",
+    "solutions_comparees": [
+      "Microsoft Business Central Sales Order Agent",
+      "Nanonets",
+      "Esker Order Management",
+      "Mindee",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://learn.microsoft.com/en-us/dynamics365/business-central/sales-order-agent",
+      "https://nanonets.com/pricing",
+      "https://nanonets.com/about",
+      "https://www.esker.com/fr/solutions/commandes-clients/",
+      "https://fr.wikipedia.org/wiki/Esker_(entreprise)",
+      "https://www.mindee.com/pricing",
+      "https://zeydo.fr/agents/operateur-de-saisie",
+      "https://zeydo.fr/agents/gestionnaire-administration-des-ventes-export",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-saisir-commandes-clients-b2b-grossiste-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "408222",
+      "auteur": "delphinmedia",
+      "url": "https://pixabay.com/photos/high-level-rack-warehouse-range-408222/"
+    }
   }
 ]
