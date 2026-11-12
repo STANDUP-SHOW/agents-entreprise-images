@@ -6245,5 +6245,26 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/graph-rate-progress-table-work-2588994/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-1",
+    "slug": "coreweave-prepaiements-clients-financement-cloud-ia",
+    "title": "CoreWeave fait payer ses clients d'avance pour financer le cloud IA",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "CoreWeave – résultats T3 2026 et financement par prépaiements clients",
+    "sources": [
+      "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "https://siliconangle.com/2026/11/10/coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-its-full-year-guidance/",
+      "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/coreweave-prepaiements-clients-financement-cloud-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2784907",
+      "auteur": "jarmoluk",
+      "url": "https://pixabay.com/photos/cyberspace-data-wire-electronic-2784907/"
+    }
   }
 ]
