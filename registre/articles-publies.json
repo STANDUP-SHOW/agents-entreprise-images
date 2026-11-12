@@ -6802,5 +6802,48 @@
       "auteur": "AlexanderStein",
       "url": "https://pixabay.com/photos/current-meter-euro-coin-energy-167969/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "quelles-decisions-laisser-agent-ia-validation-humaine-pme",
+    "title": "Quelles décisions laisser à un agent IA, et lesquelles faire valider par un humain ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : répartir les décisions entre agent IA et validation humaine",
+    "question": "Quelles décisions laisser à un agent IA, et lesquelles faire valider par un humain ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://zapier.com/blog/how-much-should-ai-decide-without-asking/",
+    "solutions_comparees": [
+      "Zapier Agents",
+      "Business Central Sales Order Agent",
+      "Dust",
+      "n8n",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.thestar.com.my/tech/tech-news/2025/06/25/over-40-of-agentic-ai-projects-will-be-scrapped-by-2027-gartner-says",
+      "https://zapier.com/blog/how-much-should-ai-decide-without-asking/",
+      "https://artificialintelligenceact.eu/article/14/",
+      "https://artificialintelligenceact.eu/article/26/",
+      "https://help.zapier.com/hc/en-us/articles/41776074420493",
+      "https://learn.microsoft.com/en-us/dynamics365/business-central/sales-order-agent",
+      "https://www.maddyness.com/2026/05/18/ia-dust-leve-40-millions-de-dollars-pour-accelerer-sa-croissance-aux-etats-unis/",
+      "https://dust.tt/home/pricing",
+      "https://docs.n8n.io/advanced-ai/human-in-the-loop-tools/",
+      "https://n8n.io/pricing/",
+      "https://zeydo.fr/security",
+      "https://zeydo.fr/workforce",
+      "https://zeydo.fr/catalogue",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/quelles-decisions-laisser-agent-ia-validation-humaine-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7882178",
+      "auteur": "shareef3",
+      "url": "https://pixabay.com/photos/leadership-teamwork-leader-7882178/"
+    }
   }
 ]
