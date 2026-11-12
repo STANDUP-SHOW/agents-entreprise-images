@@ -6117,5 +6117,26 @@
       "auteur": "ranjatm",
       "url": "https://pixabay.com/photos/pcb-circuit-board-technology-2655766/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-1",
+    "slug": "mercor-leve-750-millions-valorisation-20-milliards-evaluation-agents-ia",
+    "title": "Mercor lève 750 millions de dollars pour évaluer les agents IA",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Mercor – série D – 750 M$, valorisation 20 Md$",
+    "sources": [
+      "https://www.mercor.com/blog/series-d/",
+      "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
+      "https://www.unite.ai/mercor-raises-750m-series-d-at-20b-valuation-to-expand-ai-training/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mercor-leve-750-millions-valorisation-20-milliards-evaluation-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7366206",
+      "auteur": "u_w24h9b9v3p",
+      "url": "https://pixabay.com/photos/meeting-company-colleagues-7366206/"
+    }
   }
 ]
