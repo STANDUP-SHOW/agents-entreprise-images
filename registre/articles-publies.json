@@ -6317,5 +6317,34 @@
       "auteur": "Didgeman",
       "url": "https://pixabay.com/photos/excavator-construction-site-vehicle-800996/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "eka-robotics-startup-americaine-robots-dexterite",
+    "title": "Eka Robotics : la startup qui apprend aux robots le sens du toucher",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Eka Robotics",
+    "startups": [
+      {
+        "nom": "Eka Robotics",
+        "site": "ekarobotics.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+      "https://runtimewire.com/article/eka-robotics-150m-series-a-force-feedback-robotics"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/eka-robotics-startup-americaine-robots-dexterite.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2791670",
+      "auteur": "jarmoluk",
+      "url": "https://pixabay.com/photos/robot-arm-technology-robot-arm-2791670/"
+    }
   }
 ]
