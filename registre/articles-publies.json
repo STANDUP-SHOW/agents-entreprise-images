@@ -6202,5 +6202,27 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/code-coding-computer-data-desktop-1839877/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-1",
+    "slug": "openshell-nvidia-cncf-securiser-agents-ia-open-source",
+    "title": "OpenShell : Nvidia confie à la CNCF la sécurité des agents IA",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Nvidia – OpenShell confié à la CNCF (projet Sandbox)",
+    "sources": [
+      "https://www.cncf.io/blog/2026/11/10/welcoming-openshell-to-the-cncf-open-governance-to-secure-agentic-ai/",
+      "https://siliconangle.com/2026/11/11/prompt-injection-attacks-drive-red-hat-nvidia-s-openshell-kubeconna/",
+      "https://itbrief.ca/story/nvidia-donates-openshell-to-cncf-as-it-backs-agent-scale",
+      "https://docs.nvidia.com/openshell/about/overview"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/openshell-nvidia-cncf-securiser-agents-ia-open-source.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "499792",
+      "auteur": "blickpixel",
+      "url": "https://pixabay.com/photos/network-cable-rj45-patch-patch-cord-499792/"
+    }
   }
 ]
