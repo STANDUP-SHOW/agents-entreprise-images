@@ -6721,5 +6721,46 @@
       "auteur": "delphinmedia",
       "url": "https://pixabay.com/photos/high-level-rack-warehouse-range-408222/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "secret-professionnel-avocat-expert-comptable-agent-ia-donnees-clients",
+    "title": "Avocat ou expert-comptable : peut-on confier des dossiers clients à un agent IA ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : secret professionnel des avocats et experts-comptables face aux agents IA",
+    "question": "Un cabinet d'avocats ou d'expertise comptable peut-il confier des dossiers clients à un agent IA sans violer le secret professionnel ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://www.avocatparis.org/le-barreau-de-paris-adopte-un-modele-de-charte-disposition-des-cabinets",
+    "solutions_comparees": [
+      "Harvey",
+      "Claude Team",
+      "Jimini",
+      "Mistral AI",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417945",
+      "https://www.weblex.fr/fiches-conseils/devoir-secret-professionnel-expert-comptable",
+      "https://www.cnb.avocat.fr/fr/actualites/le-cnb-accompagne-toujours-plus-la-profession-dans-lutilisation-de-lia-generative",
+      "https://www.avocatparis.org/le-barreau-de-paris-adopte-un-modele-de-charte-disposition-des-cabinets",
+      "https://cnil.fr/fr/la-cnil-et-le-conseil-national-des-barreaux-renouvellent-leur-partenariat",
+      "https://www.harvey.ai/security",
+      "https://claude.com/pricing",
+      "https://www.jimini.ai",
+      "https://mistral.ai/pricing",
+      "https://zeydo.fr/faq",
+      "https://zeydo.fr/local-ai",
+      "https://zeydo.fr/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/secret-professionnel-avocat-expert-comptable-agent-ia-donnees-clients.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7236482",
+      "auteur": "DrMonteiro",
+      "url": "https://pixabay.com/photos/attorney-smile-happy-woman-justice-7236482/"
+    }
   }
 ]
