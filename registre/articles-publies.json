@@ -6467,5 +6467,34 @@
       "auteur": "Maximilianovich",
       "url": "https://pixabay.com/photos/man-sign-paper-write-document-5710164/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "numica-startup-americaine-rachat-cabinets-comptables",
+    "title": "Numica : la startup qui rachète les cabinets comptables pour l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Numica",
+    "startups": [
+      {
+        "nom": "Numica",
+        "site": "numica.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://thenextweb.com/news/numica-21m-ai-accounting-firm-acquisitions",
+      "https://www.thesaasnews.com/news/numica-raises-21m-growth-capital/",
+      "https://numica.com"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/numica-startup-americaine-rachat-cabinets-comptables.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "593378",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/entrepreneur-startup-start-up-man-593378/"
+    }
   }
 ]
