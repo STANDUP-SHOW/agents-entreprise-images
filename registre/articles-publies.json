@@ -6555,5 +6555,37 @@
       "auteur": "InWay",
       "url": "https://pixabay.com/photos/worker-cuts-metal-bulgarian-4384343/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-infisical-gestion-secrets-open-source",
+    "title": "Business model d'Infisical : l'open source rentable de la sécurité",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model Infisical",
+    "startups": [
+      {
+        "nom": "Infisical",
+        "site": "infisical.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://infisical.com/blog/series-b",
+      "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
+      "https://fortune.com/2025/06/06/infisical-raises-16-million-series-a-led-by-elad-gil-to-safeguard-secrets/",
+      "https://infisical.com/blog/series-a",
+      "https://infisical.com/pricing",
+      "https://github.com/Infisical/infisical/blob/main/LICENSE"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-infisical-gestion-secrets-open-source.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1283624",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/technology-computer-code-javascript-1283624/"
+    }
   }
 ]
