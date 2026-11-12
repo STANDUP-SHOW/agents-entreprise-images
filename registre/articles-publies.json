@@ -6408,5 +6408,34 @@
       "auteur": "jump1987",
       "url": "https://pixabay.com/photos/doctor-hospital-health-medical-10084566/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "precision-neuroscience-startup-americaine-interface-cerveau-machine",
+    "title": "Precision Neuroscience : l'implant cérébral qui reste en surface",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Precision Neuroscience",
+    "startups": [
+      {
+        "nom": "Precision Neuroscience",
+        "site": "precisionneuro.io"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.digitalhealthnews.com/precision-neuroscience-raises-250m-in-series-d-for-brain-computer-interface",
+      "https://hlth.com/insights/news/precision-neuroscience-raises-250m-to-advance-layer-7-brain-computer-interface",
+      "https://thenextweb.com/news/precision-neuroscience-250m-series-d-1bn-valuation-ackman"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/precision-neuroscience-startup-americaine-interface-cerveau-machine.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7000103",
+      "auteur": "Mitrey",
+      "url": "https://pixabay.com/photos/doctor-surgeon-ct-scan-mri-7000103/"
+    }
   }
 ]
