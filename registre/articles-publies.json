@@ -6641,5 +6641,46 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-engineering-teamwork-4941354/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-repondre-appels-offres-publics-pme-memoire-technique",
+    "title": "Un agent IA peut-il répondre aux appels d'offres publics à la place d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : répondre aux appels d'offres publics avec un agent IA (veille, DCE, pièces, mémoire technique)",
+    "question": "Un agent IA peut-il répondre aux appels d'offres publics à la place d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.marche-public.fr/ia-intelligence-artificielle.htm",
+    "solutions_comparees": [
+      "Responsive",
+      "AutogenAI",
+      "Claude Team",
+      "Explain",
+      "Tenderbolt",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.seban-associes.avocat.fr/panorama-de-la-commande-publique-les-chiffres-de-2024/",
+      "https://acteurspublics.fr/articles/letat-veut-accelerer-sur-le-deploiement-de-lia-dans-la-commande-publique/",
+      "https://www.marche-public.fr/ia-intelligence-artificielle.htm",
+      "https://www.responsive.io/pricing",
+      "https://autogenai.com/about-us/",
+      "https://claude.com/pricing",
+      "https://www.explain.fr/reponse",
+      "https://www.tenderbolt.ai",
+      "https://fr.themedialeader.com/?p=220572",
+      "https://zeydo.fr/agents/assistant-appels-d-offres",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-repondre-appels-offres-publics-pme-memoire-technique.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6339361",
+      "auteur": "sarahblocks",
+      "url": "https://pixabay.com/photos/team-meeting-business-writing-6339361/"
+    }
   }
 ]
