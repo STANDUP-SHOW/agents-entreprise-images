@@ -6095,5 +6095,27 @@
       "auteur": "knowledgetrain",
       "url": "https://pixabay.com/photos/knowledge-train-4507899/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-1",
+    "slug": "fractile-leve-720-millions-dollars-puces-inference-ia",
+    "title": "Fractile lève 720 millions de dollars pour ses puces d'inférence IA",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Fractile – série C – environ 720 M$ (plus de 500 M£), valorisation 7 Md$",
+    "sources": [
+      "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "https://tech.eu/2026/11/11/lightspeed-and-googles-capital-g-back-fractile-in-ps500m-plus-funding-round/",
+      "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
+      "https://www.eu-startups.com/2026/11/londons-fractile-secures-massive-e649-million-series-c-to-challenge-nvidia/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/fractile-leve-720-millions-dollars-puces-inference-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2655766",
+      "auteur": "ranjatm",
+      "url": "https://pixabay.com/photos/pcb-circuit-board-technology-2655766/"
+    }
   }
 ]
