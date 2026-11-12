@@ -6496,5 +6496,35 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/entrepreneur-startup-start-up-man-593378/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "serval-startup-americaine-agents-ia-support-informatique",
+    "title": "Serval : la startup dont les agents IA gèrent le support informatique",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Serval",
+    "startups": [
+      {
+        "nom": "Serval",
+        "site": "serval.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://siliconangle.com/2026/10/29/serval-raises-150m-at-3b-valuation-to-bring-its-automation-agents-beyond-it/",
+      "https://finance.yahoo.com/news/ai-startup-serval-valued-1-110259800.html",
+      "https://pulse2.com/serval-75-million-series-b-funding/",
+      "https://www.serval.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/serval-startup-americaine-agents-ia-support-informatique.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "925806",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/office-desk-business-working-925806/"
+    }
   }
 ]
