@@ -6138,5 +6138,27 @@
       "auteur": "u_w24h9b9v3p",
       "url": "https://pixabay.com/photos/meeting-company-colleagues-7366206/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-1",
+    "slug": "sennder-228-millions-euros-fret-routier-rentable-agents-ia",
+    "title": "Sennder lève 228 millions d'euros pour accélérer dans le fret routier",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "sennder – financement 228 M€ (73 M€ fonds propres, 155 M€ dette)",
+    "sources": [
+      "https://tech.eu/2026/11/11/berlin-freight-unicorn-sennder-raises-228m-in-debt-and-equity/",
+      "https://techfundingnews.com/sennder-228m-financing-positive-ebitda-1bn-revenue/",
+      "https://www.eu-startups.com/2026/11/freighttech-unicorn-sennder-secures-e228-million-after-turning-profitable-targets-e1-billion-in-revenue-for-2026/",
+      "https://runtimewire.com/article/sennder-raises-228m-debt-equity-profitability"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sennder-228-millions-euros-fret-routier-rentable-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3491753",
+      "auteur": "ulleo",
+      "url": "https://pixabay.com/photos/automobile-highway-road-travel-3491753/"
+    }
   }
 ]
