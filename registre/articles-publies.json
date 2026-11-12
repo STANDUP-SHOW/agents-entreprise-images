@@ -6437,5 +6437,35 @@
       "auteur": "Mitrey",
       "url": "https://pixabay.com/photos/doctor-surgeon-ct-scan-mri-7000103/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "crosby-startup-americaine-cabinet-avocats-ia-contrats",
+    "title": "Crosby : le cabinet d'avocats qui revoit les contrats avec l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Crosby",
+    "startups": [
+      {
+        "nom": "Crosby",
+        "site": "crosby.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://alleywatch.com/2026/03/the-alleywatch-startup-daily-funding-report-3-31-2026/",
+      "https://www.luxcapital.com/news/were-backing-crosby-to-end-the-billiable-hour-for-laywers",
+      "https://www.artificiallawyer.com/2025/10/08/hybrid-ai-law-firm-crosby-raises-20m-cooley-invests/",
+      "https://www.artificiallawyer.com/2025/06/19/crosby-raises-5-8m-seed-for-hybrid-ai-law-firm"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/crosby-startup-americaine-cabinet-avocats-ia-contrats.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5710164",
+      "auteur": "Maximilianovich",
+      "url": "https://pixabay.com/photos/man-sign-paper-write-document-5710164/"
+    }
   }
 ]
