@@ -6587,5 +6587,59 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/technology-computer-code-javascript-1283624/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-robotique-ia-physique-2026-11-12",
+    "title": "Robotique et IA physique : 5 startups américaines à suivre en 2026",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : Robotique et IA physique (modèles généralistes pour robots, préhension, engins de chantier autonomes, robots en location)",
+    "startups": [
+      {
+        "nom": "Physical Intelligence",
+        "site": "physicalintelligence.company"
+      },
+      {
+        "nom": "Skild AI",
+        "site": "skild.ai"
+      },
+      {
+        "nom": "Eka Robotics",
+        "site": "ekarobotics.com"
+      },
+      {
+        "nom": "Bedrock Robotics",
+        "site": "bedrockrobotics.com"
+      },
+      {
+        "nom": "Formic",
+        "site": "formic.co"
+      }
+    ],
+    "theme": "Robotique et IA physique (modèles généralistes pour robots, préhension, engins de chantier autonomes, robots en location)",
+    "sources": [
+      "https://siliconangle.com/?p=722402",
+      "https://finance.yahoo.com/sectors/technology/articles/physical-intelligence-reportedly-talks-raise-235940073.html",
+      "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation",
+      "https://www.techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/",
+      "https://www.skild.ai/blogs/skild-crosses-100m-arr",
+      "https://technical.ly/entrepreneurship/pittsburgh-skild-ai-nvidia-foxconn-robotics-deployment/",
+      "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+      "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/",
+      "https://thenextweb.com/news/formic-50m-series-b-general-purpose-factory-robots",
+      "https://www.manufacturingtomorrow.com/news/2026/10/23/formic-raises-50-million-to-scale-physical-ai-across-american-manufacturing/28471/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-robotique-ia-physique-2026-11-12.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4941354",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-engineering-teamwork-4941354/"
+    }
   }
 ]
