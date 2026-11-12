@@ -6346,5 +6346,36 @@
       "auteur": "jarmoluk",
       "url": "https://pixabay.com/photos/robot-arm-technology-robot-arm-2791670/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "northwood-space-startup-americaine-stations-sol-satellites",
+    "title": "Northwood Space : la startup qui loue l'accès au sol des satellites",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Northwood Space",
+    "startups": [
+      {
+        "nom": "Northwood Space",
+        "site": "northwoodspace.io"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.washingtontechnology.com/companies/2026/11/northwood-closes-375m-series-c-raise-space-network-ambitions/416973/",
+      "https://pulse2.com/northwood-raises-375-million-series-c-to-expand-satellite-ground-network",
+      "https://newspaceeconomy.ca/2026/11/03/northwood-raises-375-million-to-expand-its-satellite-ground-network/",
+      "https://www.satellitetoday.com/finance/2026/01/27/northwood-space-raises-100m-in-series-b-and-works-with-space-force-on-satellite-control-network",
+      "https://satnews.com/2026/11/02/northwood-space-secures-375m-series-c-at-2b-valuation-to-expand-shared-ground-station-network/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/northwood-space-startup-americaine-stations-sol-satellites.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "63013",
+      "auteur": "WikiImages",
+      "url": "https://pixabay.com/photos/radar-dish-radar-earth-station-63013/"
+    }
   }
 ]
