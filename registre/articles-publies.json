@@ -6160,5 +6160,26 @@
       "auteur": "ulleo",
       "url": "https://pixabay.com/photos/automobile-highway-road-travel-3491753/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-1",
+    "slug": "databricks-genie-agent-ia-autonome-dirigeants-ontologie",
+    "title": "Databricks transforme Genie en agent IA autonome pour les dirigeants",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Databricks – nouvelle version autonome de l'agent Genie et Genie Ontology",
+    "sources": [
+      "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "https://www.databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work",
+      "https://alphasignal.ai/news/databricks-turns-genie-into-an-autonomous-agent-that-runs-enterprise-work"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/databricks-genie-agent-ia-autonome-dirigeants-ontologie.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1477601",
+      "auteur": "mhouge",
+      "url": "https://pixabay.com/photos/businessman-silhouette-windows-1477601/"
+    }
   }
 ]
