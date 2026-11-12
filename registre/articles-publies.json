@@ -6181,5 +6181,26 @@
       "auteur": "mhouge",
       "url": "https://pixabay.com/photos/businessman-silhouette-windows-1477601/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-1",
+    "slug": "google-gemini-decisions-api-modele-decision-agents-ia",
+    "title": "Google lance Gemini Decisions API pour des agents IA plus rapides",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Google – lancement de la Gemini Decisions API (Gemini Decision 1)",
+    "sources": [
+      "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/",
+      "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/google-gemini-decisions-api-modele-decision-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1839877",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/code-coding-computer-data-desktop-1839877/"
+    }
   }
 ]
