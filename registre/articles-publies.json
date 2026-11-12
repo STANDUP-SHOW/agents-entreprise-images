@@ -6266,5 +6266,26 @@
       "auteur": "jarmoluk",
       "url": "https://pixabay.com/photos/cyberspace-data-wire-electronic-2784907/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-1",
+    "slug": "helsing-clarity-agents-ia-defense-alternative-europeenne-palantir",
+    "title": "Helsing lance Clarity, une alternative européenne à Palantir Maven",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Helsing présente Clarity, plateforme d'agents IA de défense, à Berlin le 11/11/2026",
+    "sources": [
+      "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
+      "https://startupfortune.com/helsing-launches-clarity-a-european-rival-to-palantirs-maven/",
+      "https://www.thedefensenews.com/German-Helsing-Launches-Clarity-AI-Platform-for-Military-Intelligence-and-Target-Identification-"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/helsing-clarity-agents-ia-defense-alternative-europeenne-palantir.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2905361",
+      "auteur": "Martinelle",
+      "url": "https://pixabay.com/photos/desk-industrial-steel-hand-helmet-2905361/"
+    }
   }
 ]
