@@ -6287,5 +6287,35 @@
       "auteur": "Martinelle",
       "url": "https://pixabay.com/photos/desk-industrial-steel-hand-helmet-2905361/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "bedrock-robotics-startup-americaine-pelleteuses-autonomes",
+    "title": "Bedrock Robotics : la startup qui rend les pelleteuses autonomes",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Bedrock Robotics",
+    "startups": [
+      {
+        "nom": "Bedrock Robotics",
+        "site": "bedrockrobotics.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/",
+      "https://siliconangle.com/2026/02/04/bedrock-robotics-raises-270m-scale-autonomous-construction-fleets/",
+      "https://pulse2.com/bedrock-robotics-80-million-raised-for-autonomous-construction-technology"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/bedrock-robotics-startup-americaine-pelleteuses-autonomes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "800996",
+      "auteur": "Didgeman",
+      "url": "https://pixabay.com/photos/excavator-construction-site-vehicle-800996/"
+    }
   }
 ]
