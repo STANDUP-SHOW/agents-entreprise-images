@@ -6224,5 +6224,26 @@
       "auteur": "blickpixel",
       "url": "https://pixabay.com/photos/network-cable-rj45-patch-patch-cord-499792/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-1",
+    "slug": "openai-chiffre-affaires-trimestriel-10-milliards-entreprises",
+    "title": "OpenAI dépasse 10 milliards de dollars de revenus en un trimestre",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "OpenAI – chiffre d'affaires T3 2026 d'environ 10 Md$ (sources anonymes)",
+    "sources": [
+      "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+      "https://www.techzine.eu/news/applications/145731/openais-revenue-rises-by-nearly-50-quarterly-to-10-billion/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/openai-chiffre-affaires-trimestriel-10-milliards-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2588994",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/graph-rate-progress-table-work-2588994/"
+    }
   }
 ]
