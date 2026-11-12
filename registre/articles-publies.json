@@ -6762,5 +6762,45 @@
       "auteur": "DrMonteiro",
       "url": "https://pixabay.com/photos/attorney-smile-happy-woman-justice-7236482/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "ia-locale-ou-cloud-consommation-electrique-pme",
+    "title": "IA locale ou cloud : laquelle consomme le plus d'électricité pour une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : consommation électrique et empreinte de l'IA locale comparée au cloud",
+    "question": "IA locale ou cloud : laquelle consomme le plus d'électricité pour une PME ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://siecledigital.fr/2026/05/26/larcep-tire-la-sonnette-dalarme-sur-limpact-ecologique-de-lia-generative/",
+    "solutions_comparees": [
+      "NVIDIA DGX Spark",
+      "Ollama",
+      "Mistral AI",
+      "OVHcloud AI Endpoints",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://siecledigital.fr/2026/05/26/larcep-tire-la-sonnette-dalarme-sur-limpact-ecologique-de-lia-generative/",
+      "https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai",
+      "https://docs.nvidia.com/dgx/dgx-spark/hardware.html",
+      "https://www.nvidia.com/en-us/products/workstations/dgx-spark/",
+      "https://selectra.info/energie/electricite/prix/trv",
+      "https://ollama.com/pricing",
+      "https://mistral.ai/pricing",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://zeydo.fr/local-ai",
+      "https://zeydo.fr/box",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ia-locale-ou-cloud-consommation-electrique-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "167969",
+      "auteur": "AlexanderStein",
+      "url": "https://pixabay.com/photos/current-meter-euro-coin-energy-167969/"
+    }
   }
 ]
