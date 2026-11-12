@@ -6377,5 +6377,36 @@
       "auteur": "WikiImages",
       "url": "https://pixabay.com/photos/radar-dish-radar-earth-station-63013/"
     }
+  },
+  {
+    "date": "2026-11-12",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "allara-startup-americaine-sante-hormonale-femmes",
+    "title": "Allara : la startup new-yorkaise qui soigne les troubles hormonaux",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Allara",
+    "startups": [
+      {
+        "nom": "Allara",
+        "site": "allarahealth.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://alleywatch.com/2026/10/allara-virtual-womens-health-care-insurance-covered-hormonal-ai-rachel-blank/",
+      "https://femtechinsider.com/allara-raises-30m-to-expand-insurance-covered-womens-healthcare/",
+      "https://medcitynews.com/2025/01/allara-hormonal-conditions-funding/",
+      "https://www.fiercehealthcare.com/tech/former-ro-executive-launches-allara-health-targeted-to-women-s-hormonal-health",
+      "https://pulse2.com/allara-rachel-blank-profile/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/allara-startup-americaine-sante-hormonale-femmes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "10084566",
+      "auteur": "jump1987",
+      "url": "https://pixabay.com/photos/doctor-hospital-health-medical-10084566/"
+    }
   }
 ]
