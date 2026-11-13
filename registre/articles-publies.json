@@ -6889,5 +6889,26 @@
       "auteur": "valaymtw",
       "url": "https://pixabay.com/photos/web-design-web-developement-website-1080730/"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-1",
+    "slug": "hubspot-brian-halligan-retour-ceo-refondation-agents-ia",
+    "title": "HubSpot rappelle Brian Halligan : une refondation face aux agents IA",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "HubSpot – retour de Brian Halligan comme directeur général, départ de Yamini Rangan, Karen Burgess future CFO – 12 novembre 2026",
+    "sources": [
+      "https://www.cmswire.com/digital-marketing/brian-halligan-returns-as-hubspot-ceo-replacing-yamini-rangan/",
+      "https://tbreak.com/hubspot-ceo-brian-halligan/",
+      "https://qz.com/hubspot-ceo-cfo-replaced-halligan-returns-111226"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/hubspot-brian-halligan-retour-ceo-refondation-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8499965",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/team-team-work-group-speaking-8499965/"
+    }
   }
 ]
