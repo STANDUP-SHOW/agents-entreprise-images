@@ -7130,5 +7130,36 @@
       "url": "https://pixabay.com/photos/archive-boxes-shelf-folders-1850170/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/hyphenate-startup-americaine-agents-ia-direction-financiere.webp"
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "garage-startup-americaine-camions-pompiers-occasion",
+    "title": "Garage : la place de marché des camions de pompiers d'occasion",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Garage",
+    "startups": [
+      {
+        "nom": "Garage",
+        "site": "shopgarage.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fortune.com/2026/11/10/garage-used-fire-trucks-martin-hunt-funding/",
+      "https://runtimewire.com/article/garage-41m-series-b-used-fire-trucks",
+      "https://www.thesaasnews.com/news/garage-raises-41m-series-b/",
+      "https://pulse2.com/garage-13-5-million-series-a-raised-for-changing-how-essential-equipment-is-bought-and-sold/amp/",
+      "https://www.ycombinator.com/companies/garage-2"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6820126",
+      "auteur": "automatic6517",
+      "url": "https://pixabay.com/photos/firetruck-rescue-firefighters-siren-6820126/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/garage-startup-americaine-camions-pompiers-occasion.webp"
   }
 ]
