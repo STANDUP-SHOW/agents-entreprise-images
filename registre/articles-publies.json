@@ -7100,5 +7100,35 @@
       "url": "https://pixabay.com/photos/electrician-electric-electricity-2755683/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sharewillow-startup-americaine-primes-techniciens.webp"
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "hyphenate-startup-americaine-agents-ia-direction-financiere",
+    "title": "Hyphenate : les agents IA qui font tourner la direction financière",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Hyphenate (ex-Maximor)",
+    "startups": [
+      {
+        "nom": "Hyphenate",
+        "site": "hyphenate.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techfundingnews.com/hyphenate-45m-series-a-nexus-b-capital-ai-finance-agents/",
+      "https://runtimewire.com/article/hyphenate-45m-series-a-finance-ai-agents",
+      "https://www.fintechfutures.com/venture-capital-funding/newly-rebranded-hyphenate-lands-45m-series-a",
+      "https://techcrunch.com/2025/09/29/former-microsoft-executives-launch-ai-agents-to-end-excel-driven-finance-for-mid-market-enterprise-businesses"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1850170",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/archive-boxes-shelf-folders-1850170/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/hyphenate-startup-americaine-agents-ia-direction-financiere.webp"
   }
 ]
