@@ -7525,5 +7525,43 @@
       "auteur": "WokinghamLibraries",
       "url": "https://pixabay.com/photos/creative-writing-editing-library-108545/"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-preparer-devis-entreprise-batiment-artisan",
+    "title": "Un agent IA peut-il préparer les devis d'une entreprise du bâtiment ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : devis du bâtiment préparés par un agent IA (artisans, BTP)",
+    "question": "Un agent IA peut-il préparer les devis d'une entreprise du bâtiment ou d'un artisan ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.obat.fr/blog/devis-par-ia/",
+    "solutions_comparees": [
+      "ServiceTitan",
+      "Housecall Pro",
+      "Obat",
+      "Costructor",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.obat.fr/blog/devis-par-ia/",
+      "https://www.weblex.fr/fiches-conseils/redaction-devis",
+      "https://www.servicetitan.com/features/titan-intelligence",
+      "https://www.cbinsights.com/company/servicetitan",
+      "https://www.housecallpro.com/pricing/",
+      "https://www.obat.fr/tarifs/",
+      "https://www.costructor.co/tarifs",
+      "https://www.costructor.co/mentions-legales",
+      "https://zeydo.fr/agents/agent-devis-artisan"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-preparer-devis-entreprise-batiment-artisan.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3152429",
+      "auteur": "Haer_breizh",
+      "url": "https://pixabay.com/photos/paper-ladder-blue-architect-plan-3152429/"
+    }
   }
 ]
