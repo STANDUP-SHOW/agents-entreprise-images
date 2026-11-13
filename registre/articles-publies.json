@@ -7451,5 +7451,42 @@
       "url": "https://pixabay.com/photos/business-calculator-calculation-861325/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-finance-entreprise-ia-2026-11-13.webp"
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "projets-agents-ia-abandonnes-pme-eviter-echec",
+    "title": "Pourquoi tant de projets d'agents IA échouent-ils, et comment une PME peut-elle l'éviter ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : abandon des projets d'agents IA (prévision Gartner 40 %) et moyens de l'éviter",
+    "question": "Pourquoi tant de projets d'agents IA sont-ils abandonnés, et comment une PME peut-elle éviter l'échec ?",
+    "theme": "deploiement-integration",
+    "preuve_question": "https://www.silicon.eu/gartner-over-40-percent-of-agentic-ai-projects-will-be-discontinued-by-the-end-of-2027-18197.html",
+    "solutions_comparees": [
+      "Zapier Agents",
+      "Lindy",
+      "Dust",
+      "Mistral AI Le Chat",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.silicon.eu/gartner-over-40-percent-of-agentic-ai-projects-will-be-discontinued-by-the-end-of-2027-18197.html",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://zapier.com/pricing",
+      "https://www.lindy.ai/pricing",
+      "https://dust.tt/home/pricing",
+      "https://www.maddyness.com/2026/05/18/ia-dust-leve-40-millions-de-dollars-pour-accelerer-sa-croissance-aux-etats-unis/",
+      "https://mistral.ai/pricing",
+      "https://zeydo.fr/why-rent"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/projets-agents-ia-abandonnes-pme-eviter-echec.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7836199",
+      "auteur": "dark_3",
+      "url": "https://pixabay.com/photos/business-businessman-person-7836199/"
+    }
   }
 ]
