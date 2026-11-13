@@ -6975,5 +6975,27 @@
       "auteur": "ELG21",
       "url": "https://pixabay.com/photos/london-city-buildings-darling-9488442/"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-1",
+    "slug": "united-airlines-bloque-agents-ia-reservation-commerce-agentique",
+    "title": "United Airlines bloque les agents IA : le commerce agentique freiné",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "United Airlines – restriction des agents IA tiers non autorisés (réservations, MileagePlus) – 11 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "https://www.theregister.com/ai-and-ml/2026/11/12/united-airlines-wants-you-to-check-in-not-your-chatbot/5309373",
+      "https://traveltradejournal.com/united-airlines-to-restrict-unauthorised-third-party-ai-agents-from-accessing-customer-accounts-and-bookings/",
+      "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/united-airlines-bloque-agents-ia-reservation-commerce-agentique.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "923970",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/airport-people-waiting-seats-923970/"
+    }
   }
 ]
