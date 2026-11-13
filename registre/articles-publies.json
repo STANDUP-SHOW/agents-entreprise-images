@@ -7069,5 +7069,36 @@
       "url": "https://pixabay.com/photos/oil-food-bottles-bottling-9597943/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sante-startup-americaine-caisse-cavistes-ia.webp"
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "sharewillow-startup-americaine-primes-techniciens",
+    "title": "ShareWillow : la start-up qui calcule les primes des techniciens",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup ShareWillow",
+    "startups": [
+      {
+        "nom": "ShareWillow",
+        "site": "sharewillow.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://alleywatch.com/?p=163827",
+      "https://www.axios.com/pro/fintech-deals/2026/10/29/sharewillow-8-5m-seed-technician-incentive-pay",
+      "https://www.thesaasnews.com/news/sharewillow-raises-8-5m-seed/",
+      "https://www.sharewillow.com/pricing",
+      "https://www.cbinsights.com/company/sharewillow-compensation"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2755683",
+      "auteur": "jarmoluk",
+      "url": "https://pixabay.com/photos/electrician-electric-electricity-2755683/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sharewillow-startup-americaine-primes-techniciens.webp"
   }
 ]
