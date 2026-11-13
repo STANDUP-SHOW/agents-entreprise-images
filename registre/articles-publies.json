@@ -7161,5 +7161,34 @@
       "url": "https://pixabay.com/photos/firetruck-rescue-firefighters-siren-6820126/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/garage-startup-americaine-camions-pompiers-occasion.webp"
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "mavria-startup-americaine-data-centers-modulaires",
+    "title": "Mavria : la start-up texane qui fabrique des data centers en usine",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Mavria",
+    "startups": [
+      {
+        "nom": "Mavria",
+        "site": "mavria.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.bisnow.com/news/national/data-center-development/former-trump-administration-officials-launch-modular-data-center-firm",
+      "https://baxtel.com/news/mavria-raises-130m-at-1b-valuation-to-mass-produce-modular-data-centers",
+      "https://datacenterdynamics.com/en/news/former-us-doe-staffers-launch-modular-data-center-firm-mavria"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2927337",
+      "auteur": "ann_zima",
+      "url": "https://pixabay.com/photos/data-center-industry-2927337/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mavria-startup-americaine-data-centers-modulaires.webp"
   }
 ]
