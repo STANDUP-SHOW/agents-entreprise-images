@@ -6868,5 +6868,26 @@
       "auteur": "patricksommer",
       "url": "https://pixabay.com/photos/meeting-conference-meet-teamwork-2548826/"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-1",
+    "slug": "nebius-40-milliards-investissements-retards-data-centers-microsoft",
+    "title": "Nebius : 40 milliards d'investissements et des data centers en retard",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Nebius – résultats T3 2026 (981 M$), capex 2027 de 40 à 45 Md$, retards du site de Vineland pour Microsoft – 12 novembre 2026",
+    "sources": [
+      "https://tech.eu/2026/11/12/nebius-sees-profits-leap-hit-by-data-centre-delays/",
+      "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "https://siliconangle.com/2026/11/12/shares-of-ai-cloud-operator-nebius-drop-16-despite-strong-quarterly-results/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/nebius-40-milliards-investissements-retards-data-centers-microsoft.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1080730",
+      "auteur": "valaymtw",
+      "url": "https://pixabay.com/photos/web-design-web-developement-website-1080730/"
+    }
   }
 ]
