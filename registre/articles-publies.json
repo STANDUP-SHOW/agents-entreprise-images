@@ -7488,5 +7488,42 @@
       "auteur": "dark_3",
       "url": "https://pixabay.com/photos/business-businessman-person-7836199/"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "preparer-paie-agent-ia-pme-donnees-salaries",
+    "title": "Peut-on confier la préparation de la paie à un agent IA dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : préparer et contrôler la paie avec un agent IA, données des salariés",
+    "question": "Peut-on confier la préparation de la paie à un agent IA dans une PME, et comment protéger les données des salariés ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.cegid.com/fr/blog/ia-paie-anticiper-risques-maitriser-conformite/",
+    "solutions_comparees": [
+      "ADP Assist",
+      "Gusto Gus",
+      "PayFit",
+      "Cegid",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.cegid.com/fr/blog/ia-paie-anticiper-risques-maitriser-conformite/",
+      "https://payfit.com/fr/fiches-pratiques/ia-paie/",
+      "https://payfit.com/fr/nos-offres/",
+      "https://cnil.fr/fr/referentiel-durees-conservation-donnees-rh",
+      "https://www.adp.com/about-adp/ai-solutions.aspx",
+      "https://cpapracticeadvisor.com/2024/09/16/gusto-introduces-gus-ai-assistant-for-small-businesses/110546/",
+      "https://zeydo.fr/agents/assistant-paie-ressources-humaines",
+      "https://zeydo.fr/agents/assistant-paie-comptabilite"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/preparer-paie-agent-ia-pme-donnees-salaries.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "108545",
+      "auteur": "WokinghamLibraries",
+      "url": "https://pixabay.com/photos/creative-writing-editing-library-108545/"
+    }
   }
 ]
