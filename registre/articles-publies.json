@@ -7401,5 +7401,55 @@
       "url": "https://pixabay.com/photos/smartphone-mobile-camera-recording-5531502/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-heygen-video-ia-sans-bruler-de-cash.webp"
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-finance-entreprise-ia-2026-11-13",
+    "title": "Inspiration américaine : 5 startups qui confient la finance à l'IA",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : 5 startups new-yorkaises qui automatisent la finance d'entreprise",
+    "startups": [
+      {
+        "nom": "Basis",
+        "site": "getbasis.ai"
+      },
+      {
+        "nom": "DualEntry",
+        "site": "dualentry.com"
+      },
+      {
+        "nom": "Tabs",
+        "site": "tabs.com"
+      },
+      {
+        "nom": "Stuut",
+        "site": "stuut.ai"
+      },
+      {
+        "nom": "Rogo",
+        "site": "rogo.ai"
+      }
+    ],
+    "theme": "Finance d'entreprise automatisée par l'IA (comptabilité, ERP, facturation, recouvrement, banque d'affaires)",
+    "sources": [
+      "https://www.cpapracticeadvisor.com/2026/02/24/basis-raises-100-million-to-deploy-ai-agents-for-accounting-firms/178759/",
+      "https://www.dualentry.com/funding-announcement",
+      "https://www.accountingtoday.com/news/dualentry-celebrates-90-million-series-a-for-ai-native-erp",
+      "https://fintech.global/2025/09/17/ai-finance-platform-tabs-raises-55m-series-b/",
+      "https://pulse2.com/stuut-raises-52-5-million-series-b-led-by-insight-partners-to-expand-ai-powered-order-to-cash-platform/amp/",
+      "https://hackernoon.com/stuut-raises-$525m-from-insight-partners-and-a16z-to-unlock-$16-trillion-in-unpaid-invoices",
+      "https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html",
+      "https://fintech.global/2026/04/29/rogo-raises-160m-series-d-to-scale-finance-ai-platform/"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "861325",
+      "auteur": "Edar",
+      "url": "https://pixabay.com/photos/business-calculator-calculation-861325/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-finance-entreprise-ia-2026-11-13.webp"
   }
 ]
