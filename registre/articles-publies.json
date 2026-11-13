@@ -7340,5 +7340,35 @@
       "url": "https://pixabay.com/photos/drone-unmanned-aerial-vehicles-2676000/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/primordial-labs-startup-americaine-commande-vocale-defense.webp"
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "shipday-startup-americaine-livraison-commerces-locaux",
+    "title": "Shipday, la start-up qui aide les commerces à livrer sans plateforme",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Shipday",
+    "startups": [
+      {
+        "nom": "Shipday",
+        "site": "shipday.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/shipday-7-million-series-a-closed-to-expand-ai-delivery-platform-for-small-businesses/amp/",
+      "https://foodondemand.com/11252025/shipday-deepens-investments-after-7m-funding-round/",
+      "https://www.cbinsights.com/company/shipday",
+      "https://www.shipday.com/pricing"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "9828774",
+      "auteur": "Alexas_Fotos",
+      "url": "https://pixabay.com/photos/bicycle-to-go-biking-transport-9828774/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/shipday-startup-americaine-livraison-commerces-locaux.webp"
   }
 ]
