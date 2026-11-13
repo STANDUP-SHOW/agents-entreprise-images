@@ -7018,5 +7018,26 @@
       "auteur": "DizzyRoseblade",
       "url": "https://pixabay.com/photos/smiling-woman-coffee-shop-cafe-1340662/"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-1",
+    "slug": "anthropic-claude-managed-agents-auto-heberges-serveurs-entreprises",
+    "title": "Anthropic permet d'héberger ses agents Claude chez les entreprises",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Anthropic – Claude Managed Agents auto-hébergé en bêta privée – 12 novembre 2026",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/",
+      "https://thenextweb.com/news/anthropic-self-hosted-claude-managed-agents",
+      "https://fourweekmba.com/ai-claude-managed-agents-go-self-hosted-with-pricing-by-quote/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/anthropic-claude-managed-agents-auto-heberges-serveurs-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1587673",
+      "auteur": "heladodementa",
+      "url": "https://pixabay.com/photos/technology-servers-server-1587673/"
+    }
   }
 ]
