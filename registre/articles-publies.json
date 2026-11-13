@@ -6933,5 +6933,26 @@
       "auteur": "wqh364330634",
       "url": "https://pixabay.com/photos/machining-process-working-machine-4359091/"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-1",
+    "slug": "orakl-oncology-leve-34-millions-dollars-ia-predire-essais-cancer",
+    "title": "Orakl Oncology lève 34 millions de dollars pour des patients virtuels",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Orakl Oncology – série A – 34 M$ (Norrsken VC, Singular) – 12 novembre 2026",
+    "sources": [
+      "https://techfundingnews.com/paris-based-orakl-oncology-scoops-34m-for-ai-cancer-drug-prediction/",
+      "https://european-biotechnology.com/latest-news/orakl-raises-34m-to-scale-ai-platform-predicting-cancer-drug-responses/",
+      "https://hitconsultant.net/2026/11/12/orakl-oncology-raises-34-million-series-a-predict-cancer-clinical-trial-outcomes/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/orakl-oncology-leve-34-millions-dollars-ia-predire-essais-cancer.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2813958",
+      "auteur": "jarmoluk",
+      "url": "https://pixabay.com/photos/lab-analysis-diagnostics-hospital-2813958/"
+    }
   }
 ]
