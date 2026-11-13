@@ -7370,5 +7370,36 @@
       "url": "https://pixabay.com/photos/bicycle-to-go-biking-transport-9828774/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/shipday-startup-americaine-livraison-commerces-locaux.webp"
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-2",
+    "type": "business-model",
+    "slug": "business-model-heygen-video-ia-sans-bruler-de-cash",
+    "title": "Business model de HeyGen : 200 M$ de revenus sans brûler de cash",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "HeyGen dépasse 200 M$ de revenus annuels récurrents (juin 2026)",
+    "startups": [
+      {
+        "nom": "HeyGen",
+        "site": "heygen.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.heygen.com/blog/heygen-surpasses-200m-arr",
+      "https://www.upstartsmedia.com/p/exclusive-heygen-200m-arr-without-burn",
+      "https://sacra.com/c/heygen",
+      "https://research.contrary.com/company/heygen",
+      "https://www.heygen.com/pricing"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5531502",
+      "auteur": "Peggy_Marco",
+      "url": "https://pixabay.com/photos/smartphone-mobile-camera-recording-5531502/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-heygen-video-ia-sans-bruler-de-cash.webp"
   }
 ]
