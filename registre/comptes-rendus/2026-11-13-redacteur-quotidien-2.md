@@ -30,8 +30,7 @@ Inspiration du jour : Basis, DualEntry, Tabs, Stuut, Rogo (toutes à New York, a
 
 - **4Minds** (Dallas, série A de 15 M$ pour 500 M$ de valorisation) : aucun client ni revenu public, traction jugée insuffisante.
 - **Hatz AI** et **Lumbra** (New York) : quota de 4 fiches pour New York atteint.
-- **Caruso** (série A de 11,2 M$) : société néo-zélandaise, hors périmètre.
-- **XpertDox** : codage médical par IA, trop proche de Charta Health le même jour.
+- **Caruso** (série A de 11,2 M$, avril 2026) : siège américain non vérifié (investisseurs principaux néo-zélandais), écarté.
 
 ## Réserve pour les prochains jours
 
