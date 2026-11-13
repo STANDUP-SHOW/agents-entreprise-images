@@ -7602,5 +7602,42 @@
       "auteur": "uslikajme",
       "url": "https://pixabay.com/photos/work-office-architect-designer-2196609/"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "pc-ia-copilot-plus-equiper-salaries-pme-local-cloud",
+    "title": "Faut-il équiper ses salariés de PC IA pour utiliser l'intelligence artificielle ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : faut-il acheter des PC IA (Copilot+ PC, NPU) ou mutualiser l'IA au bureau / dans le cloud",
+    "question": "Faut-il équiper ses salariés de PC IA pour utiliser l'intelligence artificielle ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://www.digit.fyi/ai-pcs-to-make-up-nearly-1-in-3-pcs-by-end-of-2025/",
+    "solutions_comparees": [
+      "Microsoft Copilot+ PC",
+      "NVIDIA DGX Spark",
+      "Mistral AI",
+      "OVHcloud AI Endpoints",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.digit.fyi/ai-pcs-to-make-up-nearly-1-in-3-pcs-by-end-of-2025/",
+      "https://news.microsoft.com/source/emea/2024/05/decouvrez-les-nouveaux-copilot-pc/",
+      "https://servethehome.com/nvidia-dgx-spark-64gb-launched-and-big-128gb-gb10-price-increases",
+      "https://ollama.com/",
+      "https://docs.mistral.ai/getting-started/models/",
+      "https://mistral.ai/pricing",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://zeydo.fr/local-ai"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/pc-ia-copilot-plus-equiper-salaries-pme-local-cloud.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8499949",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-man-desk-working-8499949/"
+    }
   }
 ]
