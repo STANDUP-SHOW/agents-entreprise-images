@@ -7190,5 +7190,36 @@
       "url": "https://pixabay.com/photos/data-center-industry-2927337/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mavria-startup-americaine-data-centers-modulaires.webp"
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "zus-health-startup-americaine-dossier-patient-connecte",
+    "title": "Zus Health : la start-up de Boston qui unifie le dossier du patient",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Zus Health",
+    "startups": [
+      {
+        "nom": "Zus Health",
+        "site": "zushealth.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://hitconsultant.net/?p=98586",
+      "https://www.goodwinlaw.com/en/news-and-events/news/2026/11/announcements-technology-hltc-goodwin-advises-zus-health-33-million-series-b-financing",
+      "https://www.thesaasnews.com/news/zus-health-raises-33m-series-b/",
+      "https://mercomcapital.com/zus-health-raises-34-million-to-build-healthcare-interoperability-infrastructure/",
+      "https://www.mobihealthnews.com/news/jonathan-bushs-health-data-startup-zus-health-raises-40m"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6497496",
+      "auteur": "orzalaga",
+      "url": "https://pixabay.com/photos/doctor-prescription-appointment-6497496/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/zus-health-startup-americaine-dossier-patient-connecte.webp"
   }
 ]
