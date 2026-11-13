@@ -7312,5 +7312,33 @@
       "url": "https://pixabay.com/photos/doctor-patient-consultation-5710156/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/charta-health-startup-americaine-controle-dossiers-medicaux-ia.webp"
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "primordial-labs-startup-americaine-commande-vocale-defense",
+    "title": "Primordial Labs, start-up qui commande les drones en langage naturel",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Série A 18 M$ menée par Ballistic Ventures, novembre 2026",
+    "startups": [
+      {
+        "nom": "Primordial Labs",
+        "site": "https://www.primordial-labs.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/primordial-labs-18-million-series-a-funding-to-expand-ai-powered-military-command-and-control-platform/amp/",
+      "https://www.thesaasnews.com/news/primordial-labs-raises-18m-series-a/"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2676000",
+      "auteur": "5827444",
+      "url": "https://pixabay.com/photos/drone-unmanned-aerial-vehicles-2676000/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/primordial-labs-startup-americaine-commande-vocale-defense.webp"
   }
 ]
