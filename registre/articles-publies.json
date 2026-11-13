@@ -6954,5 +6954,26 @@
       "auteur": "jarmoluk",
       "url": "https://pixabay.com/photos/lab-analysis-diagnostics-hospital-2813958/"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-1",
+    "slug": "uforce-leve-700-millions-dollars-defense-autonome-ukraine",
+    "title": "UFORCE lève 700 millions de dollars pour industrialiser ses drones",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "UFORCE – série A – 700 M$ (Valor Equity Partners, National Wealth Fund), valorisation 6 Md$ – 12 novembre 2026",
+    "sources": [
+      "https://tech.eu/2026/11/12/ukrainian-defence-tech-uforce-raises-700m-series-a-at-6b-valuation/",
+      "https://techfundingnews.com/uforce-raises-700m-at-6b-valuation-as-uk-wealth-fund-makes-its-biggest-defence-deal/",
+      "https://www.frenchweb.fr/breaking-news/uforce-leve-595-millions-d-euros-pour-transformer-les-drones-ukrainiens-en-industrie-mondiale-de-defense/9a32bdec-97df-43ca-a926-2e9e7bcec1af"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/uforce-leve-700-millions-dollars-defense-autonome-ukraine.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "9488442",
+      "auteur": "ELG21",
+      "url": "https://pixabay.com/photos/london-city-buildings-darling-9488442/"
+    }
   }
 ]
