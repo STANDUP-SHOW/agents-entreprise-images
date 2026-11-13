@@ -7563,5 +7563,44 @@
       "auteur": "Haer_breizh",
       "url": "https://pixabay.com/photos/paper-ladder-blue-architect-plan-3152429/"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "charte-utilisation-ia-pme-contenu-valeur-juridique",
+    "title": "Faut-il une charte d'utilisation de l'IA dans une PME, et que doit-elle contenir ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : charte d'utilisation de l'IA, valeur juridique (règlement intérieur, CSE) et contenu",
+    "question": "Faut-il une charte d'utilisation de l'IA dans une PME, quelle valeur juridique a-t-elle et que doit-elle contenir ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://www.blogdumoderateur.com/shadow-ia-rgpd-donnees-sensibles-temoignage-patron-pme-structure-usages-ia/",
+    "solutions_comparees": [
+      "Anthropic Claude Team",
+      "Google Workspace Gemini",
+      "Mistral AI Le Chat",
+      "Dust",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.blogdumoderateur.com/shadow-ia-rgpd-donnees-sensibles-temoignage-patron-pme-structure-usages-ia/",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://code.travail.gouv.fr/code-du-travail/l1311-2",
+      "https://code.travail.gouv.fr/code-du-travail/l1321-5",
+      "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+      "https://claude.com/pricing",
+      "https://workspace.google.com/intl/fr/pricing.html",
+      "https://mistral.ai/pricing",
+      "https://dust.tt/home/pricing",
+      "https://zeydo.fr/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/charte-utilisation-ia-pme-contenu-valeur-juridique.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2196609",
+      "auteur": "uslikajme",
+      "url": "https://pixabay.com/photos/work-office-architect-designer-2196609/"
+    }
   }
 ]
