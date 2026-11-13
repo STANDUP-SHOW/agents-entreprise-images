@@ -7221,5 +7221,34 @@
       "url": "https://pixabay.com/photos/doctor-prescription-appointment-6497496/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/zus-health-startup-americaine-dossier-patient-connecte.webp"
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "wispr-startup-americaine-dictee-vocale-ia",
+    "title": "Wispr : la start-up californienne qui remplace le clavier par la voix",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Wispr (Wispr Flow)",
+    "startups": [
+      {
+        "nom": "Wispr",
+        "site": "wisprflow.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://siliconangle.com/2026/08/17/wispr-raises-280m-to-power-up-natural-speech-to-text-using-ai/",
+      "https://thenextweb.com/news/wispr-series-b-280m-2bn-valuation-menlo-canto",
+      "https://wisprflow.ai/pricing"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2557571",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/laptop-apple-macbook-computer-2557571/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/wispr-startup-americaine-dictee-vocale-ia.webp"
   }
 ]
