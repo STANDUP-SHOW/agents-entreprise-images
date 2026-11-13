@@ -6845,5 +6845,28 @@
       "auteur": "shareef3",
       "url": "https://pixabay.com/photos/leadership-teamwork-leader-7882178/"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-1",
+    "slug": "nvidia-jensen-huang-demission-colette-kress-interim-industrie-ia",
+    "title": "Nvidia sans Jensen Huang : ce que l'intérim de Colette Kress change",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Nvidia – démission de Jensen Huang, Colette Kress directrice générale par intérim – 12 novembre 2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-following-affairs-scandal/",
+      "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "https://www.lemondeinformatique.fr/donnees-ia/nvidia-jensen-huang-demissionne-colette-kress-pren",
+      "https://www.frenchweb.fr/breaking-news/jensen-huang-demissionne-de-nvidia-colette-kress-prend-la-direction-par-interim/2e571d3a-0de1-407b-b7ae-6569532fbe28",
+      "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/nvidia-jensen-huang-demission-colette-kress-interim-industrie-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2548826",
+      "auteur": "patricksommer",
+      "url": "https://pixabay.com/photos/meeting-conference-meet-teamwork-2548826/"
+    }
   }
 ]
