@@ -6997,5 +6997,26 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/airport-people-waiting-seats-923970/"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-1",
+    "slug": "square-squaremates-agent-ia-commercants-mcp-cli",
+    "title": "Square lance Squaremates, un agent IA pour gérer les commerces",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Square – Squaremates en disponibilité générale, Square MCP et Square CLI – 12 novembre 2026",
+    "sources": [
+      "https://www.qsrmagazine.com/news/square-launches-ai-agent-to-help-restaurants-run-their-businesses/",
+      "https://siliconangle.com/2026/11/12/square-takes-squaremates-ai-agent-out-of-beta-and-opens-up-to-sellers-own-ai-software/",
+      "https://www.pymnts.com/news/artificial-intelligence/2026/square-expands-agentic-ai-tools-give-sellers-more-control-over-business-operations/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/square-squaremates-agent-ia-commercants-mcp-cli.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1340662",
+      "auteur": "DizzyRoseblade",
+      "url": "https://pixabay.com/photos/smiling-woman-coffee-shop-cafe-1340662/"
+    }
   }
 ]
