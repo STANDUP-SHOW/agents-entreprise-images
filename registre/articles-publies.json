@@ -7281,5 +7281,36 @@
       "url": "https://pixabay.com/photos/cold-front-warm-front-hurricane-63037/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/muon-space-startup-americaine-constellations-satellites.webp"
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "charta-health-startup-americaine-controle-dossiers-medicaux-ia",
+    "title": "Charta Health : l'IA qui relit les dossiers médicaux avant facture",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Charta Health",
+    "startups": [
+      {
+        "nom": "Charta Health",
+        "site": "chartahealth.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://hitconsultant.net/?p=98589",
+      "https://www.insightpartners.com/?p=29195",
+      "https://www.thesaasnews.com/news/charta-health-raises-55m-series-b/",
+      "https://baincapitalventures.com/insight/charting-a-new-era-how-charta-health-is-transforming-medical-chart-review/",
+      "https://pulse2.com/charta-health-8-1-million-seed-secured-for-automating-chart-review-with-ai/amp/"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5710156",
+      "auteur": "Maximilianovich",
+      "url": "https://pixabay.com/photos/doctor-patient-consultation-5710156/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/charta-health-startup-americaine-controle-dossiers-medicaux-ia.webp"
   }
 ]
