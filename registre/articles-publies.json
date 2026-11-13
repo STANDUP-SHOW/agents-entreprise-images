@@ -6910,5 +6910,28 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/team-team-work-group-speaking-8499965/"
     }
+  },
+  {
+    "date": "2026-11-13",
+    "routine": "redacteur-quotidien-1",
+    "slug": "agile-robots-leve-500-millions-dollars-softbank-robots-humanoides",
+    "title": "Agile Robots lève 500 millions de dollars auprès de SoftBank et Nvidia",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Agile Robots – série F – 500 M$ (SoftBank, Nvidia, Hitachi), valorisation 8,5 Md$ – 12 novembre 2026",
+    "sources": [
+      "https://tech.eu/2026/11/12/softbank-leads-500m-funding-round-in-agile-robots/",
+      "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/",
+      "https://techfundingnews.com/agile-robots-500m-series-f-softbank-8-5b-valuation/",
+      "https://www.frenchweb.fr/breaking-news/agile-robots-leve-425-millions-d-euros-aupres-de-softbank-et-nvidia-pour-accelerer-dans-la-physical-ai/a6075547-dc13-4525-84de-ac51832f9f3b",
+      "https://www.maddyness.com/2026/11/12/agile-robots-le-geant-allemand-de-la-robotique-leve-450-millions-deuros/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agile-robots-leve-500-millions-dollars-softbank-robots-humanoides.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4359091",
+      "auteur": "wqh364330634",
+      "url": "https://pixabay.com/photos/machining-process-working-machine-4359091/"
+    }
   }
 ]
