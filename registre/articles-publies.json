@@ -8335,5 +8335,41 @@
       "auteur": "20926038",
       "url": "https://pixabay.com/photos/barista-coffee-preparation-pouring-6197867/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-controler-notes-de-frais-salaries-pme",
+    "title": "Un agent IA peut-il contrôler les notes de frais des salariés d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : contrôle des notes de frais par un agent IA",
+    "question": "Un agent IA peut-il contrôler les notes de frais des salariés d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.insee.fr/fr/statistiques/9025878 (73 % des utilisatrices d'IA visent l'automatisation de tâches répétitives) ; https://ramp.com/pricing et https://www.brex.com/pricing (revues de dépenses par IA proposées aux PME, consultées le 2026-11-14)",
+    "solutions_comparees": [
+      "Ramp",
+      "Brex",
+      "N2F",
+      "Mooncard",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.legisocial.fr/actualites-sociales/3343-pieces-dematerialisees-cas-controle-urssaf.html",
+      "https://ramp.com/pricing",
+      "https://www.brex.com/pricing",
+      "https://www.n2f.com/fr/tarifs/",
+      "https://www.mooncard.co/fr/tarifs",
+      "https://zeydo.fr/agents/gestionnaire-de-notes-de-frais"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-controler-notes-de-frais-salaries-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1867741",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/computer-desk-electronics-keyboard-1867741/"
+    }
   }
 ]
