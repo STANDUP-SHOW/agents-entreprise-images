@@ -8042,5 +8042,36 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/woman-smartphone-technology-1847044/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "realta-fusion-startup-americaine-fusion-nucleaire-industrie",
+    "title": "Realta Fusion : la fusion nucléaire compacte made in Wisconsin",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Realta Fusion",
+    "startups": [
+      {
+        "nom": "Realta Fusion",
+        "site": "realtafusion.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/realta-fusion-secures-9-5-million-growth-capital-facility-from-silicon-valley-bank/amp/",
+      "https://www.webull.com/news/15231214053237760",
+      "https://www.wisconsintechnologycouncil.com/newsroom/biztimes-realta-fusion-partnering-with-madison-utility-company-for-development-of-commercial-fusion-power-plant",
+      "https://pulse2.com/realta-36-million-series-a-closed-for-fusion-energy-platform/amp/",
+      "https://www.esgtoday.com/nuclear-startup-realta-raises-36-million-to-commercialize-fusion-energy-tech/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/realta-fusion-startup-americaine-fusion-nucleaire-industrie.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4904923",
+      "auteur": "dmchannelsng",
+      "url": "https://pixabay.com/photos/hospital-healthcare-medical-4904923/"
+    }
   }
 ]
