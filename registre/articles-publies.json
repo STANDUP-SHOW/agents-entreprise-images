@@ -7982,5 +7982,34 @@
       "auteur": "advogadoaguilar",
       "url": "https://pixabay.com/photos/right-advocacy-lex-attorney-jura-4944546/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "arceus-startup-americaine-cabinet-avocats-ia-forfait",
+    "title": "Arceus : le cabinet d'avocats dopé à l'IA qui facture au forfait",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Arceus",
+    "startups": [
+      {
+        "nom": "Arceus",
+        "site": "arceus.legal"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://siliconangle.com/2026/10/01/ai-driven-law-firm-arceus-legal-raises-17m-to-move-beyond-contract-work/",
+      "https://artificiallawyer.com/2026/10/01/new-model-law-firm-arceus-raises-17m",
+      "https://techindex.law.stanford.edu/companies/arceus-legal"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/arceus-startup-americaine-cabinet-avocats-ia-forfait.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7123797",
+      "auteur": "ADArt00090",
+      "url": "https://pixabay.com/photos/lawyer-law-confident-court-7123797/"
+    }
   }
 ]
