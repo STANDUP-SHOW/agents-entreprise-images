@@ -7639,5 +7639,26 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-man-desk-working-8499949/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-1",
+    "slug": "panne-microsoft-365-exchange-online-entreprises-18-heures",
+    "title": "Panne Microsoft 365 : 18 heures sans messagerie pour les entreprises",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Microsoft – panne mondiale d'Exchange Online / Microsoft 365 (≈18 h, plus de 70 pays) – 12-13 novembre 2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/13/massive-microsoft-outage-disrupts-businesses-government-agencies-worldwide/",
+      "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "https://siecledigital.fr/2026/11/13/une-panne-mondiale-chez-microsoft-prive-des-millions-dutilisateurs-de-leurs-outils/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/panne-microsoft-365-exchange-online-entreprises-18-heures.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2360063",
+      "auteur": "louisehoffmann83",
+      "url": "https://pixabay.com/photos/office-business-company-2360063/"
+    }
   }
 ]
