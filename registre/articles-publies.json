@@ -7891,5 +7891,36 @@
       "auteur": "borevina",
       "url": "https://pixabay.com/photos/architect-plan-construction-3979490/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "corgi-startup-americaine-assurance-entreprises-ia",
+    "title": "Corgi : l'assureur de San Francisco devenu licorne en deux ans",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Corgi",
+    "startups": [
+      {
+        "nom": "Corgi",
+        "site": "corgi.insure"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.insurancejournal.com/news/west/2026/06/01/871848.htm",
+      "https://www.corgi.insure/press-releases/series-b1",
+      "https://fintech.global/2026/05/08/corgi-secures-unicorn-status-after-160m-series-b/",
+      "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
+      "https://www.ycombinator.com/companies/corgi"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/corgi-startup-americaine-assurance-entreprises-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "593371",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/entrepreneur-start-up-man-planning-593371/"
+    }
   }
 ]
