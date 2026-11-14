@@ -8011,5 +8011,36 @@
       "auteur": "ADArt00090",
       "url": "https://pixabay.com/photos/lawyer-law-confident-court-7123797/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "felix-pago-startup-americaine-transferts-argent-whatsapp",
+    "title": "Félix : la fintech de Miami qui transfère l'argent via WhatsApp",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Félix (Félix Pago)",
+    "startups": [
+      {
+        "nom": "Félix",
+        "site": "felixpago.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://finovate.com/cross-border-money-transfer-outfit-felix-raises-200-million/",
+      "https://pulse2.com/felix-raises-200-million-series-c-led-by-andreessen-horowitz/amp/",
+      "https://news.crunchbase.com/?p=94027",
+      "https://refreshmiami.com/news/felix-pagos-75m-raise-proves-money-talks-on-whatsapp/",
+      "https://a16zcrypto.com/posts/article/investing-in-felix/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/felix-pago-startup-americaine-transferts-argent-whatsapp.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1847044",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/woman-smartphone-technology-1847044/"
+    }
   }
 ]
