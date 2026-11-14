@@ -7809,5 +7809,27 @@
       "auteur": "jotoler",
       "url": "https://pixabay.com/photos/worker-industry-man-manufacturing-4395772/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-1",
+    "slug": "nice-cognigy-nouvelle-generation-agents-ia-service-client",
+    "title": "NiCE Cognigy : la nouvelle version mise sur le contrôle des agents IA",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "NiCE – lancement de la nouvelle génération de NiCE Cognigy (AI Assist, compétences réutilisables, traçage) – 12 novembre 2026",
+    "sources": [
+      "https://www.cognigy.com/news/nice-launches-next-generation-nice-cognigy-to-accelerate-enterprise-ai-agent-deployment-and-orchestration",
+      "https://www.cmswire.com/contact-center/nice-launches-next-generation-cognigy-with-reusable-skills-and-decision-tracing/",
+      "https://itbrief.asia/story/nice-launches-next-generation-cognigy-for-ai-agents",
+      "https://siliconangle.com/2026/11/13/nices-next-generation-cognigy-bets-the-hard-part-of-ai-agents-is-running-them-not-building-them/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/nice-cognigy-nouvelle-generation-agents-ia-service-client.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6612707",
+      "auteur": "LogistaHometech",
+      "url": "https://pixabay.com/photos/headsets-call-center-6612707/"
+    }
   }
 ]
