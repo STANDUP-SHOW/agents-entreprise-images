@@ -7922,5 +7922,35 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/entrepreneur-start-up-man-planning-593371/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "withcoverage-startup-americaine-courtage-assurance-forfait",
+    "title": "WithCoverage : le courtier d'assurance new-yorkais payé au forfait",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup WithCoverage",
+    "startups": [
+      {
+        "nom": "WithCoverage",
+        "site": "withcoverage.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fintech.global/2026/01/14/withcoverage-raises-42m-to-disrupt-insurance-broking/",
+      "https://pulse2.com/withcoverage-42-million-series-b-closed-to-build-ai-powered-risk-management-team/amp/",
+      "https://beinsure.com/news/withcoverage-reaches-50bn-in-protected-revenue/",
+      "https://www.cbinsights.com/company/with-coverage"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/withcoverage-startup-americaine-courtage-assurance-forfait.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "962358",
+      "auteur": "Edar",
+      "url": "https://pixabay.com/photos/business-signature-contract-962358/"
+    }
   }
 ]
