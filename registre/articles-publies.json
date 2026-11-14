@@ -8166,5 +8166,57 @@
       "auteur": "Deeezy",
       "url": "https://pixabay.com/photos/laptop-workstaion-office-work-4906312/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-secteurs-traditionnels-2026-11-14",
+    "title": "5 startups américaines qui modernisent le BTP, l'assurance et le droit",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : startups qui modernisent les secteurs traditionnels",
+    "startups": [
+      {
+        "nom": "Miter",
+        "site": "miter.com"
+      },
+      {
+        "nom": "PermitFlow",
+        "site": "permitflow.com"
+      },
+      {
+        "nom": "Corgi",
+        "site": "corgi.insure"
+      },
+      {
+        "nom": "WithCoverage",
+        "site": "withcoverage.com"
+      },
+      {
+        "nom": "Supio",
+        "site": "supio.com"
+      }
+    ],
+    "theme": "secteurs traditionnels (BTP, assurance, droit)",
+    "sources": [
+      "https://www.constructiondive.com/press-release/20260930-miter-the-ai-platform-for-construction-raises-40-million-for-the-built-w/",
+      "https://pulse2.com/miter-raises-40-million-series-b-for-ai-powered-construction-platform/amp/",
+      "https://builtin.com/articles/ai-construction-platform-permitflow-secures-54m-series-b-20251203",
+      "https://pulse2.com/permitflow-54-million-series-b/amp/",
+      "https://fintech.global/2026/05/08/corgi-secures-unicorn-status-after-160m-series-b/",
+      "https://www.insurancejournal.com/news/west/2026/06/01/871848.htm",
+      "https://fintech.global/2026/01/14/withcoverage-raises-42m-to-disrupt-insurance-broking/",
+      "https://beinsure.com/news/withcoverage-reaches-50bn-in-protected-revenue/",
+      "https://www.supio.com/press/supio-reports-landmark-first-half-of-2026",
+      "https://techcrunch.com/2025/04/30/supio-an-ai-powered-legal-platform-lands-60m-in-fresh-capital"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-secteurs-traditionnels-2026-11-14.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2762237",
+      "auteur": "jarmoluk",
+      "url": "https://pixabay.com/photos/building-professional-employee-2762237/"
+    }
   }
 ]
