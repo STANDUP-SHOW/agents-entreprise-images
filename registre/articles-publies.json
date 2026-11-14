@@ -7724,5 +7724,27 @@
       "auteur": "Goumbik",
       "url": "https://pixabay.com/photos/business-technology-notebook-laptop-2717063/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-1",
+    "slug": "mirendil-leve-1-milliard-dollars-agents-recherche-ia",
+    "title": "Mirendil lève 1 milliard pour confier la recherche en IA à des agents",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Mirendil – série A – 1 Md$ (Kleiner Perkins, Clearlake Capital) – 12 novembre 2026",
+    "sources": [
+      "https://mirendil.com/news/series-a/",
+      "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
+      "https://en.wowtale.net/2026/11/14/235991/",
+      "https://mlq.ai/news/ex-anthropic-researchers-startup-mirendil-raises-1-billion-to-let-ai-agents-do-the-work-of-an-ai-lab/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mirendil-leve-1-milliard-dollars-agents-recherche-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "849811",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/whiteboard-man-presentation-write-849811/"
+    }
   }
 ]
