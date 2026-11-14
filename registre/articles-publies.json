@@ -7703,5 +7703,26 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/blur-chart-computer-data-finance-1853262/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-1",
+    "slug": "langchain-leve-300-millions-dollars-capitalg-agents-ia",
+    "title": "LangChain lève 300 millions de dollars pour gérer les agents IA",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "LangChain – série C – 300 M$ à 3 Md$ de valorisation (CapitalG) – 13 novembre 2026",
+    "sources": [
+      "https://www.langchain.com/blog/series-c",
+      "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/langchain-leve-300-millions-dollars-capitalg-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2717063",
+      "auteur": "Goumbik",
+      "url": "https://pixabay.com/photos/business-technology-notebook-laptop-2717063/"
+    }
   }
 ]
