@@ -7861,5 +7861,35 @@
       "auteur": "joffi",
       "url": "https://pixabay.com/photos/construction-site-1359136/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "permitflow-startup-americaine-permis-de-construire-ia",
+    "title": "PermitFlow : l'IA new-yorkaise qui accélère les permis de construire",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup PermitFlow",
+    "startups": [
+      {
+        "nom": "PermitFlow",
+        "site": "permitflow.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/permitflow-54-million-series-b/amp/",
+      "https://builtin.com/articles/ai-construction-platform-permitflow-secures-54m-series-b-20251203",
+      "https://techcrunch.com/2024/02/21/this-yc-alum-just-raised-31m-to-build-the-turbotax-for-construction-permitting/",
+      "https://www.ycombinator.com/companies/permitflow"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/permitflow-startup-americaine-permis-de-construire-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3979490",
+      "auteur": "borevina",
+      "url": "https://pixabay.com/photos/architect-plan-construction-3979490/"
+    }
   }
 ]
