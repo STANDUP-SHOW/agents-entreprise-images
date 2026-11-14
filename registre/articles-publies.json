@@ -8131,5 +8131,40 @@
       "auteur": "Boskampi",
       "url": "https://pixabay.com/photos/programming-html-css-javascript-1873854/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-perplexity-abonnements-et-credits-agents",
+    "title": "Perplexity : le business model des abonnements et crédits d'agents",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model Perplexity (revenu annualisé > 750 M$, août 2026)",
+    "startups": [
+      {
+        "nom": "Perplexity",
+        "site": "perplexity.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.perplexity.ai/enterprise/pricing",
+      "https://www.perplexity.ai/help-center/en/articles/11187416-which-perplexity-subscription-plan-is-right-for-you",
+      "https://docs.perplexity.ai/getting-started/pricing",
+      "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/",
+      "https://enterprisedna.co/resources/ai-pulse/ai-pulse-2026-08-24-perplexity-s-agentic-pivot-triples-revenue-in-under-a-year",
+      "https://www.businesstoday.in/technology/story/aravind-srinivas-unveils-perplexity-computer-an-ai-system-that-runs-projects-end-to-end-518013-2026-02-26",
+      "https://pressgazette.co.uk/news/perplexity-launches-ai-subscription-revenue-share-scheme-for-publishers/",
+      "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/",
+      "https://research.contrary.com/company/perplexity"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-perplexity-abonnements-et-credits-agents.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4906312",
+      "auteur": "Deeezy",
+      "url": "https://pixabay.com/photos/laptop-workstaion-office-work-4906312/"
+    }
   }
 ]
