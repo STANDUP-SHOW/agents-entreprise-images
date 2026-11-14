@@ -7831,5 +7831,35 @@
       "auteur": "LogistaHometech",
       "url": "https://pixabay.com/photos/headsets-call-center-6612707/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "miter-startup-americaine-paie-gestion-chantiers",
+    "title": "Miter : la start-up de San Francisco qui gère la paie des chantiers",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Miter",
+    "startups": [
+      {
+        "nom": "Miter",
+        "site": "miter.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/miter-raises-40-million-series-b-for-ai-powered-construction-platform/amp/",
+      "https://www.constructiondive.com/press-release/20260930-miter-the-ai-platform-for-construction-raises-40-million-for-the-built-w/",
+      "https://www.unite.ai/miter-raises-40m-series-b-to-replace-constructions-frankenstack-with-an-ai-native-operating-system/",
+      "https://pulse2.com/miter-profile-connor-watumull-interview/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/miter-startup-americaine-paie-gestion-chantiers.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1359136",
+      "auteur": "joffi",
+      "url": "https://pixabay.com/photos/construction-site-1359136/"
+    }
   }
 ]
