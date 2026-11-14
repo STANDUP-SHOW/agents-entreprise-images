@@ -8257,5 +8257,44 @@
       "auteur": "algedroid",
       "url": "https://pixabay.com/photos/team-cooperation-planning-strategy-4503157/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "ia-installee-au-bureau-acces-teletravail-plusieurs-sites-pme",
+    "title": "IA installée au bureau : comment y accéder en télétravail ou depuis plusieurs sites ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : accès à distance et multi-sites à une IA installée au bureau",
+    "question": "Comment des salariés en télétravail ou sur d'autres sites peuvent-ils accéder à une IA installée au bureau ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://docs.ollama.com/faq (section officielle sur l'exposition d'Ollama sur le réseau, consultée le 2026-11-14) ; https://www.cnil.fr/fr/les-conseils-de-la-cnil-pour-mettre-en-place-du-teletravail",
+    "solutions_comparees": [
+      "Ollama",
+      "LM Studio",
+      "Mistral Le Chat Enterprise",
+      "OVHcloud AI Endpoints",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.banquedesterritoires.fr/entre-teletravail-et-presentiel-une-pratique-hybride-desormais-ancree-dans-les-entreprises",
+      "https://www.cnil.fr/fr/les-conseils-de-la-cnil-pour-mettre-en-place-du-teletravail",
+      "https://cyber.gouv.fr/sites/default/files/document/guide_nomadisme_anssi_pa_054_v2.pdf",
+      "https://docs.ollama.com/faq",
+      "https://ollama.com/pricing",
+      "https://lmstudio.ai/docs/developer/core/server",
+      "https://mistral.ai/pricing",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://zeydo.fr/box",
+      "https://zeydo.fr/enterprise"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ia-installee-au-bureau-acces-teletravail-plusieurs-sites-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4208112",
+      "auteur": "meminsito",
+      "url": "https://pixabay.com/photos/online-connection-laptop-plant-4208112/"
+    }
   }
 ]
