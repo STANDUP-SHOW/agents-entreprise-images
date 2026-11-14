@@ -8296,5 +8296,44 @@
       "auteur": "meminsito",
       "url": "https://pixabay.com/photos/online-connection-laptop-plant-4208112/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-repondre-avis-google-clients-pme",
+    "title": "Un agent IA peut-il répondre aux avis Google de vos clients à votre place ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : agent IA pour répondre aux avis clients (Google)",
+    "question": "Un agent IA peut-il répondre aux avis Google des clients à la place du dirigeant ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.brightlocal.com/research/local-consumer-review-survey/ (89 % attendent une réponse, 2026) ; https://www.guest-suite.com/ et https://www.partoo.co/fr/tarifs/ (offres de réponses IA aux avis, consultées le 2026-11-14)",
+    "solutions_comparees": [
+      "Birdeye",
+      "Podium",
+      "Partoo",
+      "Guest Suite",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.brightlocal.com/research/local-consumer-review-survey/",
+      "https://support.google.com/business/answer/3474050?hl=fr",
+      "https://www.quechoisir.org/actualite-avis-en-ligne-un-outil-pour-lutter-contre-les-faux-avis-n108702",
+      "https://birdeye.com/reviews/",
+      "https://www.podium.com/product/reviews/",
+      "https://www.partoo.co/fr/tarifs/",
+      "https://www.guest-suite.com/",
+      "https://zeydo.fr/agents/agent-avis-clients",
+      "https://zeydo.fr/agents/agent-avis-clients-artisan",
+      "https://zeydo.fr/agents/veilleur-reputation"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-repondre-avis-google-clients-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6197867",
+      "auteur": "20926038",
+      "url": "https://pixabay.com/photos/barista-coffee-preparation-pouring-6197867/"
+    }
   }
 ]
