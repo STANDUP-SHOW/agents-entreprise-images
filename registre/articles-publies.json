@@ -7660,5 +7660,27 @@
       "auteur": "louisehoffmann83",
       "url": "https://pixabay.com/photos/office-business-company-2360063/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-1",
+    "slug": "google-search-gemini-4-hydrogen-visibilite-entreprises",
+    "title": "Google Search passe à Gemini 4 Hydrogen : l'enjeu pour les entreprises",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Google – Gemini 4 Hydrogen intégré à Google Search (mode IA) – 12 novembre 2026 ; Bing permet de masquer les réponses IA",
+    "sources": [
+      "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "https://siliconangle.com/2026/11/12/google-releases-gemini-4-hydrogen-a-lower-cost-model-said-to-outscore-argon/",
+      "https://siecledigital.fr/2026/11/13/google-deploie-une-mise-a-jour-majeure-de-son-moteur-de-recherche-grace-a-gemini-4/",
+      "https://siecledigital.fr/2026/11/13/microsoft-prend-le-contre-pied-de-google-en-permettant-de-desactiver-les-reponses-ia-dans-bing/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/google-search-gemini-4-hydrogen-visibilite-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1853302",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/hands-holding-smartphone-chatting-1853302/"
+    }
   }
 ]
