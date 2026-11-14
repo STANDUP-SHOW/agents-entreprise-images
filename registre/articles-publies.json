@@ -8102,5 +8102,34 @@
       "auteur": "Belova59",
       "url": "https://pixabay.com/photos/laboratory-medical-medicine-hand-3827745/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "graphon-startup-americaine-memoire-agents-ia",
+    "title": "Graphon : la start-up qui donne une mémoire aux agents d'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Graphon",
+    "startups": [
+      {
+        "nom": "Graphon",
+        "site": "graphonlabs.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.siliconreport.com/graphon-raises-35m-series-a-led-by-rre-ventures",
+      "https://letsdatascience.com/news/graphon-raises-35m-series-a-to-give-ai-agents-memory-aef58efb",
+      "https://www.startupresearcher.com/news/graphon-labs-raises-us-35-million-series-a"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/graphon-startup-americaine-memoire-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1873854",
+      "auteur": "Boskampi",
+      "url": "https://pixabay.com/photos/programming-html-css-javascript-1873854/"
+    }
   }
 ]
