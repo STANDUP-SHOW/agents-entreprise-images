@@ -7746,5 +7746,26 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/whiteboard-man-presentation-write-849811/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-1",
+    "slug": "well-leve-4-millions-assistant-ia-whatsapp-dirigeants-tpe",
+    "title": "Well lève 4 millions de dollars pour son assistant IA sur WhatsApp",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Well – pré-amorçage – 4 M$ (Speedinvest, Kima Ventures, Purple, OPRTRS Club) – 12-13 novembre 2026",
+    "sources": [
+      "https://www.maddyness.com/2026/11/13/deux-anciens-dibanfirst-bouclent-un-tour-de-table-pour-leur-assistant-ia-dedie-aux-dirigeants-de-petites-entreprises/",
+      "https://www.frenchweb.fr/breaking-news/well-lance-son-assistant-ia-sur-whatsapp-et-annonce-une-levee-de-3-6-millions-d-euros/311dda84-d953-4de4-8526-9db6d5b373e3",
+      "https://refrance.fr/well-leve-4-m-pour-son-assistant-ia-de-gestion-dentreprise-sur-whatsapp/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/well-leve-4-millions-assistant-ia-whatsapp-dirigeants-tpe.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4060860",
+      "auteur": "ThorstenF",
+      "url": "https://pixabay.com/photos/phone-business-person-lifestyle-4060860/"
+    }
   }
 ]
