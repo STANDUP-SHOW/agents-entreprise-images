@@ -7952,5 +7952,35 @@
       "auteur": "Edar",
       "url": "https://pixabay.com/photos/business-signature-contract-962358/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "supio-startup-americaine-ia-avocats-dommages-corporels",
+    "title": "Supio : l'IA de Seattle qui accélère les dossiers des avocats",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Supio",
+    "startups": [
+      {
+        "nom": "Supio",
+        "site": "supio.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.supio.com/press/supio-reports-landmark-first-half-of-2026",
+      "https://techcrunch.com/2025/04/30/supio-an-ai-powered-legal-platform-lands-60m-in-fresh-capital",
+      "https://www.supio.com/blog/supio-raises-60m-series-b-to-accelerate-growth-and-legal-ai-innovation",
+      "https://simplify.jobs/c/Supio"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/supio-startup-americaine-ia-avocats-dommages-corporels.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4944546",
+      "auteur": "advogadoaguilar",
+      "url": "https://pixabay.com/photos/right-advocacy-lex-attorney-jura-4944546/"
+    }
   }
 ]
