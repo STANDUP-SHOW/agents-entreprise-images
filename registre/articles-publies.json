@@ -8073,5 +8073,34 @@
       "auteur": "dmchannelsng",
       "url": "https://pixabay.com/photos/hospital-healthcare-medical-4904923/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "tiny-health-startup-americaine-tests-microbiome",
+    "title": "Tiny Health : la start-up d'Austin qui teste le microbiome à domicile",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Tiny Health",
+    "startups": [
+      {
+        "nom": "Tiny Health",
+        "site": "tinyhealth.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/",
+      "https://hitconsultant.net/2026/10/01/tiny-health-raises-33m-series-b-b-capital-microbiome-intelligence-platform/",
+      "https://www.nutraingredients.com/Article/2026/10/01/tiny-health-raises-33m-series-b-to-advance-microbiome-intelligence/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/tiny-health-startup-americaine-tests-microbiome.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3827745",
+      "auteur": "Belova59",
+      "url": "https://pixabay.com/photos/laboratory-medical-medicine-hand-3827745/"
+    }
   }
 ]
