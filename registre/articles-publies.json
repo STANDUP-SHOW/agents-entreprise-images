@@ -7788,5 +7788,26 @@
       "auteur": "Preis_King",
       "url": "https://pixabay.com/photos/online-shopping-amazon-shop-4532460/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-1",
+    "slug": "claude-for-manufacturing-anthropic-agents-ia-usines",
+    "title": "Claude for Manufacturing : Anthropic s'attaque à la paperasse d'usine",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Anthropic – lancement de Claude for Manufacturing (17 compétences, connecteurs Fusion/Infor/NetSuite/M365) – 12 novembre 2026",
+    "sources": [
+      "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+      "https://mlq.ai/news/anthropic-launches-claude-for-manufacturing-a-plugin-that-drafts-quotes-and-quality-reports-from-infor-netsuite-and-autodesk-data/",
+      "https://dev.to/paullovelace/claude-for-manufacturing-ai-that-handles-the-factory-paperwork-3908"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/claude-for-manufacturing-anthropic-agents-ia-usines.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4395772",
+      "auteur": "jotoler",
+      "url": "https://pixabay.com/photos/worker-industry-man-manufacturing-4395772/"
+    }
   }
 ]
