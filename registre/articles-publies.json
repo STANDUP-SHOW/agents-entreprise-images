@@ -7767,5 +7767,26 @@
       "auteur": "ThorstenF",
       "url": "https://pixabay.com/photos/phone-business-person-lifestyle-4060860/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-1",
+    "slug": "chatgpt-wallet-agents-openai-paiement-achats-en-ligne",
+    "title": "ChatGPT Wallet : les agents d'OpenAI peuvent désormais payer vos achats",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "OpenAI – lancement de ChatGPT Wallet pour les agents dots et du Commerce Partner Playbook – 13 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+      "https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/chatgpt-wallet-agents-openai-paiement-achats-en-ligne.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4532460",
+      "auteur": "Preis_King",
+      "url": "https://pixabay.com/photos/online-shopping-amazon-shop-4532460/"
+    }
   }
 ]
