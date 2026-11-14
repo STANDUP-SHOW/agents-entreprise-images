@@ -7682,5 +7682,26 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/hands-holding-smartphone-chatting-1853302/"
     }
+  },
+  {
+    "date": "2026-11-14",
+    "routine": "redacteur-quotidien-1",
+    "slug": "cerebras-resultats-trimestre-microsoft-client-puces-ia",
+    "title": "Cerebras dépasse les attentes et décroche Microsoft comme client",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Cerebras – résultats T3 2026 (230,9 M$ core, +70 %) et accord cloud avec Microsoft – 12 novembre 2026",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026073366/cbrsannouncesfinancialresu.htm",
+      "https://siliconangle.com/2026/11/12/surging-ai-chip-revenue-and-microsoft-deal-boost-cerebras-systems-stock-by-17/",
+      "https://cryptobriefing.com/cerebras-earnings-beat-microsoft-deal/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/cerebras-resultats-trimestre-microsoft-client-puces-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1853262",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/blur-chart-computer-data-finance-1853262/"
+    }
   }
 ]
