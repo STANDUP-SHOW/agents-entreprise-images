@@ -8474,5 +8474,27 @@
       "auteur": "Bru-nO",
       "url": "https://pixabay.com/photos/cosmetics-make-up-beauty-to-dye-2097507/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-1",
+    "slug": "q-ctrl-leve-290-millions-dollars-licorne-quantique-navigation",
+    "title": "Q-CTRL lève 290 millions de dollars et devient licorne du quantique",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Q-CTRL – série C de 290 M$ menée par Salesforce Ventures, 12 novembre 2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/12/quantum-sensor-and-software-maker-q-ctrl-raises-290m-in-funding/",
+      "https://quantumcomputingreport.com/q-ctrl-raises-290-million-in-series-c-funding-led-by-salesforce-ventures-to-scale-quantum-infrastructure-software/",
+      "https://mlq.ai/news/q-ctrl-raises-290-million-in-a-series-c-led-by-salesforce-ventures-and-becomes-a-quantum-unicorn/",
+      "https://pulse2.com/q-ctrl-290-million-series-c-funding-led-by-salesforce-ventures-creates-new-quantum-technology-unicorn/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/q-ctrl-leve-290-millions-dollars-licorne-quantique-navigation.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2576889",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/cockpit-pilot-people-men-airplane-2576889/"
+    }
   }
 ]
