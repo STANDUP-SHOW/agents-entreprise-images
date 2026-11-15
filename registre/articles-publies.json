@@ -8582,5 +8582,26 @@
       "auteur": "Lucent_Designs_dinoson20",
       "url": "https://pixabay.com/photos/fiber-cable-wire-connection-4814456/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-1",
+    "slug": "openai-daybreak-red-team-defense-factory-agents-ia-failles",
+    "title": "OpenAI Daybreak : des agents IA pour tester et corriger les failles",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "OpenAI lance Daybreak Red Team et Daybreak Defense Factory (12/11/2026)",
+    "sources": [
+      "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+      "https://securityboulevard.com/2026/11/openai-launches-ai-security-tools-to-find-and-fix-software-vulnerabilities/",
+      "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-openai-enrichit-daybreak-de-deux-out"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/openai-daybreak-red-team-defense-factory-agents-ia-failles.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1689066",
+      "auteur": "markusspiske",
+      "url": "https://pixabay.com/photos/code-html-internet-computer-web-1689066/"
+    }
   }
 ]
