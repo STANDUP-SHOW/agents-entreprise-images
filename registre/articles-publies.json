@@ -8727,5 +8727,36 @@
       "auteur": "harryloya",
       "url": "https://pixabay.com/photos/computer-office-business-laptop-3033135/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "erebor-startup-americaine-banque-economie-innovation",
+    "title": "Erebor : la banque de l'Ohio qui veut succéder à Silicon Valley Bank",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Erebor",
+    "startups": [
+      {
+        "nom": "Erebor",
+        "site": "erebor.bank"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-26-26/",
+      "https://cryptobriefing.com/erebor-bank-raise-15-billion-tech-startups/",
+      "https://coin360.com/news/erebor-bank-occ-approval-crypto-banking-shift",
+      "https://www.theblock.co/post/383533/banking-startup-erebor-350-million-4-billion-valuation-fdic-approval-axios",
+      "https://sacra.com/c/erebor/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/erebor-startup-americaine-banque-economie-innovation.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1936114",
+      "auteur": "12019",
+      "url": "https://pixabay.com/photos/columbus-ohio-city-urban-buildings-1936114/"
+    }
   }
 ]
