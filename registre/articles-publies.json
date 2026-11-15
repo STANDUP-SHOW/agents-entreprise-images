@@ -8818,5 +8818,35 @@
       "auteur": "Schluesseldienst",
       "url": "https://pixabay.com/photos/house-keys-key-security-door-key-4521073/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "scribeup-startup-americaine-gestion-abonnements-banques",
+    "title": "ScribeUp : la fintech qui aide les banques à gérer les abonnements",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup ScribeUp",
+    "startups": [
+      {
+        "nom": "ScribeUp",
+        "site": "scribeup.io"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.bankingdive.com/news/recurring-bill-service-scribeup-raises-13-million-mackler/833304/",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-26-26/",
+      "https://www.adviacu.org/resources/information-center/advia-news-network/advia-in-the-press/news-room/2026/02/26/advia-credit-union-partners-with-scribeup-to-launch-recurring-bill-management",
+      "https://cutimes.com/2025/06/17/new-cuso-scribeup-brings-subscription-management-to-credit-unions"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/scribeup-startup-americaine-gestion-abonnements-banques.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7304257",
+      "auteur": "IqbalStock",
+      "url": "https://pixabay.com/photos/business-smartphone-hands-7304257/"
+    }
   }
 ]
