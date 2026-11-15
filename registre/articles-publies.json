@@ -8992,5 +8992,42 @@
       "auteur": "PublicDomainPictures",
       "url": "https://pixabay.com/photos/street-west-virginia-town-small-13553/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-gerer-stocks-reapprovisionnement-pme",
+    "title": "Un agent IA peut-il gérer les stocks et le réapprovisionnement d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : agent IA, gestion des stocks et réapprovisionnement",
+    "question": "Un agent IA peut-il gérer les stocks et le réapprovisionnement d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.blogdumoderateur.com/ia-cyber-budgets-10-chiffres-numerique-tpe-pme-2026/ (France Num 2026 : 9 % des TPE-PME utilisent l'IA pour prévision et optimisation des ressources, 30/09/2026) ; https://www.insee.fr/fr/statistiques/9025878 (logistique 18 %, 21/07/2026)",
+    "solutions_comparees": [
+      "Microsoft Dynamics 365 Business Central",
+      "Fishbowl",
+      "Lokad",
+      "Odoo",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.blogdumoderateur.com/ia-cyber-budgets-10-chiffres-numerique-tpe-pme-2026/",
+      "https://learn.microsoft.com/en-us/dynamics365/business-central/ui-extensions-sales-forecast",
+      "https://www.fishbowlinventory.com/",
+      "https://www.lokad.com/fr/",
+      "https://www.odoo.com/fr_FR/pricing",
+      "https://zeydo.fr/agents/agent-approvisionnement",
+      "https://zeydo.fr/agents/stock-control-assistant"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-gerer-stocks-reapprovisionnement-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4672332",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/shoes-factory-man-workshop-labor-4672332/"
+    }
   }
 ]
