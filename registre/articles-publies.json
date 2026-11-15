@@ -8634,5 +8634,36 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/student-typing-keyboard-text-woman-849822/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "duet-startup-americaine-cabinets-infirmiers-praticiens",
+    "title": "Duet : la startup qui aide les infirmiers à ouvrir leur propre cabinet",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Duet",
+    "startups": [
+      {
+        "nom": "Duet",
+        "site": "joinduet.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-12-2026/",
+      "https://hitconsultant.net/2026/11/12/duet-raises-15-million-series-a-scale-nurse-practitioner-owned-clinics-aco/",
+      "https://pulse2.com/duet-15-million-series-a-funding-to-expand-nurse-practitioner-owned-primary-care-clinics-across-the-u-s/amp/",
+      "https://www.healthcareittoday.com/2026/11/13/duet-raises-15m-vumedi-receives-104-million-investment-from-oak-hc-ft/",
+      "https://www.vie-publique.fr/loi/288203-acces-aux-soins-proposition-de-loi-rist"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/duet-startup-americaine-cabinets-infirmiers-praticiens.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3579026",
+      "auteur": "HalcyonMarine",
+      "url": "https://pixabay.com/photos/assistant-office-assistant-3579026/"
+    }
   }
 ]
