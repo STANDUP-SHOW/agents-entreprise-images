@@ -8561,5 +8561,26 @@
       "auteur": "nehasharma01",
       "url": "https://pixabay.com/photos/design-packaging-package-deliver-8576920/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-1",
+    "slug": "att-500-workflows-agents-ia-production-tripler-2027",
+    "title": "AT&T : 500 workflows d'agents IA en production, le triple en 2027",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "AT&T – près de 500 workflows d'agents IA en production, objectif x3 en 2027 (Luke Corbin, Inside AWS Boston ; articles du 14 novembre 2026)",
+    "sources": [
+      "https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/",
+      "https://www.tokenpost.com/news/business/57497",
+      "https://www.cio.com/article/4122884/att-is-all-in-on-agentic-ai.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/att-500-workflows-agents-ia-production-tripler-2027.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4814456",
+      "auteur": "Lucent_Designs_dinoson20",
+      "url": "https://pixabay.com/photos/fiber-cable-wire-connection-4814456/"
+    }
   }
 ]
