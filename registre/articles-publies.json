@@ -8518,5 +8518,27 @@
       "auteur": "AS_Photography",
       "url": "https://pixabay.com/photos/digital-marketing-seo-google-1725340/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-1",
+    "slug": "vulcanforms-500-millions-dollars-usines-impression-3d-metal",
+    "title": "VulcanForms obtient 500 M$ pour trois usines d'impression 3D métal",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "VulcanForms – financement de 500 M$ (J.P. Morgan, Apollo) pour trois usines, 12 novembre 2026",
+    "sources": [
+      "https://3dprinting.com/news/vulcanforms-secures-500-million-to-build-three-new-factories-around-its-metal-3d-printing/",
+      "https://www.tctmagazine.com/vulcanforms-raises-500m-to-accelerate-manufacturing-expansion/",
+      "https://www.indexbox.io/blog/vulcanforms-raises-500-million-to-build-three-advanced-manufacturing-factories-and-advance-physical-ai/",
+      "https://pulse2.com/vulcanforms-500-million-financing-led-by-j-p-morgan-and-apollo-to-build-three-new-u-s-manufacturing-factories/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/vulcanforms-500-millions-dollars-usines-impression-3d-metal.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4373878",
+      "auteur": "InWay",
+      "url": "https://pixabay.com/photos/laser-cut-metal-sparks-laser-4373878/"
+    }
   }
 ]
