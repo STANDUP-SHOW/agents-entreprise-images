@@ -8939,5 +8939,58 @@
       "auteur": "yeiferr",
       "url": "https://pixabay.com/photos/computer-laptop-tech-blue-computer-4795762/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-hors-silicon-valley-2026-11-15",
+    "title": "5 startups américaines qui réussissent loin de la Silicon Valley",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : startups américaines qui réussissent hors de Californie",
+    "startups": [
+      {
+        "nom": "Finpilot",
+        "site": "finpilot.com"
+      },
+      {
+        "nom": "Erebor",
+        "site": "erebor.bank"
+      },
+      {
+        "nom": "Slingshot Insurance",
+        "site": "slingshotinsurance.com"
+      },
+      {
+        "nom": "Zippy",
+        "site": "getzippy.com"
+      },
+      {
+        "nom": "Hatz AI",
+        "site": "hatz.ai"
+      }
+    ],
+    "theme": "startups américaines qui réussissent hors de Californie",
+    "sources": [
+      "https://theaiinsider.tech/?p=54095",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/",
+      "https://cryptobriefing.com/erebor-bank-raise-15-billion-tech-startups/",
+      "https://coin360.com/news/erebor-bank-occ-approval-crypto-banking-shift",
+      "https://www.theblock.co/post/383533/banking-startup-erebor-350-million-4-billion-valuation-fdic-approval-axios",
+      "https://fintech.global/?p=261365",
+      "https://coverager.com/?p=253039",
+      "https://dallasinnovates.com/?p=293216",
+      "https://fintech.global/?p=260309",
+      "https://ventureburn.com/hatz-ai-raises-24m-expand-msp-ai-platform/",
+      "https://www.tokenpost.com/news/business/55687"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-hors-silicon-valley-2026-11-15.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "13553",
+      "auteur": "PublicDomainPictures",
+      "url": "https://pixabay.com/photos/street-west-virginia-town-small-13553/"
+    }
   }
 ]
