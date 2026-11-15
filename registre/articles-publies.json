@@ -9067,5 +9067,46 @@
       "auteur": "freestocks-photos",
       "url": "https://pixabay.com/photos/food-drinks-people-adult-alone-2940553/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "ia-sans-connexion-internet-agent-ia-hors-ligne-pme",
+    "title": "Une PME peut-elle faire fonctionner un agent IA sans connexion Internet ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : faire fonctionner un agent IA hors ligne, sans connexion Internet",
+    "question": "Une PME peut-elle faire fonctionner un agent IA sans connexion Internet ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://digitiz.fr/ia-locales/ (guide IA locales, usage sans connexion, 24/09/2026) ; https://zeydo.fr/local-ai (« Continuité même hors ligne », 15/11/2026)",
+    "solutions_comparees": [
+      "Ollama",
+      "LM Studio",
+      "Mistral AI",
+      "Nextcloud",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.blogdumoderateur.com/ia-cyber-budgets-10-chiffres-numerique-tpe-pme-2026/",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://digitiz.fr/ia-locales/",
+      "https://lmstudio.ai/docs/app/offline",
+      "https://ollama.com/pricing",
+      "https://docs.ollama.com/faq",
+      "https://docs.mistral.ai/fr/models/deployment/local-deployment",
+      "https://mistral.ai/pricing",
+      "https://docs.nextcloud.com/server/latest/admin_manual/ai/overview.html",
+      "https://nextcloud.com/pricing/",
+      "https://zeydo.fr/local-ai",
+      "https://zeydo.fr/box"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ia-sans-connexion-internet-agent-ia-hors-ligne-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8180076",
+      "auteur": "u_oly6hcjdky",
+      "url": "https://pixabay.com/photos/man-workman-industry-factory-8180076/"
+    }
   }
 ]
