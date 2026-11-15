@@ -8878,5 +8878,35 @@
       "auteur": "Cozendo",
       "url": "https://pixabay.com/photos/coffee-break-conference-women-1177540/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "parallel-systems-startup-americaine-fret-ferroviaire-autonome",
+    "title": "Parallel Systems : le fret ferroviaire autonome venu de Los Angeles",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Parallel Systems",
+    "startups": [
+      {
+        "nom": "Parallel Systems",
+        "site": "parallelsystems.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/parallel-systems-raises-100-million-series-c/amp/",
+      "https://railwaynews.net/parallel-systems-secures-100m-series-c-for-freight-rail.html",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-12-26/",
+      "https://runtimewire.com/article/parallel-systems-series-c-autonomous-freight-rail"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/parallel-systems-startup-americaine-fret-ferroviaire-autonome.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "821500",
+      "auteur": "fancycrave1",
+      "url": "https://pixabay.com/photos/train-sunset-tracks-railroad-821500/"
+    }
   }
 ]
