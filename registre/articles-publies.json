@@ -8603,5 +8603,36 @@
       "auteur": "markusspiske",
       "url": "https://pixabay.com/photos/code-html-internet-computer-web-1689066/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "hatz-ai-startup-americaine-ia-pme-via-infogerants",
+    "title": "Hatz AI : la startup qui vend l'IA aux PME par leurs infogérants",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Hatz AI",
+    "startups": [
+      {
+        "nom": "Hatz AI",
+        "site": "hatz.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-12-2026/",
+      "https://ventureburn.com/hatz-ai-raises-24m-expand-msp-ai-platform/",
+      "https://www.tokenpost.com/news/business/55687",
+      "https://pulse2.com/hatz-ai-profile-jimmy-hatzell-interview/amp/",
+      "https://www.lemondeinformatique.fr/actualites/lireamp-hatz-ai-lance-une-offre-d-iaaas-pour-les-pme-clientes-des-msp-92697.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/hatz-ai-startup-americaine-ia-pme-via-infogerants.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "849822",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/student-typing-keyboard-text-woman-849822/"
+    }
   }
 ]
