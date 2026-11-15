@@ -9147,5 +9147,43 @@
       "auteur": "Jo_Johnston",
       "url": "https://pixabay.com/photos/office-boardroom-meeting-table-1516329/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "garder-agent-ia-a-jour-process-changent-pme",
+    "title": "Comment garder un agent IA à jour quand les process de votre PME changent ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : maintenir un agent IA à jour quand les processus et les données évoluent",
+    "question": "Comment garder un agent IA à jour quand les process de votre PME changent ?",
+    "theme": "deploiement-integration",
+    "preuve_question": "https://zeydo.fr/blog (« Comment s'assurer qu'un agent IA reste à jour quand les processus et les données de l'entreprise évoluent ? », 15/11/2026)",
+    "solutions_comparees": [
+      "Microsoft Copilot Studio",
+      "Zapier Agents",
+      "Dust",
+      "Mistral AI",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.blogdumoderateur.com/ia-cyber-budgets-10-chiffres-numerique-tpe-pme-2026/",
+      "https://zeydo.fr/blog/comment-agent-ia-apprend-sameliore",
+      "https://learn.microsoft.com/en-us/microsoft-copilot-studio/knowledge-copilot-studio",
+      "https://zapier.com/pricing",
+      "https://docs.dust.tt/docs/user-documentation/getting-started/faq/troubleshooting-and-limitations/why-isnt-my-recently-updated-document-showing-in-agent-responses",
+      "https://dust.tt/home/pricing",
+      "https://mistral.ai/pricing",
+      "https://zeydo.fr/why-rent",
+      "https://zeydo.fr/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/garder-agent-ia-a-jour-process-changent-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "849810",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/whiteboard-man-presentation-write-849810/"
+    }
   }
 ]
