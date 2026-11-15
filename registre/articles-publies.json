@@ -8696,5 +8696,36 @@
       "auteur": "joffi",
       "url": "https://pixabay.com/photos/hacking-hacker-computer-internet-1685092/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "finpilot-startup-americaine-agents-ia-investisseurs-institutionnels",
+    "title": "Finpilot : des agents IA pour les investisseurs institutionnels",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Finpilot",
+    "startups": [
+      {
+        "nom": "Finpilot",
+        "site": "finpilot.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://theaiinsider.tech/?p=54095",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/",
+      "https://www.businesswire.com/news/home/20240222100404/en/",
+      "https://www.geekwire.com/2026/finpilot-raises-10m-for-ai-agents-that-handle-the-grunt-work-for-institutional-investors/",
+      "https://www.geekwire.com/2023/goodbye-ctrlf-ai-startup-aims-to-help-financial-analysts-scour-corporate-filings-with-chatbot-tool/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/finpilot-startup-americaine-agents-ia-investisseurs-institutionnels.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3033135",
+      "auteur": "harryloya",
+      "url": "https://pixabay.com/photos/computer-office-business-laptop-3033135/"
+    }
   }
 ]
