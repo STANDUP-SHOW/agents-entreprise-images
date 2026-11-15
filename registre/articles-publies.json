@@ -8908,5 +8908,36 @@
       "auteur": "fancycrave1",
       "url": "https://pixabay.com/photos/train-sunset-tracks-railroad-821500/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-blacksmith-integration-continue-facturee-minute",
+    "title": "Business model de Blacksmith : la CI facturée à la minute",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model Blacksmith",
+    "startups": [
+      {
+        "nom": "Blacksmith",
+        "site": "blacksmith.sh"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.blacksmith.sh/pricing",
+      "https://pulse2.com/blacksmith-raises-66-million-series-c-at-1-billion-valuation-to-expand-ci-infrastructure/amp/",
+      "https://valueaddvc.com/pulse/blacksmith-1b-valuation-66m-series-c-2026",
+      "https://inc42.com/buzz/peak-xv-leads-45-mn-bet-on-us-based-ai-code-testing-startup-blacksmith/",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-26-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-blacksmith-integration-continue-facturee-minute.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4795762",
+      "auteur": "yeiferr",
+      "url": "https://pixabay.com/photos/computer-laptop-tech-blue-computer-4795762/"
+    }
   }
 ]
