@@ -8788,5 +8788,35 @@
       "auteur": "standuppaddle",
       "url": "https://pixabay.com/photos/minneapolis-bridge-mississippi-2093809/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "zippy-startup-americaine-credit-maisons-prefabriquees",
+    "title": "Zippy : la fintech de Dallas qui finance les maisons préfabriquées",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Zippy",
+    "startups": [
+      {
+        "nom": "Zippy",
+        "site": "getzippy.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://dallasinnovates.com/?p=293216",
+      "https://fintech.global/?p=260309",
+      "https://pulse2.com/zippy-raises-20-million-series-c-from-saluda-grade-to-expand-manufactured-housing-finance-platform/",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-19-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/zippy-startup-americaine-credit-maisons-prefabriquees.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4521073",
+      "auteur": "Schluesseldienst",
+      "url": "https://pixabay.com/photos/house-keys-key-security-door-key-4521073/"
+    }
   }
 ]
