@@ -8758,5 +8758,35 @@
       "auteur": "12019",
       "url": "https://pixabay.com/photos/columbus-ohio-city-urban-buildings-1936114/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "slingshot-startup-americaine-assurance-integree-ia",
+    "title": "Slingshot : l'assureur de Minneapolis taillé pour l'assurance intégrée",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Slingshot Insurance",
+    "startups": [
+      {
+        "nom": "Slingshot Insurance",
+        "site": "slingshotinsurance.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fintech.global/?p=261365",
+      "https://aiweekly.co/alerts/slingshot-insurance-raises-27m-seed-to-automate-embedded-pc",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-26-26/",
+      "https://coverager.com/?p=253039"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/slingshot-startup-americaine-assurance-integree-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2093809",
+      "auteur": "standuppaddle",
+      "url": "https://pixabay.com/photos/minneapolis-bridge-mississippi-2093809/"
+    }
   }
 ]
