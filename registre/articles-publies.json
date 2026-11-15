@@ -8410,5 +8410,27 @@
       "auteur": "Surprising_Media",
       "url": "https://pixabay.com/photos/girls-jewelry-shop-outdoors-women-7922980/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-1",
+    "slug": "tesla-cybercab-precommandes-abonnement-299-dollars-robotaxi",
+    "title": "Tesla Cybercab : 29 990 dollars et 299 dollars par mois d'abonnement",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Tesla – ouverture des précommandes du Cybercab aux particuliers (29 990 $ + 299 $/mois), 13-14 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/",
+      "https://www.notateslaapp.com/news/5012/tesla-opens-orders-for-the-cybercab-for-personal-use-costs-29990-and-requires-a-299-monthly-subscription",
+      "https://www.engadget.com/2316848/tesla-starts-taking-cybercab-orders-for-personal-use/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/tesla-cybercab-precommandes-abonnement-299-dollars-robotaxi.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1840764",
+      "auteur": "12019",
+      "url": "https://pixabay.com/photos/los-angeles-california-city-urban-1840764/"
+    }
   }
 ]
