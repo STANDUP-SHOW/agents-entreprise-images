@@ -8848,5 +8848,35 @@
       "auteur": "IqbalStock",
       "url": "https://pixabay.com/photos/business-smartphone-hands-7304257/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "rox-startup-americaine-agents-ia-commerciaux",
+    "title": "Rox : la startup qui veut remplacer Salesforce par des agents IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Rox",
+    "startups": [
+      {
+        "nom": "Rox",
+        "site": "rox.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/",
+      "https://magica.com/news/rox-series-b-billion-valuation-enterprise-sales-agents",
+      "https://www.siliconreport.com/rox-raises-100-million-series-b-at-1-3-billion-valuation",
+      "https://finance.yahoo.com/news/sales-automation-startup-rox-ai-222550353.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/rox-startup-americaine-agents-ia-commerciaux.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1177540",
+      "auteur": "Cozendo",
+      "url": "https://pixabay.com/photos/coffee-break-conference-women-1177540/"
+    }
   }
 ]
