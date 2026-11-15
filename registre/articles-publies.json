@@ -8496,5 +8496,27 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/cockpit-pilot-people-men-airplane-2576889/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-1",
+    "slug": "nebuly-leve-21-millions-dollars-mesurer-valeur-agents-ia",
+    "title": "Nebuly lève 21 M$ pour mesurer la valeur réelle des agents IA",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Nebuly – série A de 21 M$ menée par Planven, 12 novembre 2026",
+    "sources": [
+      "https://tech.eu/2026/11/12/nebuly-raises-21m-series-a-to-turn-ai-investments-into-measurable-results",
+      "https://aiweekly.co/alerts/nebuly-raises-21m-series-a-to-measure-enterprise-ai-roi",
+      "https://www.thesaasnews.com/news/nebuly-raises-21m-series-a",
+      "https://pulse2.com/nebuly-21-million-series-a-funding-led-by-planven-to-expand-enterprise-ai-return-on-investment-platform/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/nebuly-leve-21-millions-dollars-mesurer-valeur-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1725340",
+      "auteur": "AS_Photography",
+      "url": "https://pixabay.com/photos/digital-marketing-seo-google-1725340/"
+    }
   }
 ]
