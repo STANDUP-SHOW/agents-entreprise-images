@@ -8432,5 +8432,26 @@
       "auteur": "12019",
       "url": "https://pixabay.com/photos/los-angeles-california-city-urban-1840764/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-1",
+    "slug": "elevenlabs-elevenai-prise-notes-reunions-dictee-equipes",
+    "title": "ElevenLabs lance ElevenAI, prise de notes et dictée pour les équipes",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "ElevenLabs – lancement de l'application ElevenAI (notes de réunion + dictée + ElevenAgent), 11-13 novembre 2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "https://www.digitaltrends.com/computing/elevenlabs-is-coming-for-your-meeting-notes-dictation-app-and-maybe-your-productivity-routine/",
+      "https://www.techbuzz.ai/articles/elevenlabs-launches-elevenai-meeting-notetaker-for-teams"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/elevenlabs-elevenai-prise-notes-reunions-dictee-equipes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6339362",
+      "auteur": "sarahblocks",
+      "url": "https://pixabay.com/photos/team-meeting-business-writing-6339362/"
+    }
   }
 ]
