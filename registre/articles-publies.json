@@ -9029,5 +9029,43 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/shoes-factory-man-workshop-labor-4672332/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-gerer-reseaux-sociaux-entreprise-pme",
+    "title": "Un agent IA peut-il gérer les réseaux sociaux d'une PME à votre place ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : agent IA et gestion des réseaux sociaux (community management)",
+    "question": "Un agent IA peut-il gérer les réseaux sociaux d'une PME à votre place ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.blogdumoderateur.com/ia-cyber-budgets-10-chiffres-numerique-tpe-pme-2026/ (France Num 2026 : 34 % des TPE-PME utilisent l'IA pour générer textes, voix ou images, 30/09/2026) ; https://zeydo.fr/blog (question « Agent IA et marketing », 15/11/2026)",
+    "solutions_comparees": [
+      "Buffer",
+      "Sprout Social",
+      "Agorapulse",
+      "Metricool",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.blogdumoderateur.com/ia-cyber-budgets-10-chiffres-numerique-tpe-pme-2026/",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.cnil.fr/fr/les-conseils-de-la-cnil-pour-mieux-maitriser-la-publication-de-photos-0",
+      "https://buffer.com/pricing",
+      "https://sproutsocial.com/pricing/",
+      "https://www.agorapulse.com/fr/tarifs/",
+      "https://metricool.com/pricing/",
+      "https://zeydo.fr/agents/social-media-assistant",
+      "https://zeydo.fr/agents/community-manager-marketing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-gerer-reseaux-sociaux-entreprise-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2940553",
+      "auteur": "freestocks-photos",
+      "url": "https://pixabay.com/photos/food-drinks-people-adult-alone-2940553/"
+    }
   }
 ]
