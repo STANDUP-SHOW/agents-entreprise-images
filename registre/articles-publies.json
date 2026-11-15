@@ -8453,5 +8453,26 @@
       "auteur": "sarahblocks",
       "url": "https://pixabay.com/photos/team-meeting-business-writing-6339362/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-1",
+    "slug": "jolimoi-liquidation-judiciaire-social-selling-beaute",
+    "title": "Jolimoi ferme : la liquidation d'une pépite du social selling beauté",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Jolimoi (Beauty Blend) – conversion de la sauvegarde en liquidation judiciaire, 9 novembre 2026",
+    "sources": [
+      "https://www.frenchweb.fr/breaking-news/jolimoi-ferme-apres-avoir-leve-plus-de-10-millions-d-euros/c9c2fc76-a562-4890-a05a-92d27ef72ca0",
+      "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202600531723",
+      "https://www.jonesday.com/en/practices/experience/2022/04/seventure-leads-7-million-series-a-financing-round-of-jolimoi"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/jolimoi-liquidation-judiciaire-social-selling-beaute.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2097507",
+      "auteur": "Bru-nO",
+      "url": "https://pixabay.com/photos/cosmetics-make-up-beauty-to-dye-2097507/"
+    }
   }
 ]
