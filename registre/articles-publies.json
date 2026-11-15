@@ -8540,5 +8540,26 @@
       "auteur": "InWay",
       "url": "https://pixabay.com/photos/laser-cut-metal-sparks-laser-4373878/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-1",
+    "slug": "sierra-poppy-protocole-agents-ia-personnels-shopify-meta-muse",
+    "title": "Poppy 1.0 : Sierra et Meta ouvrent les sites marchands aux agents IA",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Sierra – publication du Personal Agent Protocol (Poppy) 1.0, Shopify et Meta Muse, 13 novembre 2026",
+    "sources": [
+      "https://sierra.ai/blog/releasing-poppy",
+      "https://thenextweb.com/news/sierra-poppy-1-0-shopify-meta-muse-personal-agents",
+      "https://runtimewire.com/article/sierra-ships-poppy-1-0-and-puts-personal-agents-on-every-shopify-store"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sierra-poppy-protocole-agents-ia-personnels-shopify-meta-muse.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8576920",
+      "auteur": "nehasharma01",
+      "url": "https://pixabay.com/photos/design-packaging-package-deliver-8576920/"
+    }
   }
 ]
