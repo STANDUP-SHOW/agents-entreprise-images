@@ -8665,5 +8665,36 @@
       "auteur": "HalcyonMarine",
       "url": "https://pixabay.com/photos/assistant-office-assistant-3579026/"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "traversal-startup-americaine-ia-pannes-logicielles",
+    "title": "Traversal : la startup new-yorkaise qui confie les pannes à l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Traversal",
+    "startups": [
+      {
+        "nom": "Traversal",
+        "site": "traversal.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://cryptobriefing.com/traversal-raises-120-million-1-billion-valuation/",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/",
+      "https://dealroom.co/news/169321-traversal-raises-120m-at-1b-valuation-to-automate-incident-response/",
+      "https://traversal.com/blog/american-express-announcement",
+      "https://eur-lex.europa.eu/eli/reg/2022/2554/oj"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/traversal-startup-americaine-ia-pannes-logicielles.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1685092",
+      "auteur": "joffi",
+      "url": "https://pixabay.com/photos/hacking-hacker-computer-internet-1685092/"
+    }
   }
 ]
