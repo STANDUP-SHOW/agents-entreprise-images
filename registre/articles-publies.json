@@ -9227,5 +9227,26 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/car-driving-man-person-vehicle-1844733/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-1",
+    "slug": "apple-openevidence-etude-ia-sante-200000-utilisateurs-iphone",
+    "title": "Apple et OpenEvidence lancent une étude IA santé sur 200 000 personnes",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Apple / OpenEvidence – étude IA santé 200 000 participants",
+    "sources": [
+      "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "https://mlq.ai/news/apple-launches-a-health-ai-study-app-built-with-openevidence-seeking-up-to-200000-us-iphone-users/",
+      "https://startupfortune.com/apple-launches-a-study-app-with-openevidence-to-see-how-people-use-ai-for-health/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/apple-openevidence-etude-ia-sante-200000-utilisateurs-iphone.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "10514568",
+      "auteur": "u_fzv8dg70p8",
+      "url": "https://pixabay.com/photos/doctor-medication-consultation-10514568/"
+    }
   }
 ]
