@@ -9404,5 +9404,35 @@
       "auteur": "Mingo123",
       "url": "https://pixabay.com/photos/nuclear-power-plant-nuclear-power-2854866/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "reflect-orbital-startup-americaine-lumiere-solaire-satellites",
+    "title": "Reflect Orbital : des satellites miroirs pour vendre du soleil la nuit",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Reflect Orbital",
+    "startups": [
+      {
+        "nom": "Reflect Orbital",
+        "site": "reflectorbital.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techfundingnews.com/?p=73862",
+      "https://www.reflectorbital.com/press/reflect-orbital-secures-20-million-in-series-a-funding-led-by-lux-capital",
+      "https://techcrunch.com/2024/09/24/sequoias-first-space-investment-since-spacex-is-sunlight-seller-reflect-orbital",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/reflect-orbital-startup-americaine-lumiere-solaire-satellites.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5022408",
+      "auteur": "10512837",
+      "url": "https://pixabay.com/photos/solar-power-plant-blue-hour-moon-5022408/"
+    }
   }
 ]
