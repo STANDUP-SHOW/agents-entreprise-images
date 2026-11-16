@@ -9523,5 +9523,35 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/woman-engineer-tech-electronics-8499959/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "coframe-startup-americaine-sites-web-optimises-ia",
+    "title": "Coframe : des agents IA qui testent et améliorent les sites en continu",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Coframe",
+    "startups": [
+      {
+        "nom": "Coframe",
+        "site": "coframe.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.martechcube.com/?p=326268",
+      "https://www.unite.ai/id/coframe-raises-25m-series-a-bringing-total-funding-to-35m/",
+      "https://techstartups.com/2026/11/10/startup-funding-news-today-november-10-2026-blackletter-nominal-project-omega-sumary-vessel-more",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/coframe-startup-americaine-sites-web-optimises-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5020800",
+      "auteur": "Klas_lu",
+      "url": "https://pixabay.com/photos/desk-meeting-computer-technology-5020800/"
+    }
   }
 ]
