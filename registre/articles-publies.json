@@ -9644,5 +9644,31 @@
       "auteur": "blickpixel",
       "url": "https://pixabay.com/photos/switch-it-server-server-cabinet-838385/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "general-medicine-startup-americaine-magasin-de-sante-en-ligne",
+    "title": "General Medicine : le magasin en ligne qui affiche le prix des soins",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Série B de 120 M$ menée par a16z (6 octobre 2026)",
+    "startups": [
+      "General Medicine"
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.webull.com/news/15701962984260608",
+      "https://www.digitalhealthnews.com/general-medicine-raises-120m-to-build-healthcare-store-",
+      "https://thehealthcaretechnologyreport.com/?p=23953"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/general-medicine-startup-americaine-magasin-de-sante-en-ligne.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3457027",
+      "auteur": "marijana1",
+      "url": "https://pixabay.com/photos/doctor-doctors-office-health-3457027/"
+    }
   }
 ]
