@@ -9865,5 +9865,43 @@
       "auteur": "HarinathR",
       "url": "https://pixabay.com/photos/evaluation-exam-passed-list-1516644/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "ou-sont-stockees-donnees-memoire-agent-ia-pme",
+    "title": "Où sont stockées les données et la mémoire d'un agent IA dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : lieu et durée de conservation des données et de la mémoire d'un agent IA",
+    "question": "Où sont stockées les données utilisées et produites par un agent IA, et sa mémoire ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://zeydo.fr/blog",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot",
+      "Claude",
+      "Mistral AI",
+      "Dust",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.cnil.fr/fr/passer-laction/les-durees-de-conservation-des-donnees",
+      "https://learn.microsoft.com/fr-fr/copilot/microsoft-365/microsoft-365-copilot-privacy",
+      "https://support.claude.com/en/articles/11817273-how-does-memory-work",
+      "https://support.claude.com/en/articles/10440198-configure-custom-data-retention-controls-for-enterprise-plans",
+      "https://claude.com/pricing",
+      "https://help.mistral.ai/fr/articles/396497-how-do-you-handle-my-data-when-using-the-memories-feature",
+      "https://mistral.ai/pricing",
+      "https://dust.tt/home/security",
+      "https://zeydo.fr/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ou-sont-stockees-donnees-memoire-agent-ia-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5825489",
+      "auteur": "Pottlicht",
+      "url": "https://pixabay.com/photos/hdd-hard-drive-hardware-electronics-5825489/"
+    }
   }
 ]
