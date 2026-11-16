@@ -9584,5 +9584,36 @@
       "auteur": "stevepb",
       "url": "https://pixabay.com/photos/tax-forms-income-business-468440/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-numeral-conformite-fiscale-a-la-declaration",
+    "title": "Business model de Numeral : la taxe sur les ventes facturée à l'acte",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model Numeral",
+    "startups": [
+      {
+        "nom": "Numeral",
+        "site": "numeral.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.numeral.com/blog/series-c",
+      "https://www.numeral.com/pricing",
+      "https://techcrunch.com/2025/09/18/numeral-raises-35m-to-automate-sales-tax-with-ai/",
+      "https://fintech.global/2026/09/24/numerals-100m-series-c-bets-on-sales-tax-complexity/",
+      "https://pulse2.com/numeral-raises-100-million-series-c/amp/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-numeral-conformite-fiscale-a-la-declaration.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "723917",
+      "auteur": "Edar",
+      "url": "https://pixabay.com/photos/calculator-calculation-assurance-723917/"
+    }
   }
 ]
