@@ -9829,5 +9829,41 @@
       "auteur": "PeterpenPhoto",
       "url": "https://pixabay.com/photos/meeting-conference-teamwork-group-7564969/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "tester-fiabilite-agent-ia-avant-deploiement-pme",
+    "title": "Comment tester la fiabilité d'un agent IA avant de le déployer dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : tester la fiabilité d'un agent IA avant déploiement",
+    "question": "Quels critères et quelle méthode pour tester la fiabilité d'un agent IA avant de le déployer ?",
+    "theme": "deploiement-integration",
+    "preuve_question": "https://www.lemondeinformatique.fr/actualites/lire-le-framework-assert-de-microsoft-evalue-les-agents-ia-100437.html",
+    "solutions_comparees": [
+      "Microsoft Copilot Studio",
+      "Braintrust",
+      "Giskard",
+      "LangWatch",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.lemondeinformatique.fr/actualites/lire-le-framework-assert-de-microsoft-evalue-les-agents-ia-100437.html",
+      "https://cftl.fr/wp-content/uploads/2026/06/MOEBIUS-11h30-Tester-les-agents-IA-Bruno-Legeard.pptx.pdf",
+      "https://learn.microsoft.com/fr-fr/microsoft-copilot-studio/analytics-agent-evaluation-create",
+      "https://www.braintrust.dev/pricing",
+      "https://www.giskard.ai/",
+      "https://langwatch.ai/pricing",
+      "https://zeydo.fr/temp-agency"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/tester-fiabilite-agent-ia-avant-deploiement-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1516644",
+      "auteur": "HarinathR",
+      "url": "https://pixabay.com/photos/evaluation-exam-passed-list-1516644/"
+    }
   }
 ]
