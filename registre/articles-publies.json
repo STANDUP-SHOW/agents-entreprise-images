@@ -9696,5 +9696,57 @@
       "auteur": "goldmanandyoung",
       "url": "https://pixabay.com/photos/bottle-production-drink-glass-3666419/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-energie-ia-2026-11-16",
+    "title": "5 startups américaines qui réinventent l'énergie à l'ère de l'IA",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : startups qui réinventent l'énergie à l'ère de l'IA",
+    "startups": [
+      {
+        "nom": "Base Power",
+        "site": "basepowercompany.com"
+      },
+      {
+        "nom": "Torus",
+        "site": "torus.co"
+      },
+      {
+        "nom": "Aalo Atomics",
+        "site": "aalo.com"
+      },
+      {
+        "nom": "Realta Fusion",
+        "site": "realtafusion.com"
+      },
+      {
+        "nom": "Project Omega",
+        "site": "projectomega.com"
+      }
+    ],
+    "theme": "startups qui réinventent l'énergie à l'ère de l'IA",
+    "sources": [
+      "https://energycapitalhtx.com/amp/base-power-1b-series-d-2677650696",
+      "https://electrek.co/2025/10/08/base-power-raises-1b-to-reinvent-texas-grid-with-home-batteries/",
+      "https://thenextweb.com/news/torus-foundry-500m-magnetar-modular-ai-inference",
+      "https://world-nuclear-news.org/articles/criticality-for-fourth-us-microreactor-meets-deadline",
+      "https://techcrunch.com/2025/08/19/aalo-atomics-raises-100m-to-build-a-microreactor-and-data-center-together",
+      "https://pulse2.com/realta-fusion-secures-9-5-million-growth-capital-facility-from-silicon-valley-bank/amp/",
+      "https://pulse2.com/realta-36-million-series-a-closed-for-fusion-energy-platform/amp/",
+      "https://www.wisconsintechnologycouncil.com/newsroom/biztimes-realta-fusion-partnering-with-madison-utility-company-for-development-of-commercial-fusion-power-plant",
+      "https://techfundingnews.com/project-omega-raises-80m-from-b-capital-to-turn-americas-used-nuclear-fuel-into-power/",
+      "https://www.neimagazine.com/?p=102281"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-energie-ia-2026-11-16.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "532720",
+      "auteur": "Nikiko",
+      "url": "https://pixabay.com/photos/power-lines-fields-sunset-twilight-532720/"
+    }
   }
 ]
