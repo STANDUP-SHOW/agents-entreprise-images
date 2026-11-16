@@ -9434,5 +9434,35 @@
       "auteur": "10512837",
       "url": "https://pixabay.com/photos/solar-power-plant-blue-hour-moon-5022408/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "torus-startup-americaine-stockage-energie-inertie",
+    "title": "Torus : la startup de l'Utah qui stocke l'énergie et héberge l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Torus",
+    "startups": [
+      {
+        "nom": "Torus",
+        "site": "torus.co"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://thenextweb.com/news/torus-foundry-500m-magnetar-modular-ai-inference",
+      "https://pulse2.com/torus-500-million-financing-supports-foundry-modular-ai-infrastructure-launch/amp/",
+      "https://torus.co/news/torus-raises-200-million-from-magnetar-deployment-of-modular-power-plants",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/torus-startup-americaine-stockage-energie-inertie.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "219926",
+      "auteur": "PublicDomainPictures",
+      "url": "https://pixabay.com/photos/hydro-lines-electrical-generate-219926/"
+    }
   }
 ]
