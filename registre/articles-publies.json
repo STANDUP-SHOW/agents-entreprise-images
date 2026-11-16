@@ -9354,5 +9354,26 @@
       "auteur": "tstokes",
       "url": "https://pixabay.com/photos/networking-computers-2652991/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-1",
+    "slug": "digital-fairness-act-agents-ia-service-client-humain-achats",
+    "title": "Digital Fairness Act : ce que Bruxelles impose aux agents IA",
+    "category_slug": "agents-ia",
+    "mode": "original",
+    "evenement": "Proposition de Digital Fairness Act par la Commission européenne (11/11/2026) : droit à un humain et réglages pour agents d'achat",
+    "sources": [
+      "https://itsocial.fr/cybersecurite/cybersecurite-articles/relation-client-le-digital-fairness-act-impose-des-humains-et-des-reglages-aux-agents-dia/",
+      "https://www.aoshearman.com/en/insights/ao-shearman-on-data/digital-fairness-act-the-european-commissions-proposal",
+      "https://www.macg.co/services/2026/11/digital-fairness-act-dfa-bruxelles-veut-mettre-fin-aux-petites-arnaques-qui-rapportent-gros-312329"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/digital-fairness-act-agents-ia-service-client-humain-achats.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2557578",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/wall-people-woman-girl-hair-2557578/"
+    }
   }
 ]
