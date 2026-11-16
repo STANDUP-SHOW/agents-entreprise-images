@@ -9312,5 +9312,26 @@
       "auteur": "mslclicks",
       "url": "https://pixabay.com/photos/ships-ocean-sea-vessels-6291071/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-1",
+    "slug": "qwen4-max-alibaba-cout-tache-agents-ia-baisse-62-pourcent",
+    "title": "Qwen4-Max : Alibaba divise par 2,6 le coût par tâche de ses agents IA",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Alibaba – lancement de Qwen4-Max – coût par tâche -62 %",
+    "sources": [
+      "https://shiftdelete.net/en/qwen4-max-launch",
+      "https://startupfortune.com/alibabas-qwen4-max-beats-qwen38-max-with-half-the-tokens-and-a-62-lower-cost-per-task/",
+      "https://artificialanalysis.ai/models/qwen4-max"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/qwen4-max-alibaba-cout-tache-agents-ia-baisse-62-pourcent.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2789153",
+      "auteur": "stevepb",
+      "url": "https://pixabay.com/photos/savings-budget-investment-money-2789153/"
+    }
   }
 ]
