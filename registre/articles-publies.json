@@ -9375,5 +9375,34 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/wall-people-woman-girl-hair-2557578/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "project-omega-startup-americaine-recyclage-combustible-nucleaire",
+    "title": "Project Omega : la startup qui recycle le combustible nucléaire usé",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Project Omega",
+    "startups": [
+      {
+        "nom": "Project Omega",
+        "site": "projectomega.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techfundingnews.com/project-omega-raises-80m-from-b-capital-to-turn-americas-used-nuclear-fuel-into-power/",
+      "https://www.neimagazine.com/?p=102281",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/project-omega-startup-americaine-recyclage-combustible-nucleaire.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2854866",
+      "auteur": "Mingo123",
+      "url": "https://pixabay.com/photos/nuclear-power-plant-nuclear-power-2854866/"
+    }
   }
 ]
