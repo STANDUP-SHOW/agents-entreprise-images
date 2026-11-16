@@ -9903,5 +9903,43 @@
       "auteur": "Pottlicht",
       "url": "https://pixabay.com/photos/hdd-hard-drive-hardware-electronics-5825489/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "accueillir-nouveau-salarie-agent-ia-onboarding-pme",
+    "title": "Un agent IA peut-il préparer l'arrivée d'un nouveau salarié dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : confier l'onboarding d'un nouveau salarié à un agent IA",
+    "question": "Un agent IA peut-il préparer l'arrivée et l'intégration d'un nouveau salarié ?",
+    "theme": "rh",
+    "preuve_question": "https://www.the-intelligence-academy.com/blog/automatiser-onboarding-nouveaux-salaries-ia",
+    "solutions_comparees": [
+      "BambooHR",
+      "Rippling",
+      "Eurécia",
+      "Factorial",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://corporate.apec.fr/files/live/sites/corporate/files/Nos%20etudes/PDF/Perception%20des%20RH%20par%20les%20cadres%20et%20les%20managers%202026.pdf",
+      "https://entreprendre.service-public.gouv.fr/vosdroits/F23107",
+      "https://www.bamboohr.com/pricing/",
+      "https://www.rippling.com/fr-FR/produits/rh/sirh",
+      "https://www.eurecia.com/logiciel-onboarding",
+      "https://www.eurecia.com/tarifs",
+      "https://factorial.fr/onboarding-et-offboarding-employes",
+      "https://factorial.fr/tarifs",
+      "https://zeydo.fr/agents/agent-onboarding"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/accueillir-nouveau-salarie-agent-ia-onboarding-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4835116",
+      "auteur": "styles66",
+      "url": "https://pixabay.com/photos/interview-deal-business-handshake-4835116/"
+    }
   }
 ]
