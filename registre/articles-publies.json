@@ -9754,5 +9754,42 @@
       "auteur": "Nikiko",
       "url": "https://pixabay.com/photos/power-lines-fields-sunset-twilight-532720/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-comparer-devis-fournisseurs-achats-pme",
+    "title": "Un agent IA peut-il comparer les devis fournisseurs et préparer les achats d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : agent IA pour demander et comparer les devis fournisseurs",
+    "question": "Un agent IA peut-il demander, comparer les devis fournisseurs et préparer les achats d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://kpmg.com/fr/fr/articles/achat-responsable/maximiser-performance-achats-intelligence-artificielle.html",
+    "solutions_comparees": [
+      "Zip",
+      "Fairmarkit",
+      "Mercanis",
+      "Weproc",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://kpmg.com/fr/fr/articles/achat-responsable/maximiser-performance-achats-intelligence-artificielle.html",
+      "https://mybusinessfuture.com/fr/digital-procurement-comment-lia-transforme-les-achats-dans-les-pme/",
+      "https://zip.com/",
+      "https://www.fairmarkit.com/",
+      "https://mercanis.com/",
+      "https://www.weproc.com/fr/tarif/",
+      "https://zeydo.fr/agents/comparateur-fournisseurs"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-comparer-devis-fournisseurs-achats-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "408216",
+      "auteur": "delphinmedia",
+      "url": "https://pixabay.com/photos/contract-consultation-office-408216/"
+    }
   }
 ]
