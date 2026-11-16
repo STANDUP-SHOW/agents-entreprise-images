@@ -9464,5 +9464,35 @@
       "auteur": "PublicDomainPictures",
       "url": "https://pixabay.com/photos/hydro-lines-electrical-generate-219926/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "daylight-startup-americaine-cybersecurite-agents-ia",
+    "title": "Daylight : la startup new-yorkaise qui marie agents IA et experts cyber",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Daylight",
+    "startups": [
+      {
+        "nom": "Daylight",
+        "site": "daylight.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://am.gs.com/en-gb/advisors/news/press-release/2026/daylight-series-b-investment-goldman-sachs-alternatives",
+      "https://securitybrief.com.au/story/daylight-raises-usd-80-million-to-scale-ai-security",
+      "https://www.ynetnews.com/business/article/rk7be5gcze",
+      "https://siliconangle.com/2025/11/04/daylight-security-raises-33m-expand-ai-driven-managed-detection-response/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/daylight-startup-americaine-cybersecurite-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "583923",
+      "auteur": "doki7",
+      "url": "https://pixabay.com/photos/programming-code-development-web-583923/"
+    }
   }
 ]
