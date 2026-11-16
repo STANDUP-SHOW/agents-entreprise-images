@@ -9185,5 +9185,26 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/whiteboard-man-presentation-write-849810/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-1",
+    "slug": "maileva-cyberattaque-22-millions-personnes-donnees-volees-la-poste",
+    "title": "Cyberattaque Maileva : les adresses de 22 millions de personnes volées",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Maileva (Docaposte) – cyberattaque – 22 millions de personnes",
+    "sources": [
+      "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html",
+      "https://www.cyberattaque.org/maileva-docaposte-la-poste-cyberattaque/",
+      "https://www.frenchweb.fr/breaking-news/cyberattaque-chez-maileva-les-coordonnees-de-22-millions-de-personnes-derobees/4f07ff8b-28a7-4852-a72e-4c9997b0f385"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/maileva-cyberattaque-22-millions-personnes-donnees-volees-la-poste.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6134806",
+      "auteur": "webandi",
+      "url": "https://pixabay.com/photos/envelopes-letters-wooden-stamp-6134806/"
+    }
   }
 ]
