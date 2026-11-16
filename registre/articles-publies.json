@@ -9206,5 +9206,26 @@
       "auteur": "webandi",
       "url": "https://pixabay.com/photos/envelopes-letters-wooden-stamp-6134806/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-1",
+    "slug": "uber-fireworks-ai-piratage-permis-chauffeurs-sous-traitant-ia",
+    "title": "Uber : des permis de chauffeurs volés via son prestataire Fireworks AI",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Uber / Fireworks AI – vol de données de permis de chauffeurs",
+    "sources": [
+      "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "https://startupfortune.com/hackers-took-uber-drivers-license-data-through-ai-vendor-fireworks-ai/",
+      "https://thenextweb.com/news/uber-drivers-licence-data-stolen-in-fireworks-ai-hack"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/uber-fireworks-ai-piratage-permis-chauffeurs-sous-traitant-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1844733",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/car-driving-man-person-vehicle-1844733/"
+    }
   }
 ]
