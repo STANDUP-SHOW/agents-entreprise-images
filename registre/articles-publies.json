@@ -9615,5 +9615,34 @@
       "auteur": "Edar",
       "url": "https://pixabay.com/photos/calculator-calculation-assurance-723917/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "sentra-startup-americaine-securite-des-donnees-agents-ia",
+    "title": "Sentra : protéger les données des entreprises face aux agents IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Sentra",
+    "startups": [
+      {
+        "nom": "Sentra",
+        "site": "sentra.io"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://siliconangle.com/?p=852789",
+      "https://bankinfosecurity.com/sentra-raises-150m-to-link-ai-agents-data-identity-a-33313",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sentra-startup-americaine-securite-des-donnees-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "838385",
+      "auteur": "blickpixel",
+      "url": "https://pixabay.com/photos/switch-it-server-server-cabinet-838385/"
+    }
   }
 ]
