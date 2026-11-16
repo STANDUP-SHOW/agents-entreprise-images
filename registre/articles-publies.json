@@ -9269,5 +9269,26 @@
       "auteur": "sergeitokmakov",
       "url": "https://pixabay.com/photos/stock-trading-investing-stock-market-6525084/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-1",
+    "slug": "kindo-leve-30-millions-dollars-centre-controle-agents-ia",
+    "title": "Kindo lève 30 M$ pour devenir la tour de contrôle des agents IA",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Kindo – capital de croissance – 30 M$",
+    "sources": [
+      "https://www.kindo.ai/resources/kindo-raises-57m-ai-agent-management",
+      "https://www.thesaasnews.com/news/kindo-raises-30m-growth-capital/",
+      "https://techstartups.com/2026/11/13/startup-funding-news-today-november-13-2026-mirendil-langchain-luminal-kindo-q-ctrl-more/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/kindo-leve-30-millions-dollars-centre-controle-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4922421",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-engineering-broadcast-4922421/"
+    }
   }
 ]
