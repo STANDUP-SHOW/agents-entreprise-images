@@ -9333,5 +9333,26 @@
       "auteur": "stevepb",
       "url": "https://pixabay.com/photos/savings-budget-investment-money-2789153/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-1",
+    "slug": "cloudflare-kitesurf-navigateur-agents-ia-open-source",
+    "title": "Cloudflare ouvre le code de Kitesurf, son navigateur pour agents IA",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Cloudflare – Kitesurf open source – navigateur pour agents IA",
+    "sources": [
+      "https://blog.cloudflare.com/kitesurf-open-source/",
+      "https://linuxiac.com/cloudflare-open-sources-kitesurf-its-lightweight-browser-engine-for-ai-agents/",
+      "https://aiweekly.co/alerts/cloudflare-open-sources-kitesurf-browser-engine-for-ai-agents"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/cloudflare-kitesurf-navigateur-agents-ia-open-source.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2652991",
+      "auteur": "tstokes",
+      "url": "https://pixabay.com/photos/networking-computers-2652991/"
+    }
   }
 ]
