@@ -9791,5 +9791,43 @@
       "auteur": "delphinmedia",
       "url": "https://pixabay.com/photos/contract-consultation-office-408216/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "revoir-fiches-de-poste-salaries-agent-ia-pme",
+    "title": "Faut-il revoir les fiches de poste des salariés quand un agent IA reprend leurs tâches ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : fiches de poste des salariés dont les tâches passent à un agent IA",
+    "question": "Faut-il redéfinir les fiches de poste des salariés dont les tâches sont confiées à un agent IA ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://paperjam.lu/article/ce-que-dit-lanalyse-de-75-millions-doffres-demploi-par-le-liser",
+    "solutions_comparees": [
+      "Workday Skills Cloud",
+      "Lattice",
+      "Lucca",
+      "Factorial",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://paperjam.lu/article/ce-que-dit-lanalyse-de-75-millions-doffres-demploi-par-le-liser",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.justice.fr/fiche/modification-contrat-travail-salarie",
+      "https://code.travail.gouv.fr/fiche-ministere-travail/la-modification-du-contrat-de-travail",
+      "https://code.travail.gouv.fr/code-du-travail/l6321-1",
+      "https://lattice.com/pricing",
+      "https://www.lucca.fr/tarifs",
+      "https://factorial.fr/mentions-legales",
+      "https://zeydo.fr/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/revoir-fiches-de-poste-salaries-agent-ia-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7564969",
+      "auteur": "PeterpenPhoto",
+      "url": "https://pixabay.com/photos/meeting-conference-teamwork-group-7564969/"
+    }
   }
 ]
