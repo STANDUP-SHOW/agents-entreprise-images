@@ -9670,5 +9670,31 @@
       "auteur": "marijana1",
       "url": "https://pixabay.com/photos/doctor-doctors-office-health-3457027/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "tutor-intelligence-startup-americaine-robots-usines-entrepots",
+    "title": "Tutor Intelligence : les robots d'usine facturés à l'heure",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Série B de 75 M$ menée par a16z (2 novembre 2026)",
+    "startups": [
+      "Tutor Intelligence"
+    ],
+    "theme": null,
+    "sources": [
+      "https://thenextweb.com/news/tutor-intelligence-75m-series-b-a16z-robot-workers",
+      "https://roboticsandautomationnews.com/2026/11/03/tutor-intelligence-raises-75-million-to-scale-robot-workforce/106645/",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/tutor-intelligence-startup-americaine-robots-usines-entrepots.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3666419",
+      "auteur": "goldmanandyoung",
+      "url": "https://pixabay.com/photos/bottle-production-drink-glass-3666419/"
+    }
   }
 ]
