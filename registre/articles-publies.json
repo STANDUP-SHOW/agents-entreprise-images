@@ -9655,7 +9655,10 @@
     "mode": "original",
     "evenement": "Série B de 120 M$ menée par a16z (6 octobre 2026)",
     "startups": [
-      "General Medicine"
+      {
+        "nom": "General Medicine",
+        "site": "generalmedicine.co"
+      }
     ],
     "theme": null,
     "sources": [
@@ -9681,7 +9684,10 @@
     "mode": "original",
     "evenement": "Série B de 75 M$ menée par a16z (2 novembre 2026)",
     "startups": [
-      "Tutor Intelligence"
+      {
+        "nom": "Tutor Intelligence",
+        "site": "tutorintelligence.com"
+      }
     ],
     "theme": null,
     "sources": [
