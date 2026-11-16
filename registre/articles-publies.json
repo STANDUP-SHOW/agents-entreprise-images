@@ -9494,5 +9494,34 @@
       "auteur": "doki7",
       "url": "https://pixabay.com/photos/programming-code-development-web-583923/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "nidus-startup-americaine-robotique-usines-defense",
+    "title": "Nidus : la startup new-yorkaise qui forme des robots pour la défense",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Nidus",
+    "startups": [
+      {
+        "nom": "Nidus",
+        "site": "nidus.tech"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.upstartsmedia.com/p/nidus-ai-robotics-raises-30m",
+      "https://www.alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-10-2026/",
+      "https://nidus.tech"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/nidus-startup-americaine-robotique-usines-defense.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8499959",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/woman-engineer-tech-electronics-8499959/"
+    }
   }
 ]
