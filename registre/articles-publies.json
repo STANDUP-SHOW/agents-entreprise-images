@@ -9290,5 +9290,27 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-engineering-broadcast-4922421/"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "routine": "redacteur-quotidien-1",
+    "slug": "drogue-leve-20-millions-dollars-data-centers-flottants-energie-oceans",
+    "title": "Drogue lève 20 M$ pour des data centers flottants chauffés par l'océan",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Drogue – levée de 20 M$ – data centers flottants OTEC",
+    "sources": [
+      "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "https://runtimewire.com/article/drogue-raises-20m-ocean-powered-floating-data-centers",
+      "https://mlq.ai/news/drogue-raises-20-million-to-power-floating-ai-data-centers-with-the-oceans-heat/",
+      "https://xenospectrum.com/en/drogue-ocean-thermal-ai-data-center/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/drogue-leve-20-millions-dollars-data-centers-flottants-energie-oceans.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6291071",
+      "auteur": "mslclicks",
+      "url": "https://pixabay.com/photos/ships-ocean-sea-vessels-6291071/"
+    }
   }
 ]
