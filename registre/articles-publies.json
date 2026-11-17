@@ -10006,5 +10006,27 @@
       "auteur": "martinhurlebaus",
       "url": "https://pixabay.com/photos/highway-road-freeway-traffic-trees-5960578/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-1",
+    "slug": "corma-leve-125-millions-dollars-licorne-ia-cyberdefense",
+    "title": "Corma lève 125 millions de dollars, licorne de la cyberdéfense IA",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Corma – série A – 125 M$ – valorisation 1 Md$",
+    "sources": [
+      "https://www.financialcontent.com/article/bizwire-2026-11-16-corma-raises-125m-series-a-at-1b-valuation-to-scale-its-frontier-foundation-model-for-cyber-defense-as-fortune-500-adoption-of-its-models-surges",
+      "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "https://siliconangle.com/2026/11/16/corma-raises-125m-to-train-cybersecurity-optimized-foundation-models/",
+      "https://ventureburn.com/corma-raises-125m-defensive-cybersecurity-ai/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/corma-leve-125-millions-dollars-licorne-ia-cyberdefense.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1857236",
+      "auteur": "3844328",
+      "url": "https://pixabay.com/photos/programming-computer-environment-1857236/"
+    }
   }
 ]
