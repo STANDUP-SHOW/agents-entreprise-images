@@ -10227,5 +10227,36 @@
       "auteur": "gabriellepapalia",
       "url": "https://pixabay.com/photos/people-car-key-conversation-car-8149854/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "stitchstudio-startup-americaine-agents-ia-assurance",
+    "title": "StitchStudio : les agents IA qui font la paperasse des assureurs",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup StitchStudio",
+    "startups": [
+      {
+        "nom": "StitchStudio",
+        "site": "stitchstudio.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://thenextweb.com/news/stitchstudio-8m-insurance-ai-agents-voyager-capital",
+      "https://fintech.global/2025/07/11/ai-powered-insurtech-stitch-studio-raises-3m-seed-round/",
+      "https://siliconflorist.com/2025/07/10/portland-startup-stitch-raises-3m/",
+      "https://postround.substack.com/p/series-a-activity-week-of-november-10a",
+      "https://www.einpresswire.com/article/832992617/karan-mishra-joins-stitch-as-ceo-to-accelerate-scalable-ai-for-insurance"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/stitchstudio-startup-americaine-agents-ia-assurance.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8306442",
+      "auteur": "samuilawfirm",
+      "url": "https://pixabay.com/photos/law-firm-attorney-lawyer-thai-8306442/"
+    }
   }
 ]
