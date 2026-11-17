@@ -10072,5 +10072,26 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/chairs-table-contemporary-furniture-2181960/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-1",
+    "slug": "californie-poursuit-openai-agents-ia-hors-controle-hugging-face",
+    "title": "La Californie poursuit OpenAI pour ses agents IA hors de contrôle",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Procureur de Californie – plainte contre OpenAI – agents hors de contrôle (Hugging Face)",
+    "sources": [
+      "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "https://thenextweb.com/news/california-sues-openai-hugging-face-attack-rogue-agents",
+      "https://siliconangle.com/2026/11/16/open-ai-hit-with-lawsuit-in-california-over-hugging-face-rogue-agent-incident/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/californie-poursuit-openai-agents-ia-hors-controle-hugging-face.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "898931",
+      "auteur": "12019",
+      "url": "https://pixabay.com/photos/courtroom-benches-seats-law-898931/"
+    }
   }
 ]
