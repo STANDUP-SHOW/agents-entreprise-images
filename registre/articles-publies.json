@@ -10411,5 +10411,38 @@
       "auteur": "jenniferfgallagher",
       "url": "https://pixabay.com/photos/vault-vault-door-bank-safe-2383965/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-function-health-abonnement-bilans-sanguins",
+    "title": "Business model de Function Health : le bilan sanguin par abonnement",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model Function Health",
+    "startups": [
+      {
+        "nom": "Function Health",
+        "site": "functionhealth.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.functionhealth.com/pricing",
+      "https://www.functionhealth.com/faq",
+      "https://medcitynews.com/2026/07/general-catalyst-function-health-funding/",
+      "https://techfundingnews.com/function-health-nets-450m-from-general-catalyst-to-prove-preventive-care-is-cheaper-than-waiting-to-get-sick/",
+      "https://pulse2.com/function-health-298-million-series-b/",
+      "https://techcrunch.com/2025/11/19/function-health-closes-298m-series-b-at-a-2-5b-valuation-launches-medical-intelligence",
+      "https://valueaddvc.com/blog/function-health-450m-financing-2026-why-valuation-stayed-at-2-5b"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-function-health-abonnement-bilans-sanguins.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3827736",
+      "auteur": "Belova59",
+      "url": "https://pixabay.com/photos/laboratory-medical-medicine-hand-3827736/"
+    }
   }
 ]
