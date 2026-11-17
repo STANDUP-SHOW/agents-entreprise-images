@@ -10258,5 +10258,34 @@
       "auteur": "samuilawfirm",
       "url": "https://pixabay.com/photos/law-firm-attorney-lawyer-thai-8306442/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "overwatch-data-startup-americaine-renseignement-menaces-fraude",
+    "title": "Overwatch Data : les agents IA de Brooklyn qui traquent les fraudeurs",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Overwatch Data",
+    "startups": [
+      {
+        "nom": "Overwatch Data",
+        "site": "overwatchdata.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fintech.global/2026/10/27/overwatch-data-raises-15m-to-fight-ai-scale-cyber-attacks/",
+      "https://www.alleywatch.com/?p=163793",
+      "https://postround.substack.com/p/series-a-activity-week-of-october-cfb"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/overwatch-data-startup-americaine-renseignement-menaces-fraude.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "10503579",
+      "auteur": "sakibmia24",
+      "url": "https://pixabay.com/photos/man-computer-trading-statistics-10503579/"
+    }
   }
 ]
