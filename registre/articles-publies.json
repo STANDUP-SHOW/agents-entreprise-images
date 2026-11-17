@@ -10651,5 +10651,43 @@
       "https://zeydo.fr/",
       "https://zeydo.fr/agents/ai-operations-manager"
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ia-integree-logiciels-ou-agent-ia-independant-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "865073",
+      "auteur": "picjumbo_com",
+      "url": "https://pixabay.com/photos/student-notebook-female-study-type-865073/"
+    },
+    "slug": "ia-integree-logiciels-ou-agent-ia-independant-pme",
+    "title": "IA intégrée à ses logiciels ou agent IA indépendant : que choisir pour une PME ?",
+    "evenement": "Question PME : IA intégrée aux logiciels ou agent IA indépendant",
+    "question": "Faut-il utiliser les fonctions IA intégrées à ses logiciels ou un agent IA indépendant dans une PME ?",
+    "theme": "choisir-une-solution",
+    "preuve_question": "https://www.blogdumoderateur.com/ia-cyber-budgets-10-chiffres-numerique-tpe-pme-2026/",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot Business",
+      "HubSpot Agent Hub",
+      "Qonto AI",
+      "Lucca IA",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.blogdumoderateur.com/ia-cyber-budgets-10-chiffres-numerique-tpe-pme-2026/",
+      "https://www.microsoft.com/fr-fr/microsoft-365-copilot/pricing",
+      "https://www.hubspot.fr/products/artificial-intelligence",
+      "https://www.qonto.com/fr/ai",
+      "https://www.lucca.fr/lucca-ia",
+      "https://www.lucca.fr/tarifs",
+      "https://www.pennylane.com/fr/tarifs",
+      "https://zeydo.fr/",
+      "https://zeydo.fr/agents/gestionnaire-de-notes-de-frais"
+    ]
   }
 ]
