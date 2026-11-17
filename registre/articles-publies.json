@@ -10444,5 +10444,56 @@
       "auteur": "Belova59",
       "url": "https://pixabay.com/photos/laboratory-medical-medicine-hand-3827736/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-soins-virtuels-pris-en-charge-2026-11-17",
+    "title": "Soins virtuels pris en charge : 5 startups américaines à suivre",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : startups de soins virtuels pris en charge par les assureurs et les employeurs",
+    "startups": [
+      {
+        "nom": "Midi Health",
+        "site": "joinmidi.com"
+      },
+      {
+        "nom": "Allara",
+        "site": "allarahealth.com"
+      },
+      {
+        "nom": "Nourish",
+        "site": "usenourish.com"
+      },
+      {
+        "nom": "Kivo Health",
+        "site": "kivohealth.com"
+      },
+      {
+        "nom": "9amHealth",
+        "site": "9amhealth.com"
+      }
+    ],
+    "theme": "soins virtuels spécialisés pris en charge par les assureurs et les employeurs",
+    "sources": [
+      "https://femtechinsider.com/midi-health-raises-100-million-series-d-surpasses-1-billion-valuation/",
+      "https://www.fortune.com/2026/02/05/midi-just-hit-a-1-billion-valuation-with-plans-to-become-the-biggest-consumer-brand-in-womens-health",
+      "https://alleywatch.com/2026/10/allara-virtual-womens-health-care-insurance-covered-hormonal-ai-rachel-blank/",
+      "https://femtechinsider.com/allara-raises-30m-to-expand-insurance-covered-womens-healthcare/",
+      "https://hlth.com/insights/news/nourish-raises-100m-to-expand-virtual-nutrition-care-platform",
+      "https://homehealthcarenews.com/2026/10/at-home-virtual-care-startup-kivo-health-secures-10m-series-a-financing/",
+      "https://pulse2.com/kivo-health-raises-10-million-series-a-led-by-allumia-ventures/",
+      "https://media.startuphealth.com/p/9amhealth-s-26m-series-b-expands-a-proven-cardiometabolic-model-startup-health-insights-week-of-may",
+      "https://aiworld.eu/story/9amhealth-raises-26m-to-scale-ai-driven-virtual-specialty-care-for-high-cost-chronic-conditions"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-soins-virtuels-pris-en-charge-2026-11-17.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1867751",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/kindle-ereader-tablet-e-reader-1867751/"
+    }
   }
 ]
