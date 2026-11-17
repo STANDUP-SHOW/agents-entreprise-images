@@ -10287,5 +10287,36 @@
       "auteur": "sakibmia24",
       "url": "https://pixabay.com/photos/man-computer-trading-statistics-10503579/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "kivo-health-startup-americaine-readaptation-respiratoire-virtuelle",
+    "title": "Kivo Health : la réadaptation respiratoire à domicile par vidéo",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Kivo Health",
+    "startups": [
+      {
+        "nom": "Kivo Health",
+        "site": "kivohealth.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://homehealthcarenews.com/2026/10/at-home-virtual-care-startup-kivo-health-secures-10m-series-a-financing/",
+      "https://pulse2.com/kivo-health-raises-10-million-series-a-led-by-allumia-ventures/",
+      "https://www.ycombinator.com/companies/kivo-health",
+      "https://kivohealth.com/",
+      "https://postround.substack.com/p/series-a-activity-week-of-october-cfb"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/kivo-health-startup-americaine-readaptation-respiratoire-virtuelle.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2906416",
+      "auteur": "sabinevanerp",
+      "url": "https://pixabay.com/photos/hand-hands-old-old-age-ipad-2906416/"
+    }
   }
 ]
