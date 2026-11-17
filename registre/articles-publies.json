@@ -10534,5 +10534,42 @@
       "https://mistral.ai/sovereign-ai",
       "https://zeydo.fr/local-ai"
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-repondre-questions-rh-salaries-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4638368",
+      "auteur": "schilderqueen",
+      "url": "https://pixabay.com/photos/plate-queen-signs-office-4638368/"
+    },
+    "slug": "agent-ia-repondre-questions-rh-salaries-pme",
+    "title": "Un agent IA peut-il répondre aux questions RH des salariés d'une PME ?",
+    "evenement": "Question PME : agent IA guichet RH pour les questions des salariés",
+    "question": "Un agent IA peut-il répondre aux questions RH des salariés (congés, mutuelle, acompte) dans une PME sans service RH ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://factorial.fr/blog/meilleurs-chatbots-rh-2026-comparatif-guide/",
+    "solutions_comparees": [
+      "Rippling AI",
+      "Microsoft Employee Self-Service (Copilot Studio)",
+      "PayFit AI",
+      "Factorial One",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://corporate.apec.fr/files/live/sites/corporate/files/Nos%20etudes/PDF/Perception%20des%20RH%20par%20les%20cadres%20et%20les%20managers%202026.pdf",
+      "https://factorial.fr/blog/meilleurs-chatbots-rh-2026-comparatif-guide/",
+      "https://www.rippling.com/ai",
+      "https://learn.microsoft.com/fr-fr/copilot/microsoft-365/employee-self-service/overview",
+      "https://payfit.com/fr/payfit-ai",
+      "https://factorial.fr/ia",
+      "https://factorial.fr/tarifs",
+      "https://zeydo.fr/agents/agent-support-rh"
+    ]
   }
 ]
