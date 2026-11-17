@@ -10165,5 +10165,36 @@
       "auteur": "Goumbik",
       "url": "https://pixabay.com/photos/business-technology-notebook-laptop-2717066/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "larridin-startup-americaine-mesure-roi-intelligence-artificielle",
+    "title": "Larridin : la startup qui mesure ce que l'IA rapporte vraiment",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Larridin",
+    "startups": [
+      {
+        "nom": "Larridin",
+        "site": "larridin.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://larridin.com/press-releases/larridin-raises-30-million-in-series-a-to-prove-ais-impact-across-the-human-and-agent-workforce",
+      "https://ventureburn.com/larridin-raises-30-million-enterprise-ai-measurement/",
+      "https://www.larridin.com/blog/the-larridin-story",
+      "https://larridin.com/about-us",
+      "https://postround.substack.com/p/series-a-activity-week-of-november-5b2"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/larridin-startup-americaine-mesure-roi-intelligence-artificielle.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6062423",
+      "auteur": "Firmbee",
+      "url": "https://pixabay.com/photos/laptop-work-coffee-chart-man-6062423/"
+    }
   }
 ]
