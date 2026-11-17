@@ -10571,5 +10571,46 @@
       "https://factorial.fr/tarifs",
       "https://zeydo.fr/agents/agent-support-rh"
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/obligation-vigilance-sous-traitants-agent-ia-attestations-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1080589",
+      "auteur": "jarmoluk",
+      "url": "https://pixabay.com/photos/architect-building-joy-planning-1080589/"
+    },
+    "slug": "obligation-vigilance-sous-traitants-agent-ia-attestations-pme",
+    "title": "Un agent IA peut-il gérer l'obligation de vigilance envers vos sous-traitants ?",
+    "evenement": "Question PME : obligation de vigilance, attestations Urssaf des sous-traitants et agent IA",
+    "question": "Un agent IA peut-il réclamer, vérifier et renouveler les attestations de vigilance des sous-traitants d'une PME ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://entreprendre.service-public.gouv.fr/vosdroits/F31422?profil=tout",
+    "solutions_comparees": [
+      "Zapier Agents",
+      "Microsoft Copilot Studio",
+      "Aprovall",
+      "Once For All (Attestation Légale)",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://entreprendre.service-public.gouv.fr/vosdroits/F31422?profil=tout",
+      "https://www.weblex.fr/fiches-conseils/artisan-sous-traitance-vigilance",
+      "https://zapier.com/agents",
+      "https://zapier.com/pricing",
+      "https://learn.microsoft.com/fr-fr/microsoft-copilot-studio/fundamentals-what-is-copilot-studio",
+      "https://www.microsoft.com/fr-fr/microsoft-365-copilot/microsoft-copilot-studio",
+      "https://www.aprovall.com/fr/",
+      "https://www.e-attestations.com/fr/",
+      "https://www.attestationlegale.fr/",
+      "https://www.lejournaldesentreprises.com/breve/attestation-legale-devient-ofa-1506999",
+      "https://zeydo.fr/agents/assistant-suivi-sous-traitants",
+      "https://zeydo.fr/agents/assistant-verification-conformite"
+    ]
   }
 ]
