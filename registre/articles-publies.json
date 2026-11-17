@@ -10350,5 +10350,35 @@
       "auteur": "NYTimber",
       "url": "https://pixabay.com/photos/timber-sheet-products-industry-wood-843056/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "athlete-to-athlete-startup-americaine-mentorat-sport-jeunes",
+    "title": "Athlete To Athlete : le mentorat de jeunes sportifs par des étudiants",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Athlete To Athlete",
+    "startups": [
+      {
+        "nom": "Athlete To Athlete",
+        "site": "athletetoathlete.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/athlete-to-athlete-8-million-series-a-expands-youth-sports-mentorship/",
+      "https://youthsportsbusinessreport.com/?p=30076",
+      "https://www.athletetoathlete.com/",
+      "https://athletetoathlete.org"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/athlete-to-athlete-startup-americaine-mentorat-sport-jeunes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7056590",
+      "auteur": "rojesh55",
+      "url": "https://pixabay.com/photos/running-woman-track-exercise-7056590/"
+    }
   }
 ]
