@@ -9985,5 +9985,26 @@
       "auteur": "philreeseabb",
       "url": "https://pixabay.com/photos/handshake-business-agreement-hands-7346772/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-1",
+    "slug": "tesla-3-milliards-euros-grunheide-berlin-usine-cybercab-2029",
+    "title": "Tesla investit 3 milliards d'euros à Berlin pour produire le Cybercab",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Tesla – extension Grünheide 3 Md€ – production Cybercab 2029",
+    "sources": [
+      "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+      "https://www.electrive.net/2026/11/16/tesla-kuendigt-milliarden-ausbau-fuer-gigafactory-gruenheide-an/",
+      "https://www.ad-hoc-news.de/boerse/news/corporate-news/roundup-4-tesla-will-drei-milliarden-euro-in-werk-in-gruenheide-stecken/70522857"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/tesla-3-milliards-euros-grunheide-berlin-usine-cybercab-2029.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5960578",
+      "auteur": "martinhurlebaus",
+      "url": "https://pixabay.com/photos/highway-road-freeway-traffic-trees-5960578/"
+    }
   }
 ]
