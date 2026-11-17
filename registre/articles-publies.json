@@ -10380,5 +10380,36 @@
       "auteur": "rojesh55",
       "url": "https://pixabay.com/photos/running-woman-track-exercise-7056590/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "synctera-startup-americaine-banque-as-a-service-fintechs",
+    "title": "Synctera : l'infrastructure qui relie fintechs et banques partenaires",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Synctera",
+    "startups": [
+      {
+        "nom": "Synctera",
+        "site": "synctera.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://finovate.com/embedded-finance-and-banking-as-a-service-platform-synctera-raises-24-5-million-in-funding/",
+      "https://thepaypers.com/fintech/news/synctera-raises-usd-245-mln-and-adds-main-street-bank-as-partner",
+      "https://runtimewire.com/article/synctera-raises-24-5m-sponsor-banks-baas",
+      "https://lsvp.com/company/synctera/",
+      "https://finledger.com/articles/synctera-raises-12-4-million-seed-to-connect-community-banks-and-fintechs/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/synctera-startup-americaine-banque-as-a-service-fintechs.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2383965",
+      "auteur": "jenniferfgallagher",
+      "url": "https://pixabay.com/photos/vault-vault-door-bank-safe-2383965/"
+    }
   }
 ]
