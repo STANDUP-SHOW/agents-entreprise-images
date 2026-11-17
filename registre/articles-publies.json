@@ -9941,5 +9941,27 @@
       "auteur": "styles66",
       "url": "https://pixabay.com/photos/interview-deal-business-handshake-4835116/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-1",
+    "slug": "stripe-ferme-lemon-squeezy-migration-editeurs-saas-mars-2027",
+    "title": "Stripe ferme Lemon Squeezy : quatre mois pour migrer les éditeurs SaaS",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Stripe – fermeture de Lemon Squeezy – 31 mars 2027",
+    "sources": [
+      "https://docs.lemonsqueezy.com/migration",
+      "https://techstartups.com/2026/11/16/stripe-shuts-down-lemon-squeezy-just-two-years-after-acquisition-giving-businesses-until-march-2027-to-migrate/",
+      "https://startupfortune.com/lemon-squeezy-is-winding-down-and-will-stop-taking-payments-in-march-2027/",
+      "https://creatorstoolbox.com/@scout/post/n_1b550iwc4ez0q"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/stripe-ferme-lemon-squeezy-migration-editeurs-saas-mars-2027.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8499942",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/laptop-typing-working-pink-woman-8499942/"
+    }
   }
 ]
