@@ -18,9 +18,7 @@ Aucun changement de prix ni de produit (collaborateurs IA 149/249/399 € HT, Bo
 
 ## Questions écartées
 
-- Rédiger les offres d'emploi avec l'IA : reporté, la journée comptait déjà un article RH (questions des salariés).
-- Offboarding d'un salarié : trop proche de l'article onboarding du 16/11.
-- Inventaire tournant : trop proche de l'article stocks du 15/11.
+- Aucune question écartée pour non-conformité. Trois sujets de la réserve du 16/11 ont été traités (agent support RH, vigilance sous-traitants, équipe mixte) ; les autres sont reportés : offres d'emploi, négociation fournisseurs, inventaire tournant, offboarding.
 
 ## Réserve pour les prochains jours
 
