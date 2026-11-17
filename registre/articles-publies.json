@@ -10028,5 +10028,28 @@
       "auteur": "3844328",
       "url": "https://pixabay.com/photos/programming-computer-environment-1857236/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-1",
+    "slug": "stark-future-leve-150-millions-euros-licorne-moto-electrique",
+    "title": "Stark Future lève 150 millions d'euros, licorne de la moto électrique",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Stark Future – tour >150 M€ – valorisation 1,2 Md€",
+    "sources": [
+      "https://tech.eu/2026/11/16/barcelona-based-stark-future-motors-to-unicorn-status/",
+      "https://techfundingnews.com/stark-future-raises-e150m-at-e1-2b-valuation-as-electric-motorcycles-challenge-petrol-rivals/",
+      "https://www.visordown.com/news/stark-future-becomes-europes-first-electric-motorcycle-unicorn-eu12bn-valuation",
+      "https://www.automotiveworld.com/news/stark-future-becomes-europes-first-e-motorcycle-unicorn/",
+      "https://finimize.com/content/stark-future-became-europes-first-electric-motorcycle-unicorn"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/stark-future-leve-150-millions-euros-licorne-moto-electrique.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1164927",
+      "auteur": "27707",
+      "url": "https://pixabay.com/photos/bike-motocross-speed-outdoors-1164927/"
+    }
   }
 ]
