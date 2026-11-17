@@ -9963,5 +9963,27 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/laptop-typing-working-pink-woman-8499942/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-1",
+    "slug": "openai-goodfire-rachat-5-milliards-dollars-interpretabilite-ia",
+    "title": "OpenAI a envisagé de racheter Goodfire plus de 5 milliards de dollars",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "OpenAI – projet de rachat de Goodfire >5 Md$ (The Information)",
+    "sources": [
+      "https://techstartups.com/2026/11/16/openai-considered-5-billion-plus-acquisition-of-anthropic-backed-startup-goodfire-amid-ai-security-concerns/",
+      "https://mlq.ai/news/openai-explored-buying-ai-interpretability-startup-goodfire-for-more-than-5-billion-the-information-reports/",
+      "https://aiweekly.co/alerts/openai-eyed-5b-acquisition-of-interpretability-lab-goodfire",
+      "https://www.tokenpost.com/news/business/58441"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/openai-goodfire-rachat-5-milliards-dollars-interpretabilite-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7346772",
+      "auteur": "philreeseabb",
+      "url": "https://pixabay.com/photos/handshake-business-agreement-hands-7346772/"
+    }
   }
 ]
