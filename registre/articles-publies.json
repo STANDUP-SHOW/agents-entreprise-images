@@ -10689,5 +10689,24 @@
       "https://zeydo.fr/",
       "https://zeydo.fr/agents/gestionnaire-de-notes-de-frais"
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "manuel (max)",
+    "type": "annonce-zeydo",
+    "category_slug": "agents-ia",
+    "mode": "publie",
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/zeydo-ai-v1-moteur-ia-hybride-local-cloud.webp",
+    "photo": "image fournie par max",
+    "slug": "zeydo-ai-v1-moteur-ia-hybride-local-cloud",
+    "title": "ZeyDo lance ZeyDo AI v1.0, son moteur d’intelligence artificielle hybride local et cloud",
+    "evenement": "Lancement de ZeyDo AI v1.0 (moteur hybride local/cloud de ZeyDo Desktop)",
+    "question": null,
+    "theme": "ZeyDo AI",
+    "preuve_question": null,
+    "solutions_comparees": [],
+    "sources": [
+      "https://zeydo.fr/ai"
+    ]
   }
 ]
