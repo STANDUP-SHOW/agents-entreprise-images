@@ -10135,5 +10135,35 @@
       "auteur": "6689062",
       "url": "https://pixabay.com/photos/business-computer-mobile-smartphone-2846221/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "general-translation-startup-americaine-localisation-logiciels",
+    "title": "General Translation : la startup qui traduit les logiciels dès le code",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup General Translation",
+    "startups": [
+      {
+        "nom": "General Translation",
+        "site": "generaltranslation.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://a16z.com/announcement/investing-in-general-translation/",
+      "https://thesaasnews.com/news/general-translation-raises-27m-series-a",
+      "https://generaltranslation.com/en-US/pricing",
+      "https://postround.substack.com/p/series-a-activity-week-of-november-10a"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/general-translation-startup-americaine-localisation-logiciels.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2717066",
+      "auteur": "Goumbik",
+      "url": "https://pixabay.com/photos/business-technology-notebook-laptop-2717066/"
+    }
   }
 ]
