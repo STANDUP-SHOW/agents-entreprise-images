@@ -10318,5 +10318,37 @@
       "auteur": "sabinevanerp",
       "url": "https://pixabay.com/photos/hand-hands-old-old-age-ipad-2906416/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "supersede-startup-americaine-contreplaque-plastique-recycle",
+    "title": "Supersede : le contreplaqué en plastique recyclé des chantiers navals",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Supersede",
+    "startups": [
+      {
+        "nom": "Supersede",
+        "site": "supersede.build"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://resource-recycling.com/plastics/2025/03/12/plywood-alternative-producer-targets-post-industrial-pp",
+      "https://marineindustrynews.co.uk/supersede-secures-10m-to-produce-recyclable-alternative-to-plywood",
+      "https://www.mannpublications.com/mannreport/2026/05/05/closed-loop-partners-backs-supersedes-expansion-with-5-million-catalytic-loan-scaling-production-of-high-performance-structural-materials-for-manufacturing-and-construction/",
+      "https://marineindustrynews.co.uk/supersedes-recycled-plywood-alternative-eyes-global-marine-growth-after-dame-win",
+      "https://postround.substack.com/p/series-a-activity-week-of-november-10a",
+      "https://www.manufacturingdive.com/news/supersede-elkhart-county-indiana-facility-building-material-rv/830380/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/supersede-startup-americaine-contreplaque-plastique-recycle.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "843056",
+      "auteur": "NYTimber",
+      "url": "https://pixabay.com/photos/timber-sheet-products-industry-wood-843056/"
+    }
   }
 ]
