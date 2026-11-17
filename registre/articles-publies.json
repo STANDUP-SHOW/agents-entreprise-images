@@ -10093,5 +10093,26 @@
       "auteur": "12019",
       "url": "https://pixabay.com/photos/courtroom-benches-seats-law-898931/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-1",
+    "slug": "google-gtig-ia-exploite-failles-correctifs-sans-humain-sites-francais",
+    "title": "Google : une IA a transformé des correctifs en attaques sans humain",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Rapport GTIG de Google : premier outil d'IA exploitant seul des failles corrigées (16/11/2026)",
+    "sources": [
+      "https://thenextweb.com/news/google-gtig-ai-exploits-patches-no-human",
+      "https://siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/",
+      "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/google-gtig-ia-exploite-failles-correctifs-sans-humain-sites-francais.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1734495",
+      "auteur": "markusspiske",
+      "url": "https://pixabay.com/photos/neourban-laptop-hardware-computer-1734495/"
+    }
   }
 ]
