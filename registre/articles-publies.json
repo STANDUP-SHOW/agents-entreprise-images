@@ -10196,5 +10196,36 @@
       "auteur": "Firmbee",
       "url": "https://pixabay.com/photos/laptop-work-coffee-chart-man-6062423/"
     }
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "promptpath-startup-americaine-coaching-ia-concessions-automobiles",
+    "title": "PromptPath : l'IA d'Austin qui souffle les réponses aux vendeurs auto",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup PromptPath",
+    "startups": [
+      {
+        "nom": "PromptPath",
+        "site": "promptpath.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://runtimewire.com/article/promptpath-12m-series-a-dealership-conversation-coaching",
+      "https://www.thesaasnews.com/news/promptpath-raises-12m-series-a/",
+      "https://www.autosuccessonline.com/?p=71630",
+      "https://www.autosuccessonline.com/?p=70912",
+      "https://builtin.com/company/promptpath"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/promptpath-startup-americaine-coaching-ia-concessions-automobiles.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8149854",
+      "auteur": "gabriellepapalia",
+      "url": "https://pixabay.com/photos/people-car-key-conversation-car-8149854/"
+    }
   }
 ]
