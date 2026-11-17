@@ -10612,5 +10612,44 @@
       "https://zeydo.fr/agents/assistant-suivi-sous-traitants",
       "https://zeydo.fr/agents/assistant-verification-conformite"
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/manager-equipe-mixte-salaries-agents-ia-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6952917",
+      "auteur": "reallywellmadedesks",
+      "url": "https://pixabay.com/photos/office-desk-workspace-coworkers-6952917/"
+    },
+    "slug": "manager-equipe-mixte-salaries-agents-ia-pme",
+    "title": "Comment manager une équipe où travaillent salariés et agents IA dans une PME ?",
+    "evenement": "Question PME : manager une équipe mixte salariés et agents IA",
+    "question": "Comment organiser et manager une équipe où travaillent ensemble salariés et agents IA dans une PME ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born",
+    "solutions_comparees": [
+      "Microsoft Agent 365",
+      "Salesforce Agentforce",
+      "Dust",
+      "Mistral AI (Studio)",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.blogdumoderateur.com/ia-cyber-budgets-10-chiffres-numerique-tpe-pme-2026/",
+      "https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born",
+      "https://www.microsoft.com/fr-fr/microsoft-agent-365",
+      "https://www.salesforce.com/fr/agentforce/",
+      "https://www.salesforce.com/fr/agentforce/pricing/",
+      "https://dust.tt/home/pricing",
+      "https://www.maddyness.com/2026/05/18/ia-dust-leve-40-millions-de-dollars-pour-accelerer-sa-croissance-aux-etats-unis/",
+      "https://mistral.ai/fr/products/la-plateforme",
+      "https://zeydo.fr/",
+      "https://zeydo.fr/agents/ai-operations-manager"
+    ]
   }
 ]
