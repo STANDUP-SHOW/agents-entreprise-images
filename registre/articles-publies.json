@@ -10904,5 +10904,36 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/concept-man-papers-person-plan-1868728/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "bedrock-energy-startup-americaine-forage-geothermique",
+    "title": "Bedrock Energy : le forage géothermique piloté par logiciel au Texas",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Bedrock Energy",
+    "startups": [
+      {
+        "nom": "Bedrock Energy",
+        "site": "bedrockenergy.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+      "https://ventureburn.com/bedrock-energy-raises-24-million-ai-geothermal-drill-rigs/",
+      "https://www.businesswire.com/news/home/20250122142479/en/Bedrock-Energy-Raises-$12M-Series-A-to-Scale-Geothermal-Heating-and-Cooling",
+      "https://prnewswire.com/news-releases/bedrock-energy-raises-8-5m-to-decarbonize-commercial-real-estate-with-geothermal-energy-301953073.html",
+      "https://www.celsiusenergy.com/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/bedrock-energy-startup-americaine-forage-geothermique.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1374589",
+      "auteur": "bernswaelz",
+      "url": "https://pixabay.com/photos/construction-work-machine-drill-1374589/"
+    }
   }
 ]
