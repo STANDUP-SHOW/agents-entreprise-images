@@ -10935,5 +10935,35 @@
       "auteur": "bernswaelz",
       "url": "https://pixabay.com/photos/construction-work-machine-drill-1374589/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "tristar-ai-startup-americaine-controle-qualite-usines",
+    "title": "Tristar AI : la vision par ordinateur qui traque les défauts en usine",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Tristar AI",
+    "startups": [
+      {
+        "nom": "Tristar AI",
+        "site": "non communiqué"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://siliconangle.com/?p=853935",
+      "https://www.thesaasnews.com/news/tristar-ai-raises-12-4m-series-a/",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/",
+      "https://www.scortex.io/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/tristar-ai-startup-americaine-controle-qualite-usines.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2888650",
+      "auteur": "ainthome",
+      "url": "https://pixabay.com/photos/cans-manufacturing-business-2888650/"
+    }
   }
 ]
