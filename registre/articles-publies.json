@@ -10730,5 +10730,27 @@
       "auteur": "Goumbik",
       "url": "https://pixabay.com/photos/office-business-notebook-statistics-2717014/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-1",
+    "slug": "iceye-offre-2-milliards-euros-avio-fusee-vega-spatial-europeen",
+    "title": "ICEYE offre 2 milliards d'euros pour racheter Avio, fabricant de Vega",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "ICEYE – offre publique d'achat sur Avio – 2,05 Md€ – 17/11/2026",
+    "sources": [
+      "https://techfundingnews.com/iceye-bids-e2-05b-for-avio-to-bring-satellites-and-rockets-under-one-european-roof/",
+      "https://www.challenges.fr/entreprise/defense/coup-de-tonnerre-dans-le-spatial-europeen-le-finlandais-iceye-lance-une-opa-sur-le-fabricant-de-fusees-italien-avio_647012",
+      "https://www.lefigaro.fr/flash-eco/le-groupe-finlandais-iceye-veut-creer-un-spacex-europeen-en-rachetant-l-italien-avio-constructeur-de-la-fusee-vega-c-20261117",
+      "https://fr.finance.yahoo.com/actualites/actions-d-avio-s-envolent-085807563.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/iceye-offre-2-milliards-euros-avio-fusee-vega-spatial-europeen.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "693236",
+      "auteur": "SpaceX-Imagery",
+      "url": "https://pixabay.com/photos/rocket-launch-night-trajectory-693236/"
+    }
   }
 ]
