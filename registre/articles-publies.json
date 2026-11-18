@@ -11113,5 +11113,35 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/walking-fitness-girl-dawn-fall-1868652/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "knit-health-startup-americaine-ia-parcours-de-soins",
+    "title": "Knit Health : l'IA qui apprend des décisions réelles des médecins",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Série A de 35 M$ menée par NEA, 16/11/2026",
+    "startups": [
+      {
+        "nom": "Knit Health",
+        "site": "knithealth.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://thenextweb.com/news/knit-health-35m-series-a-nea-med-beam",
+      "https://techstartups.com/2026/11/17/startup-funding-news-today-november-17-2026-alecto-galvanize-therapeutics-corma-noeri-nomad-more/",
+      "https://pulse2.com/knit-health-secures-11-6-million-seed-funding-to-launch-its-large-clinical-behavior-model/",
+      "https://www.nabla.com/fr"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/knit-health-startup-americaine-ia-parcours-de-soins.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5979689",
+      "auteur": "mspark0",
+      "url": "https://pixabay.com/photos/hallway-hospital-clean-rooms-doors-5979689/"
+    }
   }
 ]
