@@ -11335,5 +11335,48 @@
       "url": "https://pixabay.com/photos/people-boss-business-man-sitting-2564504/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ia-locale-assez-puissante-remplacer-cloud-pme.webp"
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "slug": "agent-ia-comptes-rendus-reunion-prise-de-notes-pme",
+    "title": "Un agent IA peut-il prendre les notes et rédiger les comptes rendus de réunion d'une PME ?",
+    "evenement": "Question PME : comptes rendus de réunion par un agent IA",
+    "question": "Un agent IA peut-il prendre les notes et rédiger les comptes rendus de réunion d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.journaldunet.com/intelligence-artificielle/1555737-compte-rendu-de-reunion-l-ia-peut-tenir-la-plume-pas-le-jugement/",
+    "solutions_comparees": [
+      "Otter.ai",
+      "Fireflies.ai",
+      "Noota",
+      "Leexi",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.journaldunet.com/intelligence-artificielle/1555737-compte-rendu-de-reunion-l-ia-peut-tenir-la-plume-pas-le-jugement/",
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900861",
+      "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+      "https://otter.ai/pricing",
+      "https://fireflies.ai/pricing",
+      "https://www.noota.io/fr/tarifs",
+      "https://www.noota.io/fr/securite",
+      "https://lespepitestech.com/startup-de-la-french-tech/noota",
+      "https://www.leexi.ai/fr/tarifs",
+      "https://www.parismatch.be/lifestyle/technologie/2026/11/07/30-000-entreprises-et-10-millions-deuros-decouvrez-la-pepite-belge-de-lia-qui-fait-trembler-les-geants-CR7TNAGXPJEUJBUPJMROLRQOR4/",
+      "https://zeydo.fr/agents/assistant-de-reunion",
+      "https://zeydo.fr/agents/agent-preparation-reunion",
+      "https://zeydo.fr/pricing"
+    ],
+    "mots": 2230,
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7978588",
+      "auteur": "jhenning",
+      "url": "https://pixabay.com/photos/laptop-conference-table-mouse-work-7978588/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-comptes-rendus-reunion-prise-de-notes-pme.webp"
   }
 ]
