@@ -11293,5 +11293,47 @@
       "auteur": "geralt",
       "url": "https://pixabay.com/photos/shaking-hands-handshake-hands-3091906/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "slug": "ia-locale-assez-puissante-remplacer-cloud-pme",
+    "title": "Une IA locale est-elle assez puissante pour remplacer le cloud dans une PME ?",
+    "evenement": "Question PME : puissance d'une IA locale face au cloud",
+    "question": "Une IA locale est-elle assez puissante pour remplacer le cloud dans une PME ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://digitiz.fr/ia-locales/",
+    "solutions_comparees": [
+      "Ollama",
+      "LM Studio",
+      "NVIDIA DGX Spark",
+      "Mistral AI Enterprise",
+      "OVHcloud AI Endpoints",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://digitiz.fr/ia-locales/",
+      "https://mistral.ai/news/mistral-small-3-1",
+      "https://mistral.ai/pricing",
+      "https://www.nvidia.com/fr-fr/products/workstations/dgx-spark/",
+      "https://ollama.com/pricing",
+      "https://lmstudio.ai/blog/free-for-work",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://zeydo.fr/local-ai",
+      "https://zeydo.fr/pricing",
+      "https://zeydo.fr/box"
+    ],
+    "mots": 2580,
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2564504",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/people-boss-business-man-sitting-2564504/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ia-locale-assez-puissante-remplacer-cloud-pme.webp"
   }
 ]
