@@ -11143,5 +11143,36 @@
       "auteur": "mspark0",
       "url": "https://pixabay.com/photos/hallway-hospital-clean-rooms-doors-5979689/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "bevado-startup-americaine-agents-ia-gestion-locative",
+    "title": "Bevado : le « cerveau » IA qui répond aux locataires à toute heure",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Amorçage de 10 M$ mené par RET Ventures, 16/11/2026",
+    "startups": [
+      {
+        "nom": "Bevado",
+        "site": "bevado.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://commercialobserver.com/?p=586258",
+      "https://www.alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-16-2026/",
+      "https://www.bevado.com/pricing",
+      "https://www.bevado.com/",
+      "https://www.rentila.com/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/bevado-startup-americaine-agents-ia-gestion-locative.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2323278",
+      "auteur": "mastersenaiper",
+      "url": "https://pixabay.com/photos/key-home-house-estate-business-2323278/"
+    }
   }
 ]
