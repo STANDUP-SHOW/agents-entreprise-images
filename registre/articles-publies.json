@@ -11378,5 +11378,49 @@
       "url": "https://pixabay.com/photos/laptop-conference-table-mouse-work-7978588/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-comptes-rendus-reunion-prise-de-notes-pme.webp"
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "slug": "agent-ia-rediger-diffuser-offres-emploi-pme",
+    "title": "Un agent IA peut-il rédiger et diffuser les offres d'emploi d'une PME ?",
+    "evenement": "Question PME : rédaction et diffusion des offres d'emploi par un agent IA",
+    "question": "Un agent IA peut-il rédiger et diffuser les offres d'emploi d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.apec.fr/recruteur/attirer-les-candidats/strategie-de-recrutement/fiches-conseils/recrutement-et-ia-comment-candidats-et-recruteurs-peuvent-ils-en-faire-un-allie-.html",
+    "solutions_comparees": [
+      "LinkedIn Hiring Pro",
+      "Workable",
+      "Teamtailor",
+      "JOIN",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.apec.fr/recruteur/attirer-les-candidats/strategie-de-recrutement/fiches-conseils/recrutement-et-ia-comment-candidats-et-recruteurs-peuvent-ils-en-faire-un-allie-.html",
+      "https://bpifrance-creation.fr/encyclopedie/gerer-piloter-lentreprise/recruter-gerer-salaries/rechercher-candidats",
+      "https://lcp.fr/actualites/transparence-salariale-ce-que-va-changer-pour-les-entreprises-le-projet-de-loi-presente",
+      "https://join.com/fr/blog/writing-job-ads-with-ai",
+      "https://join.com/fr/tarifs",
+      "https://join.com/fr/company",
+      "https://business.linkedin.com/hire/hiring-pro",
+      "https://www.workable.com/pricing",
+      "https://www.hcamag.com/us/hr-software-reviews/workable-review/449982",
+      "https://www.teamtailor.com/fr/pricing/",
+      "https://www.teamtailor.com/fr/about/",
+      "https://zeydo.fr/agents/redacteur-offres-d-emploi",
+      "https://zeydo.fr/pricing",
+      "https://zeydo.fr/temp-agency"
+    ],
+    "mots": 2170,
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2785932",
+      "auteur": "Goumbik",
+      "url": "https://pixabay.com/photos/chart-graph-finance-financial-data-2785932/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-rediger-diffuser-offres-emploi-pme.webp"
   }
 ]
