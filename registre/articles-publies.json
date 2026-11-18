@@ -11239,5 +11239,59 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/chairs-conference-room-contemporary-2181994/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-agents-ia-vente-b2b-2026-11-18",
+    "title": "5 startups américaines qui confient la vente B2B à des agents IA",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : 5 startups d'agents IA pour la vente B2B",
+    "startups": [
+      {
+        "nom": "Rox",
+        "site": "rox.com"
+      },
+      {
+        "nom": "Dreamteam",
+        "site": "dreamteam.ai"
+      },
+      {
+        "nom": "Unify",
+        "site": "unifygtm.com"
+      },
+      {
+        "nom": "PromptPath",
+        "site": "promptpath.ai"
+      },
+      {
+        "nom": "Bevado",
+        "site": "bevado.com"
+      }
+    ],
+    "theme": "agents IA pour la vente B2B",
+    "sources": [
+      "https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/",
+      "https://www.siliconreport.com/rox-raises-100-million-series-b-at-1-3-billion-valuation",
+      "https://pulse2.com/dreamteam-raises-53-million-to-build-ai-native-crm-platform/",
+      "https://www.dreamteam.ai/pricing",
+      "https://www.businesswire.com/news/home/20250714813159/en",
+      "https://www.unifygtm.com/pricing",
+      "https://runtimewire.com/article/promptpath-12m-series-a-dealership-conversation-coaching",
+      "https://www.thesaasnews.com/news/promptpath-raises-12m-series-a/",
+      "https://commercialobserver.com/?p=586258",
+      "https://www.bevado.com/pricing",
+      "https://www.lemlist.com/fr",
+      "https://go.sellsy.com/fr/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-agents-ia-vente-b2b-2026-11-18.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3091906",
+      "auteur": "geralt",
+      "url": "https://pixabay.com/photos/shaking-hands-handshake-hands-3091906/"
+    }
   }
 ]
