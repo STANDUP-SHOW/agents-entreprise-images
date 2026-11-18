@@ -10994,5 +10994,35 @@
       "auteur": "carmen_carbonell",
       "url": "https://pixabay.com/photos/audience-public-congress-session-2816353/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "aarden-startup-americaine-ia-marche-foncier",
+    "title": "Aarden : l'IA de Seattle qui évalue les terrains pour l'énergie",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Aarden",
+    "startups": [
+      {
+        "nom": "Aarden",
+        "site": "aarden.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techstartups.com/2026/11/17/aarden-raises-8m-to-build-smarter-land-markets-for-ai-buildout-and-energy-projects/",
+      "https://pulse2.com/aarden-raises-8-million-to-build-ai-platform-for-land-markets/",
+      "https://www.kelfoncier.com/",
+      "https://www.urbanease.io/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/aarden-startup-americaine-ia-marche-foncier.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4525178",
+      "auteur": "fabersam",
+      "url": "https://pixabay.com/photos/photovoltaic-solar-power-plant-4525178/"
+    }
   }
 ]
