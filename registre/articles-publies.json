@@ -11174,5 +11174,36 @@
       "auteur": "mastersenaiper",
       "url": "https://pixabay.com/photos/key-home-house-estate-business-2323278/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "grabrfi-startup-americaine-compte-dollars-travailleurs-internationaux",
+    "title": "GrabrFi : le compte en dollars des freelances hors des États-Unis",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Levée de 6 M$ menée par Bling Capital, novembre 2026",
+    "startups": [
+      {
+        "nom": "GrabrFi",
+        "site": "grabrfi.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/grabrfi-raises-6-million-after-processing-more-than-1-billion-in-payments/",
+      "https://www.revistaeconomia.com/grabrfi-supera-los-usd-1-000-millones-en-transacciones-y-recibe-una-inversion-de-usd-6-millones-para-lanzar-cuentas-en-dolares-para-empresas-fuera-de-estados-unidos/",
+      "https://grabrfi.com/",
+      "https://qonto.com/fr"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/grabrfi-startup-americaine-compte-dollars-travailleurs-internationaux.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2425303",
+      "auteur": "Engin_Akyurt",
+      "url": "https://pixabay.com/photos/coffee-caffeine-beverage-table-2425303/",
+      "user_id": 3656355
+    }
   }
 ]
