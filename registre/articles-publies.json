@@ -11052,5 +11052,35 @@
       "auteur": "laterjay",
       "url": "https://pixabay.com/photos/family-hiking-father-and-son-father-1784512/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "dreamteam-startup-americaine-crm-agents-ia",
+    "title": "Dreamteam : le CRM à agents IA des anciens de Freshworks",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Dreamteam",
+    "startups": [
+      {
+        "nom": "Dreamteam",
+        "site": "dreamteam.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/dreamteam-raises-53-million-to-build-ai-native-crm-platform/",
+      "https://techstartups.com/2026/11/17/startup-funding-news-today-november-17-2026-alecto-galvanize-therapeutics-corma-noeri-nomad-more/",
+      "https://www.dreamteam.ai/pricing",
+      "https://go.sellsy.com/fr/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/dreamteam-startup-americaine-crm-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4858797",
+      "auteur": "ccfb",
+      "url": "https://pixabay.com/photos/finance-bank-banking-business-4858797/"
+    }
   }
 ]
