@@ -10965,5 +10965,34 @@
       "auteur": "ainthome",
       "url": "https://pixabay.com/photos/cans-manufacturing-business-2888650/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "axle-startup-americaine-logiciel-corporate-access-banques",
+    "title": "Axle : le logiciel qui organise les rendez-vous de Wall Street",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Axle",
+    "startups": [
+      {
+        "nom": "Axle",
+        "site": "non communiqué"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.alleywatch.com/2026/11/axle-sell-side-corporate-access-software-capital-markets-infrastructure-operating-system-sam-shapiro/",
+      "https://www.alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-13-2026/",
+      "https://thenextweb.com/news/axle-9m-ai-agents-investment-banks-corporate-access"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/axle-startup-americaine-logiciel-corporate-access-banques.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2816353",
+      "auteur": "carmen_carbonell",
+      "url": "https://pixabay.com/photos/audience-public-congress-session-2816353/"
+    }
   }
 ]
