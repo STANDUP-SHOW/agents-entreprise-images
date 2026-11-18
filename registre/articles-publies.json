@@ -11205,5 +11205,39 @@
       "url": "https://pixabay.com/photos/coffee-caffeine-beverage-table-2425303/",
       "user_id": 3656355
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-unify-prospection-ia-sieges-credits",
+    "title": "Business model de Unify : la prospection IA au siège et au crédit",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model : sièges, crédits, contrats annuels",
+    "startups": [
+      {
+        "nom": "Unify",
+        "site": "unifygtm.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.businesswire.com/news/home/20250714813159/en",
+      "https://www.unifygtm.com/blog/series-b",
+      "https://www.unifygtm.com/blog/announcing-our-seed-round",
+      "https://www.unifygtm.com/blog/series-a",
+      "https://www.unifygtm.com/blog/announcing-unifys-next-chapter",
+      "https://www.unifygtm.com/blog/how-perplexity-booked-1-7m-in-pipeline-without-a-single-bdr",
+      "https://www.unifygtm.com/pricing",
+      "https://www.lemlist.com/fr"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-unify-prospection-ia-sieges-credits.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2181994",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/chairs-conference-room-contemporary-2181994/"
+    }
   }
 ]
