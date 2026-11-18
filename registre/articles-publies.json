@@ -10752,5 +10752,27 @@
       "auteur": "SpaceX-Imagery",
       "url": "https://pixabay.com/photos/rocket-launch-night-trajectory-693236/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-1",
+    "slug": "nvidia-resultats-115-milliards-dollars-chine-h200-apres-depart-huang",
+    "title": "Nvidia : 115,8 milliards de dollars de revenus malgré le départ de Huang",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Nvidia – résultats T3 exercice 2027 et arrêt des ventes H200 en Chine – 17/11/2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "https://siliconangle.com/2026/11/17/business-as-usual-for-nvidia-as-it-beats-expectations-in-its-first-earnings-call-after-jensen-huangs-resignation/",
+      "https://www.ledevoir.com/economie/techno/1025813/malgre-tourmente-nvidia-depasse-attentes-releve-previsions"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/nvidia-resultats-115-milliards-dollars-chine-h200-apres-depart-huang.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1730089",
+      "auteur": "AhmadArdity",
+      "url": "https://pixabay.com/photos/business-stock-finance-market-1730089/"
+    }
   }
 ]
