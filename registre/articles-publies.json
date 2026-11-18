@@ -11024,5 +11024,33 @@
       "auteur": "fabersam",
       "url": "https://pixabay.com/photos/photovoltaic-solar-power-plant-4525178/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "luminoah-startup-americaine-pompe-nutrition-enterale-portable",
+    "title": "Luminoah : la pompe de nutrition par sonde qui tient dans la poche",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Luminoah",
+    "startups": [
+      {
+        "nom": "Luminoah",
+        "site": "non communiqué"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/luminoah-raises-25-million-series-b-to-expand-enteral-feeding-technology/",
+      "https://www.hmenews.com/article/luminoah-raises-25m-seeks-to-expand-hme-distribution-for-portable-enteral-feeding-solution"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/luminoah-startup-americaine-pompe-nutrition-enterale-portable.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1784512",
+      "auteur": "laterjay",
+      "url": "https://pixabay.com/photos/family-hiking-father-and-son-father-1784512/"
+    }
   }
 ]
