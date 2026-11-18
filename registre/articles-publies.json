@@ -10795,5 +10795,26 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-engineering-mechanical-4915791/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-1",
+    "slug": "isomorphic-labs-leve-5-milliards-dollars-medicaments-ia-serie-c",
+    "title": "Isomorphic Labs lève 5 milliards de dollars pour ses médicaments IA",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Isomorphic Labs – série C – 5 Md$ – 17/11/2026",
+    "sources": [
+      "https://tech.eu/2026/11/17/sequoia-and-greenoaks-lead-massive-5bn-series-c-funding-round-in-isomorphic-labs/",
+      "https://siliconangle.com/2026/11/17/alphabets-isomorphic-labs-raises-5b-to-accelerate-drug-discovery-with-ai/",
+      "https://techfundingnews.com/deepmind-spinout-isomorphic-labs-lands-5b-series-c-to-take-ai-designed-medicines-into-the-clinic/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/isomorphic-labs-leve-5-milliards-dollars-medicaments-ia-serie-c.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2815641",
+      "auteur": "jarmoluk",
+      "url": "https://pixabay.com/photos/laboratory-analysis-chemistry-2815641/"
+    }
   }
 ]
