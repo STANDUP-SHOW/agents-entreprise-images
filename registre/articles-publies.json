@@ -10838,5 +10838,27 @@
       "auteur": "lukasbieri",
       "url": "https://pixabay.com/photos/laptop-business-man-from-above-2838918/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-1",
+    "slug": "microsoft-ignite-2026-copilot-autopilot-agent-autonome-entreprises",
+    "title": "Microsoft Ignite 2026 : Copilot passe aux agents autonomes avec Autopilot",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Microsoft Ignite 2026 – Copilot Autopilot, Office dans Copilot, Agent 365 Business Analytics – 17/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/18/at-ignite-2026-microsoft-reinvents-copilot-as-the-autonomous-engine-of-enterprise-work/",
+      "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
+      "https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/microsoft-ignite-2026-copilot-autopilot-agent-autonome-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2178440",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/adult-city-employee-furniture-2178440/"
+    }
   }
 ]
