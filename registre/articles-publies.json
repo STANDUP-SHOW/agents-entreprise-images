@@ -10708,5 +10708,27 @@
     "sources": [
       "https://zeydo.fr/ai"
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-1",
+    "slug": "qonto-licence-bancaire-credit-pme-financement-factures-2027",
+    "title": "Qonto obtient sa licence bancaire : ce qui change pour les PME",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Qonto – agrément d'établissement de crédit (ACPR/BCE) – 17/11/2026",
+    "sources": [
+      "https://www.maddyness.com/2026/11/17/qonto-obtient-sa-licence-bancaire-et-va-pouvoir-accorder-des-prets/",
+      "https://www.frenchweb.fr/breaking-news/qonto-obtient-son-agrement-bancaire-et-prepare-ses-propres-offres-de-credit/17e75933-d050-48c6-b633-d67d0d924e1a",
+      "https://www.moneyvox.fr/banque/actualites/111284/banque-pro-qonto-obtient-agrement-etablissement-de-credit-et-annonce-de-nouveaux-services",
+      "https://www.lefigaro.fr/societes/la-pepite-francaise-qonto-devient-une-banque-a-part-entiere-20261117"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/qonto-licence-bancaire-credit-pme-financement-factures-2027.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2717014",
+      "auteur": "Goumbik",
+      "url": "https://pixabay.com/photos/office-business-notebook-statistics-2717014/"
+    }
   }
 ]
