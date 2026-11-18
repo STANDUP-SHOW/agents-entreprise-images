@@ -10882,5 +10882,27 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/bakery-breads-assorted-assortment-1868925/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-1",
+    "slug": "openai-gpt-6-2-astra-sol-agents-ia-cout-travail-professionnel",
+    "title": "GPT-6.2 Astra : OpenAI baisse le coût des agents, accueil mitigé",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "OpenAI – lancement GPT-6.2 Astra et Sol – 17/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/",
+      "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/",
+      "https://www.lebigdata.fr/gpt-6-2-astra-et-sol-debarquent-un-million-de-jetons-et-de-nouvelles-prouesses-au-menu",
+      "https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/openai-gpt-6-2-astra-sol-agents-ia-cout-travail-professionnel.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1868728",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/concept-man-papers-person-plan-1868728/"
+    }
   }
 ]
