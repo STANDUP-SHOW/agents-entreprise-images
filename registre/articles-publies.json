@@ -10816,5 +10816,27 @@
       "auteur": "jarmoluk",
       "url": "https://pixabay.com/photos/laboratory-analysis-chemistry-2815641/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-1",
+    "slug": "remanence-leve-30-millions-dollars-modeles-ia-specialises-agents",
+    "title": "Remanence lève 30 millions de dollars pour des modèles d'IA maison",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Remanence – amorçage – 30 M$ – 17/11/2026",
+    "sources": [
+      "https://www.frenchweb.fr/trois-anciens-de-h-company-levent-25-5-millions-d-euros-pour-remanence/900000050",
+      "https://tech.eu/2026/11/17/synthesia-and-datadog-ceos-back-french-ai-startup-remanence/",
+      "https://techfundingnews.com/ex-h-company-researchers-remanence-raises-30m-to-turn-ai-agent-data-into-models-companies-own/",
+      "https://www.maddyness.com/2026/11/17/ia-des-anciens-de-h-company-lancent-leur-startup-avec-une-levee-de-fonds-de-30-millions-de-dollars/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/remanence-leve-30-millions-dollars-modeles-ia-specialises-agents.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2838918",
+      "auteur": "lukasbieri",
+      "url": "https://pixabay.com/photos/laptop-business-man-from-above-2838918/"
+    }
   }
 ]
