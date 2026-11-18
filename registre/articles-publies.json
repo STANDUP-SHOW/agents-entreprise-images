@@ -11422,5 +11422,50 @@
       "url": "https://pixabay.com/photos/chart-graph-finance-financial-data-2785932/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-rediger-diffuser-offres-emploi-pme.webp"
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "slug": "agent-ia-organiser-depart-salarie-acces-documents-pme",
+    "title": "Un agent IA peut-il organiser le départ d'un salarié : accès, matériel et documents ?",
+    "evenement": "Question PME : départ d'un salarié (offboarding) et agent IA",
+    "question": "Un agent IA peut-il organiser le départ d'un salarié : accès, matériel et documents ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://www.donneespersonnelles.fr/depart-salarie-donnees-personnelles",
+    "solutions_comparees": [
+      "Okta",
+      "JumpCloud",
+      "Factorial",
+      "Eurécia",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.donneespersonnelles.fr/depart-salarie-donnees-personnelles",
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F21789",
+      "https://entreprendre.service-public.fr/vosdroits/F87",
+      "https://www.cnil.fr/sites/default/files/2026-05/cnil_guide_securite_personnelle.pdf",
+      "https://www.cnil.fr/sites/default/files/2026-04/referentiel_durees_de_conservation_gestion_des_ressources_humaines.pdf",
+      "https://www.okta.com/pricing/",
+      "https://jumpcloud.com/pricing",
+      "https://jumpcloud.com/press/jumpcloud-unveils-jumpcloudia-in-louisville/",
+      "https://factorialhr.fr/tarifs",
+      "https://factorialhr.com/aboutus",
+      "https://www.eurecia.com/tarifs",
+      "https://www.eurecia.com/mentions-legales",
+      "https://zeydo.fr/agents/assistant-administration-du-personnel",
+      "https://zeydo.fr/agents/access-review-analyst",
+      "https://zeydo.fr/pricing"
+    ],
+    "mots": 2180,
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2481718",
+      "auteur": "congerdesign",
+      "url": "https://pixabay.com/photos/move-key-new-apartment-catchment-2481718/"
+    },
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-organiser-depart-salarie-acces-documents-pme.webp"
   }
 ]
