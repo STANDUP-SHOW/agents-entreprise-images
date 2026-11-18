@@ -10774,5 +10774,26 @@
       "auteur": "AhmadArdity",
       "url": "https://pixabay.com/photos/business-stock-finance-market-1730089/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-1",
+    "slug": "genesis-ai-leve-500-millions-dollars-robot-generaliste-eno",
+    "title": "Genesis AI lève 500 millions de dollars pour son robot généraliste Eno",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Genesis AI – série A – 500 M$ – valorisation 3,5 Md$ – 17/11/2026",
+    "sources": [
+      "https://www.maddyness.com/2026/11/17/robotique-genesis-ai-boucle-une-serie-a-dun-demi-milliard-de-dollars-aupres-de-nvidia-samsung-et-zoom/",
+      "https://www.frenchweb.fr/genesis-ai-leve-425-millions-d-euros-pour-deployer-ses-robots-en-usine/900000051",
+      "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/genesis-ai-leve-500-millions-dollars-robot-generaliste-eno.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4915791",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-engineering-mechanical-4915791/"
+    }
   }
 ]
