@@ -10860,5 +10860,27 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/adult-city-employee-furniture-2178440/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-1",
+    "slug": "google-gemini-tasks-agent-ia-gratuit-appels-achats-commerces",
+    "title": "Google Gemini Tasks : un agent IA gratuit qui appelle et achète",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Google – Gemini Tasks gratuit dans six pays, appels et paiements aux États-Unis – 17/11/2026",
+    "sources": [
+      "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+      "https://www.androidpolice.com/google-giving-millions-gemini-users-free-personal-ai-agent/",
+      "https://www.iphoneincanada.ca/2026/11/17/google-gemini-tasks-free-canada/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/google-gemini-tasks-agent-ia-gratuit-appels-achats-commerces.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1868925",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/bakery-breads-assorted-assortment-1868925/"
+    }
   }
 ]
