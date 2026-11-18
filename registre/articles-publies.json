@@ -11082,5 +11082,36 @@
       "auteur": "ccfb",
       "url": "https://pixabay.com/photos/finance-bank-banking-business-4858797/"
     }
+  },
+  {
+    "date": "2026-11-18",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "9amhealth-startup-americaine-soins-maladies-chroniques-employeurs",
+    "title": "9amHealth : la clinique virtuelle des maladies chroniques des salariés",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup 9amHealth",
+    "startups": [
+      {
+        "nom": "9amHealth",
+        "site": "9amhealth.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/9amhealth-26-million-series-b-raised-to-expand-virtual-specialty-care/",
+      "https://hitconsultant.net/2026/05/13/9amhealth-raises-26m-series-b-virtual-specialty-care/",
+      "https://aiworld.eu/story/9amhealth-raises-26m-to-scale-ai-driven-virtual-specialty-care-for-high-cost-chronic-conditions",
+      "https://media.startuphealth.com/p/9amhealth-s-26m-series-b-expands-a-proven-cardiometabolic-model-startup-health-insights-week-of-may",
+      "https://www.diabeloop.com/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/9amhealth-startup-americaine-soins-maladies-chroniques-employeurs.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1868652",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/walking-fitness-girl-dawn-fall-1868652/"
+    }
   }
 ]
