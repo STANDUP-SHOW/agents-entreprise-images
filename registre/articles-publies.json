@@ -12241,5 +12241,42 @@
       "auteur": "Goumbik",
       "url": "https://pixabay.com/photos/chart-graph-finance-financial-data-2779164/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "preparer-nettoyer-donnees-avant-agent-ia-pme",
+    "title": "Faut-il nettoyer ses données avant de déployer un agent IA dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : préparer et nettoyer ses données avant un agent IA (ITespresso, 19/10/2026)",
+    "question": "Faut-il préparer ou nettoyer ses données avant de déployer un agent IA dans une PME ?",
+    "theme": "deploiement-integration",
+    "preuve_question": "https://www.itespresso.fr/comment-preparer-ses-donnees-avant-de-deployer-une-ia-280552.html",
+    "solutions_comparees": [
+      "Alteryx One",
+      "Unstructured",
+      "Tale of Data",
+      "Mistral OCR",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.itespresso.fr/comment-preparer-ses-donnees-avant-de-deployer-une-ia-280552.html",
+      "https://www.alteryx.com/pricing",
+      "https://unstructured.io/pricing",
+      "https://www.taleofdata.com/fr/pricing",
+      "https://mistral.ai/news/mistral-ocr-3",
+      "https://zeydo.fr/agents/data-quality-analyst",
+      "https://zeydo.fr/agents/data-cleaning-specialist",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/preparer-nettoyer-donnees-avant-agent-ia-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2561221",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/laptop-computer-browser-research-2561221/"
+    }
   }
 ]
