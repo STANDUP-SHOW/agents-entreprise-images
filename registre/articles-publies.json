@@ -11552,5 +11552,27 @@
       "auteur": "StuBaileyPhoto",
       "url": "https://pixabay.com/photos/commercial-photographer-london-5772300/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-1",
+    "slug": "crowdstrike-zscaler-palo-alto-applied-compute-consolidation-cybersecurite",
+    "title": "CrowdStrike négocie avec Zscaler : la cybersécurité se concentre",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "CrowdStrike – discussions de rachat de Zscaler (Bloomberg, 20/11/2026) + Palo Alto Networks – rachat d'Applied Compute 4,5 Md$ (18/11/2026)",
+    "sources": [
+      "https://siliconangle.com/2026/11/20/crowdstrike-reportedly-in-talks-to-acquire-cybersecurity-provider-zscaler/",
+      "https://securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion",
+      "https://www.helpnetsecurity.com/?p=391728",
+      "https://www.theregister.com/ai-and-ml/2026/11/19/palo-alto-networks-opens-wallet-for-open-weight-training-biz/5311168"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/crowdstrike-zscaler-palo-alto-applied-compute-consolidation-cybersecurite.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2434271",
+      "auteur": "MianShahzadRaza",
+      "url": "https://pixabay.com/photos/code-programming-coding-web-2434271/"
+    }
   }
 ]
