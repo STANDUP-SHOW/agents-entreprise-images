@@ -11681,5 +11681,26 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/desk-laptop-notebook-pen-workspace-593327/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-1",
+    "slug": "amazon-agents-ia-chinois-cairn-faille-zero-day-universites",
+    "title": "Des agents IA chinois trouvent seuls une faille zero-day, selon Amazon",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Amazon Threat Intelligence – agents IA Cairn d'un acteur lié à la Chine découvrent et exploitent une zero-day (MONAI Label) – rapport du 20/11/2026",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/",
+      "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/amazon-agents-ia-chinois-cairn-faille-zero-day-universites.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4393368",
+      "auteur": "Bru-nO",
+      "url": "https://pixabay.com/photos/network-edp-plug-patch-cord-4393368/"
+    }
   }
 ]
