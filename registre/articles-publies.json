@@ -11939,5 +11939,34 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/wood-lumber-commercial-construction-2602264/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "luminal-startup-americaine-compilateur-inference-ia",
+    "title": "Luminal : faire tourner les modèles d'IA plus vite sur tout matériel",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Luminal",
+    "startups": [
+      {
+        "nom": "Luminal",
+        "site": "luminal.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-luminal-secures-25m-in-series-a-funding/",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/",
+      "https://luminal.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/luminal-startup-americaine-compilateur-inference-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5884683",
+      "auteur": "ArmandoAre1",
+      "url": "https://pixabay.com/photos/card-circuit-electronics-chips-5884683/"
+    }
   }
 ]
