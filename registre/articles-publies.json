@@ -11850,5 +11850,35 @@
       "auteur": "u_wez38xk6qm",
       "url": "https://pixabay.com/photos/work-meeting-notebook-charts-report-10282328/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "puppygraph-startup-americaine-requetes-graphe-agents-ia",
+    "title": "PuppyGraph : relier les tables de données sans les copier",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup PuppyGraph",
+    "startups": [
+      {
+        "nom": "PuppyGraph",
+        "site": "puppygraph.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/puppygraph-10-million-series-a-supports-enterprise-ai-graph-query-expansion/",
+      "https://www.blocksandfiles.com/ai-ml/2026/11/11/puppygraph-gets-a-round-funding-to-develop-graph-help-for-agents/5309071",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/",
+      "https://www.puppygraph.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/puppygraph-startup-americaine-requetes-graphe-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3267505",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/startup-whiteboard-room-indoors-3267505/"
+    }
   }
 ]
