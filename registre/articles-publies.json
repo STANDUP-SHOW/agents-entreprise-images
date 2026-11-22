@@ -11660,5 +11660,26 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/smartphone-technology-mobile-phone-1281632/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-1",
+    "slug": "aws-marketplace-agents-ia-achats-logiciels-x402",
+    "title": "AWS Marketplace ouvre les achats de logiciels aux agents IA",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "AWS Marketplace – achats par agents IA via x402 + data as a service – annonce pré-re:Invent 2026 (20/11/2026)",
+    "sources": [
+      "https://aws.amazon.com/blogs/awsmarketplace/aws-marketplace-helps-humans-and-agents-buy-deploy-and-transact/",
+      "https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493",
+      "https://siliconangle.com/2026/11/20/anthropic-goes-public-but-is-it-too-late-to-save-the-ai-trade/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/aws-marketplace-agents-ia-achats-logiciels-x402.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "593327",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/desk-laptop-notebook-pen-workspace-593327/"
+    }
   }
 ]
