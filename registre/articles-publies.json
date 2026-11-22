@@ -11508,5 +11508,27 @@
       "url": "https://pixabay.com/photos/accountant-accounting-adviser-1238598/"
     },
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/maitriser-facture-api-ia-pme-plafonds-couts.webp"
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-1",
+    "slug": "bending-spoons-rachete-mailchimp-3-68-milliards-dollars-intuit",
+    "title": "Bending Spoons rachète Mailchimp 3,68 milliards de dollars à Intuit",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Intuit – cession de Mailchimp à Bending Spoons – 3,68 Md$ – 19/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/19/intuit-sells-mailchimp-to-bending-spoons-for-3-68b-less-than-a-third-of-what-it-paid/",
+      "https://www.eu-startups.com/2026/11/berkshire-hathaway-backed-bending-spoons-to-buy-mailchimp-for-e3-35-billion-announces-e1-18-billion-private-placement/",
+      "https://www.frenchweb.fr/contre-toute-attente-mailchimp-passe-sous-pavillon-europeen/900000061",
+      "https://siecledigital.fr/2026/11/20/mailchimp-change-de-proprietaire-et-passe-entre-les-mains-dun-groupe-europeen/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/bending-spoons-rachete-mailchimp-3-68-milliards-dollars-intuit.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "767776",
+      "auteur": "Lalmch",
+      "url": "https://pixabay.com/photos/computer-summary-chart-business-767776/"
+    }
   }
 ]
