@@ -12202,5 +12202,44 @@
       "auteur": "reallywellmadedesks",
       "url": "https://pixabay.com/photos/office-desk-man-business-workplace-6952919/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-previsions-tresorerie-pme",
+    "title": "Un agent IA peut-il tenir les prévisions de trésorerie d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : prévisions de trésorerie par un agent IA (baromètre Bpifrance Le Lab-Rexecode, novembre 2026)",
+    "question": "Un agent IA peut-il établir et tenir à jour les prévisions de trésorerie d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.rexecode.fr/media/documents/indicateurs-rexecode/barometre-tresorerie-investissement-croissance-des-pme/barometre-trimestriel-tresorerie-investissement-croissance-des-pme-novembre-2026",
+    "solutions_comparees": [
+      "QuickBooks Intuit Intelligence",
+      "Tesorio",
+      "Agicap",
+      "Okimia",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.rexecode.fr/media/documents/indicateurs-rexecode/barometre-tresorerie-investissement-croissance-des-pme/barometre-trimestriel-tresorerie-investissement-croissance-des-pme-novembre-2026",
+      "https://fortune.com/article/intuit-intelligence/",
+      "https://www.tesorio.com/",
+      "https://www.tesorio.com/about",
+      "https://agicap.com/fr/produits/gestion-de-tresorerie/",
+      "https://www.fygr.io/tarifs",
+      "https://zeydo.fr/agents/assistant-tresorerie-finance",
+      "https://zeydo.fr/agents/analyste-de-tresorerie",
+      "https://zeydo.fr/pricing",
+      "https://zeydo.fr/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-previsions-tresorerie-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2779164",
+      "auteur": "Goumbik",
+      "url": "https://pixabay.com/photos/chart-graph-finance-financial-data-2779164/"
+    }
   }
 ]
