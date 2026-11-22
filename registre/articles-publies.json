@@ -11762,5 +11762,35 @@
       "auteur": "user32212",
       "url": "https://pixabay.com/photos/cabin-log-mountains-rustic-privacy-2261205/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "stepsecurity-startup-americaine-securite-chaine-logicielle",
+    "title": "StepSecurity : la startup qui protège les outils des développeurs",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup StepSecurity",
+    "startups": [
+      {
+        "nom": "StepSecurity",
+        "site": "stepsecurity.io"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.stepsecurity.io/blog/stepsecurity-20-million-series-a",
+      "https://thenextweb.com/news/stepsecurity-20m-series-a-software-supply-chain-attacks",
+      "https://pulse2.com/stepsecurity-raises-20-million-to-prevent-software-supply-chain-attacks/",
+      "https://www.stepsecurity.io/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/stepsecurity-startup-americaine-securite-chaine-logicielle.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1839876",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/laptop-notebook-cellphone-computer-1839876/"
+    }
   }
 ]
