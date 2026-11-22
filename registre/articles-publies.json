@@ -11530,5 +11530,27 @@
       "auteur": "Lalmch",
       "url": "https://pixabay.com/photos/computer-summary-chart-business-767776/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-1",
+    "slug": "anthropic-introduction-bourse-record-nasdaq-premiere-seance",
+    "title": "Anthropic entre en Bourse : un record et une séance à +17 %",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Anthropic – introduction en Bourse au Nasdaq – 83 $/action, 81,3 Md$ levés – 19/11/2026",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/11/19/anthropic-throws-open-doors-at-2t-valuation-as-shares-pop-34-in-initial-trading/5311143",
+      "https://siecledigital.fr/2026/11/19/anthropic-realise-la-plus-grosse-introduction-en-bourse-de-lhistoire-et-pulverise-le-record-de-spacex/",
+      "https://www.journaldunet.com/intelligence-artificielle/1558245-ipo-d-anthropic-le-bulletin-de-notes-de-sa-premiere-journee-de-cotation/",
+      "https://siliconangle.com/2026/11/20/anthropic-goes-public-but-is-it-too-late-to-save-the-ai-trade/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/anthropic-introduction-bourse-record-nasdaq-premiere-seance.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5772300",
+      "auteur": "StuBaileyPhoto",
+      "url": "https://pixabay.com/photos/commercial-photographer-london-5772300/"
+    }
   }
 ]
