@@ -11968,5 +11968,35 @@
       "auteur": "ArmandoAre1",
       "url": "https://pixabay.com/photos/card-circuit-electronics-chips-5884683/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "marble-startup-americaine-ia-cuisines-restaurants",
+    "title": "Marble : l'IA qui gère les stocks et commandes des restaurants",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Marble",
+    "startups": [
+      {
+        "nom": "Marble",
+        "site": "joinmarble.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://restauranttechnologynews.com/2026/11/marble-raises-5-5-million-to-automate-restaurant-inventory-and-purchasing-with-ai/",
+      "https://www.alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-17-2026/",
+      "https://joinmarble.ai/blogs/seed-announcement",
+      "https://www.unite.ai/marble-draws-5-5m-in-seed-funding-after-signing-150-plus-restaurants/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/marble-startup-americaine-ia-cuisines-restaurants.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1284351",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/restaurant-cooking-chef-kitchen-1284351/"
+    }
   }
 ]
