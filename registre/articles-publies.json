@@ -11998,5 +11998,35 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/restaurant-cooking-chef-kitchen-1284351/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-langchain-open-source-plateforme-agents",
+    "title": "Business model de LangChain : l'open source au service du payant",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model LangChain",
+    "startups": [
+      {
+        "nom": "LangChain",
+        "site": "langchain.com"
+      }
+    ],
+    "theme": "business model LangChain : open source, sièges et facturation à l'usage",
+    "sources": [
+      "https://www.langchain.com/blog/series-c",
+      "https://thenextweb.com/news/langchain-300m-series-c-3bn-valuation-capitalg-langsmith",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/",
+      "https://www.langchain.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-langchain-open-source-plateforme-agents.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "593343",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/startup-start-up-people-593343/"
+    }
   }
 ]
