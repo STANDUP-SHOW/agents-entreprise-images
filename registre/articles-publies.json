@@ -11908,5 +11908,36 @@
       "auteur": "jhenning",
       "url": "https://pixabay.com/photos/laptop-conference-table-mouse-work-7978588/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "modern-industrials-startup-americaine-agents-ia-distributeurs",
+    "title": "Modern Industrials : des agents IA pour les distributeurs industriels",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Modern Industrials",
+    "startups": [
+      {
+        "nom": "Modern Industrials",
+        "site": "modernindustrials.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.thesaasnews.com/news/modern-industrials-raises-6m-seed/",
+      "https://distributionstrategy.com/2026/11/modern-industrials-announces-6-million-in-seed-funding-for-distribution-ai/",
+      "https://www.unite.ai/modern-industrials-raises-6m-seed-to-expand-custom-ai-agents/",
+      "https://www.alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-19-2026/",
+      "https://modernindustrials.com"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/modern-industrials-startup-americaine-agents-ia-distributeurs.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2602264",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/wood-lumber-commercial-construction-2602264/"
+    }
   }
 ]
