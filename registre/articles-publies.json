@@ -12028,5 +12028,59 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/startup-start-up-people-593343/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-donnees-agents-ia-2026-11-22",
+    "title": "5 startups américaines qui préparent les données pour les agents IA",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : 5 startups américaines qui préparent les données pour les agents IA",
+    "startups": [
+      {
+        "nom": "PuppyGraph",
+        "site": "puppygraph.com"
+      },
+      {
+        "nom": "Delphina",
+        "site": "delphina.ai"
+      },
+      {
+        "nom": "Graphon",
+        "site": "non communiqué"
+      },
+      {
+        "nom": "LanceDB",
+        "site": "lancedb.com"
+      },
+      {
+        "nom": "Sequel.io",
+        "site": "sequel.io"
+      }
+    ],
+    "theme": "5 startups américaines qui préparent les données pour les agents IA",
+    "sources": [
+      "https://www.blocksandfiles.com/ai-ml/2026/11/11/puppygraph-gets-a-round-funding-to-develop-graph-help-for-agents/5309071",
+      "https://pulse2.com/puppygraph-10-million-series-a-supports-enterprise-ai-graph-query-expansion/",
+      "https://www.puppygraph.com/pricing",
+      "https://www.hpcwire.com/bigdatawire/this-just-in/delphina-raises-7-5m-and-launches-context-factory-for-ai-analytics/",
+      "https://delphina.ai/pricing",
+      "https://www.siliconreport.com/graphon-raises-35m-series-a-led-by-rre-ventures",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/",
+      "https://www.thesaasnews.com/news/lancedb-raises-57-5m-series-b/",
+      "https://www.techtimes.com/articles/331069/20261119/ai-data-startup-lancedb-raises-series-b-100x-parquet-speed-claim-rests-its-own-preliminary-test.htm",
+      "https://www.ycombinator.com/companies/lancedb",
+      "https://www.vcpost.com/articles/130998/20261119/sequelio-raises-15-million-led-sorenson-capital-turn-company-webinars-sales-data-ai.htm",
+      "https://www.thesaasnews.com/news/sequel-io-raises-15m-other/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-donnees-agents-ia-2026-11-22.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1834406",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/boxes-drawers-mailboxes-1834406/"
+    }
   }
 ]
