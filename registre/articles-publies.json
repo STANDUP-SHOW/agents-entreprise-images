@@ -11596,5 +11596,26 @@
       "auteur": "adamr",
       "url": "https://pixabay.com/photos/handshake-cooperation-partnership-3298455/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-1",
+    "slug": "archer-leve-10-millions-dollars-agent-ia-recrutement",
+    "title": "Archer lève 10 millions de dollars pour son agent IA de recrutement",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Archer (ex-hackajob) – 10 M$ – Volition Capital, AVP – 20/11/2026",
+    "sources": [
+      "https://tech.eu/2026/11/20/archer-raises-10m-to-connect-recruiters-and-job-seekers-with-ai/",
+      "https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/",
+      "https://www.prnewswire.com/news-releases/hackajob-launches-archer-across-all-knowledge-worker-roles-after-ai-recruiting-agent-hits-1m-arr-in-record-90-days-302688998.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/archer-leve-10-millions-dollars-agent-ia-recrutement.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8189824",
+      "auteur": "LetsFAME",
+      "url": "https://pixabay.com/photos/cast-interview-apply-resume-8189824/"
+    }
   }
 ]
