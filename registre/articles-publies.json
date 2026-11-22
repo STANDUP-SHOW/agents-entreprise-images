@@ -11821,5 +11821,34 @@
       "auteur": "RyanMcGuire",
       "url": "https://pixabay.com/photos/security-man-escalator-police-869216/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "delphina-startup-americaine-agents-ia-analyse-donnees",
+    "title": "Delphina : la startup qui fait parler les données à tous les salariés",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Delphina",
+    "startups": [
+      {
+        "nom": "Delphina",
+        "site": "delphina.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.hpcwire.com/bigdatawire/this-just-in/delphina-raises-7-5m-and-launches-context-factory-for-ai-analytics/",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/",
+      "https://delphina.ai/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/delphina-startup-americaine-agents-ia-analyse-donnees.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "10282328",
+      "auteur": "u_wez38xk6qm",
+      "url": "https://pixabay.com/photos/work-meeting-notebook-charts-report-10282328/"
+    }
   }
 ]
