@@ -11617,5 +11617,27 @@
       "auteur": "LetsFAME",
       "url": "https://pixabay.com/photos/cast-interview-apply-resume-8189824/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-1",
+    "slug": "databricks-cognition-levees-valorisation-225-milliards-dollars",
+    "title": "Databricks vise 225 milliards de dollars de valorisation, Cognition 75",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Databricks – discussions de levée à ~225 Md$ (WSJ) + Cognition – discussions à 75 Md$ (Bloomberg) – 20-21/11/2026",
+    "sources": [
+      "https://thenextweb.com/news/databricks-valuation-225bn-funding-talks-ghodsi-ipo",
+      "https://thenextweb.com/news/cognition-funding-75bn-valuation-bloomberg-devin",
+      "https://finance.biggo.com/news/12d70ef2-658c-4c72-b0fb-671a2e1f215f",
+      "https://siliconangle.com/2026/11/20/anthropic-goes-public-but-is-it-too-late-to-save-the-ai-trade/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/databricks-cognition-levees-valorisation-225-milliards-dollars.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6267791",
+      "auteur": "timwesterhoff",
+      "url": "https://pixabay.com/photos/patch-panel-internet-cable-6267791/"
+    }
   }
 ]
