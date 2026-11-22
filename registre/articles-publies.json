@@ -11732,5 +11732,35 @@
       "auteur": "shbs",
       "url": "https://pixabay.com/photos/music-show-concert-live-stage-2805506/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "fairly-startup-americaine-locations-vacances-concierges-locaux",
+    "title": "Fairly : la startup de Portland qui confie les locations à des locaux",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Fairly",
+    "startups": [
+      {
+        "nom": "Fairly",
+        "site": "fairly.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.geekwire.com/2026/portland-startup-fairly-raises-22m-to-pair-local-caretakers-with-ai-for-vacation-rentals/",
+      "https://www.thesaasnews.com/news/fairly-raises-22-4m-series-a/",
+      "https://www.vie-publique.fr/loi/292100-loi-airbnb-desequilibres-du-marche-locatif-2024",
+      "https://www.fairly.com/blog/fairly-announces-10-million-preseed-funding-round"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/fairly-startup-americaine-locations-vacances-concierges-locaux.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2261205",
+      "auteur": "user32212",
+      "url": "https://pixabay.com/photos/cabin-log-mountains-rustic-privacy-2261205/"
+    }
   }
 ]
