@@ -12121,5 +12121,46 @@
       "auteur": "cocoandwifi",
       "url": "https://pixabay.com/photos/home-office-person-work-web-design-4996834/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-repondre-emails-service-client-pme",
+    "title": "Un agent IA peut-il répondre aux e-mails du service client d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : agent IA et e-mails du service client",
+    "question": "Un agent IA peut-il répondre aux e-mails du service client d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.francenum.gouv.fr/guides-et-conseils/intelligence-artificielle/agents-conversationnels-et-assistants-virtuels-0",
+    "solutions_comparees": [
+      "Zendesk",
+      "HubSpot Customer agent",
+      "Crisp",
+      "Botmind Reply AI",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.francenum.gouv.fr/guides-et-conseils/intelligence-artificielle/agents-conversationnels-et-assistants-virtuels-0",
+      "https://www.salesforce.com/fr/news/lia-pourrait-traiter-pres-de-la-moitie-des-requetes-faites-aupres-des-services-clients-en-france-dici-2027/",
+      "https://www.zendesk.com/pricing/",
+      "https://zendesk.com/newsroom/articles/zendesk-outcome-based-pricing",
+      "https://www.hubspot.com/products/artificial-intelligence/ai-customer-service-agent",
+      "https://crisp.chat/fr/pricing/",
+      "https://www.botmind.io/en/reply-ai",
+      "https://zeydo.fr/agents/customer-support-e-commerce",
+      "https://zeydo.fr/agents/agent-support-b2b",
+      "https://zeydo.fr/agents/agent-de-reclamation",
+      "https://zeydo.fr/pricing",
+      "https://zeydo.fr/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-repondre-emails-service-client-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7520773",
+      "auteur": "ignartonosbg",
+      "url": "https://pixabay.com/photos/woman-administrator-computer-7520773/"
+    }
   }
 ]
