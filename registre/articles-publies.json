@@ -11574,5 +11574,27 @@
       "auteur": "MianShahzadRaza",
       "url": "https://pixabay.com/photos/code-programming-coding-web-2434271/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-1",
+    "slug": "mistral-ai-leve-100-millions-euros-deutsche-telekom-serie-d",
+    "title": "Mistral AI lève 100 millions d'euros auprès de Deutsche Telekom",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Mistral AI – extension série D – 100 M€ (T.Capital Tech Fund, Deutsche Telekom) – 19/11/2026 + siège APAC Singapour 20/11/2026",
+    "sources": [
+      "https://www.eu-startups.com/2026/11/mistral-balzes-ahead-with-an-additional-e100-million-to-their-series-d-by-t-capital/",
+      "https://www.frenchweb.fr/breaking-news/deutsche-telekom-investit-100-millions-d-euros-dans-mistral-et-vise-l-industrie-allemande/71be0e22-73c5-4208-b9ec-90033141d1cb",
+      "https://www.lemondeinformatique.fr/donnees-ia/mistral-ai-installe-a-singapour-son-siege-asie-pacifique-tourne-vers-l-ia-souveraine",
+      "https://www.actuia.com/actualite/mistral-fait-de-singapour-son-siege-asie-pacifique-et-un-pole-de-recherche/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mistral-ai-leve-100-millions-euros-deutsche-telekom-serie-d.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3298455",
+      "auteur": "adamr",
+      "url": "https://pixabay.com/photos/handshake-cooperation-partnership-3298455/"
+    }
   }
 ]
