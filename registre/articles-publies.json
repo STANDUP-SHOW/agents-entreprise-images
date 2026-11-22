@@ -11639,5 +11639,26 @@
       "auteur": "timwesterhoff",
       "url": "https://pixabay.com/photos/patch-panel-internet-cable-6267791/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-1",
+    "slug": "signal-bloque-agents-ia-siri-gemini-confidentialite-messages",
+    "title": "Signal bloque les agents IA d'Apple et Google : ce que ça change",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Signal – blocage par défaut des agents IA des OS (Siri iOS 27, Gemini Android) – 20/11/2026",
+    "sources": [
+      "https://signal.org/blog/protecting-your-privacy/",
+      "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+      "https://siecledigital.fr/2026/11/20/chez-meta-muse-inquiete-les-salaries-apres-des-incidents-impliquant-des-donnees-confidentielles/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/signal-bloque-agents-ia-siri-gemini-confidentialite-messages.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1281632",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/smartphone-technology-mobile-phone-1281632/"
+    }
   }
 ]
