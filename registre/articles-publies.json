@@ -12082,5 +12082,44 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/boxes-drawers-mailboxes-1834406/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-piege-email-document-injection-prompt-pme",
+    "title": "Un agent IA peut-il être piégé par un e-mail ou un document malveillant ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : injection de prompt par e-mail ou document",
+    "question": "Un agent IA peut-il être manipulé par un e-mail ou un document piégé (injection de prompt) ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://www.journaldunet.com/intelligence-artificielle/1530211-comment-securiser-son-ia-generative-les-conseils-de-l-anssi/",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot",
+      "Gemini pour Google Workspace",
+      "Giskard Guards",
+      "Mistral (modération)",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+      "https://www.journaldunet.com/intelligence-artificielle/1530211-comment-securiser-son-ia-generative-les-conseils-de-l-anssi/",
+      "https://cyber.gouv.fr/sites/default/files/document/Recommandations_de_s%C3%A9curit%C3%A9_pour_un_syst%C3%A8me_d_IA_g%C3%A9n%C3%A9rative.pdf",
+      "https://learn.microsoft.com/en-us/copilot/microsoft-365/copilot-prompt-defense-in-depth",
+      "https://knowledge.workspace.google.com/admin/security/indirect-prompt-injections-and-googles-layered-defense-strategy-for-gemini",
+      "https://tech.eu/2026/05/07/meet-the-french-startup-fixing-the-guardrail-gap-holding-enterprise-ai-back/",
+      "https://docs.mistral.ai/capabilities/guardrailing/",
+      "https://zeydo.fr/security",
+      "https://zeydo.fr/ai",
+      "https://zeydo.fr/agents/security-awareness-coordinator"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-piege-email-document-injection-prompt-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4996834",
+      "auteur": "cocoandwifi",
+      "url": "https://pixabay.com/photos/home-office-person-work-web-design-4996834/"
+    }
   }
 ]
