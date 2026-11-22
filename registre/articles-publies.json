@@ -11702,5 +11702,35 @@
       "auteur": "Bru-nO",
       "url": "https://pixabay.com/photos/network-edp-plug-patch-cord-4393368/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "speakeasy-startup-americaine-billetterie-evenements",
+    "title": "Speakeasy : billetterie, réservations et CRM réunis pour les sorties",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Speakeasy",
+    "startups": [
+      {
+        "nom": "Speakeasy",
+        "site": "speakeasygo.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.alleywatch.com/2026/11/speakeasy-live-experience-software-ticketing-reservations-payments-hospitality-guest-crm-alex-manavi/",
+      "https://pulse2.com/speakeasy-raises-18-8-million-to-build-live-experience-operating-platform/",
+      "https://www.alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-18-2026/",
+      "https://speakeasygo.com/partner"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/speakeasy-startup-americaine-billetterie-evenements.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2805506",
+      "auteur": "shbs",
+      "url": "https://pixabay.com/photos/music-show-concert-live-stage-2805506/"
+    }
   }
 ]
