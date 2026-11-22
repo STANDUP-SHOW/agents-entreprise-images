@@ -11792,5 +11792,34 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/laptop-notebook-cellphone-computer-1839876/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "whitematter-startup-americaine-agents-gardiens-ia",
+    "title": "WhiteMatter : un garde du corps pour chaque agent IA d'entreprise",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup WhiteMatter",
+    "startups": [
+      {
+        "nom": "WhiteMatter",
+        "site": "non communiqué"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.siliconreport.com/whitematter-raises-20-million-in-series-a-funding",
+      "https://www.pymnts.com/news/artificial-intelligence/2026/ai-vendors-ditch-seat-licenses-per-agent-pricing/",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/whitematter-startup-americaine-agents-gardiens-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "869216",
+      "auteur": "RyanMcGuire",
+      "url": "https://pixabay.com/photos/security-man-escalator-police-869216/"
+    }
   }
 ]
