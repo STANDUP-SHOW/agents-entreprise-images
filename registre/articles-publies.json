@@ -11880,5 +11880,33 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/startup-whiteboard-room-indoors-3267505/"
     }
+  },
+  {
+    "date": "2026-11-22",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "sequel-startup-americaine-webinaires-donnees-clients",
+    "title": "Sequel.io : des webinaires transformés en données de vente",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Sequel.io",
+    "startups": [
+      {
+        "nom": "Sequel.io",
+        "site": "sequel.io"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.vcpost.com/articles/130998/20261119/sequelio-raises-15-million-led-sorenson-capital-turn-company-webinars-sales-data-ai.htm",
+      "https://www.thesaasnews.com/news/sequel-io-raises-15m-other/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sequel-startup-americaine-webinaires-donnees-clients.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7978588",
+      "auteur": "jhenning",
+      "url": "https://pixabay.com/photos/laptop-conference-table-mouse-work-7978588/"
+    }
   }
 ]
