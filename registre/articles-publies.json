@@ -12563,5 +12563,34 @@
       "auteur": "sasint",
       "url": "https://pixabay.com/photos/surgery-hospital-1807541/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "operand-startup-americaine-due-diligence-ia-private-equity",
+    "title": "Operand : la startup new-yorkaise qui enquête sur les cibles de rachat",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Operand",
+    "startups": [
+      {
+        "nom": "Operand",
+        "site": "operand.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.thesaasnews.com/news/operand-raises-31m-seed-series-a/",
+      "https://magica.com/news/operand-raises-31m-ai-private-equity-due-diligence",
+      "https://www.ycombinator.com/companies/operand"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/operand-startup-americaine-due-diligence-ia-private-equity.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1841158",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/analysis-analytics-business-charts-1841158/"
+    }
   }
 ]
