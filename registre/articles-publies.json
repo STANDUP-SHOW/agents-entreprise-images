@@ -12471,5 +12471,37 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/notebook-typing-coffee-computer-1850613/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "paraform-startup-americaine-recrutement-place-de-marche",
+    "title": "Paraform : la place de marché américaine des recruteurs indépendants",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Paraform",
+    "startups": [
+      {
+        "nom": "Paraform",
+        "site": "paraform.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://paraform.com/blog/100m-annualized-revenue",
+      "https://paraform.com/blog/series-b",
+      "https://www.axios.com/pro/all-deals/2026/03/18/paraform-ai-recruiting-series-b",
+      "https://www.paraform.com/blog/series-a-announcement",
+      "https://techcrunch.com/2024/04/15/paraform-a-recruiting-platform-that-connects-recruiters-and-startups-raises-funding",
+      "https://sea.peoplemattersglobal.com/news/funding-investment/recruiting-marketplace-paraform-raises-aud2-million-in-pre-seed-round-37317"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/paraform-startup-americaine-recrutement-place-de-marche.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5817031",
+      "auteur": "Tumisu",
+      "url": "https://pixabay.com/photos/meeting-conference-laptop-interview-5817031/"
+    }
   }
 ]
