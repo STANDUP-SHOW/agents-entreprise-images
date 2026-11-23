@@ -12341,5 +12341,26 @@
       "auteur": "damianlopjus",
       "url": "https://pixabay.com/photos/cameras-filming-media-reporters-6839248/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-1",
+    "slug": "everful-leve-48-5-millions-dollars-agents-ia-usines",
+    "title": "Everful lève 48,5 millions de dollars pour ses agents IA d'achat",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Everful – série A – 48,5 M$",
+    "sources": [
+      "https://techcrunch.com/?p=3190407",
+      "https://thenextweb.com/news/everful-48-5m-series-a-ai-sourcing-global-commerce",
+      "https://macaubusiness.com/everful-raises-48-5-million-series-a-to-build-the-ai-infrastructure-layer-for-global-commerce/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/everful-leve-48-5-millions-dollars-agents-ia-usines.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5983143",
+      "auteur": "KaweewatT",
+      "url": "https://pixabay.com/photos/hand-box-finished-goods-5983143/"
+    }
   }
 ]
