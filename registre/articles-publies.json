@@ -12427,5 +12427,27 @@
       "auteur": "Foundry",
       "url": "https://pixabay.com/photos/phone-technology-mobile-internet-869669/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-1",
+    "slug": "bell-canada-attaquant-agentique-ia-vol-donnees-clients-entreprises",
+    "title": "Bell Canada piraté par un attaquant « agentique » : ce qu'on sait",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Bell Canada – intrusion d'un attaquant agentique (17/11), données clients entreprises",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "https://www.scworld.com/brief/bell-canada-confirms-data-breach-involving-agentic-threat-actor",
+      "https://mlq.ai/news/bell-canada-says-an-agentic-hacker-stole-enterprise-customer-data/",
+      "https://thenextweb.com/news/satya-nadella-dealbook-ai-bugs-outages-alignment-world-of-hurt"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/bell-canada-attaquant-agentique-ia-vol-donnees-clients-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3297900",
+      "auteur": "lrobertson",
+      "url": "https://pixabay.com/photos/switch-technology-industry-server-3297900/"
+    }
   }
 ]
