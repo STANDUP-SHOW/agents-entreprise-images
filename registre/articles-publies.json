@@ -12320,5 +12320,26 @@
       "auteur": "LubosHouska",
       "url": "https://pixabay.com/photos/pottery-handmade-hands-cup-vase-1139047/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-1",
+    "slug": "trump-taxe-data-centers-etranger-cloud-europe",
+    "title": "Trump veut taxer les data centers américains bâtis à l'étranger",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Trump – projet de taxe sur les data centers construits à l'étranger (20/11)",
+    "sources": [
+      "https://www.nbcnews.com/business/corporations/trump-data-centers-overseas-penalties-rcna610445",
+      "https://www.abc.net.au/news/2026-11-21/trump-vows-tax-companies-building-data-centres-overseas/107412162",
+      "https://siliconangle.com/2026/11/20/trump-announces-plan-to-tax-us-companies-that-build-data-centers-abroad/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/trump-taxe-data-centers-etranger-cloud-europe.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6839248",
+      "auteur": "damianlopjus",
+      "url": "https://pixabay.com/photos/cameras-filming-media-reporters-6839248/"
+    }
   }
 ]
