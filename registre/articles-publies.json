@@ -12771,5 +12771,37 @@
       "auteur": "mostafa_meraji",
       "url": "https://pixabay.com/photos/barber-shop-job-work-iranian-6797761/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-spines-edition-hybride-agents-ia",
+    "title": "Business model de Spines : l'édition hybride portée par des agents IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Levée de 64 M$ (29 M$ de capital + 35 M$ de dette), 9 novembre 2026",
+    "startups": [
+      {
+        "nom": "Spines",
+        "site": "https://spines.com/"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fortune.com/2026/11/09/publisher-spines-raises-64-million-in-new-funding-to-accelerate-effort-to-automate-book-publishing-with-ai-agents/",
+      "https://www.prnewswire.com/il/news-releases/spines-secures-64m-to-help-more-authors-publish-and-reach-readers-worldwide-302933315.html",
+      "https://techcrunch.com/2024/11/19/itching-to-write-a-book-ai-publisher-spines-wants-to-make-a-deal",
+      "https://spines.com/pricing",
+      "https://spines.com/",
+      "https://www.librinova.com/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-spines-edition-hybride-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3641865",
+      "auteur": "by_mema",
+      "url": "https://pixabay.com/photos/typewriter-secretary-write-machine-3641865/"
+    }
   }
 ]
