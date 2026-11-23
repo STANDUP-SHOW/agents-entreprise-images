@@ -12406,5 +12406,26 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/woman-engineer-tech-electronics-8499928/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-1",
+    "slug": "openai-dots-agents-ia-chatgpt-plus-business-standard",
+    "title": "OpenAI ouvre ses agents dots à ChatGPT Plus et Business Standard",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "OpenAI – test des dots sur ChatGPT Plus et ouverture à Business Standard (19/11)",
+    "sources": [
+      "https://thenextweb.com/news/openai-dots-chatgpt-plus-test-business-standard",
+      "https://tbreak.com/chatgpt-plus-dots-agents-test/",
+      "https://startupfortune.com/openai-starts-testing-dots-agents-on-chatgpt-plus-for-20-a-month/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/openai-dots-agents-ia-chatgpt-plus-business-standard.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "869669",
+      "auteur": "Foundry",
+      "url": "https://pixabay.com/photos/phone-technology-mobile-internet-869669/"
+    }
   }
 ]
