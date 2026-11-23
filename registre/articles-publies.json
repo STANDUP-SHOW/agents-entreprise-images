@@ -12680,5 +12680,35 @@
       "auteur": "MarcinZ83",
       "url": "https://pixabay.com/photos/way-sky-clouds-street-forest-7642285/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "spines-startup-americaine-edition-livres-auteurs-ia",
+    "title": "Spines, la startup qui publie les livres des auteurs avec l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Levée de 64 M$ (série A-1 de 29 M$ menée par Zeev Ventures + 35 M$ non dilutifs de Twelve), 9 novembre 2026",
+    "startups": [
+      {
+        "nom": "Spines",
+        "site": "https://spines.com/"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.prnewswire.com/il/news-releases/spines-secures-64m-to-help-more-authors-publish-and-reach-readers-worldwide-302933315.html",
+      "https://techcrunch.com/2024/11/19/itching-to-write-a-book-ai-publisher-spines-wants-to-make-a-deal",
+      "https://spines.com/pricing",
+      "https://www.librinova.com/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/spines-startup-americaine-edition-livres-auteurs-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4081842",
+      "auteur": "expresswriters",
+      "url": "https://pixabay.com/photos/influencer-writing-girl-woman-4081842/"
+    }
   }
 ]
