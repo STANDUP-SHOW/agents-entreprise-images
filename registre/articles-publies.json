@@ -12803,5 +12803,56 @@
       "auteur": "by_mema",
       "url": "https://pixabay.com/photos/typewriter-secretary-write-machine-3641865/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-places-de-marche-2026-11-23",
+    "title": "5 places de marché américaines qui décollent, à suivre de près",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : 5 places de marché",
+    "startups": [
+      {
+        "nom": "Paraform",
+        "site": "https://paraform.com"
+      },
+      {
+        "nom": "Mercor",
+        "site": "https://www.mercor.com"
+      },
+      {
+        "nom": "Garage",
+        "site": "https://www.shopgarage.com"
+      },
+      {
+        "nom": "Whop",
+        "site": "https://whop.com"
+      },
+      {
+        "nom": "ShopMy",
+        "site": "https://shopmy.us"
+      }
+    ],
+    "theme": "places de marché",
+    "sources": [
+      "https://paraform.com/blog/100m-annualized-revenue",
+      "https://techcrunch.com/2024/04/15/paraform-a-recruiting-platform-that-connects-recruiters-and-startups-raises-funding",
+      "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
+      "https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation",
+      "https://techcrunch.com/2025/10/29/how-ai-labs-use-mercor-to-get-the-data-companies-wont-share/",
+      "https://fortune.com/2026/11/10/garage-used-fire-trucks-martin-hunt-funding/",
+      "https://techfundingnews.com/whop-raises-205m-at-5-1b-valuation-as-sequoia-reverses-its-earlier-pass/",
+      "https://thenextweb.com/news/whop-200m-series-d-5-1b-valuation-sequoia",
+      "https://pulse2.com/shopmy-70-million-at-1-5-billion-valuation-raised-for-expanding-curated-commerce-infrastructure-for-premium-brands/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-places-de-marche-2026-11-23.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1841132",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/apples-farmers-market-buy-buying-1841132/"
+    }
   }
 ]
