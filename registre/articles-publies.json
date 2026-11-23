@@ -13022,5 +13022,49 @@
       "auteur": "Geisteskerker",
       "url": "https://pixabay.com/photos/bureaucracy-file-folder-paperwork-2106924/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "investir-ia-maintenant-ou-attendre-pme",
+    "title": "Faut-il investir dans l'IA maintenant ou attendre quand on dirige une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : investir dans l'IA maintenant ou attendre que la technologie se stabilise",
+    "question": "Faut-il investir dans l'IA maintenant ou attendre quand on dirige une PME ?",
+    "theme": "couts-roi",
+    "preuve_question": "https://www.actuia.com/actualite/lia-dans-les-pme-et-eti-francaises-un-territoire-encore-a-explorer-selon-bpifrance/",
+    "solutions_comparees": [
+      "Claude Team",
+      "Zapier",
+      "Mistral Le Chat",
+      "Dust",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.actuia.com/actualite/lia-dans-les-pme-et-eti-francaises-un-territoire-encore-a-explorer-selon-bpifrance/",
+      "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+      "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+      "https://www.actuia.com/actualite/calendrier-ai-act-ce-qui-sapplique-ce-que-lomnibus-reporte/",
+      "https://eur-lex.europa.eu/eli/reg/2026/1744/oj/fra",
+      "https://claude.com/pricing",
+      "https://zapier.com/pricing",
+      "https://mistral.ai/fr/pricing",
+      "https://dust.tt/home/pricing",
+      "https://www.blogdumoderateur.com/histoire-dust-pepite-francaise-ia-racontee-par-fondateur/",
+      "https://zeydo.fr/temp-agency",
+      "https://zeydo.fr/skills",
+      "https://zeydo.fr/why-rent",
+      "https://zeydo.fr/pricing",
+      "https://zeydo.fr/entreprises-pilotes"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/investir-ia-maintenant-ou-attendre-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1703349",
+      "auteur": "stevepb",
+      "url": "https://pixabay.com/photos/hourglass-money-time-investment-1703349/"
+    }
   }
 ]
