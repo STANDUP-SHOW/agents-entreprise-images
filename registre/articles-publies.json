@@ -12980,5 +12980,47 @@
       "auteur": "Bru-nO",
       "url": "https://pixabay.com/photos/network-edp-plug-patch-cord-4393372/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "pseudonymiser-anonymiser-donnees-avant-ia-cloud-pme",
+    "title": "Faut-il pseudonymiser les données avant de les confier à une IA dans le cloud ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : pseudonymiser ou anonymiser les données avant de les confier à une IA dans le cloud",
+    "question": "Faut-il pseudonymiser les données avant de les confier à une IA dans le cloud ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://www.cnil.fr/sites/default/files/2025-07/ia_liste_de_verification.pdf",
+    "solutions_comparees": [
+      "Google Cloud Sensitive Data Protection",
+      "Amazon Comprehend",
+      "Privasee",
+      "Octopize",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.cnil.fr/fr/technologies/lanonymisation-de-donnees-personnelles",
+      "https://www.cnil.fr/sites/default/files/2025-07/ia_liste_de_verification.pdf",
+      "https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2025/guidelines-012025-pseudonymisation_en",
+      "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+      "https://cloud.google.com/sensitive-data-protection/pricing",
+      "https://aws.amazon.com/comprehend/pricing/",
+      "https://privasee.fr",
+      "https://octopize.io/",
+      "https://octopize.io/mentions-legales",
+      "https://zeydo.fr/ai",
+      "https://zeydo.fr/local-ai",
+      "https://zeydo.fr/security",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/pseudonymiser-anonymiser-donnees-avant-ia-cloud-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2106924",
+      "auteur": "Geisteskerker",
+      "url": "https://pixabay.com/photos/bureaucracy-file-folder-paperwork-2106924/"
+    }
   }
 ]
