@@ -12299,5 +12299,26 @@
       "auteur": "Tho-Ge",
       "url": "https://pixabay.com/photos/server-technology-computer-7014547/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-1",
+    "slug": "etsy-revoit-clause-ia-vendeurs-ferment-boutiques",
+    "title": "Etsy va revoir sa clause IA après la fronde de vendeurs historiques",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Etsy – révision de la clause IA des conditions d'utilisation (20/11)",
+    "sources": [
+      "https://www.inquirer.com/business/etsy-artists-vendors-sellers-ai-policy-train-protest-20261121.html",
+      "https://www.engadget.com/2324090/etsy-not-use-seller-content-train-ai/",
+      "https://thenextweb.com/news/etsy-ai-terms-sellers-close-shops-revise-policy"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/etsy-revoit-clause-ia-vendeurs-ferment-boutiques.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1139047",
+      "auteur": "LubosHouska",
+      "url": "https://pixabay.com/photos/pottery-handmade-hands-cup-vase-1139047/"
+    }
   }
 ]
