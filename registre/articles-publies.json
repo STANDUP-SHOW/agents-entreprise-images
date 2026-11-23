@@ -12740,5 +12740,36 @@
       "auteur": "Erik_Lucatero",
       "url": "https://pixabay.com/photos/technology-smartphone-telephone-3353701/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "pie-startup-americaine-ia-clients-petits-commerces",
+    "title": "Pie, la startup qui trouve des clients aux petits commerces avec l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Sortie de l'ombre et série A de 19,5 M$ menée par Lightspeed (23,7 M$ au total), 30 juin 2026",
+    "startups": [
+      {
+        "nom": "Pie",
+        "site": "https://lsvp.com/company/pie/"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://globalventuring.com/corporate/information-technology/pie-raises-19-5m-to-expand-ai-platform-for-small-businesses/",
+      "https://siliconangle.com/2026/06/30/pie-launches-19-5m-bring-ai-marketing-small-businesses/",
+      "https://www.adexchanger.com/ai/this-startup-makes-sure-that-ai-tools-arent-out-of-reach-for-smbs",
+      "https://lsvp.com/company/pie/",
+      "https://www.partoo.co/fr/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/pie-startup-americaine-ia-clients-petits-commerces.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6797761",
+      "auteur": "mostafa_meraji",
+      "url": "https://pixabay.com/photos/barber-shop-job-work-iranian-6797761/"
+    }
   }
 ]
