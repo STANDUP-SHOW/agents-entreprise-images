@@ -12533,5 +12533,35 @@
       "auteur": "rohitdarbari",
       "url": "https://pixabay.com/photos/hdd-computer-laptop-storage-data-7880077/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "remedy-robotics-startup-americaine-robot-avc-a-distance",
+    "title": "Remedy Robotics : le robot qui veut soigner les AVC à distance",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Remedy Robotics",
+    "startups": [
+      {
+        "nom": "Remedy Robotics",
+        "site": "remedyrobotics.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/remedy-robotics-raises-62-million-series-b-for-cardiovascular-robotic-system-development/",
+      "https://itbrief.com.au/story/remedy-robotics-raises-usd-62-million-for-stroke-trials",
+      "https://www.dcvc.com/news-insights/remedys-ai-powered-robot-supports-worlds-first-remote-neurointervention",
+      "https://jobs.blackbird.vc/companies/remedy-robotics"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/remedy-robotics-startup-americaine-robot-avc-a-distance.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1807541",
+      "auteur": "sasint",
+      "url": "https://pixabay.com/photos/surgery-hospital-1807541/"
+    }
   }
 ]
