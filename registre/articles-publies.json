@@ -12650,5 +12650,35 @@
       "auteur": "rdelarosa0",
       "url": "https://pixabay.com/photos/taxes-bills-1040-woman-incomes-806396/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "bot-auto-startup-americaine-camions-autonomes-sans-chauffeur",
+    "title": "Bot Auto : le transporteur texan qui roule déjà sans chauffeur",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Bot Auto",
+    "startups": [
+      {
+        "nom": "Bot Auto",
+        "site": "bot.auto"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.freightwaves.com/?p=572675",
+      "https://www.truckinginfo.com/news/bot-auto-achieves-first-humanless-autonomous-truck-test-in-real-world-traffic",
+      "https://www.truckinginfo.com/news/tusimple-co-founder-launches-new-bot-auto-autonomous-trucking-venture",
+      "https://techcrunch.com/2024/10/02/tusimple-founder-xiaodi-hou-is-back-with-a-new-autonomous-truck-startup"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/bot-auto-startup-americaine-camions-autonomes-sans-chauffeur.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7642285",
+      "auteur": "MarcinZ83",
+      "url": "https://pixabay.com/photos/way-sky-clouds-street-forest-7642285/"
+    }
   }
 ]
