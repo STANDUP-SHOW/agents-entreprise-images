@@ -12362,5 +12362,27 @@
       "auteur": "KaweewatT",
       "url": "https://pixabay.com/photos/hand-box-finished-goods-5983143/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-1",
+    "slug": "holosolis-leve-15-millions-usine-solaire-moselle-2029",
+    "title": "HoloSolis lève 15 millions d'euros, son usine solaire décalée à 2029",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "HoloSolis – série A – plus de 15 M€ – production repoussée à 2029",
+    "sources": [
+      "http://www.pv-magazine.fr/2026/11/16/holosolis-leve-15-millions-deuros-et-accueille-quatre-nouveaux-actionnaires/",
+      "https://lenergeek.com/2026/11/20/holosolis-usine-solaire-hambach-retard-production-2029-20-novembre-2026-1333/",
+      "https://www.maddyness.com/2026/11/21/genesis-ai-propulse-les-levees-de-la-french-tech-a-526-millions-deuros-cette-semaine/",
+      "https://www.greenunivers.com/2024/10/holosolis-confirme-sa-levee-de-20-me-pour-la-fin-de-lannee-369750/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/holosolis-leve-15-millions-usine-solaire-moselle-2029.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8499901",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/solar-panel-solar-panels-8499901/"
+    }
   }
 ]
