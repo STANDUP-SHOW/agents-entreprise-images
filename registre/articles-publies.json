@@ -12854,5 +12854,47 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/apples-farmers-market-buy-buying-1841132/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-prise-de-rendez-vous-agenda-pme",
+    "title": "Un agent IA peut-il prendre les rendez-vous et tenir l'agenda d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : prise de rendez-vous et gestion d'agenda par un agent IA",
+    "question": "Un agent IA peut-il prendre les rendez-vous et tenir l'agenda d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.entreprises.gouv.fr/decryptages-de-nos-experts/intelligence-artificielle-et-artisanat-usages-conditions-de-reussite-et",
+    "solutions_comparees": [
+      "Calendly",
+      "Smith.ai",
+      "Microsoft Bookings",
+      "fonio.ai",
+      "Doctolib assistant téléphonique",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+      "https://www.entreprises.gouv.fr/decryptages-de-nos-experts/intelligence-artificielle-et-artisanat-usages-conditions-de-reussite-et",
+      "https://www.clubic.com/actualite-589885-fini-les-appels-sans-reponse-chez-le-medecin-grace-a-l-assistant-intelligent-de-doctolib.html",
+      "https://en-contact.com/in-france-doctolib-launches-its-ai-telephone-assistant-priced-at-euro99-per-month-including-vat",
+      "https://calendly.com/pricing",
+      "https://smith.ai/pricing/ai-receptionist",
+      "https://learn.microsoft.com/fr-fr/microsoft-365/bookings/bookings-overview",
+      "https://www.fonio.ai/fr/tarifs",
+      "https://zeydo.fr/agents/gestionnaire-d-agenda",
+      "https://zeydo.fr/agents/agent-planning-artisan",
+      "https://zeydo.fr/agents/agent-suivi-rendez-vous",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-prise-de-rendez-vous-agenda-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "792162",
+      "auteur": "kaboompics",
+      "url": "https://pixabay.com/photos/woman-write-notepad-girl-female-792162/"
+    }
   }
 ]
