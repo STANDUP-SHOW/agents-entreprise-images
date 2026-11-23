@@ -12592,5 +12592,35 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/analysis-analytics-business-charts-1841158/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "sixfold-startup-americaine-ia-souscription-assurance",
+    "title": "Sixfold : l'agent d'IA qui prépare le travail des souscripteurs",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Sixfold",
+    "startups": [
+      {
+        "nom": "Sixfold",
+        "site": "sixfold.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fintech.global/2026/01/30/insurtech-firm-sixfold-secures-30m-to-advance-ai-underwriting/",
+      "https://www.reinsurancene.ws/sixfold-introduces-ai-underwriter-to-support-insurance-underwriting-decisions/",
+      "https://www.semafor.com/article/05/24/2023/generative-ai-is-helping-figure-out-who-is-riskier-for-insurers",
+      "https://www.sixfold.ai/about-us"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sixfold-startup-americaine-ia-souscription-assurance.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "962355",
+      "auteur": "Edar",
+      "url": "https://pixabay.com/photos/business-signature-contract-962355/"
+    }
   }
 ]
