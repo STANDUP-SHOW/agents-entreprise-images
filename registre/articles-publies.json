@@ -12896,5 +12896,47 @@
       "auteur": "kaboompics",
       "url": "https://pixabay.com/photos/woman-write-notepad-girl-female-792162/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-traduction-courriers-export-pme",
+    "title": "Un agent IA peut-il traduire les courriers et documents d'une PME qui exporte ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : traduction et correspondance export par un agent IA",
+    "question": "Un agent IA peut-il traduire les courriers et documents d'une PME qui exporte ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.deepl.com/fr/press-release/manual_translation_processes_still_stifling_enterprises_despite_surge_in_ai_spending",
+    "solutions_comparees": [
+      "Google Cloud Translation",
+      "Claude Team",
+      "DeepL",
+      "SYSTRAN",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.entreprises.gouv.fr/espace-presse/barometre-france-num-2026-quatre-tpe-pme-sur-dix-utilisent-desormais-lintelligence",
+      "https://www.deepl.com/fr/press-release/manual_translation_processes_still_stifling_enterprises_despite_surge_in_ai_spending",
+      "https://www.deepl.com/fr/pro",
+      "https://www.deepl.com/en/publisher",
+      "https://www.systran.net/en/",
+      "https://www.systran.net/fr/a-propos/",
+      "https://cloud.google.com/translate/pricing",
+      "https://claude.com/pricing",
+      "https://zeydo.fr/agents/traducteur-generaliste",
+      "https://zeydo.fr/agents/traducteur-technique",
+      "https://zeydo.fr/agents/traducteur-support-client",
+      "https://zeydo.fr/agents/gestionnaire-administration-des-ventes-export",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-traduction-courriers-export-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8227429",
+      "auteur": "beasternchen",
+      "url": "https://pixabay.com/photos/eyeglasses-world-map-map-8227429/"
+    }
   }
 ]
