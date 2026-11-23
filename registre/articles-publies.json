@@ -12503,5 +12503,35 @@
       "auteur": "Tumisu",
       "url": "https://pixabay.com/photos/meeting-conference-laptop-interview-5817031/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "lancedb-startup-americaine-donnees-multimodales-ia",
+    "title": "LanceDB : la startup qui range les données multimédias de l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup LanceDB",
+    "startups": [
+      {
+        "nom": "LanceDB",
+        "site": "lancedb.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://siliconangle.com/?p=854396",
+      "https://www.bvp.com/news/lancedb-the-data-layer-for-multimodal-ai",
+      "https://lancedb.com/blog/series-a-funding",
+      "https://www.ycombinator.com/companies/lancedb"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/lancedb-startup-americaine-donnees-multimodales-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7880077",
+      "auteur": "rohitdarbari",
+      "url": "https://pixabay.com/photos/hdd-computer-laptop-storage-data-7880077/"
+    }
   }
 ]
