@@ -12384,5 +12384,27 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/solar-panel-solar-panels-8499901/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-1",
+    "slug": "mountain-leve-7-3-millions-ia-embarquee-microcontroleurs",
+    "title": "MountAIn lève 7,3 millions d'euros pour l'IA sur microcontrôleurs",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "MountAIn – amorçage – 7,3 M€",
+    "sources": [
+      "https://www.frenchweb.fr/mountain-de-la-demonstration-a-l-usine-le-vrai-test-de-l-ia-embarquee/900000053",
+      "https://www.briefia.fr/article/mountain-leve-7-3-m-pour-commercialiser-son-ia-embarquee",
+      "https://unite.ai/fr/mountain-raises-7-3m-seed-to-commercialize-mountaincore",
+      "https://www.maddyness.com/2026/11/21/genesis-ai-propulse-les-levees-de-la-french-tech-a-526-millions-deuros-cette-semaine/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mountain-leve-7-3-millions-ia-embarquee-microcontroleurs.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8499928",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/woman-engineer-tech-electronics-8499928/"
+    }
   }
 ]
