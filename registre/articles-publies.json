@@ -12622,5 +12622,33 @@
       "auteur": "Edar",
       "url": "https://pixabay.com/photos/business-signature-contract-962355/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "accountable-startup-americaine-declaration-impots-recu-fiscal",
+    "title": "Accountable : la startup qui veut remettre un reçu aux contribuables",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Accountable",
+    "startups": [
+      {
+        "nom": "Accountable",
+        "site": "non communiqué"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/accountable-raises-20-million-to-launch-consumer-tax-filing-and-civic-platform/",
+      "https://www.alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-16-2026/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/accountable-startup-americaine-declaration-impots-recu-fiscal.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "806396",
+      "auteur": "rdelarosa0",
+      "url": "https://pixabay.com/photos/taxes-bills-1040-woman-incomes-806396/"
+    }
   }
 ]
