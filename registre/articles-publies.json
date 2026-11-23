@@ -12449,5 +12449,27 @@
       "auteur": "lrobertson",
       "url": "https://pixabay.com/photos/switch-technology-industry-server-3297900/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-1",
+    "slug": "apple-agent-ia-computer-use-offre-emploi-mac",
+    "title": "Apple prépare son propre agent IA capable d'utiliser un Mac",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Offre d'emploi Apple « Agentic AI – Proactive » : agent computer use maison visé fin 2027 (Bloomberg, 19/11/2026)",
+    "sources": [
+      "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "https://9to5mac.com/2026/11/19/report-apple-job-listings-detail-plans-for-autonomous-ai-agents/",
+      "https://technologymagazine.com/news/apple-job-listing-reveals-plans-for-in-house-agentic-ai-tool",
+      "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-working-ai-assistant-users-181254886.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/apple-agent-ia-computer-use-offre-emploi-mac.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1850613",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/notebook-typing-coffee-computer-1850613/"
+    }
   }
 ]
