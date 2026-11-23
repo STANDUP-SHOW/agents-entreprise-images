@@ -12710,5 +12710,35 @@
       "auteur": "expresswriters",
       "url": "https://pixabay.com/photos/influencer-writing-girl-woman-4081842/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "spangle-ai-startup-americaine-vitrines-e-commerce-ia",
+    "title": "Spangle AI, la startup qui adapte chaque vitrine en ligne avec l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Série A de 15 M$ menée par NewRoad Capital Partners, valorisation 100 M$, 8 janvier 2026",
+    "startups": [
+      {
+        "nom": "Spangle AI",
+        "site": "https://www.spangle.ai/"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.geekwire.com/2026/former-amazon-execs-raise-15m-for-agentic-commerce-startup-that-uses-ai-to-generate-custom-storefronts/",
+      "https://www.digitalcommerce360.com/2026/01/08/spangle-ai-15-million-funding-agentic-infrastructure/",
+      "https://www.spangle.ai/",
+      "https://www.algolia.com/about"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/spangle-ai-startup-americaine-vitrines-e-commerce-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3353701",
+      "auteur": "Erik_Lucatero",
+      "url": "https://pixabay.com/photos/technology-smartphone-telephone-3353701/"
+    }
   }
 ]
