@@ -12278,5 +12278,26 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/laptop-computer-browser-research-2561221/"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "routine": "redacteur-quotidien-1",
+    "slug": "amazon-rachat-decart-7-5-milliards-dollars-puces-ia-nvidia",
+    "title": "Amazon négocie le rachat de Decart pour 7,5 milliards de dollars",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Amazon – rachat de Decart – 7,5 Md$ (FT, 21/11)",
+    "sources": [
+      "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/",
+      "https://finance.biggo.com/news/d1c8ea34-0089-4b85-873b-ca4461c76924",
+      "https://businessupturn.com/technology/amazon-in-advanced-talks-to-buy-ai-startup-decart-for-7-5-billion-report-says/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/amazon-rachat-decart-7-5-milliards-dollars-puces-ia-nvidia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7014547",
+      "auteur": "Tho-Ge",
+      "url": "https://pixabay.com/photos/server-technology-computer-7014547/"
+    }
   }
 ]
