@@ -13152,5 +13152,26 @@
       "auteur": "PublicDomainPictures",
       "url": "https://pixabay.com/photos/agent-business-call-center-18741/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-1",
+    "slug": "agon-leve-70-millions-dollars-ia-defense-simulation-northzone",
+    "title": "Agon lève 70 millions de dollars pour bâtir l'IA de défense européenne",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Agon – série A – 70 M$ – valorisation 450 M$ (Northzone) – 23/11/2026",
+    "sources": [
+      "https://techfundingnews.com/agon-raises-70m-at-450m-valuation-led-by-northzone-to-build-europes-defence-ai-lab/",
+      "https://www.tectonicdefense.com/first-look-agon-raises-70m-series-a/",
+      "https://www.unite.ai/agon-raises-70m-series-a-at-450m-valuation-to-build-defence-ai-lab/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agon-leve-70-millions-dollars-ia-defense-simulation-northzone.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3198324",
+      "auteur": "2780243",
+      "url": "https://pixabay.com/photos/drone-flying-drone-quadrocopter-3198324/"
+    }
   }
 ]
