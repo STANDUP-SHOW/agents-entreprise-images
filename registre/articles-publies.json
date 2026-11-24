@@ -13109,5 +13109,27 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/architecture-building-infrastructure-2567567/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-1",
+    "slug": "slush-2026-capital-risque-europeen-investisseurs-selectifs",
+    "title": "Slush 2026 : un capital-risque européen riche mais plus sélectif",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Slush 2026 (Helsinki) – moral des investisseurs et rapport Atomico State of European Tech 2026",
+    "sources": [
+      "https://www.maddyness.com/2026/11/23/entre-febrilite-et-enthousiasme-le-drole-de-moral-des-vc-a-helsinki/",
+      "https://www.maddyness.com/2026/11/23/1-participant-sur-4-est-un-investisseur-slush-leldorado-europeen-des-startups-pour-lever-des-fonds/",
+      "https://en.ilsole24ore.com/art/tech-start-ups-in-europe-a-record-40000-new-founders-AJVHNnJC",
+      "https://tech.eu/2026/11/18/investment-in-european-startups-surges-to-81bn-but-capital-concentration-is-a-challenge-for-startups-says-atomico/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/slush-2026-capital-risque-europeen-investisseurs-selectifs.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2626052",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/business-conference-presentation-2626052/"
+    }
   }
 ]
