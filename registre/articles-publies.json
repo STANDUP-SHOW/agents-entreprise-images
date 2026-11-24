@@ -13434,5 +13434,35 @@
       "auteur": "Javad_esmaeili",
       "url": "https://pixabay.com/photos/electrician-man-worker-6491533/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "uplinq-startup-americaine-comptabilite-ia-petites-entreprises",
+    "title": "Uplinq : la comptabilité par IA revue par des experts pour les PME",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Uplinq",
+    "startups": [
+      {
+        "nom": "Uplinq",
+        "site": "uplinq.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fintech.global/?p=202211",
+      "https://inbusinessphx.com/technology-innovation/ai-driven-bookkeeping-platform-secures-10m-series-a-funding",
+      "https://www.uplinq.com/post/uplinq-secures-10-million-series-a-to-revolutionize-ai-powered-bookkeeping-and-tax-solutions-for-smbs",
+      "https://www.uplinq.com"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/uplinq-startup-americaine-comptabilite-ia-petites-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "256312",
+      "auteur": "jarmoluk",
+      "url": "https://pixabay.com/photos/money-bills-calculator-to-save-256312/"
+    }
   }
 ]
