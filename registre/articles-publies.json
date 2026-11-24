@@ -13710,5 +13710,43 @@
       "auteur": "u_c3dlob4ax4",
       "url": "https://pixabay.com/photos/warehouse-storage-logistics-10217268/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-repondre-questionnaires-rse-bilan-carbone-pme",
+    "title": "Un agent IA peut-il répondre aux questionnaires RSE des clients d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : agent IA pour les questionnaires RSE des clients et le bilan carbone (VSME)",
+    "question": "Un agent IA peut-il répondre aux questionnaires RSE des clients et préparer le bilan carbone d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://hayot-expertise.fr/blog/questionnaire-esg-donneur-ordre-pme-fournisseur",
+    "solutions_comparees": [
+      "Persefoni",
+      "Watershed",
+      "Greenly",
+      "Toovalu",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.entreprises.cci-paris-idf.fr/actualites/csrd-votre-entreprise-est-elle-toujours-concernee",
+      "https://finance.ec.europa.eu/publications/questions-and-answers-recommendation-voluntary-sustainability-reporting-standard-small-and-medium_en",
+      "https://www.sami.eco/",
+      "https://www.persefoni.com/pricing",
+      "https://watershed.com/",
+      "https://greenly.earth/fr-fr",
+      "https://www.toovalu.com/",
+      "https://zeydo.fr/agents/agent-reporting-carbone",
+      "https://zeydo.fr/agents/responsable-rse"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-repondre-questionnaires-rse-bilan-carbone-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1730665",
+      "auteur": "saweang",
+      "url": "https://pixabay.com/photos/person-employee-construct-labor-1730665/"
+    }
   }
 ]
