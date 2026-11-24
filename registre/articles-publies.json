@@ -13066,5 +13066,27 @@
       "auteur": "stevepb",
       "url": "https://pixabay.com/photos/hourglass-money-time-investment-1703349/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-1",
+    "slug": "nvidia-rappelle-jensen-huang-pdg-revirement-gouvernance",
+    "title": "Nvidia rappelle Jensen Huang à sa tête : les leçons d'un revirement",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Nvidia – réintégration de Jensen Huang comme PDG – 23/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/23/nvidia-reverses-course-reinstating-jensen-huang-as-ceo-president-and-director/",
+      "https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674",
+      "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102",
+      "https://www.maddyness.com/2026/11/23/nouveau-rebondissement-chez-nvidia-jensen-huang-retabli-a-son-poste-de-pdg/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/nvidia-rappelle-jensen-huang-pdg-revirement-gouvernance.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2181951",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/chairs-conference-room-furniture-2181951/"
+    }
   }
 ]
