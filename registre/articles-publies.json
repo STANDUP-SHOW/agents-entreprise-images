@@ -13551,5 +13551,35 @@
       "auteur": "sergeitokmakov",
       "url": "https://pixabay.com/photos/stock-trading-investing-stock-market-6525083/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-vapi-agents-vocaux-factures-a-la-minute",
+    "title": "Business model de Vapi : les agents vocaux IA facturés à la minute",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse business model Vapi",
+    "startups": [
+      {
+        "nom": "Vapi",
+        "site": "vapi.ai"
+      }
+    ],
+    "theme": "business model Vapi : hébergement facturé à la minute, modèles d'IA à prix coûtant et forfaits de service",
+    "sources": [
+      "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "https://pulse2.com/vapi-raises-50-million-series-b-after-reaching-one-billion-calls-on-its-enterprise-voice-ai-platform/",
+      "https://thenextweb.com/news/vapi-50m-series-b",
+      "https://vapi.ai/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-vapi-agents-vocaux-factures-a-la-minute.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1120755",
+      "auteur": "AllClear55",
+      "url": "https://pixabay.com/photos/support-service-operator-woman-work-1120755/"
+    }
   }
 ]
