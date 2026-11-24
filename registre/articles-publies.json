@@ -13581,5 +13581,57 @@
       "auteur": "AllClear55",
       "url": "https://pixabay.com/photos/support-service-operator-woman-work-1120755/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-fintechs-clienteles-de-niche-2026-11-24",
+    "title": "5 fintechs américaines bâties sur une clientèle de niche, à suivre",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Inspiration américaine : 5 fintechs de niche",
+    "startups": [
+      {
+        "nom": "Karta",
+        "site": "non communiqué"
+      },
+      {
+        "nom": "Félix",
+        "site": "felixpago.com"
+      },
+      {
+        "nom": "GrabrFi",
+        "site": "grabrfi.com"
+      },
+      {
+        "nom": "Sunbound",
+        "site": "sunbound.ai"
+      },
+      {
+        "nom": "Imprint",
+        "site": "imprint.co"
+      }
+    ],
+    "theme": "fintechs bâties sur une clientèle de niche mal servie par les banques",
+    "sources": [
+      "https://fortune.com/2026/06/17/karta-15-million-whatsapp-run-us-credit-cards-global-travelers/",
+      "https://refreshmiami.com/news/karta-raises-140m-to-bring-u-s-credit-cards-to-global-travelers/",
+      "https://finovate.com/cross-border-money-transfer-outfit-felix-raises-200-million/",
+      "https://pulse2.com/felix-raises-200-million-series-c-led-by-andreessen-horowitz/amp/",
+      "https://pulse2.com/grabrfi-raises-6-million-after-processing-more-than-1-billion-in-payments/",
+      "https://grabrfi.com/",
+      "https://www.prnewswire.com/news-releases/sunbound-acquires-richter-healthcare-consultants-bringing-decades-of-financial-trust-and-expertise-in-senior-living-revenue-management-to-sunbounds-technology-platform-302909212.html",
+      "https://www.thesaasnews.com/news/sunbound-raises-24m-series-a",
+      "https://www.siliconrepublic.com/start-ups/imprint-becomes-latest-irish-founded-unicorn-with-150m-series-d-raise",
+      "https://www.techcompanynews.com/imprint-raises-150-million-in-series-d-funding-round/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-fintechs-clienteles-de-niche-2026-11-24.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "941246",
+      "auteur": "TBIT",
+      "url": "https://pixabay.com/photos/bank-notes-dollar-us-dollars-usd-941246/"
+    }
   }
 ]
