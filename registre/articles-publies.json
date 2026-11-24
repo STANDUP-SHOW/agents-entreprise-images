@@ -13748,5 +13748,43 @@
       "auteur": "saweang",
       "url": "https://pixabay.com/photos/person-employee-construct-labor-1730665/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "commencer-ia-cloud-passer-local-plus-tard-pme",
+    "title": "Peut-on commencer l'IA dans le cloud et passer en local plus tard dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : démarrer l'IA dans le cloud puis migrer en local ou en hybride sans tout refaire",
+    "question": "Peut-on commencer l'IA dans le cloud et passer en local plus tard sans tout refaire ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://www.maddyness.com/2026/05/28/lia-est-en-train-de-casser-le-dogme-du-tout-cloud/",
+    "solutions_comparees": [
+      "Claude Team",
+      "Ollama",
+      "Mistral AI",
+      "OVHcloud AI Endpoints",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.maddyness.com/2026/05/28/lia-est-en-train-de-casser-le-dogme-du-tout-cloud/",
+      "https://claude.com/pricing",
+      "https://ollama.com/pricing",
+      "https://docs.ollama.com/api/openai-compatibility",
+      "https://mistral.ai/pricing",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://zeydo.fr/local-ai",
+      "https://zeydo.fr/ai"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/commencer-ia-cloud-passer-local-plus-tard-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2588137",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/glass-reflection-lights-door-stock-2588137/"
+    }
   }
 ]
