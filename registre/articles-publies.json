@@ -13375,5 +13375,34 @@
       "auteur": "ilaria88",
       "url": "https://pixabay.com/photos/airport-trip-suitcases-movement-1503332/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "askari-defense-startup-americaine-intercepteurs-anti-drones",
+    "title": "Askari Defense : des intercepteurs anti-drones lancés à la main",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Askari Defense",
+    "startups": [
+      {
+        "nom": "Askari Defense",
+        "site": "askaridefense.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.tectonicdefense.com/hand-launched-interceptor-startup-askari-raises-9m-seed/",
+      "https://www.hypepotamus.com/askari-defense-launches-in-atlanta/",
+      "https://www.cbinsights.com/company/askari-defense"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/askari-defense-startup-americaine-intercepteurs-anti-drones.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "60761",
+      "auteur": "ArmyAmber",
+      "url": "https://pixabay.com/photos/heart-soldier-military-uniform-60761/"
+    }
   }
 ]
