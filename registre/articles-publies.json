@@ -13236,5 +13236,26 @@
       "auteur": "jarmoluk",
       "url": "https://pixabay.com/photos/padlock-locked-secured-lock-428549/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-1",
+    "slug": "openai-cisco-shirudo-agents-ia-bouclier-failles-linux",
+    "title": "OpenAI et Cisco lancent Shirudo, un bouclier conçu par des agents IA",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "OpenAI et Cisco lancent Shirudo (boucliers eBPF générés par agents) – 23/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/",
+      "https://www.unite.ai/openai-launches-shirudo-to-protect-running-linux-systems/",
+      "https://openai.com/index/introducing-shirudo"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/openai-cisco-shirudo-agents-ia-bouclier-failles-linux.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "838384",
+      "auteur": "blickpixel",
+      "url": "https://pixabay.com/photos/it-server-server-cabinet-network-838384/"
+    }
   }
 ]
