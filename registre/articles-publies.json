@@ -13316,5 +13316,35 @@
       "auteur": "kepinator",
       "url": "https://pixabay.com/photos/metallurgy-a-ferro-alloy-2932943/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "envive-startup-americaine-agents-ia-e-commerce",
+    "title": "Envive : des agents IA entraînés sur mesure pour les marques en ligne",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Envive",
+    "startups": [
+      {
+        "nom": "Envive",
+        "site": "envive.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.geekwire.com/2025/commerce-is-entering-the-agentic-era-envive-raises-15m-to-build-ai-agents-for-online-retailers/",
+      "https://www.digitalcommerce360.com/2025/09/29/envive-ai-15-million-series-a-funding/",
+      "https://pitchbook.com/profiles/company/541597-33",
+      "https://www.envive.ai"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/envive-startup-americaine-agents-ia-e-commerce.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6796399",
+      "auteur": "boutiquegirlish21",
+      "url": "https://pixabay.com/photos/boutique-clothing-store-fashion-6796399/"
+    }
   }
 ]
