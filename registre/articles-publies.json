@@ -13215,5 +13215,26 @@
       "auteur": "Alltechbuzz_net",
       "url": "https://pixabay.com/photos/programmer-code-programming-coding-4523101/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-1",
+    "slug": "aws-strands-decider-v2-agents-ia-decisions-bac-a-sable",
+    "title": "AWS Strands Decider v2 : des agents IA moins chers et mieux encadrés",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "AWS publie Strands Decider v2 et Box CLI pour Strands Box – 23/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/23/aws-is-making-ai-agents-more-decisive-and-secure-with-its-latest-strands-updates/",
+      "https://www.unite.ai/aws-releases-strands-decider-v2-and-sandboxes-more-coding-agents/",
+      "https://thelettertwo.com/2026/11/23/aws-strands-decider-v2-strands-box/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/aws-strands-decider-v2-agents-ia-decisions-bac-a-sable.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "428549",
+      "auteur": "jarmoluk",
+      "url": "https://pixabay.com/photos/padlock-locked-secured-lock-428549/"
+    }
   }
 ]
