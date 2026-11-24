@@ -13521,5 +13521,35 @@
       "auteur": "evertonpestana",
       "url": "https://pixabay.com/photos/datacenter-servers-computers-286386/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "compute-desk-startup-americaine-marche-puissance-calcul-gpu",
+    "title": "Compute Desk : la start-up qui veut coter l'heure de calcul GPU",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Compute Desk",
+    "startups": [
+      {
+        "nom": "Compute Desk",
+        "site": "computedesk.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/compute-desk-raises-45-million-to-build-compute-risk-markets/",
+      "https://thesaasnews.com/news/compute-desk-raises-45m-other",
+      "https://pitchbook.com/profiles/company/1230629-59",
+      "https://computedesk.com"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/compute-desk-startup-americaine-marche-puissance-calcul-gpu.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6525083",
+      "auteur": "sergeitokmakov",
+      "url": "https://pixabay.com/photos/stock-trading-investing-stock-market-6525083/"
+    }
   }
 ]
