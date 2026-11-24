@@ -13173,5 +13173,26 @@
       "auteur": "2780243",
       "url": "https://pixabay.com/photos/drone-flying-drone-quadrocopter-3198324/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-1",
+    "slug": "marlowe-leve-277-millions-dollars-inference-ia-puces-alternatives-nvidia",
+    "title": "Marlowe lève 277 millions de dollars pour défier Nvidia sur l'IA",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Marlowe – amorçage – 277 M$ – valorisation 1,15 Md$ (Accel) – 23/11/2026",
+    "sources": [
+      "https://mlq.ai/news/marlowe-raises-a-277-million-seed-round-led-by-accel-to-run-ai-inference-on-non-nvidia-chips/",
+      "https://ventureburn.com/marlowe-raises-277-million-challenge-nvidia-ai-hardware/",
+      "https://www.accel.com/news/our-investment-in-marlowe-the-multi-silicon-ai-factory"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/marlowe-leve-277-millions-dollars-inference-ia-puces-alternatives-nvidia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2160321",
+      "auteur": "Schäferle",
+      "url": "https://pixabay.com/photos/server-space-the-server-room-dark-2160321/"
+    }
   }
 ]
