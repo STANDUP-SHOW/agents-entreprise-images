@@ -13131,5 +13131,26 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/business-conference-presentation-2626052/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-1",
+    "slug": "sierra-leve-1-75-milliard-dollars-valorisation-30-milliards",
+    "title": "Sierra lève 1,75 milliard de dollars et vaut désormais 30 milliards",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Sierra – série F – 1,75 Md$ – valorisation 30 Md$ – 23/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/",
+      "https://thenextweb.com/news/sierra-1-75b-series-f-30b-valuation-ai-agents",
+      "https://www.trendingtopics.eu/sierra-ai-agents-funding-30-billion/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sierra-leve-1-75-milliard-dollars-valorisation-30-milliards.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "18741",
+      "auteur": "PublicDomainPictures",
+      "url": "https://pixabay.com/photos/agent-business-call-center-18741/"
+    }
   }
 ]
