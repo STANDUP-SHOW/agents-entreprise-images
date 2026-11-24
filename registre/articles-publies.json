@@ -13194,5 +13194,26 @@
       "auteur": "Schäferle",
       "url": "https://pixabay.com/photos/server-space-the-server-room-dark-2160321/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-1",
+    "slug": "anthropic-claude-ship-agents-ia-relecture-approbation-code",
+    "title": "Claude Ship : Anthropic confie à ses agents IA l'approbation du code",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Anthropic lance Claude Ship (relecture, correction, approbation de PR) – 23/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/23/anthropics-claude-ship-automates-the-final-stage-of-the-software-development-pipeline/",
+      "https://www.unite.ai/anthropic-launches-claude-ship-to-review-fix-and-approve-prs/",
+      "https://www.trendingtopics.eu/claude-ship-anthropic-code-approval/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/anthropic-claude-ship-agents-ia-relecture-approbation-code.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4523101",
+      "auteur": "Alltechbuzz_net",
+      "url": "https://pixabay.com/photos/programmer-code-programming-coding-4523101/"
+    }
   }
 ]
