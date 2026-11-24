@@ -75,3 +75,7 @@ LanceDB (SF 2022, série B de 57,5 M$, jamais en fiche), Arva AI (si siège clar
 - Bloquées : musicbusinessworldwide, phocuswire, bizjournals, forbes, legifrance (403), aiweekly (521), msn (vide). lancedb.com/pricing redirige vers un formulaire de contact.
 - Photos refusées : logos ou marques visibles (Apple, Twitter, 3com, VAIO, LG, emballage de scierie, matériel de cuisine de marque), illustration vectorielle, rendus 3D ou d'aspect généré par IA, icônes de navigateur dans une barre des tâches.
 - DatacenterDynamics mentionne par erreur un « tour d'amorçage de 3,5 Md$ » pour Luminal ; ce chiffre n'a pas été repris.
+
+## Suivi du 24/11
+
+- Couverture Sequel.io remplacée par la photo 1597531 (crystal710) avec l'accord de max ; même URL, registre mis à jour. Le crédit photo dans le texte de l'article cite encore jhenning : le connecteur refuse de modifier un article déjà publié.
