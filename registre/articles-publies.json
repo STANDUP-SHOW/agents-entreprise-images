@@ -13286,5 +13286,35 @@
       "auteur": "newarta",
       "url": "https://pixabay.com/photos/eye-care-eye-consult-doctor-5016057/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "general-flash-startup-americaine-metaux-critiques-raffinage",
+    "title": "General Flash : la start-up qui veut raffiner les métaux rares aux USA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup General Flash",
+    "startups": [
+      {
+        "nom": "General Flash",
+        "site": "non communiqué"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/general-flash-raises-128-million-to-scale-u-s-critical-metals-production/",
+      "https://www.credenceresearch.com/news/general-flash-raises-128-million-us-critical-metals-refining-flash-electrolysis",
+      "https://axios.com/2026/11/17/general-flash-critical-metals",
+      "https://techstartups.com/2026/11/18/startup-funding-news-today-november-18-2026-isomorphic-labs-genesis-ai-model-ml-science-corporation-vincue-more/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/general-flash-startup-americaine-metaux-critiques-raffinage.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2932943",
+      "auteur": "kepinator",
+      "url": "https://pixabay.com/photos/metallurgy-a-ferro-alloy-2932943/"
+    }
   }
 ]
