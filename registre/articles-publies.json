@@ -13257,5 +13257,34 @@
       "auteur": "blickpixel",
       "url": "https://pixabay.com/photos/it-server-server-cabinet-network-838384/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "science-corporation-startup-americaine-implant-retinien-vision",
+    "title": "Science Corporation : la medtech californienne qui veut rendre la vue",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Science Corporation",
+    "startups": [
+      {
+        "nom": "Science Corporation",
+        "site": "science.xyz"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/?p=3189451",
+      "https://techcrunch.com/2026/03/05/science-corp-closes-230m-round-as-it-pushes-to-get-its-brain-implant-to-patients/",
+      "https://techstartups.com/2026/11/18/startup-funding-news-today-november-18-2026-isomorphic-labs-genesis-ai-model-ml-science-corporation-vincue-more/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/science-corporation-startup-americaine-implant-retinien-vision.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5016057",
+      "auteur": "newarta",
+      "url": "https://pixabay.com/photos/eye-care-eye-consult-doctor-5016057/"
+    }
   }
 ]
