@@ -13493,5 +13493,33 @@
       "auteur": "12019",
       "url": "https://pixabay.com/photos/pentagon-washington-dc-military-80394/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "mount-thor-startup-americaine-cloud-mac-agents-ia",
+    "title": "Mount Thor : un cloud de Mac pour faire travailler les agents IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Mount Thor",
+    "startups": [
+      {
+        "nom": "Mount Thor",
+        "site": "mountthor.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/mount-thor-45-million-in-funding-to-build-agentic-ai-cloud-infrastructure-powered-by-apple-silicon/",
+      "https://mountthor.com"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mount-thor-startup-americaine-cloud-mac-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "286386",
+      "auteur": "evertonpestana",
+      "url": "https://pixabay.com/photos/datacenter-servers-computers-286386/"
+    }
   }
 ]
