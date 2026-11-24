@@ -13404,5 +13404,35 @@
       "auteur": "ArmyAmber",
       "url": "https://pixabay.com/photos/heart-soldier-military-uniform-60761/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "probook-startup-americaine-ia-dispatch-artisans",
+    "title": "Probook : l'IA qui répartit les interventions des artisans dépanneurs",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Probook",
+    "startups": [
+      {
+        "nom": "Probook",
+        "site": "probook.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fortune.com/2026/06/23/exclusive-this-startup-wants-to-be-the-ai-brain-for-home-services-and-it-just-raised-40-million-from-sequoia-and-a16z/",
+      "https://sequoiacap.com/article/partnering-with-probook-ai-for-the-trades",
+      "https://a16z.com/announcement/investing-in-probook/",
+      "https://www.contractingbusiness.com/industry-news/news/55386309/probook-secures-40-million-to-expand-ai-for-home-services"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/probook-startup-americaine-ia-dispatch-artisans.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6491533",
+      "auteur": "Javad_esmaeili",
+      "url": "https://pixabay.com/photos/electrician-man-worker-6491533/"
+    }
   }
 ]
