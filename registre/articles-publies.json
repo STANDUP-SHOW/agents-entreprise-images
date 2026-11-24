@@ -13672,5 +13672,43 @@
       "auteur": "Fotorech",
       "url": "https://pixabay.com/photos/man-cell-phone-tuxedo-entrepreneur-2635036/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-evaluer-solvabilite-clients-encours-pme",
+    "title": "Un agent IA peut-il évaluer la solvabilité des clients d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : agent IA pour évaluer la solvabilité des clients et suivre les encours",
+    "question": "Un agent IA peut-il évaluer la solvabilité des clients d'une PME avant d'accorder un délai de paiement ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.shine.fr/blog/verification-solvabilite-client/",
+    "solutions_comparees": [
+      "HighRadius",
+      "Tesorio",
+      "Ellisphere",
+      "Creditsafe",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://tpeactu.fr/2026/10/13/defaillances-entreprises-t3-2026-altares-tpe/",
+      "https://entreprendre.service-public.fr/vosdroits/F23211",
+      "https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/information/",
+      "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R1689",
+      "https://www.highradius.com/product/credit-risk-management-software/",
+      "https://www.tesorio.com/",
+      "https://www.ellisphere.com/",
+      "https://www.creditsafe.com/fr/fr.html",
+      "https://zeydo.fr/agents/gestionnaire-credits-clients"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-evaluer-solvabilite-clients-encours-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "10217268",
+      "auteur": "u_c3dlob4ax4",
+      "url": "https://pixabay.com/photos/warehouse-storage-logistics-10217268/"
+    }
   }
 ]
