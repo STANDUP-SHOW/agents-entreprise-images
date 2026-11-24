@@ -13786,5 +13786,44 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/glass-reflection-lights-door-stock-2588137/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "eviter-salaries-perdent-savoir-faire-ia-pme",
+    "title": "Comment éviter que les salariés d'une PME perdent leur savoir-faire avec l'IA ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": null,
+    "question": "Comment éviter que mes salariés perdent leur savoir-faire si l'IA fait le travail à leur place ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://www.unedic.org/actualites/plus-quune-destruction-massive-des-emplois-lia-presente-des-risques-pour-la-qualite-du-travail",
+    "solutions_comparees": [
+      "ChatGPT mode étude (OpenAI)",
+      "Claude mode d'apprentissage (Anthropic)",
+      "360Learning",
+      "Didask",
+      "ZeyDo (Assistant formation AG-0136)"
+    ],
+    "sources": [
+      "https://www.news-medical.net/news/20250813/AI-use-in-colonoscopy-may-weaken-doctors-detection-skills-over-time.aspx",
+      "https://www.microsoft.com/en-us/research/?p=1135061",
+      "https://www.unedic.org/actualites/plus-quune-destruction-massive-des-emplois-lia-presente-des-risques-pour-la-qualite-du-travail",
+      "https://openai.com/index/chatgpt-study-mode/",
+      "https://www.anthropic.com/news/introducing-claude-for-education",
+      "https://360learning.com/fr/",
+      "https://www.didask.com/tarifs",
+      "https://zeydo.fr/agents/assistant-formation-ressources-humaines",
+      "https://zeydo.fr/security",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/eviter-salaries-perdent-savoir-faire-ia-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2649775",
+      "auteur": "rcrobinson110",
+      "url": "https://pixabay.com/photos/shop-mentor-construction-saw-2649775/"
+    }
   }
 ]
