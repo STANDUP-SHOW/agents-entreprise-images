@@ -13346,5 +13346,34 @@
       "auteur": "boutiquegirlish21",
       "url": "https://pixabay.com/photos/boutique-clothing-store-fashion-6796399/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "karta-startup-americaine-carte-credit-voyageurs-internationaux",
+    "title": "Karta : la fintech de Miami qui prête aux clients étrangers fortunés",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Karta",
+    "startups": [
+      {
+        "nom": "Karta",
+        "site": "non communiqué"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://fortune.com/2026/06/17/karta-15-million-whatsapp-run-us-credit-cards-global-travelers/",
+      "https://refreshmiami.com/news/karta-raises-140m-to-bring-u-s-credit-cards-to-global-travelers/",
+      "https://refreshmiami.com/news/karta-raises-5-4m-seed-round-launches-premium-credit-card-for-non-residents/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/karta-startup-americaine-carte-credit-voyageurs-internationaux.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1503332",
+      "auteur": "ilaria88",
+      "url": "https://pixabay.com/photos/airport-trip-suitcases-movement-1503332/"
+    }
   }
 ]
