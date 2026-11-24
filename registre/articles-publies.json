@@ -11904,9 +11904,14 @@
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sequel-startup-americaine-webinaires-donnees-clients.webp",
     "photo": {
       "plateforme": "Pixabay",
-      "id": "7978588",
-      "auteur": "jhenning",
-      "url": "https://pixabay.com/photos/laptop-conference-table-mouse-work-7978588/"
+      "id": "1597531",
+      "auteur": "crystal710",
+      "url": "https://pixabay.com/photos/event-venue-auditorium-meeting-1597531/"
+    },
+    "photo_remplacee": {
+      "date": "2026-11-24",
+      "ancienne": "7978588",
+      "raison": "photo déjà utilisée le 18/11, remplacement validé par max"
     }
   },
   {
