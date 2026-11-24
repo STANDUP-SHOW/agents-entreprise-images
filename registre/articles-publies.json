@@ -13088,5 +13088,26 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/chairs-conference-room-furniture-2181951/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-1",
+    "slug": "wat-garage-thibaud-elziere-bruxelles-200-startups-europeennes",
+    "title": "WAT(garage) : Thibaud Elzière veut réunir 200 startups à Bruxelles",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "WAT(garage) – programme de Thibaud Elzière pour 200 entrepreneurs à Bruxelles – 23/11/2026",
+    "sources": [
+      "https://www.maddyness.com/2026/11/23/thibaud-elziere-hexa-lance-un-programme-pour-accompagner-200-entrepreneurs-europeens-a-bruxelles/",
+      "https://www.frenchweb.fr/thibaud-elziere-veut-faire-de-bruxelles-une-place-forte-de-la-tech-europeenne/900000064",
+      "https://www.lalibre.be/economie/entreprises-startup/2026/11/23/lancien-garage-renault-plaine-a-ixelles-va-heberger-les-200-meilleurs-entrepreneurs-tech-deurope-EPHG7XI445F5NBDUV5SPJ73NAY/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/wat-garage-thibaud-elziere-bruxelles-200-startups-europeennes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2567567",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/architecture-building-infrastructure-2567567/"
+    }
   }
 ]
