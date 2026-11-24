@@ -13633,5 +13633,44 @@
       "auteur": "TBIT",
       "url": "https://pixabay.com/photos/bank-notes-dollar-us-dollars-usd-941246/"
     }
+  },
+  {
+    "date": "2026-11-24",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-proteger-pme-fraude-faux-rib-virement",
+    "title": "Un agent IA peut-il protéger une PME contre la fraude au faux RIB ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : agent IA contre la fraude au faux RIB et au virement détourné",
+    "question": "Un agent IA peut-il protéger une PME contre la fraude au faux RIB et au virement détourné ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://www.journaldunet.com/fintech/1544877-fraude-au-virement-5-actions-pour-preparer-votre-entreprise-avant-verification-of-payee/",
+    "solutions_comparees": [
+      "Ramp Bill Pay",
+      "Tipalti",
+      "Sis ID",
+      "Libeo",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.lafinancepourtous.com/2026/09/14/moyens-de-paiement-les-fraudes-par-manipulation-en-forte-hausse/",
+      "https://www.economiematin.fr/?p=224692",
+      "https://presseagence.fr/paris-fraude-en-entreprise-une-menace-croissante-et-sous-estimee-amplifiee-par-lia/",
+      "https://www.banquedesterritoires.fr/quest-ce-que-la-vop-verification-du-beneficiaire",
+      "https://ramp.com/bill-pay",
+      "https://tipalti.com/pricing/",
+      "https://www.sis-id.com/",
+      "https://www.libeo.io/",
+      "https://zeydo.fr/agents/agent-de-paiement",
+      "https://zeydo.fr/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-proteger-pme-fraude-faux-rib-virement.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2635036",
+      "auteur": "Fotorech",
+      "url": "https://pixabay.com/photos/man-cell-phone-tuxedo-entrepreneur-2635036/"
+    }
   }
 ]
