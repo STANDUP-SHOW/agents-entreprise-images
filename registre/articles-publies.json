@@ -14322,5 +14322,37 @@
       "auteur": "Philippedelavie",
       "url": "https://pixabay.com/photos/science-biology-test-tube-liquid-1336663/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-retell-ai-agents-vocaux-rentables",
+    "title": "Retell AI : le business model des agents vocaux rentables",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Retell AI dépasse 100 M$ de revenus annualisés, 12 novembre 2026",
+    "startups": [
+      {
+        "nom": "Retell AI",
+        "site": "https://www.retellai.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.retellai.com/blog/retell-100m-revenue-run-rate",
+      "https://www.martechcube.com/retell-exceeds-100m-annualized-revenue-amid-enterprise-voice-ai-growth/",
+      "https://www.retellai.com/about-us",
+      "https://www.retellai.com/pricing",
+      "https://www.service-public.gouv.fr/particuliers/actualites/A19003?lang=fr",
+      "https://tech.eu/2025/06/24/synthflow-ai-raises-20m-to-transform-the-global-conversational-ai-market/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-retell-ai-agents-vocaux-rentables.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7607348",
+      "auteur": "F1Digitals",
+      "url": "https://pixabay.com/photos/woman-business-corporate-designer-7607348/"
+    }
   }
 ]
