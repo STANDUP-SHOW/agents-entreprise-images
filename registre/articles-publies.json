@@ -14529,5 +14529,51 @@
       "auteur": "yatsusimnetcojp",
       "url": "https://pixabay.com/photos/graphics-tablet-drawing-laptop-4570796/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-logiciel-metier-ancien-sans-api-pme",
+    "title": "Notre logiciel métier n'a pas d'API : un agent IA peut-il quand même travailler avec ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : brancher un agent IA sur un logiciel métier ancien sans API",
+    "question": "Un agent IA peut-il travailler avec un logiciel métier ancien qui n'a ni API ni connecteur ?",
+    "theme": "deploiement-integration",
+    "preuve_question": "https://tensoria.fr/blog/automatiser-logiciel-metier-sans-api-ia",
+    "solutions_comparees": [
+      "Microsoft Power Automate",
+      "UiPath",
+      "H Company",
+      "n8n",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://tensoria.fr/blog/automatiser-logiciel-metier-sans-api-ia",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://learn.microsoft.com/fr-fr/power-automate/desktop-flows/introduction",
+      "https://www.microsoft.com/fr-fr/power-platform/products/power-automate/pricing",
+      "https://www.uipath.com/company/about-us",
+      "https://ir.uipath.com",
+      "https://www.uipath.com/pricing",
+      "https://www.hcompany.ai",
+      "https://www.hcompany.ai/pricing",
+      "https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.emailimap/",
+      "https://n8n.io/pricing/",
+      "https://zeydo.fr/agents/operateur-de-saisie",
+      "https://zeydo.fr/ai",
+      "https://zeydo.fr/security",
+      "https://zeydo.fr/enterprise",
+      "https://zeydo.fr/logiciels",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-logiciel-metier-ancien-sans-api-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4918914",
+      "auteur": "glennski",
+      "url": "https://pixabay.com/photos/old-new-typewriter-laptop-write-4918914/"
+    }
   }
 ]
