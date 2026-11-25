@@ -14084,5 +14084,34 @@
       "auteur": "Scottslm",
       "url": "https://pixabay.com/photos/electrical-power-distribution-4473108/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "valkryn-startup-americaine-tests-systemes-autonomes-defense",
+    "title": "Valkryn : la startup qui note les drones et robots militaires en essai",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Valkryn",
+    "startups": [
+      {
+        "nom": "Valkryn",
+        "site": "valkryn.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://dronexl.co/2026/11/17/valkryn-battle-lab-17m-a16z-autonomous-warfare-testing/",
+      "https://www.suasnews.com/2026/11/valkryn-emerges-from-stealth-to-build-the-battle-lab-for-robotic-and-autonomous-warfare/",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-23-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/valkryn-startup-americaine-tests-systemes-autonomes-defense.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2679102",
+      "auteur": "Military_Material",
+      "url": "https://pixabay.com/photos/soldiers-firearm-military-training-2679102/"
+    }
   }
 ]
