@@ -14054,5 +14054,35 @@
       "auteur": "markusspiske",
       "url": "https://pixabay.com/photos/businessman-man-shirt-necktie-1439049/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "peak-energy-startup-americaine-batteries-sodium-ion",
+    "title": "Peak Energy : les batteries sodium-ion pour stocker l'électricité",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Peak Energy",
+    "startups": [
+      {
+        "nom": "Peak Energy",
+        "site": "peakenergy.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techstartups.com/2026/11/24/peak-energy-expands-series-b-to-157m-to-scale-sodium-ion-battery-production-as-ai-data-center-demand-surges/",
+      "https://pulse2.com/peak-energy-raises-108-million-series-b-to-scale-sodium-ion-storage-and-u-s-manufacturing/amp/",
+      "https://pv-magazine-usa.com/2026/10/23/sodium-ion-storage-maker-peak-energy-raises-108-million-in-gm-led-round/",
+      "https://gmauthority.com/blog/2026/10/gm-leads-108m-series-b-funding-round-for-peak-energy-battery-startup/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/peak-energy-startup-americaine-batteries-sodium-ion.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4473108",
+      "auteur": "Scottslm",
+      "url": "https://pixabay.com/photos/electrical-power-distribution-4473108/"
+    }
   }
 ]
