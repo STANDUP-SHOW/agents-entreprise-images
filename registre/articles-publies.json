@@ -14230,5 +14230,35 @@
       "auteur": "RosZie",
       "url": "https://pixabay.com/photos/folders-files-office-binders-desk-7382940/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "odin-dynamics-startup-americaine-drones-sous-marins-autonomes",
+    "title": "Odin Dynamics : des drones sous-marins autonomes pour l'US Navy",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Sortie de la discrétion avec 17 M$ dont un amorçage de 13,75 M$ mené par Freestyle VC, 18 novembre 2026",
+    "startups": [
+      {
+        "nom": "Odin Dynamics",
+        "site": ""
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.tectonicdefense.com/?p=24798",
+      "https://dealroom.co/news/174027-undersea-defense-startup-odin-dynamics-exits-stealth-with-13-8m-seed/",
+      "https://simplify.jobs/c/Odin-Dynamics",
+      "https://prod-site-internet-minarm-admin.cloud.defense.gouv.fr/sites/default/files/ministere-armees/Communiqu%C3%A9_%20Commande%20de%20huit%20drones%20sous-marins%20autonomes%20de%20nouvelle%20g%C3%A9n%C3%A9ration%20dans%20le%20cadre%20du%20programme%20SLAM-F%20aupr%C3%A8s%20des%20soci%C3%A9t%C3%A9s%20THALES%20et%20EXAIL.pdf"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/odin-dynamics-startup-americaine-drones-sous-marins-autonomes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "86023",
+      "auteur": "12019",
+      "url": "https://pixabay.com/photos/guam-bay-harbor-port-water-86023/"
+    }
   }
 ]
