@@ -13916,5 +13916,26 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/white-board-startup-start-up-593300/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-1",
+    "slug": "zipher-leve-53-millions-dollars-agents-ia-pilotent-donnees-entreprise",
+    "title": "Zipher lève 53 M$ pour confier les flux de données aux agents IA",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Zipher – amorçage et série A cumulés – 53 M$ (TLV Partners, Maor, Glilot) – 24/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/24/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads/",
+      "https://www.cxodigitalpulse.com/zipher-raises-53-million-to-automate-enterprise-data-workloads/",
+      "https://aiweekly.co/alerts/zipher-lands-53m-to-run-enterprise-data-workloads-with-agents"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/zipher-leve-53-millions-dollars-agents-ia-pilotent-donnees-entreprise.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4570804",
+      "auteur": "yatsusimnetcojp",
+      "url": "https://pixabay.com/photos/data-chart-graph-monitor-marketing-4570804/"
+    }
   }
 ]
