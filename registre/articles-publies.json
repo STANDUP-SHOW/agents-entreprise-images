@@ -13981,5 +13981,27 @@
       "auteur": "theofficepass",
       "url": "https://pixabay.com/photos/coworking-space-in-gurgaon-5485822/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-1",
+    "slug": "anthropic-mcp-700-millions-telechargements-skills-taches-claude",
+    "title": "MCP a deux ans : Anthropic ajoute skills et tâches de fond à Claude",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Anthropic – MCP à 700 M de téléchargements mensuels de SDK, Skills over MCP en bêta, Tasks et Elicitation en disponibilité générale – 24/11/2026",
+    "sources": [
+      "https://thenextweb.com/news/anthropic-claude-skills-over-mcp-tasks-elicitation",
+      "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+      "https://mlq.ai/news/anthropic-says-mcp-sdks-top-700-million-monthly-downloads-as-background-tasks-reach-general-availability-in-claude/",
+      "https://news.sulat.com/2026/11/25/claude-mcp-skills/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/anthropic-mcp-700-millions-telechargements-skills-taches-claude.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3248255",
+      "auteur": "AS_Photography",
+      "url": "https://pixabay.com/photos/conference-lecture-training-3248255/"
+    }
   }
 ]
