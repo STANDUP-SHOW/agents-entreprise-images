@@ -13873,5 +13873,26 @@
       "auteur": "AlexTorresDesing",
       "url": "https://pixabay.com/photos/man-talking-seated-call-looking-5060639/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-1",
+    "slug": "workday-bourse-prevision-abonnements-croissance-ralentit-agents-ia",
+    "title": "Workday chute en Bourse : ses agents IA ne relancent pas la croissance",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Workday – résultats du 3e trimestre fiscal 2027 et prévision d'abonnements à +10 % – action en baisse – 24/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/24/workday-shares-fall-as-soft-subscription-forecast-overshadows-third-quarter-beat/",
+      "https://thecompanychronicle.com/story/workday-q3-fy27-guide-10-percent-ai-acv-150-million-shares-fall-november-24-2026",
+      "https://finance.yahoo.com/markets/stocks/articles/workday-beats-quarterly-estimates-subscription-101908507.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/workday-bourse-prevision-abonnements-croissance-ralentit-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6493440",
+      "auteur": "sergeitokmakov",
+      "url": "https://pixabay.com/photos/stocks-office-trader-work-chart-6493440/"
+    }
   }
 ]
