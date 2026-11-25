@@ -13830,5 +13830,26 @@
       "auteur": "rcrobinson110",
       "url": "https://pixabay.com/photos/shop-mentor-construction-saw-2649775/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-1",
+    "slug": "uber-trains-billets-train-france-sncf-ouigo-eurostar-omio",
+    "title": "Uber Trains arrive en France : billets SNCF, Ouigo et Eurostar",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Uber – lancement d'Uber Trains en France (avec Omio) – annoncé le 24/11/2026, ouverture le 30/11/2026",
+    "sources": [
+      "https://siecledigital.fr/2026/11/24/uber-sattaque-a-sncf-connect-en-proposant-la-vente-de-billets-de-train-en-france/",
+      "https://www.journaldugeek.com/2026/11/24/uber-trains-vous-pourrez-reserver-vos-billets-sncf-ouigo-ou-eurostar-directement-dans-lapplication-uber/",
+      "https://www.voyages-d-affaires.com/uber-trains-reservation-billets-france"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/uber-trains-billets-train-france-sncf-ouigo-eurostar-omio.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3169964",
+      "auteur": "3935302",
+      "url": "https://pixabay.com/photos/train-station-couple-traveling-3169964/"
+    }
   }
 ]
