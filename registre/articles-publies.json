@@ -13851,5 +13851,27 @@
       "auteur": "3935302",
       "url": "https://pixabay.com/photos/train-station-couple-traveling-3169964/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-1",
+    "slug": "free-traduction-live-appels-traduits-temps-reel-reseau-mobile",
+    "title": "Free Traduction Live : les appels traduits en temps réel par le réseau",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Free – lancement de Traduction Live (traduction des appels intégrée au réseau mobile) – 24/11/2026",
+    "sources": [
+      "https://www.lemondeinformatique.fr/applications-developpement/free-integre-la-traduction-des-appels-telephoniques-a-son-reseau-mobile",
+      "https://www.generation-nt.com/actualites/free-mobile-traduction-live-appels-ia-forfait-free-max-2084998",
+      "https://www.universfreebox.com/article/601702/free-revolutionne-les-appels-mobiles-et-lance-la-traduction-en-direct-dans-10-langues-sans-surcout-une-premiere-en-france",
+      "https://siecledigital.fr/2026/11/24/free-mobile-lance-la-traduction-en-temps-reel-des-appels-telephoniques-une-premiere-en-france/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/free-traduction-live-appels-traduits-temps-reel-reseau-mobile.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5060639",
+      "auteur": "AlexTorresDesing",
+      "url": "https://pixabay.com/photos/man-talking-seated-call-looking-5060639/"
+    }
   }
 ]
