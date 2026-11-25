@@ -14354,5 +14354,59 @@
       "auteur": "F1Digitals",
       "url": "https://pixabay.com/photos/woman-business-corporate-designer-7607348/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-agents-vocaux-ia-2026-11-25",
+    "title": "5 startups américaines d'agents vocaux IA qui décrochent le téléphone",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Sélection thématique : agents vocaux IA pour les appels des entreprises",
+    "startups": [
+      {
+        "nom": "Retell AI",
+        "site": "https://www.retellai.com"
+      },
+      {
+        "nom": "Vapi",
+        "site": "https://vapi.ai"
+      },
+      {
+        "nom": "Assort Health",
+        "site": "https://www.assorthealth.com"
+      },
+      {
+        "nom": "Netic",
+        "site": "https://www.netic.ai"
+      },
+      {
+        "nom": "Newo",
+        "site": "https://newo.ai"
+      }
+    ],
+    "theme": "agents vocaux IA",
+    "sources": [
+      "https://www.retellai.com/blog/retell-100m-revenue-run-rate",
+      "https://www.retellai.com/pricing",
+      "https://pulse2.com/vapi-raises-50-million-series-b-after-reaching-one-billion-calls-on-its-enterprise-voice-ai-platform/",
+      "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "https://pulse2.com/assort-health-raises-120-million-series-c-to-scale-ai-agents-for-patient-journey/",
+      "https://www.digitalhealthnews.com/assort-health-raises-120-mn-series-c-at-1-2-bn-valuation-to-expand-patient-access-ai-platform",
+      "https://www.insurancejournal.com/news/national/2025/11/13/847406.htm",
+      "https://www.pmmag.com/articles/106572-netic-launches-with-20m-to-fix-the-500b-industries-that-keep-america-running",
+      "https://pulse2.com/newo-25-million-series-a/amp/",
+      "https://itbrief.news/story/newo-raises-usd-25m-to-scale-ai-reception-platform",
+      "https://www.service-public.gouv.fr/particuliers/actualites/A19003?lang=fr",
+      "https://tech.eu/2025/06/24/synthflow-ai-raises-20m-to-transform-the-global-conversational-ai-market/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-agents-vocaux-ia-2026-11-25.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2507752",
+      "auteur": "AS_Photography",
+      "url": "https://pixabay.com/photos/reception-woman-secretary-2507752/"
+    }
   }
 ]
