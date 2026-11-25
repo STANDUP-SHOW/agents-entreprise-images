@@ -14024,5 +14024,35 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/people-man-counter-cashier-2590685/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "retell-ai-startup-americaine-agents-vocaux-centres-appels",
+    "title": "Retell AI : les agents vocaux IA qui décrochent pour les entreprises",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Retell AI",
+    "startups": [
+      {
+        "nom": "Retell AI",
+        "site": "retellai.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.retellai.com/blog/retell-100m-revenue-run-rate",
+      "https://www.martechcube.com/retell-exceeds-100m-annualized-revenue-amid-enterprise-voice-ai-growth/",
+      "https://www.retellai.com/about-us",
+      "https://www.retellai.com/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/retell-ai-startup-americaine-agents-vocaux-centres-appels.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1439049",
+      "auteur": "markusspiske",
+      "url": "https://pixabay.com/photos/businessman-man-shirt-necktie-1439049/"
+    }
   }
 ]
