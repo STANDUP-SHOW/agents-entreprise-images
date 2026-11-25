@@ -14200,5 +14200,35 @@
       "auteur": "lawrence_monk",
       "url": "https://pixabay.com/photos/code-coding-web-development-944499/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "unsiloed-ai-startup-americaine-documents-agents-ia",
+    "title": "Unsiloed AI : rendre les documents d'entreprise lisibles par l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Amorçage de 7,5 M$ mené par Felicis, 18 novembre 2026",
+    "startups": [
+      {
+        "nom": "Unsiloed AI",
+        "site": "https://www.unsiloed.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-23-26/",
+      "https://www.unsiloed.ai/pricing",
+      "https://alven.co/news/mindee-the-paperwork-automation-api-is-raising-14m-to-automate-companies-document-based-processes"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/unsiloed-ai-startup-americaine-documents-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7382940",
+      "auteur": "RosZie",
+      "url": "https://pixabay.com/photos/folders-files-office-binders-desk-7382940/"
+    }
   }
 ]
