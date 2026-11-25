@@ -14291,5 +14291,36 @@
       "auteur": "Firmbee",
       "url": "https://pixabay.com/photos/office-notes-notepad-entrepreneur-620817/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "leash-bio-startup-americaine-donnees-ia-decouverte-medicaments",
+    "title": "Leash Bio : produire les données qui entraînent l'IA scientifique",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Tour de 11 M$ codirigé par Innovation Endeavors et Insight Partners, novembre 2026",
+    "startups": [
+      {
+        "nom": "Leash Biosciences",
+        "site": "https://www.leash.bio"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/leash-biosciences-raises-11-million-to-build-training-environments-for-scientific-ai/",
+      "https://www.utahbusiness.com/press-releases/2024/04/09/leash-biosciences-9-3-million-seed-financing/",
+      "https://www.cbinsights.com/company/leash-bio",
+      "https://www.leash.bio",
+      "https://www.maddyness.com/2024/01/30/aqemia-leve-a-nouveau-30-millions-deuros-pour-la-recherche-de-medicaments/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/leash-bio-startup-americaine-donnees-ia-decouverte-medicaments.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1336663",
+      "auteur": "Philippedelavie",
+      "url": "https://pixabay.com/photos/science-biology-test-tube-liquid-1336663/"
+    }
   }
 ]
