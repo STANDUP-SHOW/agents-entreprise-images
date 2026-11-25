@@ -14171,5 +14171,34 @@
       "auteur": "fernandozhiminaicela",
       "url": "https://pixabay.com/photos/medical-equipment-medicine-4099430/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "aidenai-startup-americaine-agents-ia-grandes-entreprises",
+    "title": "AidenAI : faire passer l'IA des grandes entreprises en production",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup AidenAI",
+    "startups": [
+      {
+        "nom": "AidenAI",
+        "site": "aidenai.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/aidenai-raises-32-million-to-build-enterprise-ai-platform-and-engineering-workforce/amp/",
+      "https://techstartups.com/2026/11/24/startup-funding-news-today-november-24-2026-sierra-marlowe-embo-more/",
+      "https://www.aidenai.com"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/aidenai-startup-americaine-agents-ia-grandes-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "944499",
+      "auteur": "lawrence_monk",
+      "url": "https://pixabay.com/photos/code-coding-web-development-944499/"
+    }
   }
 ]
