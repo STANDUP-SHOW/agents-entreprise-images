@@ -13959,5 +13959,27 @@
       "auteur": "volzi",
       "url": "https://pixabay.com/photos/hands-handshake-partnership-team-8062985/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-1",
+    "slug": "google-workspace-agents-ia-serveurs-mcp-obligatoires-gmail-drive",
+    "title": "Google Workspace : les agents IA devront passer par les serveurs MCP",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Google – serveurs MCP Workspace et CLI en disponibilité générale, obligation pour les agents IA au 1er février 2027 (AI Tools Addendum) – 24/11/2026",
+    "sources": [
+      "https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise",
+      "https://thenextweb.com/news/google-workspace-ai-agents-mcp-servers-rules",
+      "https://news.sulat.com/2026/11/25/google-workspace-mcp/",
+      "https://aiagentnews.io/stories/google-makes-workspace-mcp-servers-and-cli-generally-available-with-agent"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/google-workspace-agents-ia-serveurs-mcp-obligatoires-gmail-drive.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5485822",
+      "auteur": "theofficepass",
+      "url": "https://pixabay.com/photos/coworking-space-in-gurgaon-5485822/"
+    }
   }
 ]
