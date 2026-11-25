@@ -14113,5 +14113,33 @@
       "auteur": "Military_Material",
       "url": "https://pixabay.com/photos/soldiers-firearm-military-training-2679102/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "testdynamics-startup-americaine-evaluation-ia-imagerie-medicale",
+    "title": "TestDynamics : l'arbitre neutre des IA de radiologie à l'hôpital",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup TestDynamics",
+    "startups": [
+      {
+        "nom": "TestDynamics",
+        "site": ""
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/testdynamics-secures-9-million-funding-as-healthier-capital-leads-series-a/amp/",
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-23-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/testdynamics-startup-americaine-evaluation-ia-imagerie-medicale.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6841384",
+      "auteur": "Mitrey",
+      "url": "https://pixabay.com/photos/x-ray-mri-ct-scan-6841384/"
+    }
   }
 ]
