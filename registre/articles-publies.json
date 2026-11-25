@@ -13894,5 +13894,27 @@
       "auteur": "sergeitokmakov",
       "url": "https://pixabay.com/photos/stocks-office-trader-work-chart-6493440/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-1",
+    "slug": "epochal-lance-100-millions-dollars-ia-predictive-anciens-xai",
+    "title": "Epochal démarre avec 100 M$ pour entraîner des IA à prévoir l'avenir",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Epochal – lancement avec 100 M$ apportés par Guodong Zhang (cofondateur de xAI) – produit Time Portal – 24/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+      "https://thenextweb.com/news/epochal-xai-cofounders-time-portal-forecasting",
+      "https://startupfortune.com/three-xai-co-founders-launch-epochal-backed-by-100-million-from-guodong-zhang/",
+      "https://mlq.ai/news/xai-founding-members-launch-epochal-an-ai-startup-built-to-predict-future-events/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/epochal-lance-100-millions-dollars-ia-predictive-anciens-xai.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "593300",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/white-board-startup-start-up-593300/"
+    }
   }
 ]
