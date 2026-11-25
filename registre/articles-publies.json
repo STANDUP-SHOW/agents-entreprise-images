@@ -14408,5 +14408,43 @@
       "auteur": "AS_Photography",
       "url": "https://pixabay.com/photos/reception-woman-secretary-2507752/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-surveiller-prix-actualite-concurrents-pme",
+    "title": "Un agent IA peut-il surveiller les prix et l'actualité des concurrents d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : veille des prix et de l'actualité des concurrents par un agent IA",
+    "question": "Un agent IA peut-il surveiller les prix, les offres et l'actualité des concurrents d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.francenum.gouv.fr/guides-et-conseils/developpement-commercial/veille-et-etudes-de-marche",
+    "solutions_comparees": [
+      "Crayon",
+      "Perplexity",
+      "Lengow NetRivals",
+      "KB Crawl",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.francenum.gouv.fr/guides-et-conseils/developpement-commercial/veille-et-etudes-de-marche",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://www.autoritedelaconcurrence.fr/sites/default/files/Les%20textes%20applicables%20en%20matie%CC%80re%20de%20secret%20des%20affaires.pdf",
+      "https://www.crayon.co/pricing",
+      "https://www.perplexity.ai/enterprise/pricing",
+      "https://www.lengow.com/fr/",
+      "https://www.kbcrawl.com/qui-sommes-nous/",
+      "https://zeydo.fr/agents/assistant-analyses-concurrentielles",
+      "https://zeydo.fr/agents/analyste-pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-surveiller-prix-actualite-concurrents-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1355316",
+      "auteur": "sabinevanerp",
+      "url": "https://pixabay.com/photos/agenda-work-desk-office-1355316/"
+    }
   }
 ]
