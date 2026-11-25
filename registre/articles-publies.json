@@ -14446,5 +14446,45 @@
       "auteur": "sabinevanerp",
       "url": "https://pixabay.com/photos/agenda-work-desk-office-1355316/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "quel-modele-ia-local-pme-mistral-llama-qwen-gemma",
+    "title": "Quel modèle d'IA faire tourner en local dans une PME : Mistral, Llama, Qwen ou Gemma ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : choix du modèle d'IA ouvert à faire tourner en local",
+    "question": "Quel modèle d'IA ouvert faire tourner en local dans une PME : Mistral, Llama, Qwen, Gemma ou gpt-oss ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://tensoria.fr/blog/top-modeles-llm-open-source-entreprise",
+    "solutions_comparees": [
+      "Ollama",
+      "LM Studio",
+      "Mistral AI Ministral 3",
+      "OpenLLM-France Lucie",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://tensoria.fr/blog/top-modeles-llm-open-source-entreprise",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://opensource.googleblog.com/2026/03/gemma-4-expanding-the-gemmaverse-with-apache-20.html",
+      "https://mistral.ai/fr/news/mistral-3",
+      "https://huggingface.co/openai/gpt-oss-20b",
+      "https://huggingface.co/OpenLLM-France/Lucie-7B-Instruct-v1.1",
+      "https://ollama.com/library",
+      "https://ollama.com/pricing",
+      "https://lmstudio.ai/pricing",
+      "https://zeydo.fr/ai",
+      "https://zeydo.fr/box"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/quel-modele-ia-local-pme-mistral-llama-qwen-gemma.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4941351",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-engineering-4941351/"
+    }
   }
 ]
