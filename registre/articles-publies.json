@@ -13937,5 +13937,27 @@
       "auteur": "yatsusimnetcojp",
       "url": "https://pixabay.com/photos/data-chart-graph-monitor-marketing-4570804/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-1",
+    "slug": "pliant-200-millions-euros-dette-cartes-entreprise-paiements-b2b",
+    "title": "Pliant sécurise 200 M€ de dette pour ses cartes d'entreprise en Europe",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Pliant – plus de 200 M€ de capacité de dette (Ascory Bank, Viola Credit) – 24/11/2026",
+    "sources": [
+      "https://tech.eu/2026/11/24/pliant-secures-over-eur200m-in-debt-financing-to-scale-european-payments-business/",
+      "https://thepaypers.com/payments/news/pliant-secures-over-eur-200-million-debt-financing-for-european-growth",
+      "https://fintech.global/2026/11/24/pliant-secures-over-e200m-in-debt-to-fuel-european-growth/",
+      "https://alternativecreditinvestor.com/2026/11/24/ascory-bank-and-viola-credit-back-fintech-pliant/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/pliant-200-millions-euros-dette-cartes-entreprise-paiements-b2b.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "8062985",
+      "auteur": "volzi",
+      "url": "https://pixabay.com/photos/hands-handshake-partnership-team-8062985/"
+    }
   }
 ]
