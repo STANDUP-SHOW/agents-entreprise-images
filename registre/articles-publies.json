@@ -14260,5 +14260,36 @@
       "auteur": "12019",
       "url": "https://pixabay.com/photos/guam-bay-harbor-port-water-86023/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "edra-startup-americaine-agents-ia-processus-entreprise",
+    "title": "Edra : apprendre les processus de l'entreprise pour guider l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Investissement de 10 M$ d'EQT Ventures, 16 novembre 2026",
+    "startups": [
+      {
+        "nom": "Edra",
+        "site": "https://edra.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-23-26/",
+      "https://tech.eu/2026/03/19/edra-raises-309m-series-a-to-turn-enterprise-data-into-self-improving-ai-agents/",
+      "https://www.placera.se/telegram/eqt-eqt-ventures-investerar-10-miljoner-dollar-i-ai-bolaget-edra-20261116",
+      "https://edra.ai",
+      "https://www.maddyness.com/2026/05/18/ia-dust-leve-40-millions-de-dollars-pour-accelerer-sa-croissance-aux-etats-unis/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/edra-startup-americaine-agents-ia-processus-entreprise.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "620817",
+      "auteur": "Firmbee",
+      "url": "https://pixabay.com/photos/office-notes-notepad-entrepreneur-620817/"
+    }
   }
 ]
