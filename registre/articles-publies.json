@@ -14486,5 +14486,48 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-engineering-4941351/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "contenus-crees-ia-a-qui-appartiennent-droit-auteur-pme",
+    "title": "Textes, images, code : à qui appartiennent les contenus créés par l'IA dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : propriété et droit d'auteur des contenus produits avec l'IA",
+    "question": "À qui appartiennent les textes, images et codes créés avec l'IA dans une PME, et sont-ils protégés par le droit d'auteur ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://blog.hubspot.fr/marketing/intelligence-artificielle-loi",
+    "solutions_comparees": [
+      "Anthropic Claude Team",
+      "Google Workspace / Google Cloud",
+      "Mistral AI",
+      "DeepL",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://blog.hubspot.fr/marketing/intelligence-artificielle-loi",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://enseigner.u-bordeaux.fr/application/files/6317/8461/9275/IA_et_propriete_intellectuelle-MAJ-juillet2026.pdf",
+      "https://copyright.gov/newsnet/2025/1060.html",
+      "https://cms.law/fr/fra/a-la-une/la-delicate-combinaison-des-statuts-de-salarie-et-de-createur",
+      "https://www.anthropic.com/legal/commercial-terms",
+      "https://claude.com/pricing",
+      "https://cloud.google.com/blog/products/ai-machine-learning/protecting-customers-with-generative-ai-indemnification",
+      "https://legal.mistral.ai/terms/commercial-terms-of-service",
+      "https://www.deepl.com/fr/pro-license",
+      "https://zeydo.fr/ai",
+      "https://zeydo.fr/catalogue",
+      "https://zeydo.fr/agents/redacteur-marketing",
+      "https://zeydo.fr/agents/juriste-droit-des-marques"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/contenus-crees-ia-a-qui-appartiennent-droit-auteur-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4570796",
+      "auteur": "yatsusimnetcojp",
+      "url": "https://pixabay.com/photos/graphics-tablet-drawing-laptop-4570796/"
+    }
   }
 ]
