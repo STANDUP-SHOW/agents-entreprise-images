@@ -14575,5 +14575,45 @@
       "auteur": "glennski",
       "url": "https://pixabay.com/photos/old-new-typewriter-laptop-write-4918914/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "budget-premier-agent-ia-tpe-premiere-annee",
+    "title": "Quel budget prévoir pour un premier agent IA dans une TPE la première année ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : budget de la première année pour un premier agent IA en TPE",
+    "question": "Quel budget prévoir la première année pour un premier agent IA dans une TPE ?",
+    "theme": "couts-roi",
+    "preuve_question": "https://www.studeria.fr/articles-de-blog/cout-agent-ia-production-pme-2026",
+    "solutions_comparees": [
+      "Anthropic Claude Team",
+      "Zapier",
+      "Mistral AI Le Chat",
+      "Dust",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.studeria.fr/articles-de-blog/cout-agent-ia-production-pme-2026",
+      "https://www.insee.fr/fr/statistiques/9025878",
+      "https://claude.com/pricing",
+      "https://www.ycombinator.com/blog/qa-with-wade-foster-cofounder-of-zapier",
+      "https://zapier.com/pricing",
+      "https://mistral.ai/pricing",
+      "https://www.maddyness.com/2026/05/18/ia-dust-leve-40-millions-de-dollars-pour-accelerer-sa-croissance-aux-etats-unis/",
+      "https://dust.tt/home/pricing",
+      "https://zeydo.fr/pricing",
+      "https://zeydo.fr/ai",
+      "https://zeydo.fr/workforce"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/budget-premier-agent-ia-tpe-premiere-annee.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2696219",
+      "auteur": "nattanan23",
+      "url": "https://pixabay.com/photos/money-profit-finance-business-2696219/"
+    }
   }
 ]
