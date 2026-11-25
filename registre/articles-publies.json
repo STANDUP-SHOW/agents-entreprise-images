@@ -14141,5 +14141,35 @@
       "auteur": "Mitrey",
       "url": "https://pixabay.com/photos/x-ray-mri-ct-scan-6841384/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "apricity-robotics-startup-americaine-robot-echographie",
+    "title": "Apricity Robotics : le robot qui tient la sonde d'échographie",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Apricity Robotics",
+    "startups": [
+      {
+        "nom": "Apricity Robotics",
+        "site": "apricityrobotics.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/apricity-robotics-raises-16-1-million-to-advance-robotic-ultrasound-assistant/amp/",
+      "https://techstartups.com/2026/11/24/startup-funding-news-today-november-24-2026-sierra-marlowe-embo-more/",
+      "https://www.cbinsights.com/company/apricity-robotics",
+      "https://www.apricityrobotics.com"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/apricity-robotics-startup-americaine-robot-echographie.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4099430",
+      "auteur": "fernandozhiminaicela",
+      "url": "https://pixabay.com/photos/medical-equipment-medicine-4099430/"
+    }
   }
 ]
