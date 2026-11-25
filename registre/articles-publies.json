@@ -14003,5 +14003,26 @@
       "auteur": "AS_Photography",
       "url": "https://pixabay.com/photos/conference-lecture-training-3248255/"
     }
+  },
+  {
+    "date": "2026-11-25",
+    "routine": "redacteur-quotidien-1",
+    "slug": "openai-openworks-experts-ia-locaux-aide-gratuite-petites-entreprises",
+    "title": "OpenWorks : OpenAI paie des experts IA pour aider les petits commerces",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "OpenAI – lancement du programme pilote OpenWorks (experts IA locaux rémunérés jusqu'à 8 000 $/mois, 20 villes américaines) – 23/11/2026",
+    "sources": [
+      "https://techstartups.com/2026/11/23/openai-to-pay-ai-experts-up-to-8000-a-month-to-help-small-businesses-adopt-ai/",
+      "https://www.americanbazaaronline.com/2026/11/24/openai-to-pay-ai-experts-up-to-8000-a-month-to-help-businesses-493013/",
+      "https://cryptobriefing.com/openai-launches-openworks-small-businesses/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/openai-openworks-experts-ia-locaux-aide-gratuite-petites-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2590685",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/people-man-counter-cashier-2590685/"
+    }
   }
 ]
