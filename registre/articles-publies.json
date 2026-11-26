@@ -15095,5 +15095,45 @@
       "auteur": "ansiyuwudia",
       "url": "https://pixabay.com/photos/waitress-waiter-barista-staff-6767345/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-registre-traitements-rgpd-pme",
+    "title": "Faut-il inscrire ses agents IA au registre des traitements RGPD ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : agents IA et registre des activités de traitement (article 30 RGPD)",
+    "question": "Faut-il inscrire ses agents IA au registre des traitements RGPD, et que faut-il y écrire ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://www.donneespersonnelles.fr/rgpd-et-intelligence-artificielle (mis à jour 2026) ; https://www.cnil.fr/fr/RGDP-le-registre-des-activites-de-traitement",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot",
+      "Claude (Anthropic)",
+      "Mistral AI",
+      "Dust",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.cnil.fr/fr/RGDP-le-registre-des-activites-de-traitement",
+      "https://www.donneespersonnelles.fr/rgpd-et-intelligence-artificielle",
+      "https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy",
+      "https://www.anthropic.com/legal/commercial-terms",
+      "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "https://legal.mistral.ai/terms/data-processing-addendum",
+      "https://dust.tt/home/security",
+      "https://zeydo.fr/local-ai",
+      "https://zeydo.fr/faq",
+      "https://zeydo.fr/security",
+      "https://zeydo.fr/agents/privacy-security-assistant"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-registre-traitements-rgpd-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "923523",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/file-folders-business-office-desk-923523/"
+    }
   }
 ]
