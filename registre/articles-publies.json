@@ -15173,5 +15173,49 @@
       "auteur": "dmitrochenkooleg",
       "url": "https://pixabay.com/photos/server-switch-network-router-3632935/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-suivre-echeances-contrats-tacite-reconduction-pme",
+    "title": "Un agent IA peut-il suivre les échéances de contrats et éviter les tacites reconductions ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : suivi des échéances de contrats et tacite reconduction",
+    "question": "Un agent IA peut-il suivre les échéances de contrats et éviter les tacites reconductions subies ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://tensoria.fr/blog/suivi-echeances-contrats-fournisseurs-ia ; https://www.hackceleration.com/fr/labs/meilleur/logiciel-gestion-contrats-pme",
+    "solutions_comparees": [
+      "Ironclad",
+      "Docusign IAM",
+      "Tomorro",
+      "Dust",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://tensoria.fr/blog/suivi-echeances-contrats-fournisseurs-ia",
+      "https://www.hackceleration.com/fr/labs/meilleur/logiciel-gestion-contrats-pme",
+      "https://www.weblex.fr/fiches-conseils/renouvellement-tacite-reconduction",
+      "https://ironcladapp.com/product/ai-based-contract-management",
+      "https://www.ironcladapp.com/pricing",
+      "https://www.docusign.com/pricing",
+      "https://juro.com/pricing",
+      "https://tomorro.com/fr/tarifs",
+      "https://tomorro.com/fr/mentions-legales",
+      "https://dust.tt/home/pricing",
+      "https://zeydo.fr/agents/agent-suivi-expiration-contrats",
+      "https://zeydo.fr/agents/gestionnaire-contrats-fournisseurs",
+      "https://zeydo.fr/pricing",
+      "https://zeydo.fr/workforce",
+      "https://zeydo.fr/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-suivre-echeances-contrats-tacite-reconduction-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "917149",
+      "auteur": "epicioci",
+      "url": "https://pixabay.com/photos/mayor-signature-sign-adult-917149/"
+    }
   }
 ]
