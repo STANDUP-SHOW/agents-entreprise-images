@@ -14637,5 +14637,26 @@
       "auteur": "Bru-nO",
       "url": "https://pixabay.com/photos/flags-europe-eu-flag-european-1615129/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-1",
+    "slug": "france-digitale-24-propositions-presidentielle-2027-ministere-tech",
+    "title": "France Digitale réclame un ministère de la Tech pour la présidentielle",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "France Digitale – manifeste de 24 propositions pour la présidentielle 2027 – 25/11/2026",
+    "sources": [
+      "https://www.maddyness.com/2026/11/25/presidentielle-2027-france-digitale-devoile-24-propositions-pour-le-prochain-quinquennat/",
+      "https://www.frenchweb.fr/presidentielle-2027-france-digitale-veut-un-ministere-des-technologies-et-faire-de-l-etat-un-premier-client-des-startups/900000071",
+      "https://ministere-technologies-innovation.org/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/france-digitale-24-propositions-presidentielle-2027-ministere-tech.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "143841",
+      "auteur": "12019",
+      "url": "https://pixabay.com/photos/chambre-des-deputes-paris-france-143841/"
+    }
   }
 ]
