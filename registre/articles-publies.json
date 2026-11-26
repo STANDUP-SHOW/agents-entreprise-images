@@ -14926,5 +14926,35 @@
       "auteur": "Bru-nO",
       "url": "https://pixabay.com/photos/chess-board-game-chessboard-4794265/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "mach9-startup-americaine-ia-cao-geometres-genie-civil",
+    "title": "Mach9 : l'IA qui dessine les plans des routes à partir de scans 3D",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Mach9",
+    "startups": [
+      {
+        "nom": "Mach9",
+        "site": "mach9.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "https://pulse2.com/mach9-raises-34-million-series-a-to-expand-ai-powered-cad-platform-for-civil-engineering/",
+      "https://prnewswire.com/news-releases/mach9-launches-new-geospatial-production-software-to-meet-growing-demand-from-the-3-trillion-global-infrastructure-market-301768545.html",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-26-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mach9-startup-americaine-ia-cao-geometres-genie-civil.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1837176",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/architecture-buildings-cars-city-1837176/"
+    }
   }
 ]
