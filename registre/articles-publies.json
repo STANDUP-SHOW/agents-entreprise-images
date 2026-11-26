@@ -15135,5 +15135,43 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/file-folders-business-office-desk-923523/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "ia-locale-combien-salaries-simultanes-pme",
+    "title": "IA locale : combien de salariés peuvent l'utiliser en même temps dans une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : nombre d'utilisateurs simultanés d'une IA locale",
+    "question": "Avec une IA installée en local, combien de salariés peuvent l'utiliser en même temps ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://www.promptquorum.com/fr/local-llms/local-llm-setup-for-teams ; article zimaspace sur l'IA locale en équipe",
+    "solutions_comparees": [
+      "Ollama",
+      "NVIDIA DGX Spark",
+      "Mistral AI Enterprise",
+      "OVHcloud AI Endpoints",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://docs.ollama.com/faq",
+      "https://ollama.com/pricing",
+      "https://docs.vllm.ai",
+      "https://www.nvidia.com/fr-fr/products/workstations/dgx-spark/",
+      "https://mistral.ai/pricing",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://zeydo.fr/box",
+      "https://zeydo.fr/local-ai",
+      "https://www.promptquorum.com/fr/local-llms/local-llm-setup-for-teams"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ia-locale-combien-salaries-simultanes-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3632935",
+      "auteur": "dmitrochenkooleg",
+      "url": "https://pixabay.com/photos/server-switch-network-router-3632935/"
+    }
   }
 ]
