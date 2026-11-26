@@ -14679,5 +14679,26 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/coding-computer-hacker-hacking-1841550/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-1",
+    "slug": "elevenlabs-levee-fonds-valorisation-33-milliards-dollars-ia-vocale",
+    "title": "ElevenLabs vise 33 milliards de dollars : la voix IA change d'échelle",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "ElevenLabs – discussions de levée à 33 Md$ de valorisation (Bloomberg, 25/11/2026), ARR 700 M$",
+    "sources": [
+      "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
+      "https://thenextweb.com/news/elevenlabs-33bn-valuation-funding-talks-2027",
+      "https://www.briefia.fr/article/elevenlabs-prevoit-une-levee-de-fonds-debut-2027"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/elevenlabs-levee-fonds-valorisation-33-milliards-dollars-ia-vocale.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1869560",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/recording-studio-indoors-mic-1869560/"
+    }
   }
 ]
