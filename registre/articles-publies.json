@@ -14807,5 +14807,34 @@
       "auteur": "timwesterhoff",
       "url": "https://pixabay.com/photos/patch-panel-internet-cable-6267793/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "freestyle-snacks-startup-americaine-olives-en-sachet",
+    "title": "Freestyle Snacks : les olives en sachet qui conquièrent les rayons",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Freestyle Snacks",
+    "startups": [
+      {
+        "nom": "Freestyle Snacks",
+        "site": "freestylesnacking.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.foodbusinessnews.net/articles/31360-freestyle-snacks-raises-5-million-in-seed-round",
+      "https://perishablenews.com/deli/young-atlanta-woman-brings-consumer-goods-innovation-down-south-launches-premium-olive-snack-brand/",
+      "https://www.freestylesnacking.com/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/freestyle-snacks-startup-americaine-olives-en-sachet.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2431689",
+      "auteur": "LunarSeaArt",
+      "url": "https://pixabay.com/photos/olives-food-healthy-ingredient-2431689/"
+    }
   }
 ]
