@@ -14658,5 +14658,26 @@
       "auteur": "12019",
       "url": "https://pixabay.com/photos/chambre-des-deputes-paris-france-143841/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-1",
+    "slug": "1password-fuite-donnees-clients-compte-github-salarie",
+    "title": "1Password piraté : ce que la fuite de données change pour les PME",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "1Password – intrusion via le compte GitHub d'un salarié, données clients copiées – annoncée le 25/11/2026",
+    "sources": [
+      "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "https://siliconangle.com/2026/11/25/attacker-used-1password-employees-github-account-to-copy-customer-records/",
+      "https://techstartups.com/2026/11/25/1password-hacked-customer-data-stolen-after-employees-github-account-compromised/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/1password-fuite-donnees-clients-compte-github-salarie.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1841550",
+      "auteur": "Pexels",
+      "url": "https://pixabay.com/photos/coding-computer-hacker-hacking-1841550/"
+    }
   }
 ]
