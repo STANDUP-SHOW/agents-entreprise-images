@@ -14897,5 +14897,34 @@
       "auteur": "TobiasD",
       "url": "https://pixabay.com/photos/cpu-processor-computer-chip-pc-424812/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "watchtower-labs-startup-americaine-ia-planification-militaire",
+    "title": "Watchtower Labs : l'IA qui simule la logistique des armées américaines",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Watchtower Labs",
+    "startups": [
+      {
+        "nom": "Watchtower Labs",
+        "site": "watchtowerlabs.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.geekwire.com/2026/ex-marine-and-microsoft-vets-launch-watchtower-labs-with-35m-to-bring-ai-to-military-logistics/",
+      "https://pulse2.com/watchtower-labs-raises-35-million-to-build-ai-decision-software-for-military-operations/",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-26-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/watchtower-labs-startup-americaine-ia-planification-militaire.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4794265",
+      "auteur": "Bru-nO",
+      "url": "https://pixabay.com/photos/chess-board-game-chessboard-4794265/"
+    }
   }
 ]
