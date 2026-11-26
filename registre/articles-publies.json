@@ -14956,5 +14956,34 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/architecture-buildings-cars-city-1837176/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "abby-care-startup-americaine-aidants-familiaux-remuneres",
+    "title": "Abby Care : la startup qui forme et rémunère les aidants familiaux",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Abby Care",
+    "startups": [
+      {
+        "nom": "Abby Care",
+        "site": "abbycare.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://dnyuz.com/2026/10/15/startup-abby-care-raises-82-million-to-turn-family-members-into-paid-caregivers/",
+      "https://hitconsultant.net/2026/10/19/abby-care-paid-family-caregiving/",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-19-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/abby-care-startup-americaine-aidants-familiaux-remuneres.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1793998",
+      "auteur": "truthseeker08",
+      "url": "https://pixabay.com/photos/hospice-hand-in-hand-caring-care-1793998/"
+    }
   }
 ]
