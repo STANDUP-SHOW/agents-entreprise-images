@@ -14700,5 +14700,26 @@
       "auteur": "Pexels",
       "url": "https://pixabay.com/photos/recording-studio-indoors-mic-1869560/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-1",
+    "slug": "bound-50-millions-dollars-dette-risque-change-ia-entreprises",
+    "title": "Bound lève 50 millions de dollars de dette pour automatiser le change",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Bound – ligne de dette 50 M$ sur 3 ans (Viola Credit) – 25/11/2026",
+    "sources": [
+      "https://tech.eu/2026/11/25/bound-secures-50m-to-advance-fx-risk-management-for-mid-market-companies/",
+      "https://businesscloud.co.uk/news/bound-raises-50m-debt-to-expand-fx-platform-in-mid-market/",
+      "https://pulse2.com/bound-secures-50-million-debt-facility-to-expand-automated-fx-risk-management/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/bound-50-millions-dollars-dette-risque-change-ia-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3065269",
+      "auteur": "USA-Reiseblogger",
+      "url": "https://pixabay.com/photos/finance-currency-money-wealth-3065269/"
+    }
   }
 ]
