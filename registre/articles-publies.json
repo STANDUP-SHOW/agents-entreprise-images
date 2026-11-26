@@ -14615,5 +14615,27 @@
       "auteur": "nattanan23",
       "url": "https://pixabay.com/photos/money-profit-finance-business-2696219/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-1",
+    "slug": "fonds-souverain-europeen-50-milliards-quantum-act-startups",
+    "title": "Fonds souverain européen de 50 Md€ : ce que prévoit le Quantum Act",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Commission européenne – Quantum Act et Sovereign Tech Equity Fund (cible 50 Md€) – 25/11/2026",
+    "sources": [
+      "https://www.maddyness.com/2026/11/25/lunion-europeenne-veut-creer-un-fonds-souverain-de-50-milliards-deuros-pour-ses-technologies-de-pointe/",
+      "https://tech.eu/2026/11/25/eu-proposes-eur50-billion-equity-fund-to-support-quantum-and-essential-sovereign-tech/",
+      "https://www.lemondeinformatique.fr/it-direction/quantum-act-l-ue-veut-soutenir-son-industrie-quantique-avec-un-fonds-souverain",
+      "https://techstartups.com/2026/11/25/eu-plans-e50-billion-ai-and-quantum-computing-fund-to-challenge-us-and-china/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/fonds-souverain-europeen-50-milliards-quantum-act-startups.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1615129",
+      "auteur": "Bru-nO",
+      "url": "https://pixabay.com/photos/flags-europe-eu-flag-european-1615129/"
+    }
   }
 ]
