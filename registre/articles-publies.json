@@ -14742,5 +14742,26 @@
       "auteur": "sarahblocks",
       "url": "https://pixabay.com/photos/meeting-coworkers-group-office-4156018/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-1",
+    "slug": "claude-applications-bureau-mac-windows-artifacts-agents-ia",
+    "title": "Claude transforme ses artifacts en applications pour Mac et Windows",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Anthropic – « Install as app » : artifacts Claude installables comme applications Mac/Windows (bêta) – 24/11/2026",
+    "sources": [
+      "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+      "https://thenextweb.com/news/claude-install-as-app-artifacts-mac-windows-desktop",
+      "https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/claude-applications-bureau-mac-windows-artifacts-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2788918",
+      "auteur": "AlfredMuller",
+      "url": "https://pixabay.com/photos/computer-notebook-office-code-2788918/"
+    }
   }
 ]
