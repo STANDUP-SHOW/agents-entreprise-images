@@ -14763,5 +14763,27 @@
       "auteur": "AlfredMuller",
       "url": "https://pixabay.com/photos/computer-notebook-office-code-2788918/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-1",
+    "slug": "openai-private-inference-confidentialite-donnees-entreprises-agents-ia",
+    "title": "OpenAI Private Inference : vos données invisibles pendant le calcul",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "OpenAI – test de Private Inference (informatique confidentielle) avec un petit groupe de clients – 25/11/2026",
+    "sources": [
+      "https://thenextweb.com/news/openai-private-inference-testing-customers",
+      "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+      "https://news.sulat.com/2026/11/26/openai-private-inference/",
+      "https://mlq.ai/news/openai-starts-testing-private-inference-to-keep-enterprise-data-unseen/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/openai-private-inference-confidentialite-donnees-entreprises-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "445156",
+      "auteur": "422737",
+      "url": "https://pixabay.com/photos/privacy-policy-data-security-445156/"
+    }
   }
 ]
