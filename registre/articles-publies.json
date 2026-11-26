@@ -14785,5 +14785,27 @@
       "auteur": "422737",
       "url": "https://pixabay.com/photos/privacy-policy-data-security-445156/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-1",
+    "slug": "cloudflare-search-for-agents-recherche-sites-web-agents-ia",
+    "title": "Cloudflare Search for Agents : un moteur de recherche pour agents IA",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Cloudflare lance Search for Agents en bêta (25/11/2026)",
+    "sources": [
+      "https://blog.cloudflare.com/search-for-agents/",
+      "https://thenextweb.com/news/cloudflare-search-for-agents-ai-website-search",
+      "https://techstrong.ai/building-with-ai/cloudflare-turns-websites-into-search-engines-for-ai-agents-with-a-flip-of-a-switch/",
+      "https://aiagentnews.io/stories/cloudflare-launches-search-for-agents-a-toggle-that-adds-agent-discoverable"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/cloudflare-search-for-agents-recherche-sites-web-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6267793",
+      "auteur": "timwesterhoff",
+      "url": "https://pixabay.com/photos/patch-panel-internet-cable-6267793/"
+    }
   }
 ]
