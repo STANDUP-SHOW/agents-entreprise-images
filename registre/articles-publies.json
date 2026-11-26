@@ -15015,5 +15015,45 @@
       "auteur": "rastaemmler",
       "url": "https://pixabay.com/photos/chancellery-office-table-work-4924547/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "qui-doit-piloter-projet-ia-pme-dirigeant-referent",
+    "title": "Qui doit piloter le projet IA dans une PME : le dirigeant ou un référent ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : qui pilote le projet IA (dirigeant, référent, informatique)",
+    "question": "Qui doit piloter le projet IA dans une PME : le dirigeant, un référent ou le service informatique ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://www.siparex.com/wp-content/uploads/2026/04/Les-audacieux-de-lIA_Livre-Blanc-Siparex-x-BPIFrance_defAvril2026.pdf (avril 2026) ; https://www.journaldunet.com/intelligence-artificielle/1547395-y-a-t-il-un-pilote-dans-la-strategie-ia/ (22/01/2026)",
+    "solutions_comparees": [
+      "Claude Team (Anthropic)",
+      "Microsoft 365 Copilot",
+      "Le Chat Team (Mistral AI)",
+      "Dust",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.siparex.com/wp-content/uploads/2026/04/Les-audacieux-de-lIA_Livre-Blanc-Siparex-x-BPIFrance_defAvril2026.pdf",
+      "https://www.journaldunet.com/intelligence-artificielle/1547395-y-a-t-il-un-pilote-dans-la-strategie-ia/",
+      "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers",
+      "https://claude.com/pricing",
+      "https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy",
+      "https://mistral.ai/pricing",
+      "https://dust.tt/home/pricing",
+      "https://zeydo.fr/pricing",
+      "https://zeydo.fr/workforce",
+      "https://zeydo.fr/agents/digital-transformation-assistant",
+      "https://zeydo.fr/security"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/qui-doit-piloter-projet-ia-pme-dirigeant-referent.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "437023",
+      "auteur": "425147",
+      "url": "https://pixabay.com/photos/colleagues-seminar-presentation-437023/"
+    }
   }
 ]
