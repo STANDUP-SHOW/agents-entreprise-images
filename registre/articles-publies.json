@@ -14836,5 +14836,35 @@
       "auteur": "LunarSeaArt",
       "url": "https://pixabay.com/photos/olives-food-healthy-ingredient-2431689/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "jesse-and-bens-startup-americaine-frites-surgelees",
+    "title": "Jesse & Ben's : les frites surgelées sans huile de graine qui percent",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Jesse & Ben's",
+    "startups": [
+      {
+        "nom": "Jesse & Ben's",
+        "site": "jesseandbens.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/jesse-bens-raises-10-million-series-a-as-clean-label-fry-brand-expands-nationally/",
+      "https://www.citybiz.co/article/843601/jesse-bens-raises-10m-series-a-led-by-greycroft-to-scale-frozen-fry-brand-nationally/",
+      "https://washingtonian.com/2024/08/05/one-of-dcs-best-burger-shops-is-now-selling-frozen-fries-in-grocery-aisles/",
+      "https://www.refrigeratedfrozenfood.com/articles/103673-jesse-and-bens-launches-nationally-at-whole-foods-market-hitting-1-500-retail-doors-in-first-year"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/jesse-and-bens-startup-americaine-frites-surgelees.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5332766",
+      "auteur": "matthiasboeckel",
+      "url": "https://pixabay.com/photos/french-fries-potatoes-food-snack-5332766/"
+    }
   }
 ]
