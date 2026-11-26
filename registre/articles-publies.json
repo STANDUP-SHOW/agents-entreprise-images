@@ -15055,5 +15055,45 @@
       "auteur": "425147",
       "url": "https://pixabay.com/photos/colleagues-seminar-presentation-437023/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-construire-plannings-personnel-pme",
+    "title": "Un agent IA peut-il construire les plannings du personnel d'une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : plannings du personnel et remplacements confiés à un agent IA",
+    "question": "Un agent IA peut-il construire les plannings du personnel et gérer les remplacements d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.impli.fr/comparatif/planning-personnel-ia (2026) ; https://combohr.com/fr/blog/planning-ia (2026)",
+    "solutions_comparees": [
+      "When I Work",
+      "Microsoft Shifts",
+      "Skello",
+      "Combo",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.impli.fr/comparatif/planning-personnel-ia",
+      "https://combohr.com/fr/blog/planning-ia",
+      "https://www.service-public.fr/particuliers/vosdroits/F990",
+      "https://www.service-public.fr/particuliers/vosdroits/F2327",
+      "https://wheniwork.com/pricing",
+      "https://learn.microsoft.com/en-us/microsoft-365/frontline/shifts-for-teams-landing-page",
+      "https://www.deputy.com/pricing",
+      "https://www.skello.io/pricing",
+      "https://combohr.com/fr/pricing",
+      "https://zeydo.fr/agents/assistant-planning-equipes",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-construire-plannings-personnel-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6767345",
+      "auteur": "ansiyuwudia",
+      "url": "https://pixabay.com/photos/waitress-waiter-barista-staff-6767345/"
+    }
   }
 ]
