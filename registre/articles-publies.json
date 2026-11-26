@@ -14721,5 +14721,26 @@
       "auteur": "USA-Reiseblogger",
       "url": "https://pixabay.com/photos/finance-currency-money-wealth-3065269/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-1",
+    "slug": "every-leve-17-5-millions-dollars-former-equipes-ia",
+    "title": "Every lève 17,5 millions de dollars pour former les équipes à l'IA",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Every – série A 17,5 M$ à 110 M$ post-money (IA Ventures) – 25/11/2026",
+    "sources": [
+      "https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/",
+      "https://every.to/on-every/we-raised-17-5-million-to-make-you-and-your-team-ai-native",
+      "https://thenextweb.com/news/every-17-5m-series-a-ai-native-media"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/every-leve-17-5-millions-dollars-former-equipes-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4156018",
+      "auteur": "sarahblocks",
+      "url": "https://pixabay.com/photos/meeting-coworkers-group-office-4156018/"
+    }
   }
 ]
