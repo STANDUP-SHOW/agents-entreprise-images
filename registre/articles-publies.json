@@ -14866,5 +14866,36 @@
       "auteur": "matthiasboeckel",
       "url": "https://pixabay.com/photos/french-fries-potatoes-food-snack-5332766/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "mueon-startup-americaine-modules-calcul-centres-de-donnees",
+    "title": "Mueon : les modules empilables qui veulent remplacer la baie serveur",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Mueon",
+    "startups": [
+      {
+        "nom": "Mueon",
+        "site": "mueon.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.intelcapital.com/mueon-emerges-from-stealth-with-15-5m-seed-to-redefine-data-centers-for-the-ai-era/",
+      "https://unite.ai/mueon-raises-65m-series-a-to-move-cubelets-toward-production-readiness",
+      "https://magica.com/news/mueon-raises-65m-for-cubelets-ai-infrastructure",
+      "https://siliconflorist.com/?p=51467",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-19-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mueon-startup-americaine-modules-calcul-centres-de-donnees.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "424812",
+      "auteur": "TobiasD",
+      "url": "https://pixabay.com/photos/cpu-processor-computer-chip-pc-424812/"
+    }
   }
 ]
