@@ -14985,5 +14985,35 @@
       "auteur": "truthseeker08",
       "url": "https://pixabay.com/photos/hospice-hand-in-hand-caring-care-1793998/"
     }
+  },
+  {
+    "date": "2026-11-26",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "finch-legal-startup-americaine-ia-avocats-pre-contentieux",
+    "title": "Finch : l'IA qui allège le pré-contentieux des avocats américains",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Finch Legal",
+    "startups": [
+      {
+        "nom": "Finch Legal",
+        "site": "finchlegal.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.prnewswire.com/news-releases/finch-launches-with-backing-from-sequoia-capital-to-help-personal-injury-firms-serve-more-clients-with-ai-assisted-paralegals--case-staff-302430329.html",
+      "https://markets.financialcontent.com/pennwell.elp/article/gnwcq-2025-10-15-finch-secures-20-million-to-rebuild-consumer-law-from-the-ground-up",
+      "https://www.alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-18-2026/",
+      "https://www.finchlegal.com/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/finch-legal-startup-americaine-ia-avocats-pre-contentieux.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4924547",
+      "auteur": "rastaemmler",
+      "url": "https://pixabay.com/photos/chancellery-office-table-work-4924547/"
+    }
   }
 ]
