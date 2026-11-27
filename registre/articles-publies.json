@@ -15305,5 +15305,27 @@
       "auteur": "Lionheart84",
       "url": "https://pixabay.com/photos/shopping-cart-cart-supermarket-4058741/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-1",
+    "slug": "altair-leve-100-millions-dollars-modem-5g-objets-connectes-ia",
+    "title": "Altair lève 100 millions de dollars pour connecter les objets IA en 5G",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Altair Semiconductor – série A – 100 M$ (Maverick Silicon, Pitango) – 26/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/26/wireless-networking-chip-startup-altair-nabs-100m-investment/",
+      "https://mlq.ai/news/sony-spin-off-altair-raises-100m-to-mass-produce-a-5g-modem-for-wearables/",
+      "https://chipdispatch.com/articles/altair-raises-100m-series-a-to-mass-produce-5g-wearable-modem",
+      "https://www.llms.blog/posts/altair-raises-100-million-to-give-ai-glasses-their-own-cellular-connection"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/altair-leve-100-millions-dollars-modem-5g-objets-connectes-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1288717",
+      "auteur": "RemazteredStudio",
+      "url": "https://pixabay.com/photos/electrician-electronics-computer-1288717/"
+    }
   }
 ]
