@@ -15217,5 +15217,27 @@
       "auteur": "epicioci",
       "url": "https://pixabay.com/photos/mayor-signature-sign-adult-917149/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-1",
+    "slug": "sap-prepare-suppression-10000-postes-restructuration-ia",
+    "title": "SAP prépare la suppression de 10 000 postes pour se tourner vers l'IA",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "SAP – plan de suppression d'au moins 10 000 postes (Bloomberg) – 26/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/26/sap-reportedly-plans-to-lay-off-10000-employees-amid-ai-push/",
+      "https://www.freepressjournal.in/tech/software-firm-sap-looking-to-layoff-at-least-10000-employees-in-ai-led-overhaul",
+      "https://mlq.ai/news/sap-prepares-at-least-10000-job-cuts-about-9-of-staff-in-an-ai-overhaul/",
+      "https://insideai.news/news/ai-in-business/sap-job-cuts-ai-restructuring-2/16141/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/sap-prepare-suppression-10000-postes-restructuration-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "594119",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/office-startup-tables-chairs-room-594119/"
+    }
   }
 ]
