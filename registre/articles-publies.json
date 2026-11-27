@@ -15733,5 +15733,45 @@
       "auteur": "bridgesward",
       "url": "https://pixabay.com/photos/construction-worker-safety-2578410/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "fuite-donnees-ia-salarie-que-faire-notifier-cnil-pme",
+    "title": "Fuite de données par une IA : que doit faire une PME, et faut-il prévenir la CNIL ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : réagir à une fuite de données liée à l'IA et notifier la CNIL en 72 heures",
+    "question": "Un salarié ou un agent IA a fait fuiter des données : que faire, et faut-il notifier la CNIL ?",
+    "theme": "donnees-securite-conformite",
+    "preuve_question": "https://www.donneespersonnelles.fr/notification-violation-donnees ; https://nltimes.nl/2025/12/30/dutch-privacy-watchdog-warns-rising-ai-chatbot-data-leaks (consultés le 2026-11-27)",
+    "solutions_comparees": [
+      "Microsoft Purview DSPM pour l'IA",
+      "OneTrust Privacy Operations",
+      "Dastra",
+      "Mistral AI Team/Enterprise",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.cnil.fr/fr/notifier-une-violation-de-donnees-personnelles",
+      "https://cnil.fr/fr/rapport-annuel-2025",
+      "https://www.donneespersonnelles.fr/notification-violation-donnees",
+      "https://nltimes.nl/2025/12/30/dutch-privacy-watchdog-warns-rising-ai-chatbot-data-leaks",
+      "https://learn.microsoft.com/fr-fr/purview/dspm-for-ai",
+      "https://www.onetrust.com/products/incident-management/",
+      "https://www.dastra.eu/fr/pricing",
+      "https://mistral.ai/pricing",
+      "https://zeydo.fr/agents/privacy-security-assistant",
+      "https://zeydo.fr/security",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/fuite-donnees-ia-salarie-que-faire-notifier-cnil-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2587775",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/people-man-dark-shadow-alone-2587775/"
+    }
   }
 ]
