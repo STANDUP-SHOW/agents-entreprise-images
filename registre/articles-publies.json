@@ -15261,5 +15261,26 @@
       "auteur": "SpaceX-Imagery",
       "url": "https://pixabay.com/photos/rocket-launch-night-trajectory-693236/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-1",
+    "slug": "nvidia-suspend-serveurs-ia-asie-sud-est-controles-exportation",
+    "title": "Nvidia suspend ses serveurs IA vers quatre pays d'Asie du Sud-Est",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Nvidia – suspension des livraisons de serveurs IA vers Malaisie, Singapour, Thaïlande, Indonésie (Financial Times) – 26/11/2026",
+    "sources": [
+      "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+      "https://www.journaldunet.com/economie/industrie/1559175-nvidia-suspend-des-expeditions-de-serveurs-d-ia-vers-quatre-pays-d-asie-du-sud-est/",
+      "https://siliconangle.com/2026/11/26/report-sheds-light-on-china-ties-of-some-us-based-nvidia-partners/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/nvidia-suspend-serveurs-ia-asie-sud-est-controles-exportation.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "981597",
+      "auteur": "vschoenpos",
+      "url": "https://pixabay.com/photos/ship-sea-sunset-clouds-water-981597/"
+    }
   }
 ]
