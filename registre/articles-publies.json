@@ -15348,5 +15348,28 @@
       "auteur": "Gadini",
       "url": "https://pixabay.com/photos/office-accounting-economy-working-495808/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-1",
+    "slug": "artex-microsoft-hackers-etatiques-agents-ia-attaques-minutes",
+    "title": "ARTEX : des pirates d'État adoptent l'outil d'attaque à agents IA",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Microsoft Threat Intelligence – rapport sur l'usage d'ARTEX par Salt Typhoon, Crystal Typhoon, Onyx Sleet, Pearl Sleet, Storm-0940, Storm-3358 – 25/11/2026",
+    "sources": [
+      "https://thenextweb.com/news/microsoft-artex-salt-typhoon-north-korea-state-hackers",
+      "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+      "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+      "https://www.lemondeinformatique.fr/cybersecurite-conformite/artex-les-cyberattaquants-intensifient-l-utilisation-d-agents-ia-offensifs",
+      "https://www.techtimes.com/articles/331573/20261126/artex-ai-hacking-tool-microsoft-names-chinese-north-korean-state-linked-hacker-groups.htm"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/artex-microsoft-hackers-etatiques-agents-ia-attaques-minutes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7267551",
+      "auteur": "WebTechExperts",
+      "url": "https://pixabay.com/photos/cctv-surveillance-camera-cctv-7267551/"
+    }
   }
 ]
