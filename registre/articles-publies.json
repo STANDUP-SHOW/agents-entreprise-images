@@ -15652,5 +15652,34 @@
       "auteur": "PublicDomainPictures",
       "url": "https://pixabay.com/photos/vial-analysis-laboratory-test-20745/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-maple-ai-ia-privee",
+    "title": "Business model de Maple AI : vendre une IA qui ne lit pas vos données",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Analyse du business model de Maple AI",
+    "startups": [
+      {
+        "nom": "Maple AI",
+        "site": "maple.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://maple.ai/pricing",
+      "https://maple.ai/blog/maple-ai-seed-round",
+      "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-maple-ai-ia-privee.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2586977",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/people-woman-hands-phone-text-2586977/"
+    }
   }
 ]
