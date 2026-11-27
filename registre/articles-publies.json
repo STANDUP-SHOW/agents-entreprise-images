@@ -15681,5 +15681,57 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/people-woman-hands-phone-text-2586977/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-metiers-de-terrain-2026-11-27",
+    "title": "5 startups américaines qui équipent en IA les métiers de terrain",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "5 startups modèles à suivre : métiers de terrain",
+    "startups": [
+      {
+        "nom": "Pulley",
+        "site": "withpulley.com"
+      },
+      {
+        "nom": "TrashLab",
+        "site": "trashlab.com"
+      },
+      {
+        "nom": "Probook",
+        "site": "probook.ai"
+      },
+      {
+        "nom": "Modern Industrials",
+        "site": "modernindustrials.com"
+      },
+      {
+        "nom": "Mach9",
+        "site": "mach9.ai"
+      }
+    ],
+    "theme": "Les métiers de terrain équipés en IA",
+    "sources": [
+      "https://pulse2.com/pulley-raises-64-million-to-accelerate-real-estate-development/",
+      "https://www.housingwire.com/articles/pulley-raises-64-million-permitting/",
+      "https://pulse2.com/trashlab-raises-12-million-to-scale-ai-native-operating-system-for-waste-haulers/",
+      "https://www.freightwaves.com/?p=584778",
+      "https://fortune.com/2026/06/23/exclusive-this-startup-wants-to-be-the-ai-brain-for-home-services-and-it-just-raised-40-million-from-sequoia-and-a16z/",
+      "https://sequoiacap.com/article/partnering-with-probook-ai-for-the-trades",
+      "https://www.thesaasnews.com/news/modern-industrials-raises-6m-seed/",
+      "https://distributionstrategy.com/2026/11/modern-industrials-announces-6-million-in-seed-funding-for-distribution-ai/",
+      "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "https://pulse2.com/mach9-raises-34-million-series-a-to-expand-ai-powered-cad-platform-for-civil-engineering/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-metiers-de-terrain-2026-11-27.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2578410",
+      "auteur": "bridgesward",
+      "url": "https://pixabay.com/photos/construction-worker-safety-2578410/"
+    }
   }
 ]
