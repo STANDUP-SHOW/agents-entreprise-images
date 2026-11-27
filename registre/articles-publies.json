@@ -15239,5 +15239,27 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/office-startup-tables-chairs-room-594119/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-1",
+    "slug": "spacex-starmind-feu-vert-fcc-million-satellites-data-centers",
+    "title": "SpaceX obtient le feu vert pour un million de data centers en orbite",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "SpaceX – autorisation FCC de la constellation Starmind (jusqu'à 1 million de satellites data centers) – 25/11/2026",
+    "sources": [
+      "https://siliconangle.com/2026/11/25/fcc-clears-spacex-to-put-up-to-1-million-starmind-data-centers-in-space/",
+      "https://www.geekwire.com/2026/fcc-clears-spacex-million-satellites-starmind-data-center/",
+      "https://www.lemondeinformatique.fr/infrastructure-cloud/spacex-autorise-a-deployer-jusqu-a-un-million-de-satellites-pour-des-datacenters-spatiaux",
+      "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/spacex-starmind-feu-vert-fcc-million-satellites-data-centers.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "693236",
+      "auteur": "SpaceX-Imagery",
+      "url": "https://pixabay.com/photos/rocket-launch-night-trajectory-693236/"
+    }
   }
 ]
