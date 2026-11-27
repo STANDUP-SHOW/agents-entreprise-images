@@ -15623,5 +15623,34 @@
       "auteur": "rupixen",
       "url": "https://pixabay.com/photos/cyber-security-crack-crime-access-4398478/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "marrow-therapeutics-startup-americaine-moelle-osseuse-drepanocytose",
+    "title": "Marrow Therapeutics : 173 M$ pour soigner la moelle osseuse",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Marrow Therapeutics",
+    "startups": [
+      {
+        "nom": "Marrow Therapeutics",
+        "site": "marrowtx.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/marrow-therapeutics-launches-with-173-million-for-bone-marrow-targeted-medicines/",
+      "https://www.biopharminternational.com/view/marrow-therapeutics-173-million-series-a-b-bone-marrow-genetic-medicines",
+      "https://www.statnews.com/2024/02/07/industry-veterans-launch-new-biotech-vc-scion-life-sciences/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/marrow-therapeutics-startup-americaine-moelle-osseuse-drepanocytose.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "20745",
+      "auteur": "PublicDomainPictures",
+      "url": "https://pixabay.com/photos/vial-analysis-laboratory-test-20745/"
+    }
   }
 ]
