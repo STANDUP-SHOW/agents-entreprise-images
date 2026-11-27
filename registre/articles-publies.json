@@ -15893,5 +15893,47 @@
       "auteur": "marijana1",
       "url": "https://pixabay.com/photos/hardware-electronics-repair-service-3509891/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "plusieurs-ia-ou-un-seul-fournisseur-pme-chatgpt-claude-mistral",
+    "title": "Plusieurs IA ou un seul fournisseur : que choisir pour une PME ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : utiliser plusieurs IA à la fois ou un seul fournisseur",
+    "question": "Faut-il utiliser plusieurs IA (ChatGPT, Claude, Mistral) à la fois dans une PME, ou un seul fournisseur ?",
+    "theme": "choisir-solution",
+    "preuve_question": "https://www.journaldunet.com/intelligence-artificielle/1550745-pourquoi-les-equipes-ia-matures-n-utilisent-jamais-un-seul-llm/ (01/06/2026) ; https://www.dataiku.com/blog/ai-switching-problem",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot",
+      "Perplexity",
+      "Dust",
+      "Langdock",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.dataiku.com/blog/ai-switching-problem",
+      "https://www.journaldunet.com/intelligence-artificielle/1550745-pourquoi-les-equipes-ia-matures-n-utilisent-jamais-un-seul-llm/",
+      "https://www.journaldunet.com/intelligence-artificielle/1552519-llm-les-modeles-d-affaires-qui-pourraient-pieger-votre-entreprise/",
+      "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/",
+      "https://support.microsoft.com/en-us/microsoft-365-copilot/use-claude-with-researcher-in-microsoft-365-copilot",
+      "https://www.perplexity.ai/enterprise/pricing",
+      "https://www.perplexity.ai/enterprise",
+      "https://dust.tt/home/pricing",
+      "https://www.langdock.com/models",
+      "https://www.langdock.com/pricing",
+      "https://www.langdock.com/imprint",
+      "https://zeydo.fr/ai",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/plusieurs-ia-ou-un-seul-fournisseur-pme-chatgpt-claude-mistral.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4941335",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-engineering-4941335/"
+    }
   }
 ]
