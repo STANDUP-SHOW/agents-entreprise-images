@@ -15416,5 +15416,35 @@
       "auteur": "pixel2013",
       "url": "https://pixabay.com/photos/pasture-fence-barbed-wire-fencing-1995820/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "seawolf-therapeutics-startup-americaine-medicaments-adn",
+    "title": "Seawolf Therapeutics : la biotech de San Diego qui mise sur l'ADN",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Seawolf Therapeutics",
+    "startups": [
+      {
+        "nom": "Seawolf Therapeutics",
+        "site": "seawolftx.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.blackridgeresearch.com/news-releases/us-based-seawolf-therapeutics-launches-with-usd-100-million-to-advance-dna-based-therapies",
+      "https://www.france-epargne.fr/news/seawolf-leve-100-millions-de-dollars-et-signe-avec-sanofi-un-accord-a-12-milliard",
+      "https://casrai.org/news/seawolf-sanofi-dna-research-collaboration-2026",
+      "https://fiercebiotech.com/biotech/dna-delivery-biotech-seawolf-surfaces-alongside-investors-novartis-lilly-and-partner-sanofi"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/seawolf-therapeutics-startup-americaine-medicaments-adn.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "7788808",
+      "auteur": "chaiyananuwatmongkolchai",
+      "url": "https://pixabay.com/photos/science-scientist-lab-laboratory-7788808/"
+    }
   }
 ]
