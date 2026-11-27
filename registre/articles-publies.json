@@ -15505,5 +15505,35 @@
       "auteur": "J_Blueberry",
       "url": "https://pixabay.com/photos/garbage-truck-garbage-disposal-6756670/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "arva-ai-startup-americaine-agents-ia-conformite-bancaire",
+    "title": "Arva AI : les agents IA new-yorkais de la conformité bancaire",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Arva AI",
+    "startups": [
+      {
+        "nom": "Arva AI",
+        "site": "arva.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/arva-ai-raises-20-million-to-automate-critical-banking-operations/",
+      "https://www.ycombinator.com/companies/arva-ai",
+      "https://www.axios.com/pro/fintech-deals/2026/11/17/arva-ai-20-million-series-a-bank-compliance",
+      "https://www.finextra.com/newsarticle/45323/google-fund-invests-in-kyb-verification-startup-arva-ai"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/arva-ai-startup-americaine-agents-ia-conformite-bancaire.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2907728",
+      "auteur": "JamesQube",
+      "url": "https://pixabay.com/photos/bank-money-shares-save-up-capital-2907728/"
+    }
   }
 ]
