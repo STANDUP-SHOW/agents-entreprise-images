@@ -15851,5 +15851,47 @@
       "auteur": "difisher",
       "url": "https://pixabay.com/photos/taking-notes-training-writing-3475991/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "securiser-ia-locale-pme-vol-piratage-serveur",
+    "title": "IA installée dans ses murs : comment la protéger du vol et du piratage ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : sécuriser une IA installée en local contre le vol et le piratage",
+    "question": "Comment protéger une IA installée dans les locaux de la PME contre le vol du matériel et le piratage ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://www.it-connect.fr/securite-ia-plus-de-1-100-serveurs-ollama-exposes-sur-le-web-sans-authentification/ (03/09/2025) ; https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now (30/01/2026)",
+    "solutions_comparees": [
+      "Ollama",
+      "NVIDIA DGX Spark",
+      "Mistral AI Enterprise",
+      "OVHcloud AI Endpoints",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.it-connect.fr/securite-ia-plus-de-1-100-serveurs-ollama-exposes-sur-le-web-sans-authentification/",
+      "https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now",
+      "https://www.journaldunet.com/intelligence-artificielle/1530211-comment-securiser-son-ia-generative-les-conseils-de-l-anssi/",
+      "https://docs.ollama.com/faq",
+      "https://ollama.com/pricing",
+      "https://ollama.com/terms",
+      "https://www.nvidia.com/fr-fr/products/workstations/dgx-spark/",
+      "https://mistral.ai/pricing",
+      "https://www.ovhcloud.com/fr/public-cloud/ai-endpoints/",
+      "https://zeydo.fr/security",
+      "https://zeydo.fr/box",
+      "https://zeydo.fr/pricing",
+      "https://zeydo.fr/local-ai"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/securiser-ia-locale-pme-vol-piratage-serveur.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3509891",
+      "auteur": "marijana1",
+      "url": "https://pixabay.com/photos/hardware-electronics-repair-service-3509891/"
+    }
   }
 ]
