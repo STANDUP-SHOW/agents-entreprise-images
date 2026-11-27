@@ -15327,5 +15327,26 @@
       "auteur": "RemazteredStudio",
       "url": "https://pixabay.com/photos/electrician-electronics-computer-1288717/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-1",
+    "slug": "audun-leve-3-millions-dollars-agents-ia-recouvrement-creances",
+    "title": "Audun lève 3 millions de dollars pour confier le recouvrement à l'IA",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Audun – levée de 3 M$ (Alliance VC, Y Combinator, Robinhood Ventures) – 26/11/2026",
+    "sources": [
+      "https://tech.eu/2026/11/26/audun-raises-3m-to-modernise-debt-collection-with-ai/",
+      "https://www.scommerce.com/audun-funding/",
+      "https://dailyaibrief.com/news/audun-raises-3-million-ai-debt-collection-SbIBlbMe"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/audun-leve-3-millions-dollars-agents-ia-recouvrement-creances.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "495808",
+      "auteur": "Gadini",
+      "url": "https://pixabay.com/photos/office-accounting-economy-working-495808/"
+    }
   }
 ]
