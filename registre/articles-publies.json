@@ -15476,5 +15476,34 @@
       "auteur": "carterconstruction",
       "url": "https://pixabay.com/photos/service-construction-work-10090376/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "trashlab-startup-americaine-logiciel-ia-collecte-dechets",
+    "title": "TrashLab : le logiciel à agent IA des PME de collecte des déchets",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup TrashLab",
+    "startups": [
+      {
+        "nom": "TrashLab",
+        "site": "trashlab.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/trashlab-raises-12-million-to-scale-ai-native-operating-system-for-waste-haulers/",
+      "https://www.freightwaves.com/?p=584778",
+      "https://www.cbinsights.com/company/trashlab-software"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/trashlab-startup-americaine-logiciel-ia-collecte-dechets.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "6756670",
+      "auteur": "J_Blueberry",
+      "url": "https://pixabay.com/photos/garbage-truck-garbage-disposal-6756670/"
+    }
   }
 ]
