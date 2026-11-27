@@ -15282,5 +15282,28 @@
       "auteur": "vschoenpos",
       "url": "https://pixabay.com/photos/ship-sea-sunset-clouds-water-981597/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-1",
+    "slug": "korben-leve-10-millions-euros-logiciel-robots-service",
+    "title": "Korben lève 10,2 millions d'euros pour piloter les robots de service",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "Korben – amorçage – 10,2 M€ (Tiresias Angels, Bpifrance), valorisation 36,2 M€ – 26/11/2026",
+    "sources": [
+      "https://www.maddyness.com/2026/11/26/korben-leve-10-millions-deuros-pour-devenir-le-cerveau-europeen-de-la-robotique/",
+      "https://www.frenchweb.fr/korben-leve-10-2-millions-d-euros-pour-piloter-des-robots-de-service-de-differentes-marques/900000072",
+      "https://www.planeterobots.com/2026/11/26/la-startup-francaise-korben-leve-10-millions-e/",
+      "https://business-times.fr/korben-levee-fonds-robots-de-service/",
+      "https://presseagence.fr/paris-lucas-goumarre-il-est-essentiel-que-leurope-maitrise-le-cerveau-des-robots/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/korben-leve-10-millions-euros-logiciel-robots-service.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4058741",
+      "auteur": "Lionheart84",
+      "url": "https://pixabay.com/photos/shopping-cart-cart-supermarket-4058741/"
+    }
   }
 ]
