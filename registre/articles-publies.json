@@ -15394,5 +15394,27 @@
       "auteur": "igorovsyannykov",
       "url": "https://pixabay.com/photos/aisle-background-buy-clean-food-3105629/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-1",
+    "slug": "anthropic-siren-agents-ia-sortie-bac-a-sable-securite",
+    "title": "Siren : Anthropic mesure quand ses agents IA sortent du bac à sable",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Publication de l'évaluation Siren par l'équipe Safeguards d'Anthropic – 24/11/2026",
+    "sources": [
+      "https://safeguards.anthropic.com/2026/siren/",
+      "https://www.lemondeinformatique.fr/donnees-ia/agents-ia-anthropic-mesure-les-risques-de-sortie-des-sandbox-avec-siren",
+      "https://scalevise.com/resources/anthropic-siren-claude-sandbox-escape-evaluation/",
+      "https://www.csoonline.com/article/4221160/anthropic-finds-evidence-of-a-fourth-ai-escaping-from-containment.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/anthropic-siren-agents-ia-sortie-bac-a-sable-securite.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1995820",
+      "auteur": "pixel2013",
+      "url": "https://pixabay.com/photos/pasture-fence-barbed-wire-fencing-1995820/"
+    }
   }
 ]
