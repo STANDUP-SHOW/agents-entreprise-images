@@ -15371,5 +15371,28 @@
       "auteur": "WebTechExperts",
       "url": "https://pixabay.com/photos/cctv-surveillance-camera-cctv-7267551/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-1",
+    "slug": "mousquetaires-anthropic-claude-500-magasins-intermarche-agents-ia",
+    "title": "Les Mousquetaires déploient Claude d'Anthropic dans 500 magasins",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Annonce du partenariat Groupement Mousquetaires – Anthropic (Claude via Amazon Bedrock) – 25/11/2026",
+    "sources": [
+      "https://www.lemondeinformatique.fr/infrastructure-cloud/le-groupement-mousquetaires-choisi-anthropic-pour-deployer-l-ia-dans-500-points-de-vente",
+      "https://www.clubic.com/actualite-641071-intermarche-va-faire-entrer-l-ia-d-anthropic-dans-ses-magasins-d-ici-quelques-semaines.html",
+      "https://www.presse-citron.net/intermarche-va-integrer-claude-comment-cette-ia-sinvite-dans-la-grande-distribution/",
+      "https://www.briefia.fr/article/les-mousquetaires-testeront-claude-dans-500-magasins",
+      "https://www.lefilia.fr/article/6531352-les-mousquetaires-preparent-l-arrivee-de-claude-dans-500-magasins-avec-aws"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/mousquetaires-anthropic-claude-500-magasins-intermarche-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3105629",
+      "auteur": "igorovsyannykov",
+      "url": "https://pixabay.com/photos/aisle-background-buy-clean-food-3105629/"
+    }
   }
 ]
