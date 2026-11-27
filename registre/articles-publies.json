@@ -15446,5 +15446,35 @@
       "auteur": "chaiyananuwatmongkolchai",
       "url": "https://pixabay.com/photos/science-scientist-lab-laboratory-7788808/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "pulley-startup-americaine-permis-de-construire-promoteurs",
+    "title": "Pulley : la start-up qui accélère les permis de construire américains",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Pulley",
+    "startups": [
+      {
+        "nom": "Pulley",
+        "site": "withpulley.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/pulley-raises-64-million-to-accelerate-real-estate-development/",
+      "https://www.housingwire.com/articles/pulley-raises-64-million-permitting/",
+      "https://techcrunch.com/2022/06/02/pulley-raises-4-4m-seed-to-shorten-the-construction-permitting-process-from-months-to-days-with-its-software/",
+      "https://www.boringbusinessnerd.com/startups/withpulley"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/pulley-startup-americaine-permis-de-construire-promoteurs.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "10090376",
+      "auteur": "carterconstruction",
+      "url": "https://pixabay.com/photos/service-construction-work-10090376/"
+    }
   }
 ]
