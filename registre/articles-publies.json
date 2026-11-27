@@ -15564,5 +15564,35 @@
       "auteur": "ClickerHappy",
       "url": "https://pixabay.com/photos/airport-walking-waiting-gate-walk-4120835/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "powerlattice-startup-americaine-puces-alimentation-ia",
+    "title": "Powerlattice : la puce qui réduit la facture énergétique de l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Powerlattice",
+    "startups": [
+      {
+        "nom": "Powerlattice",
+        "site": "powerlatticeinc.com"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/",
+      "https://www.geekwire.com/2025/powerlattice-a-new-semiconductor-startup-backed-by-former-intel-ceo-raises-25m/",
+      "https://techcrunch.com/2025/11/17/powerlattice-attracts-investment-from-ex-intel-ceo-pat-gelsinger-for-its-power-saving-chiplet/",
+      "https://www.unite.ai/powerlattice-raises-86m-in-equity-offering-sec-filing-shows"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/powerlattice-startup-americaine-puces-alimentation-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "453758",
+      "auteur": "blickpixel",
+      "url": "https://pixabay.com/photos/board-electronics-computer-453758/"
+    }
   }
 ]
