@@ -15813,5 +15813,43 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-engineering-4925118/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "salaries-utilisent-pas-outil-ia-reussir-adoption-pme",
+    "title": "Vos salariés n'utilisent pas l'outil d'IA acheté : comment réussir l'adoption ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : licences d'IA inutilisées, relancer l'adoption par les salariés",
+    "question": "Les salariés n'utilisent pas l'outil d'IA acheté : comment réussir l'adoption dans une PME ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://news.microsoft.com/source/emea/2026/02/etude-microsoft-france-lusage-de-lia-progresse-dans-les-entreprises-francaises-mais-se-heurte-a-un-manque-daccompagnement/?lang=fr (12/02/2026) ; https://mybusinessfuture.com/fr/microsoft-copilot-15-millions-utilisateurs-mais-seulement-3-3-paie/",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot",
+      "Claude Team",
+      "Dust",
+      "Mistral AI Team",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://news.microsoft.com/source/emea/2026/02/etude-microsoft-france-lusage-de-lia-progresse-dans-les-entreprises-francaises-mais-se-heurte-a-un-manque-daccompagnement/?lang=fr",
+      "https://learn.microsoft.com/fr-fr/viva/insights/org-team-insights/copilot-dashboard",
+      "https://claude.com/pricing",
+      "https://dust.tt/home/pricing",
+      "https://mistral.ai/pricing",
+      "https://zeydo.fr/agents/digital-transformation-assistant",
+      "https://zeydo.fr/workforce",
+      "https://zeydo.fr/temp-agency",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/salaries-utilisent-pas-outil-ia-reussir-adoption-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3475991",
+      "auteur": "difisher",
+      "url": "https://pixabay.com/photos/taking-notes-training-writing-3475991/"
+    }
   }
 ]
