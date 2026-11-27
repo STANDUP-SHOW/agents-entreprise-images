@@ -15773,5 +15773,45 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/people-man-dark-shadow-alone-2587775/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "slug": "agent-ia-documentation-qualite-audit-iso-9001-pme",
+    "title": "Un agent IA peut-il tenir la documentation qualité et préparer l'audit ISO 9001 ?",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "evenement": "Question PME : agent IA pour la documentation qualité et la préparation des audits ISO 9001 (version 2026)",
+    "question": "Un agent IA peut-il tenir la documentation qualité et préparer l'audit ISO 9001 d'une PME ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.techniques-ingenieur.fr/actualite/articles/olec-kovalevsky-iso-9001-ne-presque-rien-changer-pour-que-tout-change-163482/ (16/09/2026) ; https://digital.nemko.com/insights/iso-9001-and-ai-auditing-the-future-of-quality-management",
+    "solutions_comparees": [
+      "Qualio",
+      "MasterControl",
+      "BlueKanGo",
+      "Agilium",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.lrqa.com/en-us/latest-news/iso-90012026-is-live-the-transition-period-has-begun/",
+      "https://www.techniques-ingenieur.fr/actualite/articles/olec-kovalevsky-iso-9001-ne-presque-rien-changer-pour-que-tout-change-163482/",
+      "https://www.iso.org/quality-management/iso-9001-2026",
+      "https://www.qualio.com/pricing",
+      "https://www.qualio.com/about",
+      "https://www.mastercontrol.com/",
+      "https://www.bluekango.com/",
+      "https://www.agilium.com/",
+      "https://zeydo.fr/agents/agent-qualite-documentaire",
+      "https://zeydo.fr/agents/coordinateur-audit-qualite",
+      "https://zeydo.fr/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-documentation-qualite-audit-iso-9001-pme.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4925118",
+      "auteur": "This_is_Engineering",
+      "url": "https://pixabay.com/photos/engineer-engineering-4925118/"
+    }
   }
 ]
