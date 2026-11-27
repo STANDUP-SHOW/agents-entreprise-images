@@ -15594,5 +15594,34 @@
       "auteur": "blickpixel",
       "url": "https://pixabay.com/photos/board-electronics-computer-453758/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "maple-ai-startup-americaine-ia-privee-chiffree",
+    "title": "Maple AI : l'IA privée texane que même ses créateurs ne lisent pas",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Maple AI",
+    "startups": [
+      {
+        "nom": "Maple AI",
+        "site": "maple.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://maple.ai/blog/maple-ai-seed-round",
+      "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "https://maple.ai/pricing"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/maple-ai-startup-americaine-ia-privee-chiffree.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4398478",
+      "auteur": "rupixen",
+      "url": "https://pixabay.com/photos/cyber-security-crack-crime-access-4398478/"
+    }
   }
 ]
