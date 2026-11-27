@@ -15535,5 +15535,34 @@
       "auteur": "JamesQube",
       "url": "https://pixabay.com/photos/bank-money-shares-save-up-capital-2907728/"
     }
+  },
+  {
+    "date": "2026-11-27",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "voyage-labs-startup-americaine-agent-ia-voyage-atlas",
+    "title": "Voyage Labs : l'agent IA Atlas qui organise et réserve les voyages",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Voyage Labs",
+    "startups": [
+      {
+        "nom": "Voyage Labs",
+        "site": "voyagelabs.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.citybiz.co/article/935070/voyage-labs-raises-12-million-in-seed-funding-led-by-kleiner-perkins-to-develop-ai-travel-agent-atlas/",
+      "https://pulse2.com/voyage-labs-raises-12-million-to-develop-atlas-travel-ai-agent/",
+      "https://www.phocuswire.com/news/startups/voyage-labs-raises-12m-build-personal-ai-travel-agent-atlas"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/voyage-labs-startup-americaine-agent-ia-voyage-atlas.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4120835",
+      "auteur": "ClickerHappy",
+      "url": "https://pixabay.com/photos/airport-walking-waiting-gate-walk-4120835/"
+    }
   }
 ]
