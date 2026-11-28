@@ -16573,5 +16573,43 @@
     "category_slug": "questions-pme-ia",
     "mode": "original",
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/ia-americaine-ou-francaise-qualite-reponses-en-francais-pme.webp"
+  },
+  {
+    "slug": "temps-gagne-grace-ia-que-faire-reinvestir-pme",
+    "title": "Temps gagné grâce à l'IA : comment le réinvestir utilement dans une PME ?",
+    "evenement": "Question PME : mesurer et réinvestir le temps gagné grâce à l'IA",
+    "question": "Que faire du temps gagné grâce à l'IA dans une PME, et comment le mesurer ?",
+    "theme": "organisation-humain",
+    "preuve_question": "https://www.journaldunet.com/intelligence-artificielle/1557807-ia-le-temps-gagne-peut-devenir-le-grand-gaspillage-des-entreprises/ (10/11/2026) ; https://fr-fr.newsroom.workday.com/2026-01-14-Les-entreprises-exploitent-mal-les-benefices-de-lIA (14/01/2026)",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot",
+      "Claude Team",
+      "Dust",
+      "Mistral AI Team",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.journaldunet.com/intelligence-artificielle/1557807-ia-le-temps-gagne-peut-devenir-le-grand-gaspillage-des-entreprises/",
+      "https://fr-fr.newsroom.workday.com/2026-01-14-Les-entreprises-exploitent-mal-les-benefices-de-lIA",
+      "https://learn.microsoft.com/fr-fr/viva/insights/org-team-insights/copilot-dashboard",
+      "https://claude.com/pricing",
+      "https://dust.tt/home/pricing",
+      "https://mistral.ai/pricing",
+      "https://zeydo.fr/pricing",
+      "https://zeydo.fr/agents/agent-recherche-informations-reglementaires"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1280966",
+      "auteur": "jerrykimbrell10",
+      "url": "https://pixabay.com/photos/teacher-female-college-student-1280966/"
+    },
+    "mots": 2500,
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/temps-gagne-grace-ia-que-faire-reinvestir-pme.webp"
   }
 ]
