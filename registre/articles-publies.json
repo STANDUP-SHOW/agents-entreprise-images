@@ -16158,5 +16158,31 @@
       "auteur": "marijana1",
       "url": "https://pixabay.com/photos/stethoscope-doctor-md-medical-3457519/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "noeri-startup-americaine-ia-auto-amelioration-entreprises",
+    "title": "Noeri : 110 M$ pour des IA d'entreprise qui s'améliorent seules",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Noeri lève 110 M$ menés par Menlo Ventures (16/11/2026)",
+    "startups": [
+      "Noeri"
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.geekwire.com/2026/former-uw-ai-researchers-yejin-choi-and-carlos-guestrin-raise-110m-for-ai-startup-noeri/",
+      "https://noeri.ai/",
+      "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/noeri-startup-americaine-ia-auto-amelioration-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2030265",
+      "auteur": "Kost9n4",
+      "url": "https://pixabay.com/photos/analysis-biochemistry-biologist-2030265/"
+    }
   }
 ]
