@@ -16372,5 +16372,33 @@
       "auteur": "652234",
       "url": "https://pixabay.com/photos/factory-building-industry-1140760/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-2",
+    "type": "analyse",
+    "slug": "business-model-resend-api-email-developpeurs-agents",
+    "title": "Business model de Resend : l'e-mail des développeurs et des agents IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Resend franchit 6 millions d'utilisateurs (25/11/2026), rentable depuis 2025",
+    "startups": [
+      "Resend"
+    ],
+    "theme": null,
+    "sources": [
+      "https://resend.com/blog/6-million-users",
+      "https://sacra.com/c/resend/",
+      "https://resend.com/handbook/company/how-we-got-here.md",
+      "https://resend.com/blog/series-a",
+      "https://resend.com/pricing.md"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/business-model-resend-api-email-developpeurs-agents.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2628851",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/mailbox-mail-letters-2628851/"
+    }
   }
 ]
