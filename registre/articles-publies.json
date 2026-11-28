@@ -16317,5 +16317,33 @@
       "auteur": "analogicus",
       "url": "https://pixabay.com/photos/circuit-electric-trace-computer-5315089/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "pro-shop-startup-americaine-media-golf",
+    "title": "Pro Shop : le groupe média qui veut rendre le golf populaire",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Pro Shop lève 24 M$ en série B menée par Arthur M. Blank Sports and Entertainment (octobre 2026)",
+    "startups": [
+      "Pro Shop"
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/pro-shop-raises-24-million-series-b-to-expand-golf-media-entertainment-and-commerce-platform/",
+      "https://www.proshop.inc/",
+      "https://www.pgatour.com/article/news/latest/2024/03/07/pro-shop-a-new-venture-from-full-swing-producer-chad-mumm-and-media-executive-joe-purzycki-closes-20m-funding-round",
+      "https://dealroom.co/news/160008-golf-media-startup-pro-shop-raises-24m-series-b-led-by-arthur-blank-s-of/",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-5-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/pro-shop-startup-americaine-media-golf.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "9597899",
+      "auteur": "Arturo_Anez",
+      "url": "https://pixabay.com/photos/golf-sport-nature-green-grass-9597899/"
+    }
   }
 ]
