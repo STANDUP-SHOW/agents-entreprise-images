@@ -16493,5 +16493,45 @@
     "category_slug": "questions-pme-ia",
     "mode": "original",
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/secret-des-affaires-ia-cloud-ou-local-proteger-donnees-pme.webp"
+  },
+  {
+    "slug": "agent-ia-veille-reglementaire-pme-nouvelles-obligations",
+    "title": "Un agent IA peut-il faire la veille réglementaire d'une PME à votre place ?",
+    "evenement": "Question PME : confier la veille réglementaire à un agent IA",
+    "question": "Un agent IA peut-il assurer la veille réglementaire d'une PME sans juriste ?",
+    "theme": "metiers-process",
+    "preuve_question": "https://www.entreprises.cci-paris-idf.fr/temoignages/les-etapes-cles-pour-mettre-en-conformite-votre-pme-avec-lia-act (référent IA chargé de la veille réglementaire) ; https://formation.lefebvre-dalloz.fr/actualite/comment-lia-peut-nous-aider-rester-jour-sur-les-obligations-de-la-qse",
+    "solutions_comparees": [
+      "Perplexity",
+      "Claude Pro",
+      "Doctrine",
+      "Mistral AI Team",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.entreprises.cci-paris-idf.fr/temoignages/les-etapes-cles-pour-mettre-en-conformite-votre-pme-avec-lia-act",
+      "https://www.data.gouv.fr/reuses/veille-reglementaire-simplifiee-pour-les-professionnels",
+      "https://www.perplexity.ai/enterprise/pricing",
+      "https://www.perplexity.ai/enterprise",
+      "https://claude.com/pricing",
+      "https://www.doctrine.fr/tarifs",
+      "https://mistral.ai/pricing",
+      "https://zeydo.fr/agents/agent-recherche-informations-reglementaires",
+      "https://zeydo.fr/agents/agent-veille-reglementaire-environnement",
+      "https://zeydo.fr/pricing"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1614223",
+      "auteur": "myrfa",
+      "url": "https://pixabay.com/photos/files-paper-office-paperwork-stack-1614223/"
+    },
+    "mots": 2500,
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agent-ia-veille-reglementaire-pme-nouvelles-obligations.webp"
   }
 ]
