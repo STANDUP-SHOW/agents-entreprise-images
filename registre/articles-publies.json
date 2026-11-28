@@ -16450,5 +16450,48 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/people-man-binoculars-green-nature-2590415/"
     }
+  },
+  {
+    "slug": "secret-des-affaires-ia-cloud-ou-local-proteger-donnees-pme",
+    "title": "Secret des affaires et IA : cloud ou local pour protéger les informations d'une PME ?",
+    "evenement": "Question PME : protéger le secret des affaires quand on utilise l'IA (cloud, hybride ou local)",
+    "question": "Peut-on confier ses informations stratégiques (prix, procédés, savoir-faire) à une IA dans le cloud sans perdre la protection du secret des affaires ?",
+    "theme": "cloud-hybride-local",
+    "preuve_question": "https://kohenavocats.fr/2026/05/01/chatgpt-entreprise-donnees-confidentielles-rgpd-secret-affaires-2026/ (01/05/2026) ; https://www.journaldunet.com/cybersecurite/1552259-shadow-ai-le-risque-invisible-qui-guette-les-pme-francaises/",
+    "solutions_comparees": [
+      "Microsoft 365 Copilot",
+      "ChatGPT Business/Enterprise",
+      "Claude Team",
+      "Mistral AI Team/Enterprise",
+      "Dust",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037266553",
+      "https://kohenavocats.fr/2026/05/01/chatgpt-entreprise-donnees-confidentielles-rgpd-secret-affaires-2026/",
+      "https://www.journaldunet.com/cybersecurite/1552259-shadow-ai-le-risque-invisible-qui-guette-les-pme-francaises/",
+      "https://openai.com/fr-FR/business-data/",
+      "https://learn.microsoft.com/fr-fr/copilot/microsoft-365/microsoft-365-copilot-privacy",
+      "https://claude.com/pricing",
+      "https://mistral.ai/pricing",
+      "https://dust.tt/home/pricing",
+      "https://dust.tt/home/security",
+      "https://zeydo.fr/local-ai",
+      "https://zeydo.fr/pricing",
+      "https://zeydo.fr/security"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1392749",
+      "auteur": "fill",
+      "url": "https://pixabay.com/photos/paper-shredder-flakes-recycling-1392749/"
+    },
+    "mots": 2750,
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/secret-des-affaires-ia-cloud-ou-local-proteger-donnees-pme.webp"
   }
 ]
