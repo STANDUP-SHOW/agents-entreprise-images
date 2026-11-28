@@ -16211,5 +16211,31 @@
       "auteur": "bytran2710",
       "url": "https://pixabay.com/photos/tomatoes-greenhouses-agriculture-3446424/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "4minds-startup-americaine-ia-contextuelle-entreprises",
+    "title": "4Minds : la startup de Dallas valorisée 500 M$ après sa série A",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "4Minds boucle une série A de 15 M$ à 500 M$ de valorisation (12/11/2026)",
+    "startups": [
+      "4Minds"
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.cdomagazine.tech/others/4minds-raises-15m-series-a-to-give-enterprises-a-faster-path-to-accurate-ai",
+      "https://4minds.ai/",
+      "https://www.dmagazine.com/business-economy/2026/11/this-dallas-ai-startup-just-closed-its-series-a-with-a-500-million-valuation/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/4minds-startup-americaine-ia-contextuelle-entreprises.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1740681",
+      "auteur": "12019",
+      "url": "https://pixabay.com/photos/dallas-texas-city-cities-urban-1740681/"
+    }
   }
 ]
