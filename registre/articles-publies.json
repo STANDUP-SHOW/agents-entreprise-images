@@ -16237,5 +16237,31 @@
       "auteur": "12019",
       "url": "https://pixabay.com/photos/dallas-texas-city-cities-urban-1740681/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "meadow-ai-startup-americaine-ia-commerces-restaurants",
+    "title": "Meadow AI : le client mystère numérique des restaurants et magasins",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Meadow AI lève 7 M$ en amorçage menés par Ulu Ventures (29/09/2026)",
+    "startups": [
+      "Meadow AI"
+    ],
+    "theme": null,
+    "sources": [
+      "https://www.geekwire.com/2026/meadow-ai-lands-7m-to-scale-digital-secret-shopper-platform-for-physical-retailers-and-restaurants/",
+      "https://www.meadow.ai/",
+      "https://dealroom.co/news/157701-meadow-ai-raises-7m-seed-to-give-physical-stores-a-digital-secret-shoppe/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/meadow-ai-startup-americaine-ia-commerces-restaurants.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2376728",
+      "auteur": "LuckyLife11",
+      "url": "https://pixabay.com/photos/waitress-the-waiter-restaurant-cafe-2376728/"
+    }
   }
 ]
