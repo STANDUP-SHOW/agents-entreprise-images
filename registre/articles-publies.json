@@ -16021,5 +16021,26 @@
       "auteur": "cloudhoreca",
       "url": "https://pixabay.com/photos/bookkeeper-accountant-office-coffee-1016299/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-1",
+    "slug": "watersense-leve-5-75-millions-euros-ia-qualite-eau-rivieres",
+    "title": "WaterSense lève 5,75 M€ pour prédire la pollution des rivières",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "WaterSense – pré-amorçage et subventions – 5,75 M€",
+    "sources": [
+      "https://tech.eu/2026/11/26/watersense-raises-eur575m-to-build-europes-water-intelligence-infrastructure/",
+      "https://www.trendingtopics.eu/watersense-funding-water-quality/",
+      "https://www.globalstartupsinsights.com/funding/poland/watersense-secures-e5-75-million-to-scale-water-intelligence/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/watersense-leve-5-75-millions-euros-ia-qualite-eau-rivieres.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4337156",
+      "auteur": "kubinger",
+      "url": "https://pixabay.com/photos/sewage-treatment-plant-switzerland-4337156/"
+    }
   }
 ]
