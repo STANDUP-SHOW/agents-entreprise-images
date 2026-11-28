@@ -16290,5 +16290,32 @@
       "auteur": "Bergadder",
       "url": "https://pixabay.com/photos/ship-sea-water-sight-transport-10038606/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "efficient-computer-startup-americaine-puce-basse-consommation",
+    "title": "Efficient Computer : des puces jusqu'à 100 fois plus sobres pour l'IA",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Efficient Computer lève plus de 97 M$ en série B à 650 M$ de valorisation (29/09/2026)",
+    "startups": [
+      "Efficient Computer"
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/efficient-computer-raises-over-97-million-series-b-at-650-million-valuation/",
+      "https://www.efficient.computer/",
+      "https://siliconangle.com/2026/09/29/low-energy-chip-startup-efficient-computer-closes-on-97m-in-funding/",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-5-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/efficient-computer-startup-americaine-puce-basse-consommation.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5315089",
+      "auteur": "analogicus",
+      "url": "https://pixabay.com/photos/circuit-electric-trace-computer-5315089/"
+    }
   }
 ]
