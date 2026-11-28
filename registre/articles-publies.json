@@ -16106,5 +16106,26 @@
       "auteur": "PublicDomainImages",
       "url": "https://pixabay.com/photos/soil-tilling-farmer-tractor-386749/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-1",
+    "slug": "french-tech-nova-36-laureats-startups-diversite-passage-echelle",
+    "title": "French Tech Nova : 36 startups de la diversité pour changer d'échelle",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "French Tech Nova – 36 lauréats de la première promotion",
+    "sources": [
+      "https://www.maddyness.com/2026/11/27/avec-french-tech-nova-letat-sattaque-au-plafond-de-verre-des-startups/",
+      "https://frenchtech120.numeum.fr/actualite/la-french-tech-lance-son-nouveau-programme-nova/",
+      "https://www.lemondeinformatique.fr/actualites/lire-la-french-tech-tue-son-programme-pour-l-inclusion-tremplin-100680.html"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/french-tech-nova-36-laureats-startups-diversite-passage-echelle.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "4165307",
+      "auteur": "DiggityMarketing",
+      "url": "https://pixabay.com/photos/software-development-guest-post-4165307/"
+    }
   }
 ]
