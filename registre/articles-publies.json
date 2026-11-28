@@ -16184,5 +16184,32 @@
       "auteur": "Kost9n4",
       "url": "https://pixabay.com/photos/analysis-biochemistry-biologist-2030265/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "electric-plant-startup-americaine-ia-signaux-electriques-plantes",
+    "title": "Electric Plant : l'IA qui lit les signaux électriques des plantes",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Electric Plant lève 11,2 M$ en amorçage et lance Bombadil (20/10/2026)",
+    "startups": [
+      "Electric Plant"
+    ],
+    "theme": null,
+    "sources": [
+      "https://simplify.jobs/c/The-Electric-Plant-Company",
+      "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "https://www.electricplant.co/",
+      "https://www.hortidaily.com/article/9885879/we-ve-now-recorded-more-than-7-million-hours-of-signal-from-over-125-species/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/electric-plant-startup-americaine-ia-signaux-electriques-plantes.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3446424",
+      "auteur": "bytran2710",
+      "url": "https://pixabay.com/photos/tomatoes-greenhouses-agriculture-3446424/"
+    }
   }
 ]
