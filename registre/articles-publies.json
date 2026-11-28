@@ -16063,5 +16063,26 @@
       "auteur": "sasint",
       "url": "https://pixabay.com/photos/operation-operating-room-surgery-1807543/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-1",
+    "slug": "bnp-paribas-rachete-mucho-avantages-salaries-pme-startup",
+    "title": "BNP Paribas prend le contrôle de Mūcho, startup des avantages salariés",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "BNP Paribas – prise de contrôle de Mūcho (avantages salariés)",
+    "sources": [
+      "https://www.lemondeinformatique.fr/it-direction/bnp-paribas-prend-le-controle-de-mucho-specialiste-des-avantages-salaries",
+      "https://www.frenchweb.fr/bnp-paribas-prend-le-controle-de-mucho-nee-au-sein-du-startup-studio-321founded/900000073",
+      "https://www.abcbourse.com/marches/bnp-paribas-rachete-m%C5%ABcho-une-startup-qui-simplifie-la-gestion-des-avantages-sa_706712"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/bnp-paribas-rachete-mucho-avantages-salaries-pme-startup.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "440959",
+      "auteur": "Nappiness",
+      "url": "https://pixabay.com/photos/hand-shake-business-professional-440959/"
+    }
   }
 ]
