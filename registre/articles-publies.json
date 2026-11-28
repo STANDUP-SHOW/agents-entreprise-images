@@ -16400,5 +16400,55 @@
       "auteur": "StockSnap",
       "url": "https://pixabay.com/photos/mailbox-mail-letters-2628851/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-2",
+    "type": "inspiration",
+    "slug": "inspiration-americaine-angles-morts-2026-11-28",
+    "title": "5 startups américaines qui comblent un angle mort de leur secteur",
+    "category_slug": "inspiration-americaine",
+    "mode": "original",
+    "evenement": "Article Inspiration du 28/11/2026",
+    "startups": [
+      {
+        "nom": "Quartermaster",
+        "site": "quartermaster.us"
+      },
+      {
+        "nom": "Meadow AI",
+        "site": "meadow.ai"
+      },
+      {
+        "nom": "Daptic",
+        "site": "daptic.com"
+      },
+      {
+        "nom": "Electric Plant",
+        "site": "electricplant.co"
+      },
+      {
+        "nom": "Vera Health",
+        "site": "verahealth.ai"
+      }
+    ],
+    "theme": "Startups américaines qui comblent un angle mort de leur secteur (océans, magasins, réglementation, agriculture, preuve médicale)",
+    "sources": [
+      "https://www.cdomagazine.tech/others/4minds-raises-15m-series-a-to-give-enterprises-a-faster-path-to-accurate-ai",
+      "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
+      "https://www.geekwire.com/2026/meadow-ai-lands-7m-to-scale-digital-secret-shopper-platform-for-physical-retailers-and-restaurants/",
+      "https://alleywatch.com/2026/10/daptic-physical-product-compliance-software-regulatory-ai-lifestyle-management-baptiste-bouvier/",
+      "https://pulse2.com/daptic-raises-15-million-series-a-for-product-compliance-platform/",
+      "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "https://www.journaldunet.com/en/1557237-vera-health-raises-28-5-million-for-its-ai-assistant-used-by-800-000-clinicians/",
+      "https://tech.eu/2026/10/27/from-two-doctors-to-800000-clinicians-vera-health-raises-285m/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/inspiration-americaine-angles-morts-2026-11-28.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "2590415",
+      "auteur": "StockSnap",
+      "url": "https://pixabay.com/photos/people-man-binoculars-green-nature-2590415/"
+    }
   }
 ]
