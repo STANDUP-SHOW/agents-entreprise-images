@@ -16345,5 +16345,32 @@
       "auteur": "Arturo_Anez",
       "url": "https://pixabay.com/photos/golf-sport-nature-green-grass-9597899/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "daptic-startup-americaine-conformite-reglementaire-produits",
+    "title": "Daptic : la conformité des produits intégrée dès la conception",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Daptic lève 15 M$ en série A menée par Canvas Ventures (02/10/2026)",
+    "startups": [
+      "Daptic"
+    ],
+    "theme": null,
+    "sources": [
+      "https://pulse2.com/daptic-raises-15-million-series-a-for-product-compliance-platform/",
+      "https://www.daptic.com/",
+      "https://alleywatch.com/2026/10/daptic-physical-product-compliance-software-regulatory-ai-lifestyle-management-baptiste-bouvier/",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-5-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/daptic-startup-americaine-conformite-reglementaire-produits.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1140760",
+      "auteur": "652234",
+      "url": "https://pixabay.com/photos/factory-building-industry-1140760/"
+    }
   }
 ]
