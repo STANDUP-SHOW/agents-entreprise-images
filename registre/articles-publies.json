@@ -16127,5 +16127,36 @@
       "auteur": "DiggityMarketing",
       "url": "https://pixabay.com/photos/software-development-guest-post-4165307/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "vera-health-startup-americaine-moteur-recherche-medical-ia",
+    "title": "Vera Health : le moteur de recherche médical qui note ses sources",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Fiche startup Vera Health",
+    "startups": [
+      {
+        "nom": "Vera Health",
+        "site": "verahealth.ai"
+      }
+    ],
+    "theme": null,
+    "sources": [
+      "https://tech.eu/2026/10/27/from-two-doctors-to-800000-clinicians-vera-health-raises-285m/",
+      "https://www.verahealth.ai/",
+      "https://www.journaldunet.com/en/1557237-vera-health-raises-28-5-million-for-its-ai-assistant-used-by-800-000-clinicians/",
+      "https://hitconsultant.net/2026/10/27/vera-health-raises-28m-series-a-threshold-ventures-evidence-graded-clinical-ai/",
+      "https://www.ycombinator.com/companies/vera-health"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/vera-health-startup-americaine-moteur-recherche-medical-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "3457519",
+      "auteur": "marijana1",
+      "url": "https://pixabay.com/photos/stethoscope-doctor-md-medical-3457519/"
+    }
   }
 ]
