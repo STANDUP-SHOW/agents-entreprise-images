@@ -16042,5 +16042,26 @@
       "auteur": "kubinger",
       "url": "https://pixabay.com/photos/sewage-treatment-plant-switzerland-4337156/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-1",
+    "slug": "spctr-leve-2-8-millions-euros-ia-chirurgie-cancer-sein-marges",
+    "title": "SPCTR lève 2,8 M€ pour une IA qui guide la chirurgie du cancer",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "SPCTR – financement complémentaire – 2,8 M€",
+    "sources": [
+      "https://news.europawire.eu/spctr-secures-e2-8-million-to-advance-ai-powered-surgical-margin-assessment-during-cancer-operations/eu-press-release/2026/11/26/15/51/07/189849/",
+      "https://dailyaibrief.com/news/spctr-raises-2-8m-tumour-margin-imaging-EERswuCC",
+      "https://n24.com.tr/en/companies/spctr-raises-28-million-euros-for-real-time-cancer-imaging-383"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/spctr-leve-2-8-millions-euros-ia-chirurgie-cancer-sein-marges.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1807543",
+      "auteur": "sasint",
+      "url": "https://pixabay.com/photos/operation-operating-room-surgery-1807543/"
+    }
   }
 ]
