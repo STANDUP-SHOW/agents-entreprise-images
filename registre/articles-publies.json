@@ -16263,5 +16263,32 @@
       "auteur": "LuckyLife11",
       "url": "https://pixabay.com/photos/waitress-the-waiter-restaurant-cafe-2376728/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-2",
+    "type": "fiche",
+    "slug": "quartermaster-startup-americaine-capteurs-maritimes-ia",
+    "title": "Quartermaster : des capteurs sur les navires pour surveiller les mers",
+    "category_slug": "startups",
+    "mode": "original",
+    "evenement": "Quartermaster lève 140 M$ en série B menée par Insight Partners (28/09/2026)",
+    "startups": [
+      "Quartermaster"
+    ],
+    "theme": null,
+    "sources": [
+      "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
+      "https://www.quartermaster.us/",
+      "https://www.workboat.com/quartermaster-secures-140-million-to-expand-maritime-sensor-network",
+      "https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-5-26/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/quartermaster-startup-americaine-capteurs-maritimes-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "10038606",
+      "auteur": "Bergadder",
+      "url": "https://pixabay.com/photos/ship-sea-water-sight-transport-10038606/"
+    }
   }
 ]
