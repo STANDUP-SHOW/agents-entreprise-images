@@ -15935,5 +15935,27 @@
       "auteur": "This_is_Engineering",
       "url": "https://pixabay.com/photos/engineer-engineering-4941335/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-1",
+    "slug": "chatgpt-fusionne-chat-work-quota-partage-codex-agents-ia",
+    "title": "ChatGPT fusionne Chat et Work, quota commun avec Codex dès décembre",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "OpenAI – fusion Chat et Work, quota partagé ChatGPT/Codex",
+    "sources": [
+      "https://www.lemondeinformatique.fr/donnees-ia/openai-fusionne-chat-et-work-avec-des-quotas-partages-des-decembre",
+      "https://www.trendingtopics.eu/chatgpt-usage-limits-40-percent-faster/",
+      "https://ai.info/news/openai-chatgpt-chat-work-pro-rollout",
+      "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/chatgpt-fusionne-chat-work-quota-partage-codex-agents-ia.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "593299",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/startup-start-up-notebooks-creative-593299/"
+    }
   }
 ]
