@@ -16084,5 +16084,27 @@
       "auteur": "Nappiness",
       "url": "https://pixabay.com/photos/hand-shake-business-professional-440959/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-1",
+    "slug": "agryco-frederic-duval-ex-amazon-france-preside-conseil-agritech",
+    "title": "Agryco confie sa présidence à Frédéric Duval, ex-dirigeant d'Amazon",
+    "category_slug": "startups",
+    "mode": "recomposition",
+    "evenement": "Agryco – Frédéric Duval président du conseil",
+    "sources": [
+      "https://www.maddyness.com/2026/11/27/lancien-patron-damazon-france-rejoint-agryco-pour-en-faire-un-champion-europeen/",
+      "https://www.frenchweb.fr/breaking-news/agryco-confie-la-presidence-de-son-conseil-a-frederic-duval-ancien-patron-d-amazon-fr/659e187e-4efc-4f13-bf71-cf9f4272bab5",
+      "https://www.agrodistribution.fr/agriconomie/article/906556/agryco-s-offre-l-ancien-patron-d-amazon-france",
+      "https://www.agra.fr/lives/intrants-un-ex-patron-damazon-france-la-presidence-du-conseil-dadministration-dagryco"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/agryco-frederic-duval-ex-amazon-france-preside-conseil-agritech.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "386749",
+      "auteur": "PublicDomainImages",
+      "url": "https://pixabay.com/photos/soil-tilling-farmer-tractor-386749/"
+    }
   }
 ]
