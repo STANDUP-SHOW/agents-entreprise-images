@@ -15957,5 +15957,26 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/startup-start-up-notebooks-creative-593299/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-1",
+    "slug": "perplexity-time-machine-agents-ia-web-passe-recherche-historique",
+    "title": "Perplexity Time Machine : les agents IA explorent le Web du passé",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "Perplexity – lancement de Time Machine (API Search et Context)",
+    "sources": [
+      "https://www.lemondeinformatique.fr/donnees-ia/perplexity-lance-time-machine-pour-faire-explorer-le-web-passe-aux-agents-ia",
+      "https://thenextweb.com/news/perplexity-time-machine-ai-agents-past-web",
+      "https://computing.net/perplexity-time-machine-lets-ai-agents-search-the-web-as-it-was/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/perplexity-time-machine-agents-ia-web-passe-recherche-historique.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "849806",
+      "auteur": "StartupStockPhotos",
+      "url": "https://pixabay.com/photos/typing-computer-man-workspace-work-849806/"
+    }
   }
 ]
