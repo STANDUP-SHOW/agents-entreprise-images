@@ -15978,5 +15978,27 @@
       "auteur": "StartupStockPhotos",
       "url": "https://pixabay.com/photos/typing-computer-man-workspace-work-849806/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-1",
+    "slug": "truelayer-papa-johns-agent-ia-paiement-sans-carte-open-banking-fca",
+    "title": "Agent IA et paiement sans carte : l'essai TrueLayer et Papa John's",
+    "category_slug": "agents-ia",
+    "mode": "recomposition",
+    "evenement": "TrueLayer / Papa John's / Lloyds – premier paiement agentique sans carte (bac à sable FCA)",
+    "sources": [
+      "https://tech.eu/2026/11/27/papa-johns-pizza-order-first-uk-cardless-payment-by-ai-agent/",
+      "https://www.aol.co.uk/articles/pizza-history-ai-agent-cardless-095311000.html",
+      "https://theintelligent.co.uk/technology/2026/ai-agent-completes-first-uk-cardless-purchase-pizza-order-regulatory-sandbox",
+      "https://www.gadgetreview.com/nine-pizzas-zero-cards-truelayer-and-papa-johns-complete-uks-first-agentic-pay-by-bank-order-in-fca-sandbox"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/truelayer-papa-johns-agent-ia-paiement-sans-carte-open-banking-fca.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "5429964",
+      "auteur": "WOKANDAPIX",
+      "url": "https://pixabay.com/photos/boxes-cardboard-pizza-boxes-pizza-5429964/"
+    }
   }
 ]
