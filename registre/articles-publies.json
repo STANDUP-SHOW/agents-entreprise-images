@@ -16611,5 +16611,43 @@
     "category_slug": "questions-pme-ia",
     "mode": "original",
     "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/temps-gagne-grace-ia-que-faire-reinvestir-pme.webp"
+  },
+  {
+    "slug": "comptabiliser-abonnement-ia-materiel-ia-locale-charge-immobilisation-pme",
+    "title": "Comment comptabiliser un abonnement IA ou du matériel d'IA locale dans une PME ?",
+    "evenement": "Question PME : traitement comptable des abonnements, consommations et matériels d'IA",
+    "question": "Comment comptabiliser un abonnement d'IA, une consommation d'API ou une machine d'IA locale dans une PME ?",
+    "theme": "couts-roi",
+    "preuve_question": "https://copeps.fr/actualites/abonnement-chat-gpt-comptabilisation/ ; https://www.pennylane.com/fr/fiches-pratiques/plan-comptable/compte-comptable-abonnement-comment-comptabiliser-les-abonnements-en",
+    "solutions_comparees": [
+      "ChatGPT Business",
+      "Claude Team",
+      "Mistral AI Team",
+      "Dust",
+      "ZeyDo"
+    ],
+    "sources": [
+      "https://copeps.fr/actualites/abonnement-chat-gpt-comptabilisation/",
+      "https://www.pennylane.com/fr/fiches-pratiques/plan-comptable/compte-comptable-abonnement-comment-comptabiliser-les-abonnements-en",
+      "https://www.pennylane.com/fr/fiches-pratiques/plan-comptable/compte-612-redevances-de-credit-bail",
+      "https://bofip.impots.gouv.fr/bofip/2109-PGP.html/identifiant=BOI-BIC-CHG-20-30-10-20170301",
+      "https://claude.com/pricing",
+      "https://mistral.ai/pricing",
+      "https://dust.tt/home/pricing",
+      "https://zeydo.fr/pricing"
+    ],
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1428230",
+      "auteur": "cpastrick",
+      "url": "https://pixabay.com/photos/ledger-accounting-business-money-1428230/"
+    },
+    "mots": 2600,
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-3",
+    "type": "question-pme",
+    "category_slug": "questions-pme-ia",
+    "mode": "original",
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/comptabiliser-abonnement-ia-materiel-ia-locale-charge-immobilisation-pme.webp"
   }
 ]
