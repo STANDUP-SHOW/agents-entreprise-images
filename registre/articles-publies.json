@@ -16000,5 +16000,26 @@
       "auteur": "WOKANDAPIX",
       "url": "https://pixabay.com/photos/boxes-cardboard-pizza-boxes-pizza-5429964/"
     }
+  },
+  {
+    "date": "2026-11-28",
+    "routine": "redacteur-quotidien-1",
+    "slug": "nextesy-leve-10-millions-dollars-agents-ia-comptabilite-pme-suisse",
+    "title": "nextesy lève 10,4 millions de dollars pour ses agents IA comptables",
+    "category_slug": "levees-de-fonds",
+    "mode": "recomposition",
+    "evenement": "nextesy – amorçage – 10,4 M$ (Swisscom Ventures)",
+    "sources": [
+      "https://www.startupticker.ch/en/news/nextesy-raises-usd-10-4-to-accelefate-growth",
+      "https://www.therecursive.com/nextesy-swiss-ai-startup-with-balkan-roots-raises-eur9m-seed-led-by-swisscom-ventures/",
+      "https://techstartups.com/2026/11/27/swiss-ai-startup-nextesy-raises-10-4m-to-automate-accounting-payroll-and-business-administration-with-ai-agents/"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/STANDUP-SHOW/agents-entreprise-images/couvertures/articles/nextesy-leve-10-millions-dollars-agents-ia-comptabilite-pme-suisse.webp",
+    "photo": {
+      "plateforme": "Pixabay",
+      "id": "1016299",
+      "auteur": "cloudhoreca",
+      "url": "https://pixabay.com/photos/bookkeeper-accountant-office-coffee-1016299/"
+    }
   }
 ]
